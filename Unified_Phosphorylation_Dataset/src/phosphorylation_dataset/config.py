@@ -14,6 +14,7 @@ DEFAULT_RLIMS_ROOT = WORKSPACE_ROOT / "rlims_p_v2"
 
 EFIP_CORPUS_PATH = PROCESSED_DATA_DIR / "eFIP_corpus_converted.json"
 EFIP_FULL_PATH = PROCESSED_DATA_DIR / "eFIP_full_converted.json"
+EFIP_MULTI_SENT_SAMPLE_PATH = PROCESSED_DATA_DIR / "eFIP_multi_sent_sample.json"
 RLIMS_CONVERTED_PATH = PROCESSED_DATA_DIR / "rlims_p_v2_converted.json"
 COMBINED_DATASET_PATH = PROCESSED_DATA_DIR / "combined_phosphorylation_corpus.json"
 

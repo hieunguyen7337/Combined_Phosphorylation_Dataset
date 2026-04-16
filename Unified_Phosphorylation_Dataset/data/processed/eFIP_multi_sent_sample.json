@@ -92,5 +92,851 @@
     "PPI": "binds",
     "Interactant": "PP1",
     "SentIDs": "2, 3, 4"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S13",
+    "text": "It is possible that these sites directly regulate the catalytic activity of Cdc25 , but it has also been reported that the WW-domains on Pin1 , a peptidyl-prolyl isomerase , can bind to mitotic Cdc25 via phosphorylated Thr48 and Thr67 residues [49-51] .",
+    "text_with_entity_marker": "It is possible that these sites directly regulate the catalytic activity of [E1]Cdc25[/E1] , but it has also been reported that the WW-domains on [E2]Pin1[/E2] , a peptidyl-prolyl isomerase , can bind to mitotic Cdc25 via phosphorylated Thr48 and Thr67 residues [49-51] .",
+    "relation": [
+      {
+        "PPI_relation_type": "bind",
+        "relation_id": 0,
+        "entity_1": "Cdc25",
+        "entity_1_idx": [
+          [
+            76,
+            81
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          80,
+          85
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Pin1",
+        "entity_2_idx": [
+          [
+            137,
+            141
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          150,
+          154
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 9003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Cdc25",
+    "Site": "Thr48, Thr67",
+    "Impact": "causal",
+    "PPI": "bind",
+    "Interactant": "Pin1",
+    "SentIDs": "13, 26"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S26",
+    "text": "In tandem with these events , phosphorylation of Thr48 and Thr67 by Cdc2/Cyclin B promotes the binding of Pin1 to Cdc25 , thereby enhancing its activity , further promoting the maintenance of active Cdc2/Cyclin B .",
+    "text_with_entity_marker": "In tandem with these events , phosphorylation of Thr48 and Thr67 by Cdc2/Cyclin B promotes the binding of [E1]Pin1[/E1] to [E2]Cdc25[/E2] , thereby enhancing its activity , further promoting the maintenance of active Cdc2/Cyclin B .",
+    "relation": [
+      {
+        "PPI_relation_type": "bind",
+        "relation_id": 0,
+        "entity_1": "Pin1",
+        "entity_1_idx": [
+          [
+            106,
+            110
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          110,
+          114
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Cdc25",
+        "entity_2_idx": [
+          [
+            114,
+            119
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          127,
+          132
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 9003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Cdc25",
+    "Site": "Thr48, Thr67",
+    "Impact": "causal",
+    "PPI": "bind",
+    "Interactant": "Pin1",
+    "SentIDs": "13, 26"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S7",
+    "text": "Although it was originally proposed that Ser285 phosphorylation prevented rephosphorylation at Ser287 by Chk1 , it has been further demonstrated that phosphorylation of this site enhances PP1s interaction with Cdc25 to maintain Ser287 in the dephosphorylated state [46-48] .",
+    "text_with_entity_marker": "Although it was originally proposed that Ser285 phosphorylation prevented rephosphorylation at Ser287 by Chk1 , it has been further demonstrated that phosphorylation of this site enhances [E1]PP1[/E1]s interaction with [E2]Cdc25[/E2] to maintain Ser287 in the dephosphorylated state [46-48] .",
+    "relation": [
+      {
+        "PPI_relation_type": "interaction/binding",
+        "relation_id": 0,
+        "entity_1": "PP1",
+        "entity_1_idx": [
+          [
+            188,
+            191
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          192,
+          195
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Cdc25",
+        "entity_2_idx": [
+          [
+            210,
+            215
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          223,
+          228
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 9003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Cdc25",
+    "Site": "Ser285",
+    "Impact": "enhances",
+    "PPI": "interaction/binding",
+    "Interactant": "PP1",
+    "SentIDs": "7, 25"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S25",
+    "text": "In turn , this small pool of activated Cdc2/Cyclin B can then phosphorylate Cdc25 on Ser285 , promoting high affinity binding of PP1 to Cdc25 , which in turn accelerates Ser287 dephosphorylation .",
+    "text_with_entity_marker": "In turn , this small pool of activated Cdc2/Cyclin B can then phosphorylate [E1]Cdc25[/E1] on Ser285 , promoting high affinity binding of [E2]PP1[/E2] to Cdc25 , which in turn accelerates Ser287 dephosphorylation .",
+    "relation": [
+      {
+        "PPI_relation_type": "interaction/binding",
+        "relation_id": 0,
+        "entity_1": "Cdc25",
+        "entity_1_idx": [
+          [
+            76,
+            81
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          80,
+          85
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "PP1",
+        "entity_2_idx": [
+          [
+            129,
+            132
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          142,
+          145
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 9003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Cdc25",
+    "Site": "Ser285",
+    "Impact": "enhances",
+    "PPI": "interaction/binding",
+    "Interactant": "PP1",
+    "SentIDs": "7, 25"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S0",
+    "text": "Interphase Wee1 : Ser549 phosphorylation and 14-3-3 binding",
+    "text_with_entity_marker": "Interphase [E1]Wee1[/E1] : Ser549 phosphorylation and [E2]14-3-3[/E2] binding",
+    "relation": [
+      {
+        "PPI_relation_type": "binding",
+        "relation_id": 0,
+        "entity_1": "Wee1",
+        "entity_1_idx": [
+          [
+            11,
+            15
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          15,
+          19
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "14-3-3",
+        "entity_2_idx": [
+          [
+            45,
+            51
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          58,
+          64
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 12003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Wee1",
+    "Site": "Ser549",
+    "Impact": "causal",
+    "PPI": "binding",
+    "Interactant": "14-3-3",
+    "SentIDs": "0, 1, 5, 10"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S1",
+    "text": "Like Cdc25 , Wee1 is also regulated by phosphorylation and binding to 14-3-3 proteins during interphase ( Table 1 ) .",
+    "text_with_entity_marker": "Like Cdc25 , [E1]Wee1[/E1] is also regulated by phosphorylation and binding to [E2]14-3-3[/E2] proteins during interphase ( Table 1 ) .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding",
+        "relation_id": 0,
+        "entity_1": "Wee1",
+        "entity_1_idx": [
+          [
+            13,
+            17
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          17,
+          21
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "14-3-3",
+        "entity_2_idx": [
+          [
+            70,
+            76
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          83,
+          89
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 12003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Wee1",
+    "Site": "Ser549",
+    "Impact": "causal",
+    "PPI": "binding",
+    "Interactant": "14-3-3",
+    "SentIDs": "0, 1, 5, 10"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S5",
+    "text": "Work in Xenopus , and then human cells , confirmed that 14-3-3 binds to Wee1 during interphase , and not mitosis , and that this binding required phosphorylation of a residue in the C-terminus , Ser549 ( Ser642 in human Wee1 ) [75,76] .",
+    "text_with_entity_marker": "Work in Xenopus , and then human cells , confirmed that [E1]14-3-3[/E1] binds to [E2]Wee1[/E2] during interphase , and not mitosis , and that this binding required phosphorylation of a residue in the C-terminus , Ser549 ( Ser642 in human Wee1 ) [75,76] .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding",
+        "relation_id": 0,
+        "entity_1": "14-3-3",
+        "entity_1_idx": [
+          [
+            56,
+            62
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          60,
+          66
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Wee1",
+        "entity_2_idx": [
+          [
+            72,
+            76
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          85,
+          89
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 12003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Wee1",
+    "Site": "Ser549",
+    "Impact": "causal",
+    "PPI": "binding",
+    "Interactant": "14-3-3",
+    "SentIDs": "0, 1, 5, 10"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S10",
+    "text": "Taken together , these data support the idea that Ser549 phosphorylation and 14-3-3 binding promote Wee1 activity , keeping Cdc2/Cyclin B inactive during interphase .",
+    "text_with_entity_marker": "Taken together , these data support the idea that Ser549 phosphorylation and [E1]14-3-3[/E1] binding promote [E2]Wee1[/E2] activity , keeping Cdc2/Cyclin B inactive during interphase .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding",
+        "relation_id": 0,
+        "entity_1": "14-3-3",
+        "entity_1_idx": [
+          [
+            77,
+            83
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          81,
+          87
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Wee1",
+        "entity_2_idx": [
+          [
+            100,
+            104
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          113,
+          117
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 12003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Wee1",
+    "Site": "Ser549",
+    "Impact": "causal",
+    "PPI": "binding",
+    "Interactant": "14-3-3",
+    "SentIDs": "0, 1, 5, 10"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S5",
+    "text": "Work in Xenopus , and then human cells , confirmed that 14-3-3 binds to Wee1 during interphase , and not mitosis , and that this binding required phosphorylation of a residue in the C-terminus , Ser549 ( Ser642 in human Wee1 ) [75,76] .",
+    "text_with_entity_marker": "Work in Xenopus , and then human cells , confirmed that [E1]14-3-3[/E1] binds to [E2]Wee1[/E2] during interphase , and not mitosis , and that this binding required phosphorylation of a residue in the C-terminus , Ser549 ( Ser642 in human Wee1 ) [75,76] .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding",
+        "relation_id": 0,
+        "entity_1": "14-3-3",
+        "entity_1_idx": [
+          [
+            56,
+            62
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          60,
+          66
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Wee1",
+        "entity_2_idx": [
+          [
+            72,
+            76
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          85,
+          89
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 12003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Wee1",
+    "Site": "Ser642",
+    "Impact": "causal",
+    "PPI": "binding",
+    "Interactant": "14-3-3",
+    "SentIDs": "5, 11"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1868713_S11",
+    "text": "Recently , it was proposed that Ser642 phosphorylation and 14-3-3 binding to human Wee1 might actually inactivate Wee1 at the G2/M transition [77] .",
+    "text_with_entity_marker": "Recently , it was proposed that Ser642 phosphorylation and [E1]14-3-3[/E1] binding to human [E2]Wee1[/E2] might actually inactivate Wee1 at the G2/M transition [77] .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding",
+        "relation_id": 0,
+        "entity_1": "14-3-3",
+        "entity_1_idx": [
+          [
+            59,
+            65
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          63,
+          69
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Wee1",
+        "entity_2_idx": [
+          [
+            83,
+            87
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          96,
+          100
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1868713,
+    "Subsec ID": 12003,
+    "Subsec Type": "Background",
+    "Kinase": null,
+    "Substrate": "Wee1",
+    "Site": "Ser642",
+    "Impact": "causal",
+    "PPI": "binding",
+    "Interactant": "14-3-3",
+    "SentIDs": "5, 11"
+  },
+  {
+    "id": "eFIP_Corpus_PMC2175300_S3",
+    "text": "Among these three phosphorylation sites , Ser253 is the primary site located within the NLS of FOXO proteins which overlaps with the 14-3-3 binding motif .",
+    "text_with_entity_marker": "Among these three phosphorylation sites , Ser253 is the primary site located within the NLS of [E1]FOXO[/E1] proteins which overlaps with the [E2]14-3-3[/E2] binding motif .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding",
+        "relation_id": 0,
+        "entity_1": "FOXO",
+        "entity_1_idx": [
+          [
+            95,
+            99
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          99,
+          103
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "14-3-3",
+        "entity_2_idx": [
+          [
+            133,
+            139
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          146,
+          152
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 2175300,
+    "Subsec ID": 18006,
+    "Subsec Type": "Discussion",
+    "Kinase": "PKB",
+    "Substrate": "FOXO",
+    "Site": "Ser253",
+    "Impact": "temporal",
+    "PPI": "binding",
+    "Interactant": "14-3-3",
+    "SentIDs": "3, 4, 7, 15"
+  },
+  {
+    "id": "eFIP_Corpus_PMC2175300_S4",
+    "text": "PKB-induced phosphorylation at Ser253 and the sequential binding of 14-3-3 proteins have been suggested to prevent the interaction of FOXO with its target genes ( 20 ) .",
+    "text_with_entity_marker": "PKB-induced phosphorylation at Ser253 and the sequential binding of [E1]14-3-3[/E1] proteins have been suggested to prevent the interaction of [E2]FOXO[/E2] with its target genes ( 20 ) .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding",
+        "relation_id": 0,
+        "entity_1": "14-3-3",
+        "entity_1_idx": [
+          [
+            68,
+            74
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          72,
+          78
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "FOXO",
+        "entity_2_idx": [
+          [
+            134,
+            138
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          147,
+          151
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 2175300,
+    "Subsec ID": 18006,
+    "Subsec Type": "Discussion",
+    "Kinase": "PKB",
+    "Substrate": "FOXO",
+    "Site": "Ser253",
+    "Impact": "temporal",
+    "PPI": "binding",
+    "Interactant": "14-3-3",
+    "SentIDs": "3, 4, 7, 15"
+  },
+  {
+    "id": "eFIP_Corpus_PMC2175300_S15",
+    "text": "From these results , we suggest that the C-terminal region of the DNA-binding domain of FOXO proteins is crucial for effective DNA binding and that the sequential events of PKB-induced phosphorylation , the binding of 14-3-3 protein , and CBP-induced acetylation in this region can inhibit binding of the C-terminus to DNA .",
+    "text_with_entity_marker": "From these results , we suggest that the C-terminal region of the DNA-binding domain of [E1]FOXO[/E1] proteins is crucial for effective DNA binding and that the sequential events of PKB-induced phosphorylation , the binding of [E2]14-3-3[/E2] protein , and CBP-induced acetylation in this region can inhibit binding of the C-terminus to DNA .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding",
+        "relation_id": 0,
+        "entity_1": "FOXO",
+        "entity_1_idx": [
+          [
+            88,
+            92
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          92,
+          96
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "14-3-3",
+        "entity_2_idx": [
+          [
+            218,
+            224
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          231,
+          237
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 2175300,
+    "Subsec ID": 18006,
+    "Subsec Type": "Discussion",
+    "Kinase": "PKB",
+    "Substrate": "FOXO",
+    "Site": "Ser253",
+    "Impact": "temporal",
+    "PPI": "binding",
+    "Interactant": "14-3-3",
+    "SentIDs": "3, 4, 7, 15"
+  },
+  {
+    "id": "eFIP_Corpus_PMC2682205_S10",
+    "text": "A polo-box binding consensus sequence ( S ( pS/pT ) P/X ) is not present within this region of Dbf4p [59] and mutation of all putative serine and threonine residues within the Dbf4p PIR did not significantly diminish the interaction in the two-hybrid assay .",
+    "text_with_entity_marker": "A [E1]polo[/E1]-box binding consensus sequence ( S ( pS/pT ) P/X ) is not present within this region of [E2]Dbf4p[/E2] [59] and mutation of all putative serine and threonine residues within the Dbf4p PIR did not significantly diminish the interaction in the two-hybrid assay .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding/interactions",
+        "relation_id": 0,
+        "entity_1": "Polo",
+        "entity_1_idx": [
+          [
+            2,
+            6
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          6,
+          10
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Dbf4p",
+        "entity_2_idx": [
+          [
+            95,
+            100
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          108,
+          113
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 2682205,
+    "Subsec ID": 12006,
+    "Subsec Type": "Discussion",
+    "Kinase": null,
+    "Substrate": "Dbf4p",
+    "Site": null,
+    "Impact": "required/contributes",
+    "PPI": "binding/interactions",
+    "Interactant": "Polo",
+    "SentIDs": "8, 9, 10, 11, 12, 14"
+  },
+  {
+    "id": "eFIP_Corpus_PMC2682205_S11",
+    "text": "These data suggest that phosphorylation of Dbf4p is not crucial for Polo binding .",
+    "text_with_entity_marker": "These data suggest that phosphorylation of [E1]Dbf4p[/E1] is not crucial for [E2]Polo[/E2] binding .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding/interactions",
+        "relation_id": 0,
+        "entity_1": "Dbf4p",
+        "entity_1_idx": [
+          [
+            43,
+            48
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          47,
+          52
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Polo",
+        "entity_2_idx": [
+          [
+            68,
+            72
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          81,
+          85
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 2682205,
+    "Subsec ID": 12006,
+    "Subsec Type": "Discussion",
+    "Kinase": null,
+    "Substrate": "Dbf4p",
+    "Site": null,
+    "Impact": "required/contributes",
+    "PPI": "binding/interactions",
+    "Interactant": "Polo",
+    "SentIDs": "8, 9, 10, 11, 12, 14"
+  },
+  {
+    "id": "eFIP_Corpus_PMC2682205_S14",
+    "text": "Thus phosphorylation of Dbf4p was not critical for binding to Polo in_vitro , but we cannot exclude the possibility that phosphorylation contributes to Dbf4p-Polo binding in_vivo when the two proteins are present at physiological concentrations .",
+    "text_with_entity_marker": "Thus phosphorylation of [E1]Dbf4p[/E1] was not critical for binding to [E2]Polo[/E2] in_vitro , but we cannot exclude the possibility that phosphorylation contributes to Dbf4p-Polo binding in_vivo when the two proteins are present at physiological concentrations .",
+    "relation": [
+      {
+        "PPI_relation_type": "binding/interactions",
+        "relation_id": 0,
+        "entity_1": "Dbf4p",
+        "entity_1_idx": [
+          [
+            24,
+            29
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          28,
+          33
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "Polo",
+        "entity_2_idx": [
+          [
+            62,
+            66
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          75,
+          79
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 2682205,
+    "Subsec ID": 12006,
+    "Subsec Type": "Discussion",
+    "Kinase": null,
+    "Substrate": "Dbf4p",
+    "Site": null,
+    "Impact": "required/contributes",
+    "PPI": "binding/interactions",
+    "Interactant": "Polo",
+    "SentIDs": "8, 9, 10, 11, 12, 14"
+  },
+  {
+    "id": "eFIP_Corpus_PMC2745409_S14",
+    "text": "Both Esc and EED ( its mammalian ortholog ) are phosphorylated in a domain responsible for Esc/EED homodimerization [50] .",
+    "text_with_entity_marker": "Both Esc and [E1]EED[/E1] ( its mammalian ortholog ) are phosphorylated in a domain responsible for Esc/[E2]EED[/E2] homodimerization [50] .",
+    "relation": [
+      {
+        "PPI_relation_type": "homodimerization",
+        "relation_id": 0,
+        "entity_1": "EED",
+        "entity_1_idx": [
+          [
+            13,
+            16
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          17,
+          20
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "EED",
+        "entity_2_idx": [
+          [
+            95,
+            98
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          108,
+          111
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 2745409,
+    "Subsec ID": 5505,
+    "Subsec Type": "Other",
+    "Kinase": "CK1",
+    "Substrate": "EED",
+    "Site": null,
+    "Impact": "promote",
+    "PPI": "homodimerization",
+    "Interactant": "EED",
+    "SentIDs": "14, 15"
+  },
+  {
+    "id": "eFIP_Corpus_PMC2745409_S15",
+    "text": "Casein kinase ( CK ) 1 and CK2 may be the responsible kinases , as they phosphorylate Esc and EED in_vitro and promote Esc/EED homodimerization .",
+    "text_with_entity_marker": "Casein kinase ( CK ) 1 and CK2 may be the responsible kinases , as they phosphorylate Esc and [E1]EED[/E1] in_vitro and promote Esc/[E2]EED[/E2] homodimerization .",
+    "relation": [
+      {
+        "PPI_relation_type": "homodimerization",
+        "relation_id": 0,
+        "entity_1": "EED",
+        "entity_1_idx": [
+          [
+            94,
+            97
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          98,
+          101
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "EED",
+        "entity_2_idx": [
+          [
+            123,
+            126
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          136,
+          139
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 2745409,
+    "Subsec ID": 5505,
+    "Subsec Type": "Other",
+    "Kinase": "CK1",
+    "Substrate": "EED",
+    "Site": null,
+    "Impact": "promote",
+    "PPI": "homodimerization",
+    "Interactant": "EED",
+    "SentIDs": "14, 15"
   }
 ]

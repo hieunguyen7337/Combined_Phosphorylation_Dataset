@@ -17,16 +17,16 @@ python .\verify_combined_dataset.py
 Why this order matters:
 
 1. `convert_efip_to_json.py`
-   This must run first because it converts the original raw eFIP Excel files into the normalized JSONL files used by the rest of the pipeline. Without this step, there is no fresh `eFIP_corpus_converted.json` or `eFIP_full_converted.json` to merge.
+   This must run first because it converts the original raw eFIP Excel files into the normalized JSONL files used by the rest of the pipeline. Without this step, there is no fresh [eFIP_corpus_converted.json](./data/processed/eFIP_corpus_converted.json) or [eFIP_full_converted.json](./data/processed/eFIP_full_converted.json) to merge.
 
 2. `convert_rlims_to_efip.py`
-   This runs second because it converts the raw `rlims_p_v2` BRAT annotations into the same general JSONL structure used by the eFIP outputs. After this step, both major sources are available in a comparable normalized format.
+   This runs second because it converts the raw [`rlims_p_v2`](../rlims_p_v2/) BRAT annotations into the same general JSONL structure used by the eFIP outputs. After this step, both major sources are available in a comparable normalized format.
 
 3. `combine_and_analyze_datasets.py`
-   This runs third because it depends on the outputs from both conversion steps. It merges the normalized eFIP and RLIMS-P files, fixes marker order when needed, removes duplicates, and writes the unified dataset plus the analysis report.
+   This runs third because it depends on the outputs from both conversion steps. It merges the normalized eFIP and RLIMS-P files, fixes marker order when needed, removes duplicates, and writes the unified dataset plus the [analysis report](./reports/analysis_report.md).
 
 4. `verify_combined_dataset.py`
-   This runs last because it checks the final combined file created by the combine step. Its job is quality control: confirm marker uniqueness, summarize source statistics, and produce a verification report for the final dataset.
+   This runs last because it checks the final combined file created by the combine step. Its job is quality control: confirm marker uniqueness, summarize source statistics, and produce a [verification report](./reports/verification_report.md) for the final dataset.
 
 If you skip or reorder these steps, later scripts may run on stale files, incomplete inputs, or missing outputs.
 
@@ -102,14 +102,14 @@ Converts the original raw eFIP Excel sources into the normalized JSONL files use
 
 Key behaviors:
 
-- reads `../eFIP/Corpus/Annotations.xlsx`
-- reads the sentence lookup workbooks in `../eFIP/Corpus/Subsections/`
-- reads `../eFIP/eFIP.xlsx`
+- reads [../eFIP/Corpus/Annotations.xlsx](../eFIP/Corpus/Annotations.xlsx)
+- reads the sentence lookup workbooks in [../eFIP/Corpus/Subsections/](../eFIP/Corpus/Subsections/)
+- reads [../eFIP/eFIP.xlsx](../eFIP/eFIP.xlsx)
 - resolves one or more source sentences for each annotation row
 - performs case-insensitive entity matching and inserts `[E1]` and `[E2]` markers
-- writes `data/processed/eFIP_corpus_converted.json`
-- writes `data/processed/eFIP_full_converted.json`
-- writes `data/processed/eFIP_multi_sent_sample.json`
+- writes [data/processed/eFIP_corpus_converted.json](./data/processed/eFIP_corpus_converted.json)
+- writes [data/processed/eFIP_full_converted.json](./data/processed/eFIP_full_converted.json)
+- writes [data/processed/eFIP_multi_sent_sample.json](./data/processed/eFIP_multi_sent_sample.json)
 
 ### `convert_rlims_to_efip.py`
 
@@ -117,11 +117,11 @@ Converts the RLIMS-P v2 BRAT annotations into the common JSONL schema.
 
 Key behaviors:
 
-- reads `.ann` and `.txt` pairs from `../rlims_p_v2`
+- reads `.ann` and `.txt` pairs from [../rlims_p_v2/](../rlims_p_v2/)
 - keeps only phosphorylation events
 - requires both `Theme` and `Cause` protein arguments
 - inserts `[E1]` and `[E2]` markers in textual order
-- writes `data/processed/rlims_p_v2_converted.json`
+- writes [data/processed/rlims_p_v2_converted.json](./data/processed/rlims_p_v2_converted.json)
 
 Important limitation:
 
@@ -138,8 +138,8 @@ Key behaviors:
 - fixes any entries where `E2` appears before `E1`
 - deduplicates globally using `text_with_entity_marker`
 - adds a `source` field to every accepted entry
-- writes `data/processed/combined_phosphorylation_corpus.json`
-- writes `reports/analysis_report.md`
+- writes [data/processed/combined_phosphorylation_corpus.json](./data/processed/combined_phosphorylation_corpus.json)
+- writes [reports/analysis_report.md](./reports/analysis_report.md)
 
 ### `verify_combined_dataset.py`
 
@@ -150,7 +150,7 @@ Key behaviors:
 - confirms `text_with_entity_marker` is unique
 - reports per-source text duplication counts
 - reports relation-type distributions
-- writes `reports/verification_report.md`
+- writes [reports/verification_report.md](./reports/verification_report.md)
 
 ## Custom Paths
 
@@ -168,20 +168,20 @@ python .\verify_combined_dataset.py --input .\data\processed\combined_phosphoryl
 ### Inputs
 
 - Raw eFIP sources:
-- `../eFIP/Corpus/Annotations.xlsx`
-- `../eFIP/Corpus/Subsections/`
-- `../eFIP/eFIP.xlsx`
-- Raw RLIMS-P annotation files from `../rlims_p_v2/`
+- [../eFIP/Corpus/Annotations.xlsx](../eFIP/Corpus/Annotations.xlsx)
+- [../eFIP/Corpus/Subsections/](../eFIP/Corpus/Subsections/)
+- [../eFIP/eFIP.xlsx](../eFIP/eFIP.xlsx)
+- Raw RLIMS-P annotation files from [../rlims_p_v2/](../rlims_p_v2/)
 
 ### Outputs
 
-- `data/processed/rlims_p_v2_converted.json`
-- `data/processed/eFIP_corpus_converted.json`
-- `data/processed/eFIP_full_converted.json`
-- `data/processed/eFIP_multi_sent_sample.json`
-- `data/processed/combined_phosphorylation_corpus.json`
-- `reports/analysis_report.md`
-- `reports/verification_report.md`
+- [data/processed/rlims_p_v2_converted.json](./data/processed/rlims_p_v2_converted.json)
+- [data/processed/eFIP_corpus_converted.json](./data/processed/eFIP_corpus_converted.json)
+- [data/processed/eFIP_full_converted.json](./data/processed/eFIP_full_converted.json)
+- [data/processed/eFIP_multi_sent_sample.json](./data/processed/eFIP_multi_sent_sample.json)
+- [data/processed/combined_phosphorylation_corpus.json](./data/processed/combined_phosphorylation_corpus.json)
+- [reports/analysis_report.md](./reports/analysis_report.md)
+- [reports/verification_report.md](./reports/verification_report.md)
 
 ## Notes
 

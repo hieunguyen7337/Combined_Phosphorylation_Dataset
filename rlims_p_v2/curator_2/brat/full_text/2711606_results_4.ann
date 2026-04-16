@@ -1,0 +1,6 @@
+T4	Protein 1384 1387	MLC
+T2	Protein 1149 1152	MLC
+T3	Phosphorylation 1369 1383	PHOSphorylated
+T1	Phosphorylation 1153 1168	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

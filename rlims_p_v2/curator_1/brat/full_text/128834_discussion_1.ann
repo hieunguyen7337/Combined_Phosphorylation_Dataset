@@ -1,0 +1,8 @@
+T6	Protein 1559 1562	pRb
+T4	Site 394 400	Ser780
+T5	Phosphorylation 1543 1558	PHOSphorylating
+T2	Protein 416 430	cyclin D1K-4/6
+T3	Protein 389 392	pRb
+T1	Phosphorylation 374 388	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E2	Phosphorylation:T5 Theme:T6

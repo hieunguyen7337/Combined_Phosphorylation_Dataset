@@ -1,0 +1,17 @@
+T8	Protein 1169 1172	ATM
+T9	Phosphorylation 1875 1890	PHOSphorylation
+T6	Site 542 558	serine 15 and 46
+T7	Phosphorylation 1177 1191	PHOSphorylated
+T4	Phosphorylation 523 538	PHOSphorylation
+T5	Protein 519 522	p53
+T2	Protein 336 379	ataxia-telangectasia mutated ( ATM ) kinase
+T3	Protein 401 438	the histone isoform 2Ax ( gammaH2Ax )
+T1	Phosphorylation 386 400	phosphorylaTEs
+T10	Protein 1841 1844	p53
+T11	Site 1894 1903	Serine 15
+T12	Site 1908 1910	46
+E5	Phosphorylation:T9 Theme:T10 Site:T12
+E4	Phosphorylation:T9 Theme:T10 Site:T11
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T8
+E2	Phosphorylation:T4 Theme:T5 Site:T6

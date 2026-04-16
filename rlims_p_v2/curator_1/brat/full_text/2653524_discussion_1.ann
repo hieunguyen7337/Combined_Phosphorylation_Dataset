@@ -1,0 +1,10 @@
+T6	Protein 3389 3401	JNK proteins
+T4	Phosphorylation 3359 3374	PHOSphorylation
+T5	Protein 3378 3384	ERK1/2
+T2	Protein 867 873	ERK1/2
+T3	Protein 878 890	JNK proteins
+T1	Phosphorylation 848 863	PHOSphorylation
+E4	Phosphorylation:T4 Theme:T6
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

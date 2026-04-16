@@ -1,0 +1,24 @@
+T8	Protein 1337 1343	ZAP-70
+T9	Protein 1309 1312	Shc
+T6	Protein 1228 1231	Shc
+T7	Phosphorylation 1319 1333	phosphorylated
+T4	Phosphorylation 1214 1227	phosphorylate
+T5	Protein 1189 1195	ZAP-70
+T2	Protein 298 345	subunits of the T-cell antigen receptor ( TCR )
+T3	Phosphorylation 1014 1029	phosphorylation
+T1	Phosphorylation 283 297	phosphorylated
+T14	Site 1279 1312	the two Grb2 binding sites on Shc
+T15	Site 1248 1261	the CH domain
+T16	Phosphorylation 1538 1553	phosphorylation
+T17	Protein 1557 1560	Shc
+T10	Site 1252 1261	CH domain
+T11	Phosphorylation 1385 1395	substrates
+T12	Protein 1400 1406	ZAP-70
+T13	Site 1346 1369	Both Grb2 binding sites
+E5	Phosphorylation:T11 Theme:T9 Cause:T12 Site:T14
+E4	Phosphorylation:T11 Theme:T9 Cause:T12 Site:T13
+E7	Phosphorylation:T16 Theme:T17
+E6	Phosphorylation:T11 Theme:T9 Cause:T12 Site:T15
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

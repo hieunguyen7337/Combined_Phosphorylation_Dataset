@@ -1,0 +1,30 @@
+T14	Protein 1374 1377	Pak
+T15	Protein 1418 1423	c-Raf
+T16	Site 1390 1398	Ser(338)
+T17	Protein 1051 1054	Pak
+T10	Protein 1252 1255	Pak
+T11	Protein 1274 1278	Mek1
+T12	Site 1282 1290	Ser(298)
+T13	Phosphorylation 1399 1414	phosphorylation
+T18	Phosphorylation 1516 1531	phosphorylation
+T19	Site 1507 1515	Ser(338)
+T8	Site 1121 1129	Ser(298)
+T9	Phosphorylation 1260 1273	phosphorylate
+T6	Phosphorylation 1094 1109	phosphorylation
+T7	Protein 1113 1117	Mek1
+T4	Anaphora 621 635	these proteins
+T5	Site 639 660	Ser(338) and Ser(298)
+T2	Protein 478 516	group A p21-activated kinases ( Paks )
+T3	Protein 576 590	c-Raf and Mek1
+T1	Phosphorylation 605 620	phosphorylating
+T21	Protein 1626 1629	Pak
+T20	Phosphorylation 1652 1667	phosphorylation
+T23	Site 1680 1688	Ser(338)
+T22	Protein 1671 1676	c-Raf
+E5	Phosphorylation:T6 Theme:T7 Cause:T17 Site:T8
+E4	Phosphorylation:T13 Theme:T15 Cause:T14 Site:T16
+E6	Phosphorylation:T20 Theme:T22 Cause:T21 Site:T23
+E1	Phosphorylation:T1 Theme:T4 Cause:T2 Site:T5
+E3	Phosphorylation:T9 Theme:T11 Cause:T10 Site:T12
+E2	Phosphorylation:T6 Theme:T7 Site:T8
+R1	Coreference Arg1:T4 Arg2:T3

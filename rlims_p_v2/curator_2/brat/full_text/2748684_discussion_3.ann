@@ -1,0 +1,3 @@
+T2	Protein 722 744	retinoblastoma protein
+T1	Phosphorylation 703 718	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

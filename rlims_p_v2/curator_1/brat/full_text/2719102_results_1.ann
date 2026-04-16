@@ -1,0 +1,3 @@
+T2	Protein 382 408	histone H2AX ( gammaH2AX )
+T1	Phosphorylation 356 370	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2

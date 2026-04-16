@@ -1,0 +1,17 @@
+T8	Phosphorylation 4523 4538	phosphorylaTION
+T9	Phosphorylation 4616 4633	dePHOSphorylation
+T6	Phosphorylation 2696 2705	SUBstrate
+T7	Phosphorylation 2818 2827	SUBstrate
+T4	Phosphorylation 1960 1977	dePHOSphorylation
+T5	Phosphorylation 2442 2459	dePHOSphorylation
+T2	Phosphorylation 1904 1919	dephosphorylaTE
+T3	Protein 1904 1928	dephosphorylaTE CheYp in
+T1	Phosphorylation 1741 1758	dePHOSphorylation
+T10	Phosphorylation 6120 6137	dePHOSphorylation
+T11	Protein 1762 1767	CheYp
+T12	Protein 1920 1925	CheYp
+T13	Protein 6141 6146	CheYp
+E4	Phosphorylation:T10 Theme:T13
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T2 Theme:T12
+E2	Phosphorylation:T1 Theme:T11

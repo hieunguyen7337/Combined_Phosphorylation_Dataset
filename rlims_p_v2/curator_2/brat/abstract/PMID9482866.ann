@@ -1,0 +1,47 @@
+T14	Protein 958 961	V2R
+T15	Phosphorylation 1152 1167	phosphorylation
+T16	Protein 1114 1117	V2R
+T17	Phosphorylation 1554 1570	dephosphorylated
+T10	Protein 893 896	GRK
+T11	Phosphorylation 940 957	nonphosphorylated
+T12	Phosphorylation 994 1009	phosphorylation
+T13	Protein 990 993	GRK
+T18	Protein 1527 1549	the recycling receptor
+T19	Protein 1485 1512	recycling S363A mutant V2Rs
+T8	Protein 768 781	this receptor
+T9	Phosphorylation 907 922	phosphorylation
+T6	Protein 808 851	G protein-coupled receptor kinases ( GRKs )
+T7	Protein 575 606	V2 vasopressin receptor ( V2R )
+T4	Protein 374 402	G protein -coupled receptors
+T5	Phosphorylation 785 799	phosphorylated
+T2	Protein 229 257	G protein -coupled receptors
+T3	Phosphorylation 340 357	Dephosphorylation
+T1	Phosphorylation 210 225	phosphorylation
+T29	Anaphora 1527 1549	the recycling receptor
+T28	Protein 1481 1512	the recycling S363A mutant V2Rs
+T21	Protein 1620 1623	V2R
+T20	Phosphorylation 1705 1721	dephosphorylated
+T23	Phosphorylation 1795 1810	phosphorylation
+T22	Site 1687 1696	GRK sites
+T25	Protein 1895 1898	V2R
+T24	Protein 1791 1794	GRK
+T27	Protein 1577 1595	hormone withdrawal
+T26	Anaphora 768 781	this receptor
+E11	Phosphorylation:T17 Theme:T18
+E10	Phosphorylation:T15 Theme:T16
+E13	Phosphorylation:T20 Theme:T21 Site:T22
+E12	Phosphorylation:T17 Theme:T19
+E15	Phosphorylation:T11 Theme:T14 Cause:T13
+E14	Phosphorylation:T23 Theme:T25 Cause:T24
+E16	Phosphorylation:T17 Theme:T18 Cause:T27
+E9	Phosphorylation:T12 Theme:T14 Cause:T13
+E8	Phosphorylation:T9 Theme:T7 Cause:T6
+E5	Phosphorylation:T9 Theme:T8 Cause:T10
+E4	Phosphorylation:T5 Theme:T8 Cause:T6
+E7	Phosphorylation:T9 Theme:T7 Cause:T10
+E6	Phosphorylation:T9 Theme:T8 Cause:T6
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T7 Cause:T6
+E2	Phosphorylation:T3 Theme:T4
+R2	Coreference Arg1:T29 Arg2:T28
+R1	Coreference Arg1:T26 Arg2:T7

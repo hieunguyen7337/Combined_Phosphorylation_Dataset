@@ -1,0 +1,14 @@
+T8	Protein 849 862	CaM kinase II
+T9	Protein 875 903	p21 activated protein kinase
+T6	Protein 498 503	MLC20
+T7	Phosphorylation 830 845	phosphorylation
+T4	Phosphorylation 504 519	phosphorylation
+T5	Protein 482 486	Ca2+
+T2	Protein 370 404	myosin light chain kinase ( MLCK )
+T3	Protein 434 474	the regulatory light chains of myosin II
+T1	Phosphorylation 419 433	phosphorylates
+T10	Protein 801 805	MLCK
+E4	Phosphorylation:T7 Theme:T10 Cause:T9
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T10 Cause:T8
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

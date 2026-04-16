@@ -1,0 +1,3 @@
+T2	Protein 600 614	~9 kDa protein
+T1	Phosphorylation 637 651	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2

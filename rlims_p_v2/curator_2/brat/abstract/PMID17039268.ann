@@ -1,0 +1,3 @@
+T2	Protein 1510 1523	IkappaB-alpha
+T1	Phosphorylation 1524 1539	phosphorylation
+E1	Phosphorylation:T1 Theme:T2

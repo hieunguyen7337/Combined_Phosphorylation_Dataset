@@ -1,0 +1,11 @@
+T8	Protein 1303 1306	MLC
+T6	Phosphorylation 1307 1322	phosphorylation
+T7	Protein 1287 1291	MAPK
+T4	Protein 1139 1143	MAPK
+T5	Protein 1190 1216	myosin light chain ( MLC )
+T2	Protein 532 536	MAPK
+T3	Phosphorylation 1217 1232	phosphorylation
+T1	Phosphorylation 537 552	phosphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T8 Cause:T7
+E2	Phosphorylation:T3 Theme:T5 Cause:T4

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "eFIP_Corpus_PMC1562452_S2",
+    "text": "When DARPP-32 is phosphorylated at Thr34 it binds to and inactivates PP1 , with an affinity of 1 nM [14] .",
+    "text_with_entity_marker": "When [E1]DARPP-32[/E1] is phosphorylated at Thr34 it binds to and inactivates [E2]PP1[/E2] , with an affinity of 1 nM [14] .",
+    "relation": [
+      {
+        "PPI_relation_type": "binds",
+        "relation_id": 0,
+        "entity_1": "DARPP-32",
+        "entity_1_idx": [
+          [
+            5,
+            13
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          9,
+          17
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "PP1",
+        "entity_2_idx": [
+          [
+            69,
+            72
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          82,
+          85
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1562452,
+    "Subsec ID": 21004,
+    "Subsec Type": "Methods",
+    "Kinase": null,
+    "Substrate": "DARPP-32",
+    "Site": "Thr34",
+    "Impact": "causal",
+    "PPI": "binds",
+    "Interactant": "PP1",
+    "SentIDs": "2, 3, 4"
+  },
+  {
+    "id": "eFIP_Corpus_PMC1562452_S3",
+    "text": "Since the Thr34 phosphorylated site of DARPP-32 binds to the active zone of PP1 [109] , the rate of dephosphorylation of phosphoThr34 by PP2B is probably decreased when bound to PP1 .",
+    "text_with_entity_marker": "Since the Thr34 phosphorylated site of [E1]DARPP-32[/E1] binds to the active zone of [E2]PP1[/E2] [109] , the rate of dephosphorylation of phosphoThr34 by PP2B is probably decreased when bound to PP1 .",
+    "relation": [
+      {
+        "PPI_relation_type": "binds",
+        "relation_id": 0,
+        "entity_1": "DARPP-32",
+        "entity_1_idx": [
+          [
+            39,
+            47
+          ]
+        ],
+        "entity_1_idx_in_text_with_entity_marker": [
+          43,
+          51
+        ],
+        "entity_1_type": "protein",
+        "entity_1_type_id": 0,
+        "entity_2": "PP1",
+        "entity_2_idx": [
+          [
+            76,
+            79
+          ]
+        ],
+        "entity_2_idx_in_text_with_entity_marker": [
+          89,
+          92
+        ],
+        "entity_2_type": "protein",
+        "entity_2_type_id": 0
+      }
+    ],
+    "PMC ID": 1562452,
+    "Subsec ID": 21004,
+    "Subsec Type": "Methods",
+    "Kinase": null,
+    "Substrate": "DARPP-32",
+    "Site": "Thr34",
+    "Impact": "causal",
+    "PPI": "binds",
+    "Interactant": "PP1",
+    "SentIDs": "2, 3, 4"
+  }
+]

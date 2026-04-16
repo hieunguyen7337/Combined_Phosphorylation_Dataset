@@ -1,0 +1,29 @@
+T8	Site 347 349	S6
+T9	Phosphorylation 979 993	phosphorylated
+T6	Protein 334 337	Akt
+T7	Protein 342 345	p70
+T4	Phosphorylation 305 333	phosphorylates and activates
+T5	Protein 198 250	Phosphoinositide-dependent protein kinase-1 ( PDK1 )
+T2	Protein 71 116	phosphoinositide -dependent protein kinase -1
+T3	Protein 170 190	protein kinase Czeta
+T1	Phosphorylation 141 169	phosphorylates and activates
+T14	Phosphorylation 305 319	phosphorylates
+T15	Protein 342 351	p70 (S6K)
+T16	Site 276 292	serine/threonine
+T17	Protein 1061 1082	protein kinase C-zeta
+T10	Protein 973 978	mPDK1
+T11	Site 1008 1017	threonine
+T12	Site 1027 1033	Thr402
+T13	Phosphorylation 141 155	phosphorylates
+E11	Phosphorylation:T9 Theme:T17 Cause:T10 Site:T11
+E10	Phosphorylation:T14 Theme:T15 Cause:T5 Site:T16
+E12	Phosphorylation:T9 Theme:T17 Cause:T10 Site:T12
+E9	Phosphorylation:T14 Theme:T6 Cause:T5 Site:T16
+E8	Phosphorylation:T13 Theme:T3 Cause:T2
+E5	Phosphorylation:T9 Theme:T6 Cause:T10 Site:T12
+E4	Phosphorylation:T9 Theme:T6 Cause:T10 Site:T11
+E7	Phosphorylation:T9 Theme:T7 Cause:T10 Site:T12
+E6	Phosphorylation:T9 Theme:T7 Cause:T10 Site:T11
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T4 Theme:T7 Cause:T5 Site:T8
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T8

@@ -1,0 +1,23 @@
+T8	Protein 1271 1274	EGF
+T9	Protein 1278 1284	HB-EGF
+T6	Protein 1544 1548	MAPK
+T7	Phosphorylation 1616 1631	PHOSphorylation
+T4	Protein 1421 1425	MAPK
+T5	Phosphorylation 1549 1564	phosphorylaTION
+T2	Protein 1219 1223	EGFR
+T3	Phosphorylation 1426 1441	PHOSphorylation
+T1	Phosphorylation 1224 1239	PHOSphorylation
+T10	Protein 1398 1401	EGF
+T11	Protein 1406 1412	HB-EGF
+T12	Protein 1571 1588	FGF-2 stimulation
+T13	Protein 1602 1615	FGF-2 induced
+E10	Phosphorylation:T7 Theme:T6 Cause:T13
+E9	Phosphorylation:T5 Theme:T6 Cause:T12
+E8	Phosphorylation:T3 Theme:T4 Cause:T11
+E5	Phosphorylation:T1 Theme:T2 Cause:T8
+E4	Phosphorylation:T7 Theme:T6
+E7	Phosphorylation:T3 Theme:T4 Cause:T10
+E6	Phosphorylation:T1 Theme:T2 Cause:T9
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

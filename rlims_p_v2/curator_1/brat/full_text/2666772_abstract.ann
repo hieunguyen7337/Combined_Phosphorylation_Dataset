@@ -1,0 +1,7 @@
+T4	Phosphorylation 1739 1754	PHOSphorylation
+T5	Protein 1731 1738	p130Cas
+T2	Protein 1568 1571	Akt
+T3	Site 1572 1579	Ser 473
+T1	Phosphorylation 1580 1595	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E2	Phosphorylation:T4 Theme:T5

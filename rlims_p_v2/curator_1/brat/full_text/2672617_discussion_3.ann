@@ -1,0 +1,5 @@
+T4	Site 318 330	tyrosine 221
+T2	Protein 299 302	Abl
+T3	Protein 334 339	CrkII
+T1	Phosphorylation 303 317	PHOSphorylates
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4

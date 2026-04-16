@@ -1,0 +1,23 @@
+T8	Protein 442 471	the p21-activated kinase PAK2
+T9	Protein 407 413	merlin
+T6	Protein 294 300	Merlin
+T7	Phosphorylation 384 403	the phosphorylation
+T4	Protein 88 94	merlin
+T5	Phosphorylation 317 332	phosphorylation
+T2	Protein 5 11	Merlin
+T3	Phosphorylation 69 84	phosphorylation
+T1	Phosphorylation 5 27	Merlin phosphorylation
+T14	Phosphorylation 12 27	phosphorylation
+T15	Protein 31 53	p21-activated kinase 2
+T16	Phosphorylation 388 403	phosphorylation
+T10	Site 417 427	serine 518
+T11	Phosphorylation 697 712	phosphorylation
+T12	Protein 716 722	merlin
+T13	Site 726 736	serine 518
+E5	Phosphorylation:T11 Theme:T12 Site:T13
+E4	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T10
+E7	Phosphorylation:T16 Theme:T9 Cause:T8 Site:T10
+E6	Phosphorylation:T14 Theme:T2 Cause:T15
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

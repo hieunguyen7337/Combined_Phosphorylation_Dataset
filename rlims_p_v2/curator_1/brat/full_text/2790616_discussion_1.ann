@@ -1,0 +1,6 @@
+T4	Protein 3849 3854	Rad53
+T2	Protein 3198 3203	Rad53
+T3	Phosphorylation 3855 3870	PHOSphorylation
+T1	Phosphorylation 3183 3197	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

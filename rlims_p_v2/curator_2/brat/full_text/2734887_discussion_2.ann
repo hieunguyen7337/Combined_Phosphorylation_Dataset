@@ -1,0 +1,22 @@
+T8	Protein 8166 8172	PEA-15
+T9	Phosphorylation 8946 8963	dePHOSphorylation
+T6	Phosphorylation 8288 8303	PHOSphorylation
+T7	Protein 8251 8254	Its
+T4	Phosphorylation 7844 7859	PHOSphorylation
+T5	Protein 7863 7869	PEA-15
+T2	Phosphorylation 7727 7742	PHOSphorylation
+T3	Protein 7752 7765	many proteins
+T1	Phosphorylation 7585 7600	phosphorylaTION
+T14	Protein 9885 9888	Akt
+T15	Protein 9956 9962	PEA-15
+T10	Protein 8967 8973	PEA-15
+T11	Phosphorylation 9749 9764	PHOSphorylation
+T12	Protein 9775 9781	PEA-15
+T13	Phosphorylation 9897 9911	PHOSphorylates
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T6 Theme:T8
+E7	Phosphorylation:T13 Theme:T15 Cause:T14
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T4 Theme:T5

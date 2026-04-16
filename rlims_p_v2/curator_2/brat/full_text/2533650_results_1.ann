@@ -1,0 +1,14 @@
+T8	Protein 1873 1879	STAT-1
+T9	Phosphorylation 1982 1997	PHOSphorylation
+T6	Site 1851 1857	serine
+T7	Phosphorylation 1858 1872	PHOSphorylated
+T4	Phosphorylation 1781 1800	anti-phosphorylaTED
+T5	Protein 1801 1807	STAT-1
+T2	Protein 1664 1675	JAK2 kinase
+T3	Protein 1707 1713	STAT-1
+T1	Phosphorylation 1692 1706	PHOSphorylates
+T10	Protein 1975 1981	STAT-1
+E4	Phosphorylation:T9 Theme:T10
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T8 Site:T6
+E2	Phosphorylation:T4 Theme:T5 Site:T6

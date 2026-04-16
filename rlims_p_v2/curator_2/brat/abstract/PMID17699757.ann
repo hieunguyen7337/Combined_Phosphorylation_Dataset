@@ -1,0 +1,8 @@
+T6	Protein 1002 1008	4E-BP1
+T4	Phosphorylation 1520 1549	potential therapeutic targets
+T5	Phosphorylation 987 1001	phosphorylated
+T2	Phosphorylation 987 1032	phosphorylated 4E-BP1 ( p-4E-BP1 ) expression
+T3	Protein 1002 1021	4E-BP1 ( p-4E-BP1 )
+T1	Phosphorylation 576 630	the phosphatidylinositol 3-kinase-AKT-mammalian target
+E1	Phosphorylation:T2 Theme:T3
+E2	Phosphorylation:T5 Theme:T6

@@ -1,0 +1,4 @@
+T2	Protein 756 789	PHOSphoserine-5 RNA polymerase II
+T3	Site 763 769	serine
+T1	Phosphorylation 756 771	PHOSphoserine-5
+E1	Phosphorylation:T1 Theme:T2 Site:T3

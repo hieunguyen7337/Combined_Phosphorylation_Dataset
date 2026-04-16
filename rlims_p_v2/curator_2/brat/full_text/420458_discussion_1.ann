@@ -1,0 +1,57 @@
+T38	Protein 9615 9620	Smad3
+T13	Site 4951 4976	the C-terminal SSVS motif
+T14	Phosphorylation 5030 5045	phosphorylaTION
+T15	Protein 5024 5029	Smad3
+T16	Site 5049 5063	the SSVS motif
+T17	Phosphorylation 5122 5137	PHOSphorylation
+T10	Phosphorylation 4897 4912	PHOSphorylation
+T11	Protein 4916 4935	the type I receptor
+T12	Protein 4939 4947	TGF-beta
+T39	Phosphorylation 9998 10013	phosphorylaTION
+T36	Protein 8742 8747	Smad3
+T37	Phosphorylation 9600 9614	PHOSphorylated
+T34	Phosphorylation 8714 8729	PHOSphorylation
+T35	Protein 8733 8737	HEF1
+T32	Protein 7087 7090	its
+T19	Phosphorylation 5426 5441	PHOSphorylation
+T30	Protein 6981 6986	Smad3
+T31	Phosphorylation 7091 7106	PHOSphorylation
+T18	Protein 5116 5121	Smad3
+T33	Protein 7042 7047	Smad3
+T8	Protein 4437 4466	the activated type I receptor
+T9	Protein 4428 4433	Smad3
+T6	Phosphorylation 3680 3690	SUBstrates
+T7	Phosphorylation 4409 4424	PHOSphorylation
+T4	Phosphorylation 3439 3449	SUBstrates
+T5	Phosphorylation 3579 3588	subSTRate
+T2	Phosphorylation 956 965	SUBstrate
+T3	Phosphorylation 3208 3217	SUBstrate
+T1	Phosphorylation 832 841	subSTRate
+T29	Phosphorylation 6987 7002	phosphorylaTION
+T28	Protein 6643 6648	Smad3
+T21	Phosphorylation 5643 5659	unphosphorylaTED
+T20	Protein 5475 5480	Smad3
+T23	Protein 5794 5813	the type I receptor
+T22	Phosphorylation 5766 5781	PHOSphorylation
+T25	Phosphorylation 6237 6252	PHOSphorylation
+T24	Protein 5785 5790	Smad3
+T27	Phosphorylation 6649 6664	PHOSphorylation
+T26	Protein 6256 6261	Smad3
+T42	Phosphorylation 10224 10240	unPHOSphorylated
+T41	Phosphorylation 10170 10179	SUBstrate
+T40	Protein 10017 10022	Smad3
+E11	Phosphorylation:T31 Theme:T33
+E10	Phosphorylation:T31 Theme:T32
+E13	Phosphorylation:T34 Theme:T36
+E12	Phosphorylation:T34 Theme:T35
+E15	Phosphorylation:T39 Theme:T40
+E14	Phosphorylation:T37 Theme:T38
+E9	Phosphorylation:T29 Theme:T30
+E8	Phosphorylation:T27 Theme:T28
+E5	Phosphorylation:T19 Theme:T20
+E4	Phosphorylation:T17 Theme:T18
+E7	Phosphorylation:T25 Theme:T26
+E6	Phosphorylation:T22 Theme:T24 Cause:T23
+E1	Phosphorylation:T7 Theme:T9 Cause:T8
+E3	Phosphorylation:T14 Theme:T15 Site:T16
+E2	Phosphorylation:T10 Theme:T12 Cause:T11 Site:T13

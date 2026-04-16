@@ -1,0 +1,14 @@
+T8	Protein 6178 6186	p38 MAPK
+T9	Protein 6212 6217	MEF2C
+T6	Protein 5710 5715	Smad3
+T7	Phosphorylation 6187 6202	PHOSphorylation
+T4	Phosphorylation 5686 5700	PHOSphorylated
+T5	Protein 5701 5706	Smad2
+T2	Protein 5222 5227	Smad2
+T3	Protein 5232 5237	Smad3
+T1	Phosphorylation 5207 5227	PHOSphorylated-Smad2
+E5	Phosphorylation:T7 Theme:T9 Cause:T8
+E4	Phosphorylation:T4 Theme:T6
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

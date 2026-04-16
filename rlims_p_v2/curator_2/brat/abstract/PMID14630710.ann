@@ -1,0 +1,60 @@
+T14	Protein 1320 1326	4E-BP1
+T15	Protein 1333 1344	p70 ( S6K )
+T16	Phosphorylation 1472 1493	GSK-3 phosphorylation
+T17	Protein 1472 1477	GSK-3
+T10	Protein 1238 1244	4E-BP1
+T11	Protein 1249 1260	p70 ( S6K )
+T12	Phosphorylation 1291 1360	the insulin-stimulated Akt , 4E-BP1 , and p70 ( S6K ) phosphorylation
+T13	Protein 1314 1317	Akt
+T18	Phosphorylation 848 863	phosphorylation
+T19	Protein 790 804	myocardial Akt
+T30	Phosphorylation 1478 1493	phosphorylation
+T31	Protein 1500 1516	insulin infusion
+T32	Anaphora 870 872	it
+T8	Protein 1084 1087	Akt
+T9	Phosphorylation 1238 1276	4E-BP1 and p70 ( S6K ) phosphorylation
+T6	Phosphorylation 1061 1080	the phosphorylation
+T7	Protein 1044 1051	Insulin
+T4	Protein 975 977	so
+T5	Protein 906 966	eukaryotic initiation factor 4E binding protein 1 ( 4E-BP1 )
+T2	Protein 808 847	GSK-3 [glycogen synthase (GS) kinase 3]
+T3	Phosphorylation 883 902	the phosphorylation
+T1	Phosphorylation 790 863	myocardial Akt or GSK-3 [glycogen synthase (GS) kinase 3] phosphorylation
+T29	Protein 1295 1302	insulin
+T28	Phosphorylation 1345 1360	phosphorylation
+T21	Protein 769 772	ADX
+T20	Phosphorylation 887 902	phosphorylation
+T23	Phosphorylation 1065 1080	phosphorylation
+T22	Protein 971 1014	ribosomal protein S6 kinase ( p70 ( S6K ) )
+T25	Protein 1132 1143	, and p70 (
+T24	Protein 1103 1111	) , 4E-B
+T27	Protein 1201 1214	Dexamethasone
+T26	Phosphorylation 1261 1276	phosphorylation
+E19	Phosphorylation:T26 Theme:T11
+E18	Phosphorylation:T26 Theme:T10
+E11	Phosphorylation:T18 Theme:T19
+E10	Phosphorylation:T16 Theme:T17
+E13	Phosphorylation:T20 Theme:T5 Cause:T21
+E12	Phosphorylation:T18 Theme:T2
+E15	Phosphorylation:T23 Theme:T8 Cause:T7
+E14	Phosphorylation:T20 Theme:T22 Cause:T21
+E17	Phosphorylation:T23 Theme:T25 Cause:T7
+E16	Phosphorylation:T23 Theme:T24 Cause:T7
+E9	Phosphorylation:T12 Theme:T15
+E8	Phosphorylation:T12 Theme:T14
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T6 Theme:T8 Cause:T7
+E7	Phosphorylation:T12 Theme:T13
+E6	Phosphorylation:T9 Theme:T11
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T5
+E2	Phosphorylation:T3 Theme:T4
+E24	Phosphorylation:T28 Theme:T15 Cause:T29
+E25	Phosphorylation:T30 Theme:T17 Cause:T31
+E26	Phosphorylation:T20 Theme:T5 Cause:T32
+E27	Phosphorylation:T20 Theme:T22 Cause:T32
+E20	Phosphorylation:T26 Theme:T10 Cause:T27
+E21	Phosphorylation:T26 Theme:T11 Cause:T27
+E22	Phosphorylation:T28 Theme:T13 Cause:T29
+E23	Phosphorylation:T28 Theme:T14 Cause:T29
+R1	Coreference Arg1:T32 Arg2:T21

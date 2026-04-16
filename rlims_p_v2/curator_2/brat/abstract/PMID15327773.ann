@@ -1,0 +1,20 @@
+T8	Protein 366 372	stress
+T9	Protein 404 406	H3
+T6	Site 334 337	S10
+T7	Phosphorylation 381 396	phosphorylation
+T4	Phosphorylation 326 340	phospho-S10-H3
+T5	Protein 338 340	H3
+T2	Protein 25 30	HMGN1
+T3	Protein 41 51	histone H3
+T1	Phosphorylation 52 67	phosphorylation
+T14	Phosphorylation 575 590	phosphorylation
+T15	Protein 594 599	HMGN1
+T10	Site 400 403	S10
+T11	Phosphorylation 446 460	phospho-S10-H3
+T12	Protein 458 460	H3
+T13	Site 454 457	S10
+E5	Phosphorylation:T14 Theme:T15
+E4	Phosphorylation:T11 Theme:T12 Site:T13
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T10
+E2	Phosphorylation:T4 Theme:T5 Site:T6

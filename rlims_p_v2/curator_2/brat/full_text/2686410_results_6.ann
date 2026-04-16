@@ -1,0 +1,9 @@
+T6	Protein 2014 2019	ezrin
+T4	Protein 1565 1570	ezrin
+T5	Phosphorylation 2020 2035	PHOSphorylation
+T2	Protein 611 623	ERM proteins
+T3	Phosphorylation 1546 1561	PHOSphorylation
+T1	Phosphorylation 650 665	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

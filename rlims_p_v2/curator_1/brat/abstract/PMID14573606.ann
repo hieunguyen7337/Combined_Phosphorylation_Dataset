@@ -1,0 +1,6 @@
+T4	Protein 1556 1560	PAK6
+T2	Protein 1556 1568	PAK6 protein
+T3	Phosphorylation 1528 1546	autophosphorylated
+T1	Phosphorylation 1528 1568	autophosphorylated , active PAK6 protein
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4 Cause:T4

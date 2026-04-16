@@ -1,0 +1,22 @@
+T8	Protein 1010 1013	AKT
+T9	Phosphorylation 1048 1063	phosphorylation
+T6	Phosphorylation 1014 1029	phosphorylation
+T7	Protein 983 992	PGF2alpha
+T4	Protein 735 744	PGF2alpha
+T5	Protein 854 858	S6K1
+T2	Protein 40 44	TSC2
+T3	Phosphorylation 820 835	phosphorylation
+T1	Phosphorylation 21 36	phosphorylation
+T14	Phosphorylation 1478 1493	phosphorylation
+T15	Protein 1511 1513	S6
+T10	Protein 1067 1070	Erk
+T11	Protein 1079 1141	tumor suppressor protein tuberous sclerosis complex 2 ( TSC2 )
+T12	Phosphorylation 1396 1411	phosphorylation
+T13	Protein 1390 1395	4EBP1
+E5	Phosphorylation:T9 Theme:T11
+E4	Phosphorylation:T9 Theme:T10
+E7	Phosphorylation:T14 Theme:T15
+E6	Phosphorylation:T12 Theme:T13
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T8 Cause:T7
+E2	Phosphorylation:T3 Theme:T5 Cause:T4

@@ -1,0 +1,18 @@
+T8	Protein 755 773	ezrin-anchored PKA
+T9	Phosphorylation 1005 1020	phosphorylation
+T6	Protein 1197 1203	NHERF1
+T7	Phosphorylation 791 806	phosphorylation
+T4	Protein 1001 1004	PKA
+T5	Phosphorylation 1178 1193	phosphorylation
+T2	Protein 784 790	NHERF1
+T3	Phosphorylation 1001 1020	PKA phosphorylation
+T1	Phosphorylation 784 806	NHERF1 phosphorylation
+T10	Protein 951 957	NHERF1
+T11	Phosphorylation 49 64	Phosphorylation
+T12	Protein 93 99	NHERF1
+E5	Phosphorylation:T9 Theme:T10 Cause:T4
+E4	Phosphorylation:T7 Theme:T2 Cause:T8
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

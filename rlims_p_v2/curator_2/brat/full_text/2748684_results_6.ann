@@ -1,0 +1,14 @@
+T8	Protein 900 903	tau
+T9	Phosphorylation 1427 1441	phosphorylaTED
+T6	Protein 772 775	tau
+T7	Phosphorylation 904 919	PHOSphorylation
+T4	Protein 423 426	tau
+T5	Phosphorylation 776 791	phosphorylaTION
+T2	Protein 73 84	protein tau
+T3	Phosphorylation 408 422	PHOSphorylated
+T1	Phosphorylation 38 53	PHOSphorylation
+T10	Phosphorylation 1600 1614	PHOSphorylated
+E4	Phosphorylation:T7 Theme:T8
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

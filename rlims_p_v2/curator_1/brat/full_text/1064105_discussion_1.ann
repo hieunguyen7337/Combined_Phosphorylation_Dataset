@@ -1,0 +1,43 @@
+T14	Protein 12169 12172	PP1
+T15	Protein 12177 12181	PP2A
+T16	Protein 12222 12226	ERKs
+T17	Site 12139 12155	serine/threonine
+T10	Phosphorylation 11261 11276	PHOSphorylation
+T11	Protein 11204 11214	ICI182,780
+T12	Protein 11257 11260	ERK
+T13	Phosphorylation 12201 12218	dePHOSphorylation
+T18	Phosphorylation 12668 12683	dephosphorylaTE
+T19	Protein 12605 12625	tyrosine phosphatase
+T8	Protein 8333 8358	antiestrogen-ER complexes
+T9	Protein 8404 8407	ERK
+T6	Protein 6659 6663	ERKs
+T7	Phosphorylation 8408 8423	PHOSphorylation
+T4	Phosphorylation 6640 6655	PHOSphorylation
+T5	Protein 6621 6628	E2 dose
+T2	Protein 5167 5204	temporal and dose -dependent estrogen
+T3	Protein 5234 5238	ERKs
+T1	Phosphorylation 5214 5230	PHOSphorylations
+T21	Protein 12753 12756	ERK
+T20	Protein 12630 12659	dual specificity phosphatases
+T23	Site 12695 12704	threonine
+T22	Site 12684 12692	tyrosine
+T25	Phosphorylation 12757 12774	dePHOSphorylation
+T24	Site 12709 12715	serine
+E18	Phosphorylation:T25 Theme:T21 Cause:T20 Site:T24
+E11	Phosphorylation:T18 Theme:T21 Cause:T20 Site:T23
+E10	Phosphorylation:T18 Theme:T21 Cause:T20 Site:T22
+E13	Phosphorylation:T25 Theme:T21 Cause:T19 Site:T22
+E12	Phosphorylation:T18 Theme:T21 Cause:T20 Site:T24
+E15	Phosphorylation:T25 Theme:T21 Cause:T19 Site:T24
+E14	Phosphorylation:T25 Theme:T21 Cause:T19 Site:T23
+E17	Phosphorylation:T25 Theme:T21 Cause:T20 Site:T23
+E16	Phosphorylation:T25 Theme:T21 Cause:T20 Site:T22
+E9	Phosphorylation:T18 Theme:T21 Cause:T19 Site:T24
+E8	Phosphorylation:T18 Theme:T21 Cause:T19 Site:T23
+E5	Phosphorylation:T13 Theme:T16 Cause:T14 Site:T17
+E4	Phosphorylation:T10 Theme:T12 Cause:T11
+E7	Phosphorylation:T18 Theme:T21 Cause:T19 Site:T22
+E6	Phosphorylation:T13 Theme:T16 Cause:T15 Site:T17
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T9 Cause:T8
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

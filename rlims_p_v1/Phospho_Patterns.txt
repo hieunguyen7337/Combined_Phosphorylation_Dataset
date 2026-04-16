@@ -1,0 +1,72 @@
+The following patterns are used in the rule-based phosphorylation information extraction system RLIMS-P (Rule-based LIterature Mining System for Protein Phosphorylation).
+PHOSPHORYLATE PATTERNS
+[NP_Agent] to [NP_Site] PHOS [NP_Theme]
+[NP_Agent] [NP_Site] AUTO-PHOS
+[NP_Agent] AV of [NP_Site] PHOS [NP_Theme]
+[NP_Agent] PHOS [NP_Site] of [NP_Theme]
+[NP_Agent] PHOS [NP_Theme] at [NP_Site]
+[NP_Agent] PHOS [NP_Theme]
+[NP_Agent] PHOS [NP] [PREP] [NP_Theme]
+[NP_Agent] PHOS [PREP] [NP_Site]
+[NP_Agent] PHOS [NP_Site]
+[NP_Agent] AUTO-PHOS( [PREP] [NP_Site])?
+[NP_Agent] PHOS [NP_Site] of [NP_Theme] at [NP_site]
+[NP_Agent] PHOS [NP_Site] at [NP_Site]
+[NP_PP] PHOS [NP_Theme]
+
+PHOSPHORYLATED PATTERNS
+
+ACTIVE RULES
+[NP_Agent] but AV [NP_P] PATED [NP_Theme] at [NP_Site]
+[NP_Agent] PATED [NP_Theme] (at [NP_Site])?
+[NP_Theme] becomes [NP_Site]? PATED (by [NP_Agent])?
+[NP_Agent] [NP_Site] PATED
+[NP_Theme] VP in [its] PATED [NP]
+[NP_Theme] PATED on [NP_Site]
+[NP_Agent] PATED all of [NP_Theme] (at [NP_Site])?
+[NP_Theme] when PATED (by [NP_Agent])?
+[NP_Site] PATED [NP_Theme]
+[NP_Agent] PATED [NP_Site]
+
+PASSIVE RULES
+[NP_Theme] PATED by [NP_Agent] at ([NP_Site])?
+[NP_Theme] PATED by [NP_Site-Ag] at [NP_Site]
+[NP_Theme] VP_A to NP of NP_P PATED by [NP_Agent] at ([NP_Site])?
+[NP_Theme] PATED at [NP_Site] (by [NP_Agent])?
+[NP_Theme] PATED at [NP_Source] by [NP_Agent]
+[NP_Theme] PATED during [NP] by [NP_Agent]
+[NP_Theme] PATED by [NP_Agent] and by? [NP_Agent] ( at [NP_Site])?
+[NP_Theme] PATED at [NP_Site] and at? [NP_Site] by [NP_Agent]
+[NP_Theme] PATED at [NP_Site_Th] at? [NP_Site]
+[NP_Theme] VP with NP_B and PATED by [NP_Agent] (at [NP_Site])?
+[NP_Agent/Theme] AUTO-PATED (at [NP-Site])?
+[NP_Site] , VP [NP_PP] that? PATED by [NP_Agent]
+([NP_Site] of )? NP_Theme PATED by [NP_Agent] in NP but also by [NP_Agent]
+[NP_Site] PATED by [NP_Agent] in NP but also by [NP_Agent]
+[NP_Site] PATED by [NP_Agent]
+[NP_Site] of [NP_Theme] PATED by [NP_Agent]
+[NP_Site] of [NP_Site-Theme] PATED (by [NP_Agent] )?
+[NP_Theme] when PATED (by [NP_Agent])?
+[NP_Theme] becomes [NP_Site]? PATED (by [NP_Agent])?
+
+ADJECTIVAL RULES
+PATED [NP_Site]
+PATED [NP_Theme]
+[Site phosphorylated NP-Theme NP]
+[Site Phosphorylated forms NP] of Theme
+[Agent phosphorylated targets NP] such as/like NP-site
+
+PHOSPHORYLATION PATTERNS
+[A induced <Agent>? <site> phosphorytion NP] of NP-Theme
+[Agent phosphorylation NP] of NP-Theme
+[phosphorylation NP] of NP-Theme by NP-Agent
+[phosphorylation] of NP-SITE in NP-Theme by NP-Agent
+SITE [is/was/were VP] [phosphorylation sites NP] for NP-Agent
+NP-Theme VP [phosphorylation site NP-PP] for NP-Agent
+NP-Theme VP [phosphorylation NP] by NP-Agent at NP-SITE
+NP-Agent VP for [phosphorylation NP] of NP-Theme
+NP-Agent VP NP-Theme via/by phosphorylation
+[phosphorylation NP] of NP-Agent by NP-Theme
+[Theme phosphorylation] by NP-Agent
+NP-Site VP (in|within) [phosphorylation sites NP-PP] for NP-Agent NP-Theme VP Site for [phosphorylation NP] by Agent
+autophosphorylation of NP-Agent /NP-Theme

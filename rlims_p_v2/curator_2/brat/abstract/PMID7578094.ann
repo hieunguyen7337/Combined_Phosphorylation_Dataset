@@ -1,0 +1,92 @@
+T38	Phosphorylation 1156 1178	These phosphorylations
+T39	Protein 1282 1309	The unphosphorylated enzyme
+T14	Site 1008 1027	Y338 and Y530 as is
+T15	Phosphorylation 1064 1079	phosphorylation
+T16	Site 1083 1091	Y338 , b
+T17	Phosphorylation 1129 1145	osphorylation is
+T10	Protein 797 807	the enzyme
+T11	Phosphorylation 990 1004	phosphorylated
+T12	Protein 838 876	The delta 85-N-terminal mutant protein
+T13	Protein 881 911	a full-length G2A c-src mutant
+T36	Site 1083 1087	Y338
+T37	Phosphorylation 1127 1142	phosphorylation
+T34	Protein 838 911	The delta 85-N-terminal mutant protein and a full-length G2A c-src mutant
+T35	Site 1008 1021	Y338 and Y530
+T32	Anaphora 103 113	the enzyme
+T33	Anaphora 797 807	the enzyme
+T30	Phosphorylation 1560 1579	autophosphorylation
+T31	Protein 1614 1619	srcTK
+T18	Site 1116 1126	is site of
+T19	Phosphorylation 1162 1178	phosphorylations
+T8	Protein 428 433	srcTK
+T9	Phosphorylation 772 787	phosphorylation
+T6	Site 277 298	peptide RRLIEDAEYAARG
+T7	Phosphorylation 456 475	autophosphorylation
+T4	Phosphorylation 254 269	phosphorylation
+T5	Protein 193 228	pp60c-src tyrosine kinase ( srcTK )
+T2	Protein 25 46	c-src tyrosine kinase
+T3	Protein 103 113	the enzyme
+T1	Phosphorylation 135 154	autophosphorylation
+T29	Site 1524 1531	Y-419 a
+T28	Phosphorylation 1501 1520	autophosphorylation
+T21	Site 1008 1015	Y338 an
+T20	Protein 1156 1161	These
+T23	Phosphorylation 1286 1302	unphosphorylated
+T22	Site 1019 1027	30 as is
+T25	Protein 1303 1309	enzyme
+T24	Phosphorylation 1347 1365	monophosphorylated
+T27	Site 1402 1409	Y-419 p
+T26	Phosphorylation 1409 1425	hosphorylation w
+T43	Protein 221 226	srcTK
+T42	Site 1524 1529	Y-419
+T41	Site 1402 1407	Y-419
+T40	Phosphorylation 1408 1423	phosphorylation
+T44	Anaphora 1282 1309	The unphosphorylated enzyme
+E37	Phosphorylation:T30 Theme:T31 Cause:T31
+E24	Phosphorylation:T19 Theme:T12 Site:T21
+E35	Phosphorylation:T26 Theme:T8 Site:T27
+E34	Phosphorylation:T24 Theme:T8
+E33	Phosphorylation:T24 Theme:T25
+E32	Phosphorylation:T19 Theme:T20 Site:T16
+E31	Phosphorylation:T19 Theme:T20 Site:T22
+E36	Phosphorylation:T28 Theme:T8 Cause:T8 Site:T29
+E11	Phosphorylation:T11 Theme:T8 Site:T14
+E10	Phosphorylation:T11 Theme:T13 Site:T14
+E13	Phosphorylation:T15 Theme:T12 Site:T16
+E12	Phosphorylation:T15 Theme:T8 Site:T16
+E15	Phosphorylation:T17 Theme:T8 Site:T18
+E40	Phosphorylation:T9 Theme:T10
+E17	Phosphorylation:T17 Theme:T12 Site:T18
+E38	Phosphorylation:T1 Theme:T3 Cause:T3
+E27	Phosphorylation:T19 Theme:T13 Site:T21
+E18	Phosphorylation:T17 Theme:T12 Site:T16
+E19	Phosphorylation:T17 Theme:T13 Site:T18
+E22	Phosphorylation:T19 Theme:T8 Site:T22
+E45	Phosphorylation:T28 Theme:T8 Cause:T8 Site:T42
+E25	Phosphorylation:T19 Theme:T12 Site:T22
+E9	Phosphorylation:T11 Theme:T12 Site:T14
+E8	Phosphorylation:T9 Theme:T8 Cause:T8
+E5	Phosphorylation:T9 Theme:T10 Cause:T10
+E4	Phosphorylation:T7 Theme:T8 Cause:T8
+E7	Phosphorylation:T9 Theme:T8 Cause:T10
+E6	Phosphorylation:T9 Theme:T10 Cause:T8
+E1	Phosphorylation:T1 Theme:T2 Cause:T2
+E3	Phosphorylation:T4 Theme:T5 Site:T6
+E2	Phosphorylation:T1 Theme:T3 Cause:T2
+E42	Phosphorylation:T23 Theme:T39
+E43	Phosphorylation:T24 Theme:T39
+E26	Phosphorylation:T19 Theme:T12 Site:T16
+E41	Phosphorylation:T15 Theme:T34 Site:T36
+E20	Phosphorylation:T17 Theme:T13 Site:T16
+E21	Phosphorylation:T19 Theme:T8 Site:T21
+E44	Phosphorylation:T40 Theme:T8 Site:T41
+E23	Phosphorylation:T19 Theme:T8 Site:T16
+E28	Phosphorylation:T19 Theme:T13 Site:T22
+E29	Phosphorylation:T19 Theme:T13 Site:T16
+E14	Phosphorylation:T15 Theme:T13 Site:T16
+E30	Phosphorylation:T19 Theme:T20 Site:T21
+E39	Phosphorylation:T11 Theme:T34 Site:T35
+E16	Phosphorylation:T17 Theme:T8 Site:T16
+R2	Coreference Arg1:T33 Arg2:T8
+R3	Coreference Arg1:T44 Arg2:T43
+R1	Coreference Arg1:T32 Arg2:T2

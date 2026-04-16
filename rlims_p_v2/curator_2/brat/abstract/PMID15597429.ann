@@ -1,0 +1,52 @@
+T14	Protein 1017 1032	phosphoproteins
+T15	Phosphorylation 1316 1358	the mitotic cell -specific phosphoproteins
+T16	Protein 1328 1358	cell -specific phosphoproteins
+T17	Phosphorylation 1668 1691	mitotic phosphoproteins
+T10	Phosphorylation 483 504	these phosphoproteins
+T11	Phosphorylation 963 978	phosphoproteins
+T12	Protein 963 978	phosphoproteins
+T13	Phosphorylation 1013 1032	the phosphoproteins
+T18	Protein 1676 1691	phosphoproteins
+T19	Phosphorylation 1774 1815	the two prominent mitotic phosphoproteins
+T30	Phosphorylation 1676 1691	phosphoproteins
+T31	Phosphorylation 1800 1815	phosphoproteins
+T32	Protein 1755 1769	lamins A and C
+T8	Phosphorylation 419 439	many phosphoproteins
+T9	Protein 424 439	phosphoproteins
+T6	Protein 349 353	PAK2
+T7	Site 337 345	Thr(402)
+T4	Protein 80 95	phosphoproteins
+T5	Phosphorylation 297 345	the regulatory autophosphorylation site Thr(402)
+T2	Protein 5 33	Anti-phosphopeptide antibody
+T3	Phosphorylation 72 95	mitotic phosphoproteins
+T1	Phosphorylation 5 33	Anti-phosphopeptide antibody
+T29	Protein 1291 1305	lamins A and C
+T28	Phosphorylation 1343 1358	phosphoproteins
+T21	Phosphorylation 80 95	phosphoproteins
+T20	Phosphorylation 5 24	Anti-phosphopeptide
+T23	Phosphorylation 312 331	autophosphorylation
+T22	Protein 116 130	lamins A and C
+T25	Phosphorylation 489 504	phosphoproteins
+T24	Phosphorylation 424 439	phosphoproteins
+T27	Phosphorylation 1017 1032	phosphoproteins
+T26	Anaphora 483 504	these phosphoproteins
+E19	Phosphorylation:T31 Theme:T32
+E18	Phosphorylation:T30 Theme:T18
+E11	Phosphorylation:T20 Theme:T2
+E10	Phosphorylation:T19 Theme:T18
+E13	Phosphorylation:T23 Theme:T6 Cause:T6 Site:T7
+E12	Phosphorylation:T21 Theme:T22
+E15	Phosphorylation:T25 Theme:T26
+E14	Phosphorylation:T24 Theme:T9
+E17	Phosphorylation:T28 Theme:T29
+E16	Phosphorylation:T27 Theme:T14
+E9	Phosphorylation:T17 Theme:T18
+E8	Phosphorylation:T15 Theme:T16
+E5	Phosphorylation:T10 Theme:T9
+E4	Phosphorylation:T8 Theme:T9
+E7	Phosphorylation:T13 Theme:T14
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6 Cause:T6 Site:T7
+E2	Phosphorylation:T3 Theme:T4
+R1	Coreference Arg1:T26 Arg2:T9

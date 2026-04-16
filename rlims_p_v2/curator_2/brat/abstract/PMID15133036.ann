@@ -1,0 +1,23 @@
+T8	Site 957 967	serine 205
+T9	Phosphorylation 1092 1106	phosphorylated
+T6	Protein 984 1044	catalytic subunit of c-AMP -dependent protein kinase ( PKA )
+T7	Protein 971 976	GFAT1
+T4	Phosphorylation 561 571	substrates
+T5	Phosphorylation 938 953	phosphorylation
+T2	Protein 93 123	cAMP -dependent protein kinase
+T3	Protein 30 89	glutamine-fructose-6-phosphate amidotransferase 2 ( GFAT2 )
+T1	Phosphorylation 5 20	Phosphorylation
+T14	Protein 1210 1215	GFAT2
+T15	Site 1196 1206	serine 202
+T16	Phosphorylation 1407 1422	phosphorylation
+T17	Protein 1491 1494	PKA
+T10	Protein 1110 1113	PKA
+T11	Protein 1082 1087	GFAT2
+T12	Phosphorylation 1284 1299	phosphorylation
+T13	Protein 1351 1354	PKA
+T18	Site 1426 1436	serine 202
+E5	Phosphorylation:T16 Theme:T14 Cause:T17 Site:T18
+E4	Phosphorylation:T12 Theme:T14 Cause:T13 Site:T15
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T9 Theme:T11 Cause:T10
+E2	Phosphorylation:T5 Theme:T7 Cause:T6 Site:T8

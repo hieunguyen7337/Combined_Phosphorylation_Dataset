@@ -1,0 +1,21 @@
+T8	Protein 653 659	PHAS-I
+T9	Site 685 694	serine-64
+T6	Site 391 400	Serine-64
+T7	Phosphorylation 695 713	was phosphorylated
+T4	Protein 441 473	mitogen-activated ( MAP ) kinase
+T5	Protein 404 410	PHAS-I
+T2	Protein 98 104	PHAS-I
+T3	Phosphorylation 411 437	was rapidly phosphorylated
+T1	Phosphorylation 206 231	is rapidly phosphorylated
+T14	Phosphorylation 699 713	phosphorylated
+T10	Phosphorylation 217 231	phosphorylated
+T11	Anaphora 203 205	It
+T12	Phosphorylation 293 310	Nonphosphorylated
+T13	Phosphorylation 423 437	phosphorylated
+E5	Phosphorylation:T13 Theme:T5 Cause:T4 Site:T6
+E4	Phosphorylation:T10 Theme:T11
+E6	Phosphorylation:T14 Theme:T8 Site:T9
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T7 Theme:T8 Site:T9
+E2	Phosphorylation:T3 Theme:T5 Cause:T4 Site:T6
+R1	Coreference Arg1:T11 Arg2:T2

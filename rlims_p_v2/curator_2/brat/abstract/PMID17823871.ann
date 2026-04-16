@@ -1,0 +1,24 @@
+T8	Protein 758 764	Erk1/2
+T9	Protein 738 745	matrine
+T6	Protein 676 682	4E-BP1
+T7	Phosphorylation 838 853	phosphorylation
+T4	Phosphorylation 655 672	dephosphorylation
+T5	Protein 607 614	matrine
+T2	Protein 5 12	Matrine
+T3	Protein 92 98	4E-BP1
+T1	Phosphorylation 71 88	dephosphorylation
+T14	Protein 1010 1016	4E-BP1
+T15	Phosphorylation 1116 1133	dephosphorylating
+T16	Protein 1074 1081	matrine
+T17	Protein 1134 1140	4E-BP1
+T10	Protein 863 879	4E-BP1 and eIF4E
+T11	Phosphorylation 991 1006	phosphorylation
+T12	Protein 962 966	PP2A
+T13	Protein 1020 1027	matrine
+E5	Phosphorylation:T11 Theme:T14 Cause:T12
+E4	Phosphorylation:T7 Theme:T10 Cause:T9
+E7	Phosphorylation:T15 Theme:T17 Cause:T16
+E6	Phosphorylation:T11 Theme:T14 Cause:T13
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T10 Cause:T8
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

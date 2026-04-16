@@ -1,0 +1,19 @@
+T8	Phosphorylation 2895 2910	PHOSphorylation
+T9	Protein 2890 2894	PI3K
+T6	Phosphorylation 2853 2868	phosphorylaTION
+T7	Protein 2872 2876	MAPK
+T4	Phosphorylation 2569 2584	PHOSphorylation
+T5	Protein 2564 2568	MAPK
+T2	Protein 2535 2540	ErbB2
+T3	Protein 2545 2550	ErbB3
+T1	Phosphorylation 2516 2531	phosphorylaTION
+T10	Phosphorylation 2931 2946	PHOSphorylation
+T11	Protein 2926 2930	MAPK
+T12	Phosphorylation 3316 3331	PHOSphorylation
+T13	Phosphorylation 4428 4437	SUBstrate
+E5	Phosphorylation:T8 Theme:T9
+E4	Phosphorylation:T6 Theme:T7
+E6	Phosphorylation:T10 Theme:T11
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

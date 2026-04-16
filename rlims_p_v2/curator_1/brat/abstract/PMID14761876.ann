@@ -1,0 +1,9 @@
+T4	Phosphorylation 1388 1403	phosphorylation
+T5	Protein 1334 1351	protein S6 kinase
+T2	Protein 1342 1351	S6 kinase
+T3	Protein 1356 1387	4E-binding protein 1 ( 4E-BP1 )
+T1	Phosphorylation 1334 1403	protein S6 kinase and 4E-binding protein 1 ( 4E-BP1 ) phosphorylation
+E4	Phosphorylation:T4 Theme:T3
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

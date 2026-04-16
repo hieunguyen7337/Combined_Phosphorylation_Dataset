@@ -1,0 +1,16 @@
+T8	Protein 5103 5109	ERK1/2
+T9	Protein 3717 3721	ERKs
+T6	Phosphorylation 4101 4116	PHOSphorylation
+T7	Phosphorylation 5110 5125	PHOSphorylation
+T4	Phosphorylation 3990 4004	phosphorylaTED
+T5	Protein 4005 4011	ERK1/2
+T2	Protein 3827 3832	Elk-1
+T3	Protein 3837 3842	Ets-1
+T1	Phosphorylation 3748 3763	PHOSphorylation
+E5	Phosphorylation:T1 Theme:T2 Cause:T9
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T6 Theme:T5
+E6	Phosphorylation:T1 Theme:T3 Cause:T9
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

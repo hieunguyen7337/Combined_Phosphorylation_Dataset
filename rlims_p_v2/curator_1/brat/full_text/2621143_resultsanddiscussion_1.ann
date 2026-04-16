@@ -1,0 +1,17 @@
+T8	Protein 2054 2057	F18
+T9	Phosphorylation 2293 2307	PHOSphorylated
+T6	Site 1585 1593	tyrosine
+T7	Phosphorylation 2068 2082	PHOSphoprotein
+T4	Site 1562 1568	serine
+T5	Site 1571 1580	threonine
+T2	Phosphorylation 1629 1644	PHOSphorylation
+T3	Protein 1521 1523	I5
+T1	Phosphorylation 98 112	PHOSphorylated
+T10	Protein 28 30	I5
+T11	Protein 2275 2277	I5
+E5	Phosphorylation:T1 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E6	Phosphorylation:T9 Theme:T11
+E1	Phosphorylation:T2 Theme:T3 Site:T4
+E3	Phosphorylation:T2 Theme:T3 Site:T6
+E2	Phosphorylation:T2 Theme:T3 Site:T5

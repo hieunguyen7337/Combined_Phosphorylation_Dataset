@@ -1,0 +1,6 @@
+T4	Protein 646 649	p53
+T2	Protein 621 625	VRK2
+T3	Protein 673 677	VRK1
+T1	Phosphorylation 631 645	PHOSphorylates
+E1	Phosphorylation:T1 Theme:T4 Cause:T2
+E2	Phosphorylation:T1 Theme:T4 Cause:T3

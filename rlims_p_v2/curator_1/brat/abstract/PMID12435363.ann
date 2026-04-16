@@ -1,0 +1,16 @@
+T8	Protein 1214 1219	UNC-5
+T9	Site 1220 1228	tyrosine
+T6	Site 1088 1096	tyrosine
+T7	Phosphorylation 1229 1244	phosphorylation
+T4	Phosphorylation 1097 1112	phosphorylation
+T5	Protein 1069 1074	UNC-5
+T2	Protein 5 10	UNC-5
+T3	Site 60 72	tyrosine 482
+T1	Phosphorylation 29 44	phosphorylation
+T10	Phosphorylation 1311 1326	phosphorylation
+T11	Protein 1342 1347	UNC-5
+T12	Site 1306 1310	Y482
+E4	Phosphorylation:T10 Theme:T11 Site:T12
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T7 Theme:T8 Site:T9
+E2	Phosphorylation:T4 Theme:T5 Site:T6

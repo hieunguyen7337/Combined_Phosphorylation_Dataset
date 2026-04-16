@@ -1,0 +1,53 @@
+T14	Phosphorylation 444 458	phosphoserines
+T15	Phosphorylation 651 667	phosphothreonine
+T16	Protein 707 719	EGF receptor
+T17	Site 686 699	threonine 669
+T10	Protein 338 350	EGF receptor
+T11	Site 422 431	threonine
+T12	Site 451 458	serines
+T13	Phosphorylation 415 431	phosphothreonine
+T36	Site 1686 1695	threonine
+T37	Site 1700 1706	serine
+T34	Phosphorylation 1641 1656	phosphorylation
+T35	Protein 1664 1676	EGF receptor
+T32	Protein 1527 1546	mutant EGF receptor
+T19	Protein 806 818	EGF receptor
+T30	Protein 1447 1459	EGF receptor
+T31	Phosphorylation 1592 1606	phosphorylated
+T18	Phosphorylation 731 744	Phosphoserine
+T33	Site 1615 1628	threonine 669
+T8	Protein 230 246	protein kinase C
+T9	Phosphorylation 371 386	phosphorylation
+T6	Protein 102 142	epidermal growth factor ( EGF ) receptor
+T7	Phosphorylation 296 311	phosphorylation
+T4	Site 52 58	serine
+T5	Phosphorylation 175 194	autophosphorylation
+T2	Protein 5 37	Epidermal growth factor receptor
+T3	Site 38 47	threonine
+T1	Phosphorylation 68 82	phosphorylated
+T29	Phosphorylation 1507 1522	phosphopeptides
+T28	Site 1348 1354	serine
+T21	Phosphorylation 831 844	phosphoserine
+T20	Site 773 798	serines 671 and 1046/1047
+T23	Phosphorylation 1050 1065	phosphorylation
+T22	Site 900 989	multiple serine residues located carboxyl terminal to the conserved protein kinase domain
+T25	Phosphorylation 1259 1274	phosphorylation
+T24	Protein 1100 1112	EGF receptor
+T27	Phosphorylation 1325 1340	phosphorylation
+T26	Protein 1222 1234	EGF receptor
+E11	Phosphorylation:T25 Theme:T26
+E10	Phosphorylation:T23 Theme:T24
+E13	Phosphorylation:T29 Theme:T30
+E12	Phosphorylation:T27 Theme:T26 Site:T28
+E15	Phosphorylation:T34 Theme:T35 Site:T36
+E14	Phosphorylation:T31 Theme:T32 Site:T33
+E16	Phosphorylation:T34 Theme:T35 Site:T37
+E9	Phosphorylation:T21 Theme:T19 Site:T22
+E8	Phosphorylation:T18 Theme:T19 Site:T20
+E5	Phosphorylation:T9 Theme:T10 Site:T11
+E4	Phosphorylation:T7 Theme:T6 Cause:T8
+E7	Phosphorylation:T15 Theme:T16 Site:T17
+E6	Phosphorylation:T9 Theme:T10 Site:T12
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T5 Theme:T6 Cause:T6
+E2	Phosphorylation:T1 Theme:T2 Site:T4

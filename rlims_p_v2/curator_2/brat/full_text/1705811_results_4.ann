@@ -1,0 +1,3 @@
+T2	Protein 200 212	IkappaBalpha
+T1	Phosphorylation 224 238	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2

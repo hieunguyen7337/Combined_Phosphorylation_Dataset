@@ -1,0 +1,23 @@
+T8	Phosphorylation 3467 3484	dePHOSphorylating
+T9	Phosphorylation 6811 6821	-SUBstrate
+T6	Protein 3027 3038	CheAp dimer
+T7	Protein 2974 2978	CheY
+T4	Protein 2922 2926	CheY
+T5	Phosphorylation 3007 3021	PHOSphorylated
+T2	Phosphorylation 2411 2421	-SUBstrate
+T3	Phosphorylation 2930 2944	phosphorylaTED
+T1	Phosphorylation 2361 2371	-subSTRate
+T14	Protein 9078 9082	CheY
+T15	Phosphorylation 11039 11053	phosphorylaTED
+T16	Protein 11054 11058	CheY
+T17	Phosphorylation 11115 11131	dePHOSphorylated
+T10	Phosphorylation 8515 8529	PHOSphorylated
+T11	Protein 8535 8545	CheA dimer
+T12	Protein 8482 8486	CheY
+T13	Phosphorylation 9063 9077	PHOSphorylated
+E5	Phosphorylation:T15 Theme:T16
+E4	Phosphorylation:T13 Theme:T14
+E6	Phosphorylation:T17 Theme:T16
+E1	Phosphorylation:T3 Theme:T4
+E3	Phosphorylation:T10 Theme:T12 Cause:T11
+E2	Phosphorylation:T5 Theme:T7 Cause:T6

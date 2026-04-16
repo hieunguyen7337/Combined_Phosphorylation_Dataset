@@ -1,0 +1,7 @@
+T4	Protein 5531 5538	PECAM-1
+T5	Site 5637 5645	tyrosine
+T2	Protein 491 498	PECAM-1
+T3	Phosphorylation 5646 5660	PHOSphorylated
+T1	Phosphorylation 499 514	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4 Site:T5

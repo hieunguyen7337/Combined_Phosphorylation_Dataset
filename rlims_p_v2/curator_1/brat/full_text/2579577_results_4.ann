@@ -1,0 +1,8 @@
+T6	Phosphorylation 1884 1899	PHOSphorylation
+T4	Site 245 254	threonine
+T5	Phosphorylation 1293 1307	PHOSphorylated
+T2	Protein 265 278	many proteins
+T3	Site 238 244	serine
+T1	Phosphorylation 223 237	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E2	Phosphorylation:T1 Theme:T2 Site:T4

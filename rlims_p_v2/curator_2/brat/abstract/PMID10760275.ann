@@ -1,0 +1,37 @@
+T14	Phosphorylation 1039 1053	phosphorylated
+T15	Protein 1066 1070	CCVs
+T16	Anaphora 1022 1024	It
+T17	Protein 996 1019	casein kinase 2 ( CK2 )
+T10	Site 905 911	serine
+T11	Phosphorylation 949 963	phosphorylated
+T12	Protein 935 939	GAIP
+T13	Site 971 1019	N terminus with purified casein kinase 2 ( CK2 )
+T18	Site 971 981	N terminus
+T19	Phosphorylation 1082 1097	Phosphorylation
+T8	Phosphorylation 861 876	phosphorylation
+T9	Protein 880 884	GAIP
+T6	Protein 582 601	membrane-bound GAIP
+T7	Phosphorylation 820 837	Phosphoamino acid
+T4	Protein 79 103	clathrin-coated vesicles
+T5	Phosphorylation 605 619	phosphorylated
+T2	Protein 5 29	Membrane-associated GAIP
+T3	Phosphorylation 61 75	phosphorylated
+T1	Phosphorylation 35 49	phosphoprotein
+T21	Site 1157 1163	Ser-24
+T20	Phosphorylation 1193 1208	phosphorylation
+T23	Protein 1244 1248	GAIP
+T22	Phosphorylation 1252 1266	phosphorylated
+T25	Phosphorylation 1360 1375	phosphorylation
+T24	Phosphorylation 1302 1316	phosphorylated
+T26	Protein 1335 1339	GAIP
+E10	Phosphorylation:T25 Theme:T26
+E9	Phosphorylation:T22 Theme:T23
+E8	Phosphorylation:T20 Theme:T12 Site:T21
+E5	Phosphorylation:T11 Theme:T12 Site:T13
+E4	Phosphorylation:T8 Theme:T9 Site:T10
+E7	Phosphorylation:T11 Theme:T12 Cause:T17 Site:T18
+E6	Phosphorylation:T14 Theme:T16 Cause:T15
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T2 Cause:T4
+R1	Coreference Arg1:T16 Arg2:T12

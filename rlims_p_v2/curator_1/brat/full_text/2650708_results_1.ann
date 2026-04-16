@@ -1,0 +1,4 @@
+T2	Protein 1920 1924	PAK1
+T3	Protein 1745 1750	CtBP1
+T1	Phosphorylation 1925 1940	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

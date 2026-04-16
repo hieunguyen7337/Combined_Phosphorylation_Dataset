@@ -1,0 +1,16 @@
+T8	Phosphorylation 5073 5087	PHOSphorylated
+T9	Protein 5088 5097	Smad1/5/8
+T6	Site 4870 4891	these serine residues
+T7	Site 4579 4607	two adjacent serine residues
+T4	Phosphorylation 4852 4866	PHOSphorylated
+T5	Protein 4833 4851	Smad1/5/8 proteins
+T2	Protein 4611 4633	the Smad1/5/8 proteins
+T3	Site 4592 4598	serine
+T1	Phosphorylation 4560 4575	PHOSphorylation
+T10	Phosphorylation 5285 5299	PHOSphorylated
+T11	Protein 5300 5309	Smad1/5/8
+E5	Phosphorylation:T10 Theme:T11
+E4	Phosphorylation:T8 Theme:T9
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T4 Theme:T5 Site:T7
+E2	Phosphorylation:T4 Theme:T5 Site:T6

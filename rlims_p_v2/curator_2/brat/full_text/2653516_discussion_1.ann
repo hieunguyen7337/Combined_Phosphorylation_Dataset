@@ -1,0 +1,31 @@
+T14	Site 2379 2394	the Neh2 domain
+T15	Phosphorylation 2446 2461	PHOSphorylation
+T16	Protein 2507 2511	Nrf2
+T17	Site 2465 2470	Ser40
+T10	Phosphorylation 2266 2280	PHOSphorylated
+T11	Phosphorylation 2351 2366	PHOSphorylation
+T12	Protein 2398 2402	Nrf2
+T13	Site 2370 2375	Ser40
+T18	Phosphorylation 2712 2727	PHOSphorylation
+T19	Protein 2731 2772	PKC or another serine or threonine kinase
+T8	Protein 2252 2256	PDK1
+T9	Protein 2210 2213	PKC
+T6	Phosphorylation 2075 2089	PHOSphorylates
+T7	Phosphorylation 2238 2248	subSTRates
+T4	Protein 1564 1568	Nrf2
+T5	Phosphorylation 1793 1802	SUBstrate
+T2	Protein 1638 1649	PI3K or PKC
+T3	Protein 1614 1616	it
+T1	Phosphorylation 1620 1634	PHOSphorylated
+T21	Site 2776 2781	Ser40
+T20	Protein 2691 2695	Nrf2
+T22	Site 2785 2800	the Neh2 domain
+E9	Phosphorylation:T18 Theme:T20 Cause:T19 Site:T22
+E8	Phosphorylation:T18 Theme:T20 Cause:T19 Site:T21
+E5	Phosphorylation:T11 Theme:T12 Site:T13
+E4	Phosphorylation:T10 Theme:T9 Cause:T8
+E7	Phosphorylation:T15 Theme:T16 Site:T17
+E6	Phosphorylation:T11 Theme:T12 Site:T14
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T9 Cause:T8
+E2	Phosphorylation:T1 Theme:T4 Cause:T2

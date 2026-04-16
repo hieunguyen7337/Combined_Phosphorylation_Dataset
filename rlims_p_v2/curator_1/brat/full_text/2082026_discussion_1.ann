@@ -1,0 +1,39 @@
+T14	Protein 1638 1644	ERK1/2
+T15	Phosphorylation 1700 1714	PHOSphorylated
+T16	Protein 1679 1685	ERK1/2
+T17	Phosphorylation 1916 1931	phosphorylaTION
+T10	Protein 755 761	ERK1/2
+T11	Phosphorylation 1248 1263	PHOSphorylation
+T12	Protein 1267 1273	ERK1/2
+T13	Phosphorylation 1619 1634	PHOSphorylation
+T18	Protein 1909 1915	ERK1/2
+T19	Phosphorylation 2123 2139	dePHOSphorylated
+T8	Protein 593 599	ERK1/2
+T9	Phosphorylation 736 751	PHOSphorylation
+T6	Protein 391 397	ERK1/2
+T7	Phosphorylation 600 615	phosphorylaTION
+T4	Protein 258 272	MAP kinase p38
+T5	Phosphorylation 372 387	PHOSphorylation
+T2	Protein 193 199	ERK1/2
+T3	Phosphorylation 231 246	PHOSphorylation
+T1	Phosphorylation 174 189	PHOSphorylation
+T21	Phosphorylation 3162 3177	PHOSphorylation
+T20	Protein 2140 2151	the pERK1/2
+T23	Phosphorylation 4082 4097	PHOSphorylation
+T22	Protein 3155 3161	ERK1/2
+T25	Phosphorylation 4882 4897	PHOSphorylation
+T24	Protein 4078 4081	p38
+T26	Protein 4875 4881	ERK1/2
+E11	Phosphorylation:T21 Theme:T22
+E10	Phosphorylation:T19 Theme:T20
+E13	Phosphorylation:T25 Theme:T26
+E12	Phosphorylation:T23 Theme:T24
+E9	Phosphorylation:T17 Theme:T18
+E8	Phosphorylation:T15 Theme:T16
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T13 Theme:T14
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

@@ -1,0 +1,44 @@
+T14	Protein 415 429	IL-2 receptors
+T15	Phosphorylation 727 741	phosphorylated
+T16	Protein 707 721	IL-2 receptors
+T17	Phosphorylation 875 889	phosphorylated
+T10	Protein 200 231	interleukin-2 ( IL-2 ) receptor
+T11	Protein 234 287	the leukocyte-specific membrane glycoprotein , Thr200
+T12	Protein 298 347	class I major histocompatibility antigens ( HLA )
+T13	Phosphorylation 512 526	phosphorylated
+T18	Protein 902 918	protein kinase C
+T19	Protein 845 858	IL-2 receptor
+T30	Protein 1358 1370	HLA antigens
+T8	Phosphorylation 372 382	substrates
+T9	Protein 387 403	protein kinase C
+T6	Protein 146 166	class I HLA antigens
+T7	Protein 171 188	T200 glycoprotein
+T4	Phosphorylation 98 113	Phosphorylation
+T5	Protein 121 143	interleukin-2 receptor
+T2	Protein 79 95	protein kinase C
+T3	Protein 23 60	lymphocyte integral membrane proteins
+T1	Phosphorylation 64 74	substrates
+T29	Protein 1383 1399	protein kinase C
+T28	Phosphorylation 1336 1350	phosphorylated
+T21	Phosphorylation 1104 1119	phosphorylation
+T20	Site 803 837	carboxyl terminal cytoplasmic tail
+T23	Site 1075 1082	Ser-247
+T22	Protein 1127 1140	IL-2 receptor
+T25	Phosphorylation 1236 1251	phosphorylation
+T24	Site 1150 1157	Thr-250
+T27	Protein 1259 1272	IL-2 receptor
+T26	Protein 1307 1323	protein kinase C
+E11	Phosphorylation:T21 Theme:T22 Site:T23
+E10	Phosphorylation:T17 Theme:T19 Cause:T18 Site:T20
+E13	Phosphorylation:T25 Theme:T27 Cause:T26
+E12	Phosphorylation:T21 Theme:T22 Site:T24
+E14	Phosphorylation:T28 Theme:T30 Cause:T29
+E9	Phosphorylation:T15 Theme:T16
+E8	Phosphorylation:T13 Theme:T14
+E5	Phosphorylation:T8 Theme:T10 Cause:T9
+E4	Phosphorylation:T4 Theme:T7
+E7	Phosphorylation:T8 Theme:T12 Cause:T9
+E6	Phosphorylation:T8 Theme:T11 Cause:T9
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T4 Theme:T6
+E2	Phosphorylation:T4 Theme:T5

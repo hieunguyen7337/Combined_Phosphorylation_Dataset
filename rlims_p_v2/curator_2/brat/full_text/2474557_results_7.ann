@@ -1,0 +1,5 @@
+T4	Site 3363 3366	T72
+T2	Protein 3389 3393	MAPK
+T3	Protein 3351 3355	Ets2
+T1	Phosphorylation 3394 3409	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4

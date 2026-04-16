@@ -1,0 +1,8 @@
+T4	Protein 856 861	STAT1
+T5	Protein 866 871	STAT5
+T2	Protein 765 778	STAT proteins
+T3	Phosphorylation 837 852	PHOSphorylation
+T1	Phosphorylation 737 752	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T5
+E2	Phosphorylation:T3 Theme:T4

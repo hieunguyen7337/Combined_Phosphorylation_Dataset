@@ -1,0 +1,7 @@
+T4	Protein 1112 1121	p70 (S6K)
+T5	Protein 1126 1131	4EBP1
+T2	Phosphorylation 1093 1108	phosphorylation
+T3	Protein 1078 1084	Leptin
+T1	Phosphorylation 95 111	mammalian target
+E1	Phosphorylation:T2 Theme:T4 Cause:T3
+E2	Phosphorylation:T2 Theme:T5 Cause:T3

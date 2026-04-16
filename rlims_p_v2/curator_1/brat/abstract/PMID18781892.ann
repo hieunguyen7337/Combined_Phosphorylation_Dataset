@@ -1,0 +1,5 @@
+T2	Protein 744 756	beta-catenin
+T3	Phosphorylation 757 772	phosphorylation
+T1	Phosphorylation 744 772	beta-catenin phosphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T2

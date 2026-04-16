@@ -1,0 +1,6 @@
+T4	Phosphorylation 2592 2607	PHOSphorylation
+T2	Phosphorylation 2574 2591	dephosphorylaTION
+T3	Protein 2673 2685	beta-catenin
+T1	Phosphorylation 1292 1310	non-PHOSphorylated
+E1	Phosphorylation:T2 Theme:T3
+E2	Phosphorylation:T4 Theme:T3

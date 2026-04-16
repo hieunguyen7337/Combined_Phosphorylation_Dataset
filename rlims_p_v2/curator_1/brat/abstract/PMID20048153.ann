@@ -1,0 +1,43 @@
+T14	Protein 991 995	GRK6
+T15	Site 936 943	Ser-339
+T16	Phosphorylation 1015 1029	phosphorylated
+T17	Protein 1033 1037	GRK6
+T10	Protein 838 854	protein kinase C
+T11	Protein 859 903	G protein-coupled receptor kinase 6 ( GRK6 )
+T12	Site 798 807	Ser-324/5
+T13	Phosphorylation 973 987	phosphorylated
+T18	Site 998 1005	Ser-330
+T19	Phosphorylation 1162 1176	phosphorylated
+T30	Protein 1807 1812	CXCR4
+T8	Site 655 746	Ser-321 , Ser-324 , Ser-325 , Ser-330 , Ser-339 , and two sites between Ser-346 and Ser-352
+T9	Phosphorylation 820 834	phosphorylated
+T6	Protein 587 594	agonist
+T7	Phosphorylation 752 766	phosphorylated
+T4	Protein 481 486	CXCR4
+T5	Phosphorylation 605 620	phosphorylation
+T2	Protein 39 44	CXCR4
+T3	Phosphorylation 451 466	phosphorylation
+T1	Phosphorylation 20 35	phosphorylation
+T29	Phosphorylation 1788 1803	phosphorylation
+T28	Site 1709 1728	C-terminal residues
+T21	Protein 1144 1149	CXCR4
+T20	Protein 1193 1209	protein kinase C
+T23	Phosphorylation 1262 1276	phosphorylated
+T22	Site 1180 1189	Ser-324/5
+T25	Protein 1216 1222	CXCL12
+T24	Site 1243 1250	Ser-330
+T27	Protein 1653 1658	CXCR4
+T26	Phosphorylation 1686 1701	phosphorylation
+E11	Phosphorylation:T23 Theme:T21 Cause:T25 Site:T24
+E10	Phosphorylation:T23 Theme:T21 Site:T24
+E13	Phosphorylation:T29 Theme:T30
+E12	Phosphorylation:T26 Theme:T27 Site:T28
+E9	Phosphorylation:T19 Theme:T21 Cause:T20 Site:T22
+E8	Phosphorylation:T16 Theme:T4 Cause:T17 Site:T18
+E5	Phosphorylation:T9 Theme:T4 Cause:T10 Site:T12
+E4	Phosphorylation:T7 Theme:T4 Site:T8
+E7	Phosphorylation:T13 Theme:T4 Cause:T14 Site:T15
+E6	Phosphorylation:T9 Theme:T4 Cause:T11 Site:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T4 Cause:T6
+E2	Phosphorylation:T3 Theme:T4

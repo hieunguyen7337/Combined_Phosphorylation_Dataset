@@ -1,0 +1,61 @@
+T12	Phosphorylation 625 640	phosphorylation
+T13	Protein 603 613	bradykinin
+T14	Site 644 652	Ser(603)
+T15	Phosphorylation 674 693	autophosphorylation
+T16	Protein 697 703	CaMKII
+T17	Phosphorylation 733 748	phosphorylation
+T10	Phosphorylation 386 401	phosphorylation
+T11	Site 409 417	Ser(603)
+T38	Protein 1946 1965	rat alphaPAK (PAK1)
+T39	Site 2010 2018	Ser(603)
+T36	Site 1791 1799	Ser(603)
+T37	Phosphorylation 1991 2006	phosphorylation
+T34	Phosphorylation 1773 1786	phosphorylate
+T35	Protein 1758 1766	GST-PAK2
+T32	Protein 1601 1611	synapsin I
+T19	Protein 801 811	synapsin I
+T30	Protein 1026 1032	CaMKII
+T31	Phosphorylation 1661 1676	phosphorylation
+T18	Phosphorylation 783 794	phospho-Ser
+T33	Site 1699 1707	Ser(603)
+T8	Anaphora 201 213	the molecule
+T9	Site 251 259	Ser(603)
+T6	Protein 326 374	Ca(2+)/calmodulin-dependent kinase II ( CaMKII )
+T7	Protein 155 165	synapsin I
+T4	Site 37 43	Ser603
+T5	Phosphorylation 182 197	phosphorylation
+T2	Protein 47 77	p21-activated kinases ( PAKs )
+T3	Protein 5 15	Synapsin I
+T1	Phosphorylation 19 33	phosphorylated
+T29	Phosphorylation 1033 1052	autophosphorylation
+T28	Protein 975 983	high KCl
+T21	Phosphorylation 833 844	phospho-Thr
+T20	Site 791 799	Ser(603)
+T23	Site 841 856	Thr ( 286/287 )
+T22	Protein 858 864	CaMKII
+T25	Protein 871 881	bradykinin
+T24	Phosphorylation 889 904	phosphorylation
+T27	Phosphorylation 991 1006	phosphorylation
+T26	Site 908 916	Ser(603)
+T43	Protein 2278 2282	PAKs
+T42	Phosphorylation 2260 2274	phosphorylated
+T41	Protein 2121 2147	dominant-negative alphaPAK
+T40	Phosphorylation 2157 2176	the phosphorylation
+T46	Site 2220 2228	Ser(603)
+T45	Protein 2232 2242	synapsin I
+T44	Protein 2297 2303	CaMKII
+E11	Phosphorylation:T34 Theme:T32 Cause:T35 Site:T36
+E10	Phosphorylation:T31 Theme:T32 Site:T33
+E13	Phosphorylation:T42 Theme:T45 Cause:T43 Site:T46
+E12	Phosphorylation:T37 Theme:T32 Cause:T38 Site:T39
+E14	Phosphorylation:T42 Theme:T45 Cause:T44 Site:T46
+E9	Phosphorylation:T29 Theme:T30 Cause:T30
+E8	Phosphorylation:T27 Theme:T19 Cause:T28
+E5	Phosphorylation:T18 Theme:T19 Site:T20
+E4	Phosphorylation:T15 Theme:T16 Cause:T16
+E7	Phosphorylation:T24 Theme:T19 Cause:T25 Site:T26
+E6	Phosphorylation:T21 Theme:T22 Site:T23
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T12 Theme:T7 Cause:T13 Site:T14
+E2	Phosphorylation:T5 Theme:T8 Cause:T6 Site:T9
+R1	Coreference Arg1:T8 Arg2:T7

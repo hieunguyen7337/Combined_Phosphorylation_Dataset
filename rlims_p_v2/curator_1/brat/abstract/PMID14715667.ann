@@ -1,0 +1,36 @@
+T14	Phosphorylation 1452 1467	phosphorylation
+T15	Protein 1418 1426	PKCdelta
+T16	Site 1443 1451	tyrosine
+T17	Phosphorylation 1608 1623	phosphorylation
+T10	Site 1093 1101	tyrosine
+T11	Phosphorylation 1311 1326	phosphorylation
+T12	Protein 1193 1201	PKCdelta
+T13	Site 1302 1310	tyrosine
+T18	Protein 1545 1553	PKCdelta
+T19	Site 1627 1635	Tyr(311)
+T8	Protein 975 983	PKCdelta
+T9	Phosphorylation 1102 1117	phosphorylation
+T6	Site 911 919	Tyr(332)
+T7	Phosphorylation 956 974	Unphosphorylatable
+T4	Protein 866 874	PKCdelta
+T5	Site 898 906	Tyr(311)
+T2	Protein 88 109	protein kinase Cdelta
+T3	Phosphorylation 879 894	phosphorylation
+T1	Phosphorylation 52 67	phosphorylation
+T21	Phosphorylation 1708 1723	phosphorylation
+T20	Site 1640 1648	Tyr(332)
+T23	Site 1727 1735	Tyr(311)
+T22	Protein 1652 1660	PKCdelta
+T24	Site 1740 1747	Tyr(332
+E11	Phosphorylation:T21 Theme:T22 Site:T23
+E10	Phosphorylation:T17 Theme:T18 Site:T20
+E12	Phosphorylation:T21 Theme:T22 Site:T24
+E9	Phosphorylation:T17 Theme:T18 Site:T19
+E8	Phosphorylation:T14 Theme:T15 Site:T16
+E5	Phosphorylation:T9 Theme:T8 Site:T10
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T11 Theme:T12 Site:T13
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T4 Site:T6
+E2	Phosphorylation:T3 Theme:T4 Site:T5

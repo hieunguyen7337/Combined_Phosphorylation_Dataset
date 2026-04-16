@@ -1,0 +1,9 @@
+T6	Protein 2044 2049	MAPKs
+T4	Protein 1311 1334	p38 , JNK and ERK MAPKs
+T5	Phosphorylation 2025 2040	phosphorylation
+T2	Protein 744 765	MAP kinases ( MAPKs )
+T3	Phosphorylation 1292 1307	phosphorylation
+T1	Phosphorylation 725 740	phosphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

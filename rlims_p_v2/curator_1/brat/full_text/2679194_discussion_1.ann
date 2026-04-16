@@ -1,0 +1,4 @@
+T2	Protein 3409 3429	JAK3 tyrosine kinase
+T3	Protein 3352 3356	Irs2
+T1	Phosphorylation 3391 3405	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

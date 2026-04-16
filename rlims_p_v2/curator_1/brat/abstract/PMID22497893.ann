@@ -1,0 +1,45 @@
+T14	Phosphorylation 1969 1995	Cavbeta(2) phosphorylation
+T15	Protein 1969 1979	Cavbeta(2)
+T16	Site 1999 2006	Ser-296
+T17	Phosphorylation 743 758	phosphorylation
+T10	Phosphorylation 1280 1303	Ser-296 phosphorylation
+T11	Phosphorylation 1542 1561	PKA phosphorylation
+T12	Protein 1542 1545	PKA
+T13	Protein 1565 1575	Cavbeta(2)
+T18	Phosphorylation 1173 1188	phosphorylation
+T19	Site 1106 1113	Ser-296
+T8	Phosphorylation 1163 1193	novel PKA phosphorylation site
+T9	Site 1280 1287	Ser-296
+T6	Phosphorylation 732 758	Cavbeta(2) phosphorylation
+T7	Protein 732 742	Cavbeta(2)
+T4	Protein 69 79	Cavbeta(2)
+T5	Site 58 65	Ser-296
+T2	Protein 1169 1172	PKA
+T3	Protein 1134 1144	Cavbeta(2)
+T1	Phosphorylation 39 54	phosphorylation
+T21	Protein 1386 1396	Cavbeta(2)
+T20	Phosphorylation 1288 1303	phosphorylation
+T23	Phosphorylation 2030 2045	phosphorylation
+T22	Phosphorylation 1546 1561	phosphorylation
+T25	Phosphorylation 1694 1709	phosphorylation
+T24	Anaphora 2025 2029	this
+T26	Phosphorylation 1980 1995	phosphorylation
+E18	Phosphorylation:T26 Theme:T15 Site:T16
+E11	Phosphorylation:T11 Theme:T13 Cause:T12
+E10	Phosphorylation:T10 Theme:T4 Site:T9
+E13	Phosphorylation:T17 Theme:T7
+E12	Phosphorylation:T14 Theme:T15 Site:T16
+E15	Phosphorylation:T20 Theme:T21 Site:T9
+E14	Phosphorylation:T18 Theme:T3 Cause:T2 Site:T19
+E17	Phosphorylation:T23 Theme:T24
+E16	Phosphorylation:T22 Theme:T13 Cause:T12
+E9	Phosphorylation:T10 Theme:T3 Site:T9
+E8	Phosphorylation:T10 Theme:T2 Site:T9
+E5	Phosphorylation:T8 Theme:T2 Cause:T2 Site:T9
+E4	Phosphorylation:T6 Theme:T7
+E7	Phosphorylation:T8 Theme:T4 Cause:T2 Site:T9
+E6	Phosphorylation:T8 Theme:T3 Cause:T2 Site:T9
+E1	Phosphorylation:T1 Theme:T2 Site:T5
+E3	Phosphorylation:T1 Theme:T4 Site:T5
+E2	Phosphorylation:T1 Theme:T3 Site:T5
+R1	Coreference Arg1:T24 Arg2:T15

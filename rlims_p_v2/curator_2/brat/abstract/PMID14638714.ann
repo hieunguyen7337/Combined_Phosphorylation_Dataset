@@ -1,0 +1,21 @@
+T8	Site 1315 1319	T389
+T9	Phosphorylation 1366 1382	phosphorylations
+T6	Phosphorylation 1296 1311	phosphorylation
+T7	Protein 1323 1340	p70/p85 S6 kinase
+T4	Site 1218 1231	S473 and T308
+T5	Protein 1263 1273	stretching
+T2	Phosphorylation 1199 1214	phosphorylation
+T3	Protein 1174 1198	Protein kinase B ( PKB )
+T1	Phosphorylation 800 815	phosphorylation
+T14	Site 1483 1486	T70
+T10	Protein 1510 1517	stretch
+T11	Protein 1390 1426	translation initiation factor eIF-4E
+T12	Protein 1473 1479	4E-BP1
+T13	Site 1430 1434	S209
+E5	Phosphorylation:T9 Theme:T11 Cause:T10 Site:T14
+E4	Phosphorylation:T9 Theme:T11 Cause:T10 Site:T13
+E7	Phosphorylation:T9 Theme:T12 Cause:T10 Site:T14
+E6	Phosphorylation:T9 Theme:T12 Cause:T10 Site:T13
+E1	Phosphorylation:T2 Theme:T3 Site:T4
+E3	Phosphorylation:T6 Theme:T7 Site:T8
+E2	Phosphorylation:T2 Theme:T3 Cause:T5 Site:T4

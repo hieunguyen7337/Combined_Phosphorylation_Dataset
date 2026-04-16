@@ -1,0 +1,3 @@
+T2	Protein 136 141	Rex-1
+T1	Phosphorylation 98 112	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2

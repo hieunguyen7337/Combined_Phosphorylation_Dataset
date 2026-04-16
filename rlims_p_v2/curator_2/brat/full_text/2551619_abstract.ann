@@ -1,0 +1,7 @@
+T4	Protein 784 789	ErbB3
+T2	Protein 767 771	MAPK
+T3	Protein 774 779	ErbB2
+T1	Phosphorylation 790 805	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T1 Theme:T4
+E2	Phosphorylation:T1 Theme:T3

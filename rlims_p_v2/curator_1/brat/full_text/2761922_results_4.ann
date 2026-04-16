@@ -1,0 +1,15 @@
+T8	Protein 891 894	ERK
+T9	Protein 899 902	Akt
+T6	Protein 747 750	Akt
+T7	Phosphorylation 872 887	PHOSphorylation
+T4	Phosphorylation 751 766	PHOSphorylation
+T5	Protein 739 742	ERK
+T2	Protein 45 48	ERK
+T3	Protein 53 56	Akt
+T1	Phosphorylation 57 72	PHOSphorylation
+E5	Phosphorylation:T7 Theme:T8
+E4	Phosphorylation:T4 Theme:T6
+E6	Phosphorylation:T7 Theme:T9
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

@@ -1,0 +1,4 @@
+T2	Protein 601 625	protein kinase C ( PKC )
+T3	Protein 641 645	Nrf2
+T1	Phosphorylation 626 640	PHOSphorylates
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

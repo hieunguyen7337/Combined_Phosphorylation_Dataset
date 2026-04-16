@@ -1,0 +1,7 @@
+T4	Phosphorylation 3690 3705	PHOSphorylation
+T5	Site 3690 3718	PHOSphorylation sites ( 38 )
+T2	Protein 3562 3575	alpha CTR-YFP
+T3	Protein 3591 3603	beta CTR-YFP
+T1	Phosphorylation 3629 3644	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T1 Theme:T3

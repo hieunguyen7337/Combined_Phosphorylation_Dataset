@@ -1,0 +1,16 @@
+T8	Protein 1384 1423	topoisomerase II alpha ( topo IIalpha )
+T9	Phosphorylation 1448 1457	SUBstrate
+T6	Phosphorylation 1348 1362	phosphorylaTED
+T7	Protein 1366 1374	Aurora B
+T4	Phosphorylation 422 432	SUBstrates
+T5	Phosphorylation 589 599	SUBstrates
+T2	Protein 92 100	Aurora B
+T3	Protein 63 85	topoisomerase II alpha
+T1	Phosphorylation 101 110	SUBstrate
+T10	Phosphorylation 1504 1518	phosphorylaTED
+T11	Protein 1522 1530	Aurora B
+T12	Protein 1487 1499	topo IIalpha
+T13	Phosphorylation 1635 1645	SUBstrates
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T10 Theme:T12 Cause:T11
+E2	Phosphorylation:T6 Theme:T8 Cause:T7

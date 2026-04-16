@@ -1,0 +1,65 @@
+T38	Protein 143 160	bovine histone H1
+T13	Protein 320 330	histone H1
+T14	Phosphorylation 401 425	the phosphorylation site
+T15	Phosphorylation 538 562	the phosphorylation site
+T16	Phosphorylation 594 611	the phosphoserine
+T17	Protein 703 713	histone H1
+T10	Protein 257 273	protein kinase C
+T11	Phosphorylation 303 319	to phosphorylate
+T12	Protein 276 292	Protein kinase C
+T39	Protein 671 687	protein kinase C
+T36	Site 865 889	the phosphorylation site
+T37	Site 772 775	Ser
+T34	Phosphorylation 598 611	phosphoserine
+T35	Phosphorylation 869 884	phosphorylation
+T18	Site 605 611	serine
+T33	Site 443 506	the globular region of the protein , containing residues 71-122
+T30	Site 447 506	globular region of the protein , containing residues 71-122
+T31	Phosphorylation 542 557	phosphorylation
+T32	Site 538 562	the phosphorylation site
+T19	Phosphorylation 688 702	phosphorylated
+T8	Protein 150 160	histone H1
+T9	Phosphorylation 228 253	the substrate specificity
+T6	Phosphorylation 105 139	The site -specific phosphorylation
+T7	Protein 164 180	protein kinase C
+T4	Phosphorylation 63 77	phosphorylated
+T5	Protein 81 97	protein kinase C
+T2	Protein 52 62	histone H1
+T3	Site 34 40	serine
+T1	Phosphorylation 23 48	the phosphoserine residue
+T29	Phosphorylation 405 420	phosphorylation
+T28	Phosphorylation 306 319	phosphorylate
+T21	Site 717 727	serine 103
+T20	Protein 666 687	that protein kinase C
+T23	Phosphorylation 922 937	phosphorylation
+T22	Phosphorylation 865 889	the phosphorylation site
+T25	Phosphorylation 27 40	phosphoserine
+T24	Protein 941 957	protein kinase C
+T27	Phosphorylation 232 241	substrate
+T26	Phosphorylation 124 139	phosphorylation
+E19	Phosphorylation:T34 Theme:T17 Site:T18
+E18	Phosphorylation:T31 Theme:T13 Site:T33
+E11	Phosphorylation:T23 Theme:T17 Cause:T24
+E10	Phosphorylation:T22 Theme:T17
+E13	Phosphorylation:T26 Theme:T8 Cause:T7
+E12	Phosphorylation:T25 Theme:T2 Site:T3
+E15	Phosphorylation:T28 Theme:T13 Cause:T12
+E14	Phosphorylation:T27 Theme:T8 Cause:T10
+E17	Phosphorylation:T31 Theme:T13 Site:T32
+E16	Phosphorylation:T29 Theme:T13 Site:T30
+E9	Phosphorylation:T19 Theme:T17 Cause:T20 Site:T21
+E8	Phosphorylation:T16 Theme:T17 Site:T18
+E5	Phosphorylation:T11 Theme:T13 Cause:T12
+E4	Phosphorylation:T9 Theme:T8 Cause:T10
+E7	Phosphorylation:T15 Theme:T13
+E6	Phosphorylation:T14 Theme:T13
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T8 Cause:T7
+E2	Phosphorylation:T4 Theme:T2 Cause:T5 Site:T3
+E24	Phosphorylation:T27 Theme:T38 Cause:T10
+E25	Phosphorylation:T29 Theme:T13 Site:T33
+E26	Phosphorylation:T19 Theme:T17 Cause:T39 Site:T21
+E20	Phosphorylation:T35 Theme:T17 Site:T36
+E21	Phosphorylation:T35 Theme:T17 Site:T21
+E22	Phosphorylation:T23 Theme:T17 Cause:T24 Site:T37
+E23	Phosphorylation:T26 Theme:T38 Cause:T7

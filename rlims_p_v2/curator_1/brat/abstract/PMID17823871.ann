@@ -1,0 +1,18 @@
+T8	Protein 874 879	eIF4E
+T9	Phosphorylation 991 1006	phosphorylation
+T6	Protein 758 764	Erk1/2
+T7	Protein 863 869	4E-BP1
+T4	Protein 676 682	4E-BP1
+T5	Phosphorylation 838 853	phosphorylation
+T2	Protein 92 98	4E-BP1
+T3	Phosphorylation 655 672	dephosphorylation
+T1	Phosphorylation 71 88	dephosphorylation
+T10	Protein 1010 1016	4E-BP1
+T11	Phosphorylation 1116 1133	dephosphorylating
+T12	Protein 1134 1140	4E-BP1
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T5 Theme:T8 Cause:T6
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T7 Cause:T6
+E2	Phosphorylation:T3 Theme:T4

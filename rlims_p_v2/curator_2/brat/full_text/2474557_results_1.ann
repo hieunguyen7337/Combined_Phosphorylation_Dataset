@@ -1,0 +1,15 @@
+T8	Protein 1763 1766	Akt
+T9	Phosphorylation 1915 1930	PHOSphorylation
+T6	Phosphorylation 1731 1746	PHOSphorylation
+T7	Protein 1755 1758	ERK
+T4	Phosphorylation 1607 1622	PHOSphorylation
+T5	Protein 1642 1664	the Akt protein kinase
+T2	Protein 1161 1165	ERK2
+T3	Phosphorylation 1216 1231	PHOSphorylation
+T1	Phosphorylation 1142 1157	PHOSphorylation
+T10	Protein 1911 1914	Akt
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T6 Theme:T8
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T4 Theme:T5

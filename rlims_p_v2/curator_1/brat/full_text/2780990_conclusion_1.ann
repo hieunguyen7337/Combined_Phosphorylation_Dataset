@@ -1,0 +1,12 @@
+T8	Protein 683 688	Rex-1
+T6	Site 317 324	Thr-174
+T7	Phosphorylation 657 672	PHOSphorylation
+T4	Protein 347 352	Rex-1
+T5	Site 306 312	Ser-97
+T2	Protein 106 111	Rex-1
+T3	Phosphorylation 280 294	PHOSphorylated
+T1	Phosphorylation 59 74	PHOSphorylation
+E4	Phosphorylation:T7 Theme:T8
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T4 Site:T6
+E2	Phosphorylation:T3 Theme:T4 Site:T5

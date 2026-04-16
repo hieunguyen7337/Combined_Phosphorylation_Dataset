@@ -1,0 +1,13 @@
+T8	Protein 2782 2786	CheB
+T6	Phosphorylation 2745 2758	PHOSphorylate
+T7	Protein 2768 2772	CheY
+T4	Phosphorylation 2721 2735	phosphorylaTED
+T5	Protein 2736 2740	CheA
+T2	Protein 1459 1463	CheY
+T3	Phosphorylation 1438 1455	dePHOSphorylation
+T1	Phosphorylation 1418 1433	phosphorylaTION
+E5	Phosphorylation:T3 Theme:T2
+E4	Phosphorylation:T6 Theme:T8 Cause:T5
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7 Cause:T5
+E2	Phosphorylation:T4 Theme:T5

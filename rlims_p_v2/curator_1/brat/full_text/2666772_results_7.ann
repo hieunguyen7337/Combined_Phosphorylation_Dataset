@@ -1,0 +1,39 @@
+T14	Phosphorylation 1131 1146	PHOSphorylation
+T15	Protein 1199 1254	3-phosphoinositide dependent protein kinase-1 ( PDK-1 )
+T16	Protein 1276 1323	TORC2 ( target of rapamycin complex 2 ) complex
+T17	Protein 1180 1183	Akt
+T10	Phosphorylation 442 457	PHOSphorylation
+T11	Protein 434 441	p130Cas
+T12	Phosphorylation 711 725	PHOSphorylated
+T13	Protein 734 741	p130Cas
+T18	Site 1189 1195	Thr308
+T19	Site 1262 1268	Ser473
+T8	Phosphorylation 263 278	PHOSphorylation
+T9	Site 256 262	serine
+T6	Protein 140 147	p130Cas
+T7	Site 114 120	serine
+T4	Site 21 25	S473
+T5	Phosphorylation 121 136	PHOSphorylation
+T2	Protein 5 12	p130Cas
+T3	Protein 17 20	Akt
+T1	Phosphorylation 26 41	PHOSphorylation
+T21	Protein 1334 1337	Akt
+T20	Phosphorylation 1345 1360	PHOSphorylation
+T23	Phosphorylation 1781 1796	PHOSphorylation
+T22	Site 1338 1344	Ser473
+T25	Protein 1770 1773	Akt
+T24	Protein 1758 1765	p130Cas
+T26	Site 1774 1780	Ser473
+E11	Phosphorylation:T20 Theme:T21 Site:T22
+E10	Phosphorylation:T14 Theme:T17 Cause:T16 Site:T19
+E13	Phosphorylation:T23 Theme:T25 Site:T26
+E12	Phosphorylation:T23 Theme:T24 Site:T26
+E9	Phosphorylation:T14 Theme:T17 Cause:T16 Site:T18
+E8	Phosphorylation:T14 Theme:T17 Cause:T15 Site:T19
+E5	Phosphorylation:T10 Theme:T11
+E4	Phosphorylation:T8 Theme:T6 Site:T9
+E7	Phosphorylation:T14 Theme:T17 Cause:T15 Site:T18
+E6	Phosphorylation:T12 Theme:T13
+E1	Phosphorylation:T1 Theme:T2 Site:T4
+E3	Phosphorylation:T5 Theme:T6 Site:T7
+E2	Phosphorylation:T1 Theme:T3 Site:T4

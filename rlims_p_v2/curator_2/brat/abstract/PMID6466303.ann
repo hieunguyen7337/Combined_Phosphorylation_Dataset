@@ -1,0 +1,41 @@
+T14	Site 1090 1133	threonine residues at positions 335 and 336
+T15	Phosphorylation 899 913	] phosphoserin
+T16	Site 907 913	oserin
+T17	Phosphorylation 992 1007	phosphorylation
+T10	Phosphorylation 397 414	Dephosphorylation
+T11	Phosphorylation 536 553	dephosphorylation
+T12	Phosphorylation 666 680	phosphorylated
+T13	Site 1017 1063	serine residues at positions 334 , 338 and 343
+T18	Site 988 1013	the phosphorylation sites
+T19	Protein 681 695	disc membranes
+T8	Phosphorylation 373 388	phosphorylation
+T9	Protein 292 301	rhodopsin
+T6	Protein 226 242	rhodopsin kinase
+T7	Protein 134 139	opsin
+T4	Site 60 84	the phosphorylated sites
+T5	Phosphorylation 109 124	phosphorylation
+T2	Protein 30 39	rhodopsin
+T3	Phosphorylation 64 78	phosphorylated
+T1	Phosphorylation 5 20	Phosphorylation
+T21	Site 846 914	a soluble seven - residue peptide that contained [32P] phosphoserine
+T20	Site 798 802	V8-S
+T22	Phosphorylation 901 914	phosphoserine
+E19	Phosphorylation:T17 Theme:T9 Site:T14
+E18	Phosphorylation:T17 Theme:T9 Site:T13
+E11	Phosphorylation:T17 Theme:T2 Site:T13
+E10	Phosphorylation:T17 Theme:T2 Site:T18
+E13	Phosphorylation:T10 Theme:T9
+E12	Phosphorylation:T17 Theme:T2 Site:T14
+E15	Phosphorylation:T12 Theme:T19 Site:T20
+E14	Phosphorylation:T11 Theme:T9
+E17	Phosphorylation:T17 Theme:T9 Site:T18
+E16	Phosphorylation:T12 Theme:T19 Site:T21
+E9	Phosphorylation:T15 Theme:T2 Site:T16
+E8	Phosphorylation:T15 Theme:T2 Site:T14
+E5	Phosphorylation:T12 Theme:T2 Site:T13
+E4	Phosphorylation:T8 Theme:T9
+E7	Phosphorylation:T15 Theme:T2 Site:T13
+E6	Phosphorylation:T12 Theme:T2 Site:T14
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T7 Cause:T6
+E2	Phosphorylation:T3 Theme:T2 Site:T4

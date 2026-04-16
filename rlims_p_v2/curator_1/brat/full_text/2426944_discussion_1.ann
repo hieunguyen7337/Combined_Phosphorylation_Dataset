@@ -1,0 +1,7 @@
+T4	Phosphorylation 2482 2497	PHOSphorylation
+T5	Protein 2479 2481	IC
+T2	Phosphorylation 2235 2250	PHOSphorylation
+T3	Protein 2232 2234	IC
+T1	Phosphorylation 2117 2132	PHOSphorylation
+E1	Phosphorylation:T2 Theme:T3
+E2	Phosphorylation:T4 Theme:T5

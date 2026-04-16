@@ -1,0 +1,7 @@
+T4	Phosphorylation 734 749	phosphorylation
+T2	Protein 724 733	GSK-3beta
+T3	Site 760 766	serine
+T1	Phosphorylation 722 754	a GSK-3beta phosphorylation site
+E1	Phosphorylation:T1 Theme:T2 Cause:T2 Site:T3
+E3	Phosphorylation:T4 Theme:T2 Site:T3
+E2	Phosphorylation:T4 Theme:T2 Cause:T2 Site:T3

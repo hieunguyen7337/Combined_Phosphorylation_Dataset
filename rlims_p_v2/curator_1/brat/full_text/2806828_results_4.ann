@@ -1,0 +1,6 @@
+T4	Site 1026 1032	Ser473
+T2	Protein 903 908	NOS-3
+T3	Phosphorylation 994 1009	PHOSphorylation
+T1	Phosphorylation 878 893	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T2 Site:T4

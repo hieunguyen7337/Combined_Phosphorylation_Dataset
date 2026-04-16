@@ -1,0 +1,57 @@
+T14	Protein 719 728	rapamycin
+T15	Protein 732 742	starvation
+T16	Site 558 590	serine 1108 (Ser(1) (1) (0) (8))
+T17	Site 780 792	this residue
+T10	Protein 1474 1479	eIF4G
+T11	Phosphorylation 1566 1581	phosphorylation
+T12	Protein 1589 1593	mTOR
+T13	Protein 673 701	insulin-like growth factor 1
+T36	Protein 1937 1943	p70S6K
+T37	Site 1898 1916	Ser(1) (1) (0) (8)
+T34	Protein 1761 1765	MNK2
+T35	Protein 1892 1897	eIF4G
+T32	Protein 1585 1668	the mTOR target , the ribosomal kinase p70S6K ( 70-kD ribosomal protein S6 kinase )
+T33	Phosphorylation 1917 1932	phosphorylation
+T30	Phosphorylation 1480 1495	phosphorylation
+T31	Protein 1526 1530	MNK2
+T18	Phosphorylation 924 939	phosphorylation
+T19	Protein 899 904	eIF4G
+T8	Protein 1056 1061	eIF4G
+T9	Phosphorylation 1464 1495	decreased eIF4G phosphorylation
+T6	Protein 809 813	mTOR
+T7	Phosphorylation 1015 1030	Phosphorylation
+T4	Site 571 577	Ser(1)
+T5	Phosphorylation 761 776	phosphorylation
+T2	Protein 594 599	eIF4G
+T3	Site 558 569	serine 1108
+T1	Phosphorylation 539 554	Phosphorylation
+T29	Site 1326 1344	Ser(1) (1) (0) (8)
+T28	Protein 1320 1325	eIF4G
+T21	Phosphorylation 986 1006	this phosphorylation
+T20	Site 905 923	Ser(1) (1) (0) (8)
+T23	Site 1034 1052	Ser(1) (1) (0) (8)
+T22	Protein 1120 1124	MNK2
+T25	Protein 839 888	small interfering RNA ( siRNA ) knockdown of MNK2
+T24	Phosphorylation 1160 1190	this increased phosphorylation
+T27	Protein 1305 1309	MNK2
+T26	Phosphorylation 1345 1360	phosphorylation
+E19	Phosphorylation:T33 Theme:T35 Cause:T34 Site:T37
+E18	Phosphorylation:T11 Theme:T32 Cause:T31
+E20	Phosphorylation:T33 Theme:T36 Cause:T34 Site:T37
+E11	Phosphorylation:T5 Theme:T2 Cause:T6 Site:T17
+E10	Phosphorylation:T1 Theme:T2 Cause:T15 Site:T16
+E13	Phosphorylation:T18 Theme:T19 Site:T20
+E12	Phosphorylation:T5 Theme:T2 Cause:T6 Site:T16
+E15	Phosphorylation:T18 Theme:T19 Cause:T25 Site:T20
+E14	Phosphorylation:T7 Theme:T8 Cause:T22 Site:T23
+E17	Phosphorylation:T30 Theme:T10
+E16	Phosphorylation:T26 Theme:T28 Cause:T27 Site:T29
+E9	Phosphorylation:T1 Theme:T2 Cause:T14 Site:T16
+E8	Phosphorylation:T1 Theme:T2 Cause:T13 Site:T16
+E5	Phosphorylation:T7 Theme:T8
+E4	Phosphorylation:T5 Theme:T2 Cause:T6 Site:T4
+E7	Phosphorylation:T11 Theme:T12
+E6	Phosphorylation:T9 Theme:T10
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T5 Theme:T2 Cause:T6 Site:T3
+E2	Phosphorylation:T1 Theme:T2 Site:T4

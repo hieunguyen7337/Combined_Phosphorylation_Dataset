@@ -1,0 +1,6 @@
+T4	Protein 1460 1464	NarL
+T2	Protein 1341 1345	NarL
+T3	Phosphorylation 1441 1456	PHOSphorylation
+T1	Phosphorylation 1323 1340	nonphosphorylaTED
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

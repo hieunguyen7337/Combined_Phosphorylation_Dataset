@@ -1,0 +1,27 @@
+T8	Site 3638 3696	two serine residues within the 10-amino-acid acidic domain
+T9	Phosphorylation 3817 3832	PHOSphorylation
+T6	Site 3457 3477	acidic domain region
+T7	Phosphorylation 3598 3613	PHOSphorylation
+T4	Phosphorylation 3489 3503	PHOSphorylated
+T5	Protein 3445 3456	The PRV Us9
+T2	Protein 4713 4716	Us9
+T3	Site 4717 4769	acidic domain ( within the context of a lipid raft )
+T1	Phosphorylation 3345 3360	PHOSphorylation
+T14	Protein 4064 4067	its
+T15	Phosphorylation 4118 4133	PHOSphorylation
+T16	Protein 4147 4154	Us9-TfR
+T17	Phosphorylation 4690 4705	PHOSphorylation
+T10	Protein 3857 3860	Us9
+T11	Protein 3812 3816	This
+T12	Phosphorylation 4068 4083	phosphorylaTION
+T13	Protein 4028 4031	Us9
+T18	Site 4717 4730	acidic domain
+E9	Phosphorylation:T17 Theme:T2 Site:T18
+E8	Phosphorylation:T15 Theme:T16
+E5	Phosphorylation:T9 Theme:T11 Site:T8
+E4	Phosphorylation:T9 Theme:T10 Site:T8
+E7	Phosphorylation:T12 Theme:T14
+E6	Phosphorylation:T12 Theme:T13
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T7 Theme:T5 Site:T8
+E2	Phosphorylation:T4 Theme:T5 Site:T6

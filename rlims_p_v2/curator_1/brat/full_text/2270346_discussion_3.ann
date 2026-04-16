@@ -1,0 +1,3 @@
+T2	Protein 139 151	beta-catenin
+T1	Phosphorylation 120 138	non-PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2

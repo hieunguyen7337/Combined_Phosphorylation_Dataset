@@ -1,0 +1,32 @@
+T8	Phosphorylation 442 485	phosphorylated p21-activated kinase ( PAK )
+T9	Phosphorylation 676 713	phosphorylation and dephosphorylation
+T6	Protein 457 485	p21-activated kinase ( PAK )
+T7	Protein 416 420	LIMK
+T4	Protein 359 395	p-Lin-11/Isl-1/Mec-3 kinase ( LIMK )
+T5	Phosphorylation 421 438	is phosphorylated
+T2	Protein 66 76	LIM kinase
+T3	Phosphorylation 341 355	phosphorylated
+T1	Phosphorylation 47 62	phosphorylation
+T14	Phosphorylation 424 438	phosphorylated
+T15	Protein 554 573	Rho kinase ( ROCK )
+T16	Phosphorylation 442 456	phosphorylated
+T17	Phosphorylation 583 599	dephosphorylated
+T10	Protein 717 724	cofilin
+T11	Phosphorylation 1576 1591	phosphorylating
+T12	Protein 1592 1597	LIMK1
+T13	Protein 313 320	Cofilin
+T20	Phosphorylation 696 713	dephosphorylation
+T18	Protein 603 620	slingshot ( SSH )
+T19	Phosphorylation 676 691	phosphorylation
+E11	Phosphorylation:T19 Theme:T10
+E10	Phosphorylation:T17 Theme:T7 Cause:T18
+E12	Phosphorylation:T20 Theme:T10
+E9	Phosphorylation:T16 Theme:T6
+E8	Phosphorylation:T14 Theme:T7 Cause:T15
+E5	Phosphorylation:T11 Theme:T12
+E4	Phosphorylation:T9 Theme:T10
+E7	Phosphorylation:T14 Theme:T7 Cause:T6
+E6	Phosphorylation:T3 Theme:T13 Cause:T4
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T8 Theme:T6
+E2	Phosphorylation:T5 Theme:T7 Cause:T6

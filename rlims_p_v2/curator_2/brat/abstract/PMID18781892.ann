@@ -1,0 +1,8 @@
+T4	Protein 707 710	APC
+T5	Protein 715 719	Axin
+T2	Protein 744 756	beta-catenin
+T3	Phosphorylation 757 772	phosphorylation
+T1	Phosphorylation 744 772	beta-catenin phosphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T2 Cause:T5
+E2	Phosphorylation:T3 Theme:T2 Cause:T4

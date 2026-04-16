@@ -1,0 +1,9 @@
+T6	Protein 890 896	mPAK-3
+T4	Phosphorylation 823 842	autophosphorylation
+T5	Phosphorylation 847 862	phosphorylation
+T2	Protein 816 822	mPAK-3
+T3	Protein 866 886	myelin basic protein
+T1	Phosphorylation 816 862	mPAK-3 autophosphorylation and phosphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T5 Theme:T3 Cause:T6
+E2	Phosphorylation:T4 Theme:T2 Cause:T2

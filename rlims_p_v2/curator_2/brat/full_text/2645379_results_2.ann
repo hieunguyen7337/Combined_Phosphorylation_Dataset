@@ -1,0 +1,7 @@
+T4	Protein 459 544	the SNURF-SNRPN upstream reading frame protein [21] , the 71 amino acid protein SNURF
+T5	Site 695 713	serine in codon 50
+T2	Protein 761 785	casein kinase II ( CK2 )
+T3	Protein 603 607	this
+T1	Phosphorylation 736 751	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T5
+E2	Phosphorylation:T1 Theme:T4 Cause:T2 Site:T5

@@ -1,0 +1,3 @@
+T2	Protein 1699 1704	Smad2
+T1	Phosphorylation 1705 1720	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

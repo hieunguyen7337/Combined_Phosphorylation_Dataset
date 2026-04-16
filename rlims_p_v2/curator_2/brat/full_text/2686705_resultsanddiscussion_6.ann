@@ -1,0 +1,3 @@
+T2	Protein 621 634	STAT1 protein
+T1	Phosphorylation 692 706	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2

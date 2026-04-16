@@ -1,0 +1,34 @@
+T14	Phosphorylation 646 661	phosphorylation
+T15	Protein 681 709	cell adhesion to fibronectin
+T16	Protein 638 641	MEK
+T17	Site 665 669	S298
+T10	Protein 478 482	MEK1
+T11	Site 486 490	S298
+T12	Phosphorylation 505 520	phosphorylation
+T13	Protein 562 566	MEK1
+T18	Phosphorylation 786 798	phospho-S298
+T19	Protein 799 803	MEK1
+T8	Phosphorylation 459 474	phosphorylation
+T9	Protein 443 447	PAK1
+T6	Protein 275 297	MAPK kinase 1 ( MEK1 )
+T7	Site 267 271	S298
+T4	Phosphorylation 248 263	phosphorylation
+T5	Protein 301 329	p21-activated kinase ( PAK )
+T2	Protein 5 9	PAK1
+T3	Protein 29 33	MEK1
+T1	Phosphorylation 10 25	phosphorylation
+T21	Phosphorylation 808 820	phospho-MAPK
+T20	Site 794 798	S298
+T23	Phosphorylation 936 951	phosphorylation
+T22	Protein 816 820	MAPK
+T25	Protein 955 959	MEK1
+T24	Protein 921 925	PAK1
+T26	Site 963 967	S298
+E8	Phosphorylation:T23 Theme:T25 Cause:T24 Site:T26
+E5	Phosphorylation:T14 Theme:T16 Cause:T15 Site:T17
+E4	Phosphorylation:T12 Theme:T13
+E7	Phosphorylation:T21 Theme:T22
+E6	Phosphorylation:T18 Theme:T19 Site:T20
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T11
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7

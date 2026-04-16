@@ -1,0 +1,47 @@
+T14	Phosphorylation 924 939	phosphorylation
+T15	Protein 899 904	eIF4G
+T16	Site 905 923	Ser(1) (1) (0) (8)
+T17	Phosphorylation 991 1006	phosphorylation
+T10	Protein 1474 1479	eIF4G
+T11	Phosphorylation 1566 1581	phosphorylation
+T12	Protein 1589 1593	mTOR
+T13	Protein 673 701	insulin-like growth factor 1
+T18	Site 1034 1052	Ser(1) (1) (0) (8)
+T19	Phosphorylation 1175 1190	phosphorylation
+T30	Protein 1892 1897	eIF4G
+T31	Site 1898 1916	Ser(1) (1) (0) (8)
+T8	Protein 1056 1061	eIF4G
+T9	Phosphorylation 1464 1495	decreased eIF4G phosphorylation
+T6	Protein 809 813	mTOR
+T7	Phosphorylation 1015 1030	Phosphorylation
+T4	Site 571 577	Ser(1)
+T5	Phosphorylation 761 776	phosphorylation
+T2	Protein 594 599	eIF4G
+T3	Site 558 569	serine 1108
+T1	Phosphorylation 539 554	Phosphorylation
+T29	Phosphorylation 1917 1932	phosphorylation
+T28	Protein 1607 1668	ribosomal kinase p70S6K ( 70-kD ribosomal protein S6 kinase )
+T21	Phosphorylation 1345 1360	phosphorylation
+T20	Anaphora 1160 1164	this
+T23	Protein 1320 1325	eIF4G
+T22	Protein 1287 1309	overexpression of MNK2
+T25	Phosphorylation 1480 1495	phosphorylation
+T24	Site 1326 1344	Ser(1) (1) (0) (8)
+T27	Protein 1547 1551	mTOR
+T26	Protein 1447 1451	MNK2
+E11	Phosphorylation:T19 Theme:T20 Site:T18
+E10	Phosphorylation:T7 Theme:T8 Site:T18
+E13	Phosphorylation:T25 Theme:T10 Cause:T26
+E12	Phosphorylation:T21 Theme:T23 Cause:T22 Site:T24
+E15	Phosphorylation:T29 Theme:T30 Site:T31
+E14	Phosphorylation:T11 Theme:T28 Cause:T27
+E9	Phosphorylation:T14 Theme:T15 Site:T16
+E8	Phosphorylation:T1 Theme:T2 Cause:T13 Site:T3
+E5	Phosphorylation:T7 Theme:T8
+E4	Phosphorylation:T5 Theme:T2 Cause:T6 Site:T4
+E7	Phosphorylation:T11 Theme:T12
+E6	Phosphorylation:T9 Theme:T10
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T5 Theme:T2 Cause:T6 Site:T3
+E2	Phosphorylation:T1 Theme:T2 Site:T4
+R1	Coreference Arg1:T20 Arg2:T8

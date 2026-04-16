@@ -1,0 +1,27 @@
+T8	Protein 266 274	p38 MAPK
+T9	Protein 294 299	MEF2A
+T6	Site 60 66	Thr300
+T7	Phosphorylation 275 290	PHOSphorylation
+T4	Site 42 48	Ser387
+T5	Site 51 57	Thr293
+T2	Protein 9 17	p38 MAPK
+T3	Protein 72 77	MEF2C
+T1	Phosphorylation 18 33	PHOSphorylation
+T14	Protein 384 396	MEF2 mutants
+T15	Phosphorylation 1168 1183	PHOSphorylation
+T16	Protein 1203 1211	p38 MAPK
+T17	Protein 1215 1224	ERK5/BMK1
+T10	Protein 304 309	MEF2C
+T11	Site 310 314	TADs
+T12	Phosphorylation 410 424	PHOSphorylated
+T13	Protein 428 436	p38 MAPK
+T18	Protein 1187 1192	MEF2C
+T19	Site 1112 1138	Ser387 , Thr293 and Thr300
+E8	Phosphorylation:T15 Theme:T18 Cause:T17 Site:T19
+E5	Phosphorylation:T7 Theme:T10 Cause:T8 Site:T11
+E4	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T11
+E7	Phosphorylation:T15 Theme:T18 Cause:T16 Site:T19
+E6	Phosphorylation:T12 Theme:T14 Cause:T13
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T6
+E2	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T5

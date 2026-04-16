@@ -1,0 +1,43 @@
+T14	Site 859 869	serine 931
+T15	Phosphorylation 873 887	phosphorylated
+T16	Phosphorylation 984 999	phosphopeptides
+T17	Protein 1030 1032	Fu
+T10	Phosphorylation 806 821	phosphorylation
+T11	Protein 794 796	Fu
+T12	Protein 830 834	Cos2
+T13	Site 838 848	serine 572
+T18	Protein 1003 1007	Cos2
+T19	Phosphorylation 1064 1079	phosphorylation
+T30	Protein 1570 1574	Cos2
+T8	Protein 683 713	kinase -inactive version of Fu
+T9	Protein 741 745	Cos2
+T6	Protein 622 626	Cos2
+T7	Phosphorylation 746 761	phosphorylation
+T4	Phosphorylation 582 596	phosphorylates
+T5	Protein 555 581	serine/threonine kinase Fu
+T2	Protein 99 128	serine/threonine kinase fused
+T3	Protein 72 79	Costal2
+T1	Phosphorylation 25 40	phosphorylation
+T29	Phosphorylation 1638 1653	phosphorylation
+T28	Site 1464 1483	serines 572 and 931
+T21	Phosphorylation 1181 1196	phosphorylation
+T20	Protein 1091 1095	Cos2
+T23	Phosphorylation 1265 1280	phosphorylation
+T22	Protein 1208 1212	Cos2
+T25	Phosphorylation 1445 1460	phosphorylation
+T24	Protein 1292 1296	Cos2
+T27	Protein 1382 1386	Cos2
+T26	Protein 1424 1426	Hh
+E11	Phosphorylation:T23 Theme:T24
+E10	Phosphorylation:T21 Theme:T22
+E13	Phosphorylation:T29 Theme:T30
+E12	Phosphorylation:T25 Theme:T27 Cause:T26 Site:T28
+E9	Phosphorylation:T19 Theme:T20
+E8	Phosphorylation:T16 Theme:T18 Cause:T17
+E5	Phosphorylation:T10 Theme:T12 Cause:T11 Site:T14
+E4	Phosphorylation:T10 Theme:T12 Cause:T11 Site:T13
+E7	Phosphorylation:T15 Theme:T12 Cause:T11 Site:T14
+E6	Phosphorylation:T15 Theme:T12 Cause:T11 Site:T13
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T9 Cause:T8
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

@@ -1,0 +1,4 @@
+T2	Protein 573 590	RNA polymerase II
+T3	Site 609 642	serine 5 of the C terminal repeat
+T1	Phosphorylation 591 605	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2 Site:T3

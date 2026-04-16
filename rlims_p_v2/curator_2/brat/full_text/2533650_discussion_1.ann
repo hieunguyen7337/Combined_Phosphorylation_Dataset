@@ -1,0 +1,6 @@
+T4	Protein 7543 7549	STAT-1
+T2	Protein 2312 2315	PC2
+T3	Phosphorylation 7550 7565	PHOSphorylation
+T1	Phosphorylation 2316 2331	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

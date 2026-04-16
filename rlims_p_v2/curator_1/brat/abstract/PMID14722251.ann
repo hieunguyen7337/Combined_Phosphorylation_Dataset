@@ -1,0 +1,137 @@
+T40	Protein 2749 2756	beta2AR
+T12	Protein 635 638	PKA
+T61	Protein 1322 1325	PKA
+T13	Protein 675 678	GRK
+T38	Protein 1983 1986	GRK
+T72	Protein 2527 2530	GRK
+T73	Protein 2654 2657	GRK
+T16	Site 685 691	Ser355
+T17	Site 694 700	Ser356
+T10	Protein 431 472	G protein-coupled receptor kinase ( GRK )
+T77	Phosphorylation 2931 2946	phosphorylation
+T74	Protein 2662 2665	PKA
+T39	Phosphorylation 2715 2730	phosphorylation
+T36	Protein 1853 1856	GRK
+T37	Phosphorylation 1960 2007	epinephrine-stimulated GRK site phosphorylation
+T34	Protein 1687 1690	GRK
+T35	Phosphorylation 1853 1877	GRK site phosphorylation
+T32	Phosphorylation 1553 1577	PKA site phosphorylation
+T78	Phosphorylation 2990 3005	phosphorylation
+T30	Site 1441 1447	Ser355
+T31	Site 1450 1456	Ser356
+T58	Protein 1231 1234	PKA
+T59	Protein 1223 1230	beta2AR
+T70	Protein 2149 2152	GRK
+T79	Protein 2981 2984	PKA
+T50	Protein 3115 3118	GRK
+T51	Phosphorylation 118 133	phosphorylation
+T52	Phosphorylation 173 195	phosphoserine-specific
+T53	Phosphorylation 372 387	phosphorylation
+T54	Phosphorylation 483 498	phosphorylation
+T55	Phosphorylation 805 827	phosphoserine-specific
+T56	Protein 993 997	GRK2
+T19	Site 812 818	serine
+T33	Phosphorylation 1687 1711	GRK site phosphorylation
+T45	Phosphorylation 2977 3005	the PKA site phosphorylation
+T75	Phosphorylation 2881 2896	phosphorylation
+T60	Phosphorylation 1331 1346	phosphorylation
+T8	Protein 257 294	beta2-adrenergic receptor ( beta2AR )
+T9	Phosphorylation 408 498	occupancy -dependent , G protein-coupled receptor kinase ( GRK ) -mediated phosphorylation
+T6	Phosphorylation 313 387	a potent c-AMP -dependent protein kinase ( PKA ) -mediated phosphorylation
+T7	Protein 322 361	c-AMP -dependent protein kinase ( PKA )
+T4	Phosphorylation 173 206	phosphoserine-specific antibodies
+T5	Site 180 186	serine
+T2	Protein 83 117	G protein -coupled receptor kinase
+T3	Protein 137 166	the beta2-adrenergic receptor
+T1	Phosphorylation 83 133	G protein -coupled receptor kinase phosphorylation
+T29	Protein 1414 1417	GRK
+T28	Phosphorylation 1414 1458	GRK site phosphorylation ( Ser355 , Ser356 )
+T44	Protein 2922 2925	GRK
+T57	Protein 1002 1006	GRK5
+T21	Protein 1056 1059	GRK
+T20	Phosphorylation 1033 1048	phosphorylation
+T23	Site 1075 1081	Ser356
+T22	Site 1066 1072	Ser355
+T25	Protein 1223 1234	beta2AR PKA
+T24	Phosphorylation 1200 1215	phosphorylation
+T27	Phosphorylation 1322 1346	PKA site phosphorylation
+T26	Site 1241 1247	Ser262
+T14	Protein 714 721	beta2AR
+T49	Phosphorylation 3115 3139	GRK site phosphorylation
+T48	Protein 3053 3056	PKA
+T69	Phosphorylation 2158 2174	phosphorylations
+T68	Protein 2044 2051	beta2AR
+T15	Site 644 650	Ser262
+T43	Phosphorylation 2909 2946	the putative GRK site phosphorylation
+T42	Protein 2734 2756	the endogenous beta2AR
+T41	Phosphorylation 2872 2896	PKA site phosphorylation
+T66	Phosphorylation 1862 1877	phosphorylation
+T47	Protein 3025 3028	GRK
+T46	Phosphorylation 3008 3062	no dependence of GRK site phosphorylation on PKA sites
+T63	Phosphorylation 1562 1577	phosphorylation
+T62	Phosphorylation 1423 1438	phosphorylation
+T65	Phosphorylation 1696 1711	phosphorylation
+T18	Phosphorylation 805 838	phosphoserine-specific antibodies
+T71	Phosphorylation 2536 2552	phosphorylations
+T64	Protein 1553 1556	PKA
+T76	Protein 2872 2875	PKA
+T80	Phosphorylation 3034 3049	phosphorylation
+T67	Phosphorylation 1992 2007	phosphorylation
+T81	Phosphorylation 3124 3139	phosphorylation
+T11	Phosphorylation 587 602	phosphorylation
+E37	Phosphorylation:T24 Theme:T59 Cause:T58 Site:T26
+E18	Phosphorylation:T27 Theme:T25
+E35	Phosphorylation:T53 Theme:T8 Cause:T7
+E34	Phosphorylation:T52 Theme:T4 Site:T5
+E33	Phosphorylation:T51 Theme:T3 Cause:T2 Site:T5
+E32	Phosphorylation:T49 Theme:T48
+E31	Phosphorylation:T49 Theme:T50
+E36	Phosphorylation:T54 Theme:T8 Cause:T10
+E11	Phosphorylation:T11 Theme:T14 Site:T15
+E10	Phosphorylation:T11 Theme:T13 Site:T17
+E13	Phosphorylation:T11 Theme:T14 Site:T17
+E12	Phosphorylation:T11 Theme:T14 Site:T16
+E15	Phosphorylation:T20 Theme:T21 Site:T22
+E14	Phosphorylation:T18 Theme:T18 Site:T19
+E39	Phosphorylation:T39 Theme:T40 Cause:T73
+E38	Phosphorylation:T67 Theme:T68 Cause:T38
+E27	Phosphorylation:T43 Theme:T44
+E55	Phosphorylation:T78 Theme:T40 Cause:T79
+E54	Phosphorylation:T77 Theme:T40 Cause:T44
+E56	Phosphorylation:T81 Theme:T40 Cause:T50
+E51	Phosphorylation:T66 Theme:T59 Cause:T36
+E50	Phosphorylation:T65 Theme:T59 Cause:T34
+E53	Phosphorylation:T71 Theme:T59 Cause:T72
+E21	Phosphorylation:T32 Theme:T29
+E19	Phosphorylation:T28 Theme:T29 Site:T30
+E22	Phosphorylation:T33 Theme:T34
+E30	Phosphorylation:T46 Theme:T48
+E25	Phosphorylation:T39 Theme:T40
+E9	Phosphorylation:T11 Theme:T13 Site:T16
+E8	Phosphorylation:T11 Theme:T13 Site:T15
+E5	Phosphorylation:T11 Theme:T12 Site:T15
+E4	Phosphorylation:T9 Theme:T8 Cause:T10
+E7	Phosphorylation:T11 Theme:T12 Site:T17
+E52	Phosphorylation:T69 Theme:T59 Cause:T70
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T6 Theme:T8 Cause:T7
+E2	Phosphorylation:T4 Theme:T4 Site:T5
+E24	Phosphorylation:T37 Theme:T38
+E43	Phosphorylation:T20 Theme:T14 Cause:T56 Site:T23
+E40	Phosphorylation:T39 Theme:T40 Cause:T74
+E41	Phosphorylation:T75 Theme:T42 Cause:T76
+E20	Phosphorylation:T28 Theme:T29 Site:T31
+E47	Phosphorylation:T62 Theme:T59 Cause:T29 Site:T30
+E44	Phosphorylation:T20 Theme:T14 Cause:T57 Site:T22
+E45	Phosphorylation:T20 Theme:T14 Cause:T57 Site:T23
+E28	Phosphorylation:T45 Theme:T44
+E48	Phosphorylation:T62 Theme:T59 Cause:T29 Site:T31
+E49	Phosphorylation:T63 Theme:T59 Cause:T64
+E26	Phosphorylation:T41 Theme:T42
+E29	Phosphorylation:T46 Theme:T47
+E17	Phosphorylation:T24 Theme:T25 Site:T26
+E16	Phosphorylation:T20 Theme:T21 Site:T23
+E23	Phosphorylation:T35 Theme:T36
+E6	Phosphorylation:T11 Theme:T12 Site:T16
+E46	Phosphorylation:T60 Theme:T59 Cause:T61
+E42	Phosphorylation:T20 Theme:T14 Cause:T56 Site:T22

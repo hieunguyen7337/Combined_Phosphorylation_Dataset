@@ -1,0 +1,50 @@
+T14	Site 497 504	Tyr-184
+T15	Site 528 535	Tyr-304
+T16	Phosphorylation 578 593	phosphorylation
+T17	Protein 574 577	Csk
+T10	Phosphorylation 393 407	phosphorylated
+T11	Protein 377 380	Csk
+T12	Site 384 392	tyrosine
+T13	Phosphorylation 456 471	Phosphorylation
+T36	Site 1561 1568	Tyr-304
+T34	Phosphorylation 1538 1557	autophosphorylation
+T35	Protein 1600 1603	Csk
+T32	Protein 1445 1448	Csk
+T19	Phosphorylation 645 660	phosphorylation
+T30	Phosphorylation 1456 1470	phosphorylated
+T31	Protein 1503 1526	unknown tyrosine kinase
+T18	Site 540 545	Y304F
+T33	Site 1482 1489	Tyr-184
+T8	Protein 234 234	
+T9	Anaphora 250 278	this protein tyrosine kinase
+T6	Site 150 158	tyrosine
+T7	Phosphorylation 286 304	autophosphorylated
+T4	Phosphorylation 159 178	autophosphorylation
+T5	Protein 235 238	Csk
+T2	Protein 23 26	csk
+T3	Site 27 35	tyrosine
+T1	Phosphorylation 36 51	phosphorylation
+T29	Phosphorylation 1327 1342	phosphoproteins
+T28	Site 1221 1228	Tyr-184
+T21	Phosphorylation 717 731	phosphorylated
+T20	Site 611 616	Y184F
+T23	Site 735 742	Tyr-184
+T22	Protein 704 707	Csk
+T25	Phosphorylation 1156 1170	Phosphopeptide
+T24	Phosphorylation 791 810	autophosphorylation
+T27	Protein 972 975	Csk
+T26	Phosphorylation 1202 1217	phosphorylation
+E11	Phosphorylation:T30 Theme:T32 Cause:T31 Site:T33
+E10	Phosphorylation:T26 Theme:T27 Site:T28
+E12	Phosphorylation:T34 Theme:T35 Cause:T35 Site:T36
+E9	Phosphorylation:T21 Theme:T22 Site:T23
+E8	Phosphorylation:T19 Theme:T17 Site:T20
+E5	Phosphorylation:T13 Theme:T11 Site:T14
+E4	Phosphorylation:T10 Theme:T11 Site:T12
+E7	Phosphorylation:T16 Theme:T17 Site:T18
+E6	Phosphorylation:T13 Theme:T11 Site:T15
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T7 Theme:T9 Cause:T9
+E2	Phosphorylation:T4 Theme:T5 Cause:T5 Site:T6
+R1	Coreference Arg1:T9 Arg2:T8
+R2	Coreference Arg1:T9 Arg2:T5

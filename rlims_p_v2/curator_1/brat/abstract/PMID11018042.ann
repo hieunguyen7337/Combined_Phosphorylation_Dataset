@@ -1,0 +1,34 @@
+T14	Protein 770 774	ROCK
+T15	Protein 858 863	LIMK2
+T16	Site 803 816	threonine 505
+T17	Phosphorylation 1003 1018	phosphorylation
+T10	Protein 428 433	LIMK1
+T11	Protein 438 443	LIMK2
+T12	Protein 462 469	cofilin
+T13	Phosphorylation 784 798	phosphorylated
+T18	Protein 907 912	LIMK2
+T19	Protein 995 1002	cofilin
+T8	Protein 224 231	cofilin
+T9	Phosphorylation 470 485	phosphorylation
+T6	Protein 127 149	LIM-kinase 1 ( LIMK1 )
+T7	Protein 154 176	LIM-kinase 2 ( LIMK2 )
+T4	Site 64 77	threonine 505
+T5	Phosphorylation 232 247	phosphorylation
+T2	Protein 81 85	ROCK
+T3	Protein 28 40	LIM kinase 2
+T1	Phosphorylation 45 60	phosphorylation
+T21	Protein 1188 1192	ROCK
+T20	Phosphorylation 1202 1216	phosphorylates
+T23	Site 1217 1230	threonine 505
+T22	Protein 1245 1250	LIMK2
+T25	Protein 1317 1322	LIMK2
+T24	Phosphorylation 1284 1299	phosphorylation
+E9	Phosphorylation:T24 Theme:T25 Cause:T21 Site:T23
+E8	Phosphorylation:T20 Theme:T22 Cause:T21 Site:T23
+E5	Phosphorylation:T9 Theme:T12 Cause:T11
+E4	Phosphorylation:T9 Theme:T12 Cause:T10
+E7	Phosphorylation:T17 Theme:T19 Cause:T18
+E6	Phosphorylation:T13 Theme:T15 Cause:T14 Site:T16
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T5 Theme:T8 Cause:T7
+E2	Phosphorylation:T5 Theme:T8 Cause:T6

@@ -1,0 +1,31 @@
+T8	Site 1715 1740	396/404 , and 235 and 231
+T9	Phosphorylation 1896 1910	PHOSphorylated
+T6	Protein 1579 1582	tau
+T7	Phosphorylation 1767 1781	PHOSphorylated
+T4	Protein 1407 1410	tau
+T5	Phosphorylation 1583 1598	PHOSphorylation
+T2	Protein 324 327	tau
+T3	Phosphorylation 1411 1426	PHOSphorylation
+T1	Phosphorylation 328 343	PHOSphorylation
+T14	Protein 2212 2215	tau
+T15	Phosphorylation 2298 2313	PHOSphorylation
+T16	Protein 2325 2330	GSK-3
+T17	Site 2338 2344	Ser199
+T10	Protein 1809 1817	AT8/TAU1
+T11	Site 1835 1855	Ser199/Ser202/Thr205
+T12	Phosphorylation 2128 2137	SUBstrate
+T13	Phosphorylation 2216 2231	phosphorylaTION
+T21	Protein 2880 2883	tau
+T20	Phosphorylation 2884 2899	PHOSphorylation
+T18	Site 2345 2351	Ser202
+T19	Site 2352 2358	Thr205
+E10	Phosphorylation:T20 Theme:T21
+E9	Phosphorylation:T15 Theme:T14 Cause:T16 Site:T19
+E8	Phosphorylation:T15 Theme:T14 Cause:T16 Site:T18
+E5	Phosphorylation:T9 Theme:T10 Site:T11
+E4	Phosphorylation:T7 Theme:T6 Site:T8
+E7	Phosphorylation:T15 Theme:T14 Cause:T16 Site:T17
+E6	Phosphorylation:T13 Theme:T14
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

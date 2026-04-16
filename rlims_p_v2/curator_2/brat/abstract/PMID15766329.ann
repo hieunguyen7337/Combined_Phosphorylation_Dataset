@@ -1,0 +1,16 @@
+T8	Site 751 757	Ser-56
+T9	Phosphorylation 976 1010	the site -specific phosphorylation
+T6	Protein 702 706	5-HT
+T7	Protein 739 747	vimentin
+T4	Site 78 84	Ser-56
+T5	Phosphorylation 720 735	phosphorylation
+T2	Protein 18 38	p21-activated kinase
+T3	Protein 50 58	vimentin
+T1	Phosphorylation 59 74	phosphorylation
+T10	Phosphorylation 1197 1212	phosphorylation
+T11	Phosphorylation 1607 1622	phosphorylation
+T12	Protein 1578 1581	PAK
+T13	Protein 1626 1634	vimentin
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T11 Theme:T13 Cause:T12
+E2	Phosphorylation:T5 Theme:T7 Cause:T6 Site:T8

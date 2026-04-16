@@ -1,0 +1,15 @@
+T8	Phosphorylation 1074 1089	phosphorylation
+T9	Protein 1015 1073	signal transducer and activator of transcription ( STAT3 )
+T6	Phosphorylation 944 959	phosphorylation
+T7	Protein 941 943	S6
+T4	Protein 1138 1141	Akt
+T5	Site 1161 1168	Ser-473
+T2	Phosphorylation 1015 1089	signal transducer and activator of transcription ( STAT3 ) phosphorylation
+T3	Phosphorylation 1138 1157	Akt phosphorylation
+T1	Phosphorylation 941 959	S6 phosphorylation
+T10	Phosphorylation 1142 1157	phosphorylation
+T11	Protein 1107 1116	rapamycin
+E4	Phosphorylation:T10 Theme:T4 Cause:T11 Site:T5
+E1	Phosphorylation:T3 Theme:T4 Site:T5
+E3	Phosphorylation:T8 Theme:T9
+E2	Phosphorylation:T6 Theme:T7

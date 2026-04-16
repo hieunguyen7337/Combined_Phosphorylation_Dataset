@@ -1,0 +1,16 @@
+T8	Site 552 558	Tyr402
+T9	Phosphorylation 711 726	PHOSphorylation
+T6	Protein 534 538	PYK2
+T7	Protein 563 569	ERK1/2
+T4	Site 86 92	Tyr402
+T5	Phosphorylation 570 586	phosphorylaTIONs
+T2	Protein 68 72	PYK2
+T3	Protein 97 103	ERK1/2
+T1	Phosphorylation 104 120	PHOSphorylations
+T10	Protein 760 764	PYK2
+T11	Site 704 710	Tyr402
+E5	Phosphorylation:T9 Theme:T10 Site:T11
+E4	Phosphorylation:T5 Theme:T7 Site:T8
+E1	Phosphorylation:T1 Theme:T2 Site:T4
+E3	Phosphorylation:T5 Theme:T6 Site:T8
+E2	Phosphorylation:T1 Theme:T3 Site:T4

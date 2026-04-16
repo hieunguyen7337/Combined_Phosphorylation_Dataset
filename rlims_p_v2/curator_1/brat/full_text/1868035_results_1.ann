@@ -1,0 +1,4 @@
+T2	Protein 2343 2346	ATM
+T3	Protein 2375 2381	PARP-1
+T1	Phosphorylation 2391 2400	SUBstrate
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

@@ -1,0 +1,15 @@
+T6	Protein 3820 3824	this
+T7	Site 3820 3824	this
+T4	Site 3678 3684	Thr121
+T5	Phosphorylation 3825 3840	PHOSphorylation
+T2	Protein 3688 3691	Arm
+T3	Site 3667 3673	Thr111
+T1	Phosphorylation 3648 3663	phosphorylaTION
+E8	Phosphorylation:T5 Theme:T2 Site:T7
+E5	Phosphorylation:T5 Theme:T6 Site:T7
+E4	Phosphorylation:T5 Theme:T6 Site:T4
+E7	Phosphorylation:T5 Theme:T2 Site:T4
+E6	Phosphorylation:T5 Theme:T2 Site:T3
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T5 Theme:T6 Site:T3
+E2	Phosphorylation:T1 Theme:T2 Site:T4

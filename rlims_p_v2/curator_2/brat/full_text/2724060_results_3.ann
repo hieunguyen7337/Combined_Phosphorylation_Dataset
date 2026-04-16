@@ -1,0 +1,6 @@
+T4	Site 2597 2600	Y14
+T2	Protein 2591 2607	Cav1 (Y14F Cav1)
+T3	Site 2558 2566	tyrosine
+T1	Phosphorylation 2567 2582	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E2	Phosphorylation:T1 Theme:T2 Site:T4

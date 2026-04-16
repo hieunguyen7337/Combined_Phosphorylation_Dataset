@@ -1,0 +1,24 @@
+T8	Phosphorylation 552 566	phosphorylates
+T9	Protein 548 551	PKC
+T6	Protein 210 214	IRS1
+T7	Site 184 190	serine
+T4	Site 82 91	Ser(1101)
+T5	Phosphorylation 184 206	serine phosphorylation
+T2	Protein 5 27	Protein kinase C Theta
+T3	Protein 74 78	IRS1
+T1	Phosphorylation 58 73	phosphorylating
+T14	Site 601 609	tyrosine
+T15	Phosphorylation 191 206	phosphorylation
+T16	Protein 99 117	Obesity and stress
+T17	Phosphorylation 610 625	phosphorylation
+T10	Protein 567 571	IRS1
+T11	Site 575 586	serine 1101
+T12	Phosphorylation 596 651	IRS1 tyrosine phosphorylation and downstream activation
+T13	Protein 659 662	Akt
+T18	Protein 596 600	IRS1
+E5	Phosphorylation:T15 Theme:T6 Cause:T16 Site:T7
+E4	Phosphorylation:T12 Theme:T13 Site:T14
+E6	Phosphorylation:T17 Theme:T18 Site:T14
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T11
+E2	Phosphorylation:T5 Theme:T6 Site:T7

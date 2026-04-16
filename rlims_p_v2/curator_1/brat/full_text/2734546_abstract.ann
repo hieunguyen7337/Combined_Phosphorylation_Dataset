@@ -1,0 +1,3 @@
+T2	Protein 998 1043	extracellular signal-regulated kinase ( ERK )
+T1	Phosphorylation 1044 1059	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

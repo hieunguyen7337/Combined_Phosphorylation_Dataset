@@ -1,0 +1,25 @@
+T8	Protein 574 579	ASAP1
+T9	Phosphorylation 531 548	nonphosphorylated
+T6	Site 388 417	tyrosine residues 308 and 782
+T7	Phosphorylation 513 528	phosphorylation
+T4	Protein 350 354	Pyk2
+T5	Protein 379 384	ASAP1
+T2	Protein 95 100	ASAP1
+T3	Phosphorylation 364 378	phosphorylates
+T1	Phosphorylation 101 116	phosphorylation
+T14	Protein 757 762	ASAP1
+T15	Site 729 737	tyrosine
+T16	Phosphorylation 917 932	phosphorylation
+T17	Protein 875 880	ASAP1
+T10	Phosphorylation 558 573	-phosphorylated
+T11	Protein 553 557	Pyk2
+T12	Phosphorylation 738 753	phosphorylation
+T13	Protein 714 718	Pyk2
+T18	Site 908 916	tyrosine
+E5	Phosphorylation:T10 Theme:T8 Cause:T11
+E4	Phosphorylation:T9 Theme:T8
+E7	Phosphorylation:T16 Theme:T17 Site:T18
+E6	Phosphorylation:T12 Theme:T14 Cause:T13 Site:T15
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T7 Theme:T8
+E2	Phosphorylation:T3 Theme:T5 Cause:T4 Site:T6

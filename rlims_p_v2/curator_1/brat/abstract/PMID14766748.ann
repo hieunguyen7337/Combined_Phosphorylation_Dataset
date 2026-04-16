@@ -1,0 +1,28 @@
+T8	Phosphorylation 277 292	phosphorylation
+T9	Protein 378 381	Akt
+T6	Protein 258 261	Bax
+T7	Site 239 247	Ser(184)
+T4	Site 28 34	Ser184
+T5	Phosphorylation 220 235	phosphorylation
+T2	Protein 38 41	Akt
+T3	Protein 24 27	Bax
+T1	Phosphorylation 5 20	Phosphorylation
+T14	Protein 676 679	Bax
+T15	Site 654 660	serine
+T16	Phosphorylation 847 862	phosphorylation
+T17	Protein 881 884	Akt
+T10	Phosphorylation 398 419	serine-phosphorylated
+T11	Protein 427 430	Bax
+T12	Site 398 404	serine
+T13	Phosphorylation 654 675	serine-phosphorylated
+T21	Protein 937 940	Bax
+T20	Phosphorylation 912 927	phosphorylation
+T18	Protein 827 830	Bax
+T19	Site 866 874	Ser(184)
+E5	Phosphorylation:T13 Theme:T14 Site:T15
+E4	Phosphorylation:T10 Theme:T11 Site:T12
+E7	Phosphorylation:T20 Theme:T21
+E6	Phosphorylation:T16 Theme:T18 Cause:T17 Site:T19
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T8 Theme:T6 Cause:T9
+E2	Phosphorylation:T5 Theme:T6 Site:T7

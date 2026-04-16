@@ -1,0 +1,4 @@
+T2	Protein 2186 2216	1A and 2B protein phosphatases
+T3	Protein 2254 2258	ERKs
+T1	Phosphorylation 2233 2250	dePHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

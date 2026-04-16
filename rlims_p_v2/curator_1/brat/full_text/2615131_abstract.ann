@@ -1,0 +1,3 @@
+T2	Protein 1400 1406	ERK1/2
+T1	Phosphorylation 1407 1422	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

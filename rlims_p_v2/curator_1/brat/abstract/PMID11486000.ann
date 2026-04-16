@@ -1,0 +1,41 @@
+T14	Protein 705 717	All four PDK
+T15	Site 734 740	site 1
+T16	Site 745 751	site 2
+T17	Phosphorylation 934 948	phosphorylated
+T10	Phosphorylation 563 578	phosphorylation
+T11	Protein 588 590	E1
+T12	Phosphorylation 674 689	phosphorylation
+T13	Phosphorylation 719 733	phosphorylated
+T18	Protein 952 956	PDK1
+T19	Site 923 929	Site 3
+T8	Phosphorylation 417 432	Phosphorylation
+T9	Protein 456 504	pyruvate dehydrogenase kinase ( PDK ) isoenzymes
+T6	Site 320 327	Ser-271
+T7	Site 339 346	Ser-203
+T4	Protein 356 414	alpha subunit of the pyruvate dehydrogenase (E1) component
+T5	Site 301 308	Ser-264
+T2	Protein 119 141	pyruvate dehydrogenase
+T3	Phosphorylation 222 255	phosphorylation-dephosphorylation
+T1	Phosphorylation 88 103	phosphorylation
+T29	Phosphorylation 1571 1586	phosphorylation
+T28	Site 1506 1512	site 2
+T21	Protein 1075 1079	PDKs
+T20	Phosphorylation 1080 1094	phosphorylated
+T23	Phosphorylation 1424 1439	phosphorylation
+T22	Site 1095 1101	site 1
+T25	Site 1380 1393	site 1 serine
+T24	Protein 1467 1469	E1
+T27	Protein 1516 1525	four PDKs
+T26	Phosphorylation 1487 1502	phosphorylation
+E11	Phosphorylation:T23 Theme:T24 Site:T25
+E10	Phosphorylation:T20 Theme:T11 Cause:T21 Site:T22
+E12	Phosphorylation:T26 Theme:T24 Cause:T27 Site:T28
+E9	Phosphorylation:T17 Theme:T11 Cause:T18 Site:T19
+E8	Phosphorylation:T13 Theme:T11 Cause:T14 Site:T16
+E5	Phosphorylation:T8 Theme:T4 Cause:T9
+E4	Phosphorylation:T3 Theme:T4 Site:T7
+E7	Phosphorylation:T13 Theme:T11 Cause:T14 Site:T15
+E6	Phosphorylation:T10 Theme:T11
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T4 Site:T6
+E2	Phosphorylation:T3 Theme:T4 Site:T5

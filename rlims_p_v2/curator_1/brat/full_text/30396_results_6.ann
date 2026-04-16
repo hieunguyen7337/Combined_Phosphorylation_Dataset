@@ -1,0 +1,16 @@
+T8	Protein 545 550	and 3
+T9	Phosphorylation 1001 1015	PHOSphorylated
+T6	Phosphorylation 524 538	PHOSphorylated
+T7	Protein 539 544	Smad2
+T4	Protein 210 220	both Smad2
+T5	Protein 221 226	and 3
+T2	Protein 20 25	Smad2
+T3	Phosphorylation 196 209	PHOSphorylate
+T1	Phosphorylation 5 19	PHOSphorylated
+T10	Protein 1016 1021	Smad2
+E5	Phosphorylation:T6 Theme:T8
+E4	Phosphorylation:T6 Theme:T7
+E6	Phosphorylation:T9 Theme:T10
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T5
+E2	Phosphorylation:T3 Theme:T4

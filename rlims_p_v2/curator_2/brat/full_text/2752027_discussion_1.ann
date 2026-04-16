@@ -1,0 +1,11 @@
+T8	Protein 7862 7869	Artemis
+T6	Phosphorylation 7843 7858	PHOSphorylation
+T7	Protein 7873 7879	DNA-PK
+T4	Phosphorylation 7707 7727	auto-PHOSphorylation
+T5	Protein 7700 7706	DNA-PK
+T2	Phosphorylation 5195 5210	PHOSphorylation
+T3	Protein 5214 5219	KAP-1
+T1	Phosphorylation 5151 5160	SUBstrate
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T6 Theme:T8 Cause:T7
+E2	Phosphorylation:T4 Theme:T5 Cause:T5

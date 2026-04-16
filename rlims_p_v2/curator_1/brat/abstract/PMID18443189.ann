@@ -1,0 +1,27 @@
+T8	Protein 1042 1048	MKK3/6
+T9	Protein 1051 1054	p38
+T6	Protein 1027 1033	MEK1/2
+T7	Protein 1036 1039	ERK
+T4	Protein 1013 1016	PAK
+T5	Protein 1019 1024	c-Raf
+T2	Protein 872 896	NSC23766 (Rac inhibitor)
+T3	Protein 901 924	pertussis toxin ( PTX )
+T1	Phosphorylation 963 978	phosphorylation
+T10	Protein 1057 1060	JNK
+T11	Protein 1067 1070	Akt
+E11	Phosphorylation:T1 Theme:T9 Cause:T2
+E10	Phosphorylation:T1 Theme:T8 Cause:T3
+E13	Phosphorylation:T1 Theme:T10 Cause:T2
+E12	Phosphorylation:T1 Theme:T9 Cause:T3
+E15	Phosphorylation:T1 Theme:T11 Cause:T2
+E14	Phosphorylation:T1 Theme:T10 Cause:T3
+E16	Phosphorylation:T1 Theme:T11 Cause:T3
+E9	Phosphorylation:T1 Theme:T8 Cause:T2
+E8	Phosphorylation:T1 Theme:T7 Cause:T3
+E5	Phosphorylation:T1 Theme:T6 Cause:T2
+E4	Phosphorylation:T1 Theme:T5 Cause:T3
+E7	Phosphorylation:T1 Theme:T7 Cause:T2
+E6	Phosphorylation:T1 Theme:T6 Cause:T3
+E1	Phosphorylation:T1 Theme:T4 Cause:T2
+E3	Phosphorylation:T1 Theme:T5 Cause:T2
+E2	Phosphorylation:T1 Theme:T4 Cause:T3

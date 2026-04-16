@@ -1,0 +1,67 @@
+T38	Protein 980 988	DNM JNK1
+T13	Site 363 372	serine 28
+T14	Phosphorylation 446 460	phosphorylated
+T15	Protein 409 413	ERK1
+T16	Protein 416 420	ERK2
+T17	Protein 426 436	p38 kinase
+T10	Site 210 219	serine 28
+T11	Phosphorylation 338 353	phosphorylation
+T12	Protein 357 359	H3
+T39	Protein 1019 1021	H3
+T36	Phosphorylation 1022 1037	phosphorylation
+T37	Protein 962 976	DNM p38 kinase
+T34	Protein 929 931	H3
+T35	Site 935 944	serine 28
+T18	Protein 461 463	H3
+T33	Protein 824 861	dominant negative mutant ( DNM ) ERK2
+T30	Protein 776 778	H3
+T31	Site 798 807	serine 28
+T32	Phosphorylation 910 925	phosphorylation
+T19	Site 467 476	serine 28
+T8	Phosphorylation 191 206	phosphorylation
+T9	Protein 188 190	H3
+T6	Phosphorylation 99 114	phosphorylation
+T7	Protein 88 98	Histone H3
+T4	Protein 57 67	histone H3
+T5	Site 71 80	serine 28
+T2	Protein 5 16	MAP kinases
+T3	Protein 25 28	UVB
+T1	Phosphorylation 38 53	phosphorylation
+T29	Phosphorylation 779 794	phosphorylation
+T28	Site 640 649	serine 28
+T21	Protein 488 492	JNK1
+T20	Phosphorylation 518 531	phosphorylate
+T23	Protein 532 534	H3
+T22	Protein 496 500	JNK2
+T25	Phosphorylation 615 630	phosphorylation
+T24	Site 538 547	serine 28
+T27	Protein 634 636	H3
+T26	Protein 582 597	UVB irradiation
+T49	Site 1234 1243	serine 28
+T48	Protein 1212 1214	H3
+T43	Protein 1079 1081	H3
+T42	Protein 1067 1070	UVB
+T41	Phosphorylation 1082 1097	phosphorylation
+T40	Site 1041 1050	serine 28
+T47	Protein 1200 1203	UVB
+T46	Protein 1263 1297	mitogen -activated protein kinases
+T45	Phosphorylation 1215 1230	phosphorylation
+T44	Site 1101 1110	serine 28
+E18	Phosphorylation:T45 Theme:T48 Cause:T47 Site:T49
+E11	Phosphorylation:T25 Theme:T27 Cause:T26 Site:T28
+E10	Phosphorylation:T20 Theme:T23 Cause:T22 Site:T24
+E13	Phosphorylation:T32 Theme:T34 Cause:T33 Site:T35
+E12	Phosphorylation:T29 Theme:T30 Site:T31
+E15	Phosphorylation:T36 Theme:T39 Cause:T38 Site:T40
+E14	Phosphorylation:T36 Theme:T39 Cause:T37 Site:T40
+E17	Phosphorylation:T45 Theme:T48 Cause:T46 Site:T49
+E16	Phosphorylation:T41 Theme:T43 Cause:T42 Site:T44
+E9	Phosphorylation:T20 Theme:T23 Cause:T21 Site:T24
+E8	Phosphorylation:T14 Theme:T18 Cause:T17 Site:T19
+E5	Phosphorylation:T11 Theme:T12 Site:T13
+E4	Phosphorylation:T8 Theme:T9 Site:T10
+E7	Phosphorylation:T14 Theme:T18 Cause:T16 Site:T19
+E6	Phosphorylation:T14 Theme:T18 Cause:T15 Site:T19
+E1	Phosphorylation:T1 Theme:T4 Cause:T2 Site:T5
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T1 Theme:T4 Cause:T3 Site:T5

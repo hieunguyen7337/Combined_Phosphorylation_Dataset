@@ -1,0 +1,4 @@
+T2	Protein 437 453	TbetaRII (K277R)
+T3	Protein 633 641	TbetaR-I
+T1	Phosphorylation 619 632	PHOSphorylate
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

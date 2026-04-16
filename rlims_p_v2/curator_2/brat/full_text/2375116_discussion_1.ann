@@ -1,0 +1,4 @@
+T2	Protein 433 450	RNA polymerase II
+T3	Site 417 432	PHOSphoserine-5
+T1	Phosphorylation 417 432	PHOSphoserine-5
+E1	Phosphorylation:T1 Theme:T2 Site:T3

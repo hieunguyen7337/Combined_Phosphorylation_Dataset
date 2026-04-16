@@ -1,0 +1,11 @@
+T6	Phosphorylation 1451 1468	dephosphorylation
+T7	Protein 1472 1478	4E-BP1
+T4	Phosphorylation 796 810	phosphorylated
+T5	Protein 811 816	eIF4E
+T2	Protein 423 428	eIF4E
+T3	Protein 433 464	4E-binding protein 1 ( 4E-BP1 )
+T1	Phosphorylation 398 413	phosphorylation
+E4	Phosphorylation:T6 Theme:T7
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

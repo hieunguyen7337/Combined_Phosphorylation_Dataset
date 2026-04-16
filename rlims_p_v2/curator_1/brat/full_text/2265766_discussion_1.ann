@@ -1,0 +1,4 @@
+T2	Protein 2838 2842	CK-B
+T3	Phosphorylation 2985 2994	SUBstrate
+T1	Phosphorylation 2886 2901	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

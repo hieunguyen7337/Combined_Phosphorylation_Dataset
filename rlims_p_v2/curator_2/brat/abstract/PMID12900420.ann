@@ -1,0 +1,29 @@
+T8	Protein 1308 1317	GSK-3beta
+T9	Phosphorylation 1483 1490	targets
+T6	Site 301 309	serine 9
+T7	Phosphorylation 1278 1304	the phosphorylation status
+T4	Protein 313 335	protein kinase B (Akt)
+T5	Protein 71 74	Akt
+T2	Protein 107 145	cAMP-response element -binding protein
+T3	Phosphorylation 275 297	becomes phosphorylated
+T1	Phosphorylation 84 103	the phosphorylation
+T14	Protein 5 74	Alleviating the suppression of glycogen synthase kinase -3beta by Akt
+T15	Phosphorylation 283 297	phosphorylated
+T16	Protein 199 243	Glycogen synthase kinase-3beta ( GSK-3beta )
+T17	Anaphora 272 274	it
+T10	Phosphorylation 1980 1999	the phosphorylation
+T11	Protein 2003 2023	CRE -binding protein
+T12	Site 2027 2037	serine 129
+T13	Phosphorylation 88 103	phosphorylation
+T20	Protein 1917 1968	expression of constitutively active GSK-3betadelta9
+T18	Phosphorylation 1282 1297	phosphorylation
+T19	Phosphorylation 1984 1999	phosphorylation
+E8	Phosphorylation:T19 Theme:T11 Cause:T20 Site:T12
+E5	Phosphorylation:T13 Theme:T2 Cause:T14
+E4	Phosphorylation:T10 Theme:T11 Site:T12
+E7	Phosphorylation:T18 Theme:T8
+E6	Phosphorylation:T15 Theme:T17 Cause:T4 Site:T6
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T7 Theme:T8
+E2	Phosphorylation:T3 Theme:T5 Cause:T4 Site:T6
+R1	Coreference Arg1:T17 Arg2:T16

@@ -1,0 +1,3 @@
+T2	Protein 273 276	pRb
+T1	Phosphorylation 277 292	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

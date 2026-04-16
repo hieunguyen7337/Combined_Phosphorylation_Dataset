@@ -1,0 +1,7 @@
+T4	Phosphorylation 1617 1632	PHOSphorylation
+T5	Protein 1666 1671	SMAD1
+T2	Protein 458 489	the BMP receptor heterotetramer
+T3	Protein 404 409	SMAD1
+T1	Phosphorylation 417 431	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E2	Phosphorylation:T4 Theme:T5

@@ -1,0 +1,32 @@
+T14	Phosphorylation 1311 1326	phosphorylation
+T15	Protein 1193 1201	PKCdelta
+T16	Site 1302 1310	tyrosine
+T17	Phosphorylation 1452 1467	phosphorylation
+T10	Protein 975 1011	PKCdelta ( mutants Y311F and Y332F )
+T11	Phosphorylation 1102 1117	phosphorylation
+T12	Protein 975 983	PKCdelta
+T13	Site 1093 1101	tyrosine
+T18	Protein 1418 1426	PKCdelta
+T19	Site 1443 1451	tyrosine
+T8	Phosphorylation 956 974	Unphosphorylatable
+T9	Protein 1066 1074	ceramide
+T6	Protein 866 874	PKCdelta
+T7	Site 898 919	Tyr(311) and Tyr(332)
+T4	Phosphorylation 879 894	phosphorylation
+T5	Protein 764 772	Ceramide
+T2	Protein 5 13	Ceramide
+T3	Protein 88 109	protein kinase Cdelta
+T1	Phosphorylation 52 67	phosphorylation
+T21	Protein 1652 1660	PKCdelta
+T20	Phosphorylation 1608 1623	phosphorylation
+T23	Phosphorylation 1708 1723	phosphorylation
+T22	Site 1627 1648	Tyr(311) and Tyr(332)
+T24	Site 1727 1748	Tyr(311) and Tyr(332)
+E8	Phosphorylation:T20 Theme:T21 Site:T22
+E5	Phosphorylation:T14 Theme:T15 Site:T16
+E4	Phosphorylation:T11 Theme:T12 Cause:T9 Site:T13
+E7	Phosphorylation:T17 Theme:T18 Site:T19
+E6	Phosphorylation:T11 Theme:T12 Site:T13
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T10 Cause:T9
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7

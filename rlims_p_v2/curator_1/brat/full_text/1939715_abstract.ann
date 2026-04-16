@@ -1,0 +1,18 @@
+T8	Protein 1578 1586	PKCalpha
+T9	Phosphorylation 1710 1725	phosphorylaTION
+T6	Protein 1543 1552	PKCbeta-I
+T7	Phosphorylation 1557 1574	dePHOSphorylation
+T4	Protein 1194 1202	PKCalpha
+T5	Phosphorylation 1524 1539	phosphorylaTION
+T2	Protein 1154 1163	PKCbeta-I
+T3	Phosphorylation 1203 1218	PHOSphorylation
+T1	Phosphorylation 1164 1179	phosphorylaTION
+T10	Protein 1729 1738	PKCbeta-I
+T11	Phosphorylation 1743 1760	dePHOSphorylation
+T12	Protein 1764 1772	PKCalpha
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

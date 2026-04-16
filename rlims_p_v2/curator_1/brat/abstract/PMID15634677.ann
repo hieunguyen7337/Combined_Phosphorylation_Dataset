@@ -1,0 +1,50 @@
+T14	Protein 524 527	KCl
+T15	Protein 498 504	moesin
+T16	Phosphorylation 561 576	phosphorylation
+T17	Protein 554 560	Moesin
+T10	Protein 361 371	Rho kinase
+T11	Protein 402 408	moesin
+T12	Site 412 419	Thr-558
+T13	Phosphorylation 505 520	phosphorylation
+T36	Site 1414 1421	Thr-558
+T34	Protein 1466 1470	Rac1
+T35	Protein 1404 1410	moesin
+T32	Protein 1439 1452	KCl treatment
+T33	Protein 1456 1459	PKA
+T30	Protein 1322 1328	moesin
+T31	Phosphorylation 1385 1400	phosphorylation
+T18	Site 580 587	Thr-558
+T19	Phosphorylation 776 791	phosphorylation
+T8	Phosphorylation 383 398	phosphorylation
+T9	Protein 352 356	RhoA
+T6	Phosphorylation 305 320	phosphorylation
+T7	Protein 174 184	ERM family
+T4	Protein 102 108	moesin
+T5	Site 112 119	Thr-558
+T2	Protein 46 62	protein kinase A
+T3	Protein 67 71	Rac1
+T1	Phosphorylation 83 98	phosphorylation
+T29	Protein 1348 1351	KCl
+T28	Phosphorylation 1329 1344	phosphorylation
+T21	Protein 769 775	moesin
+T20	Protein 756 759	KCl
+T23	Protein 1004 1007	KCl
+T22	Phosphorylation 985 1000	phosphorylation
+T25	Phosphorylation 1030 1045	phosphorylation
+T24	Protein 978 984	moesin
+T27	Protein 1049 1055	moesin
+T26	Protein 1059 1062	KCl
+E11	Phosphorylation:T28 Theme:T30 Cause:T29
+E10	Phosphorylation:T25 Theme:T27 Cause:T26
+E13	Phosphorylation:T31 Theme:T35 Cause:T33 Site:T36
+E12	Phosphorylation:T31 Theme:T35 Cause:T32 Site:T36
+E14	Phosphorylation:T31 Theme:T35 Cause:T34 Site:T36
+E9	Phosphorylation:T22 Theme:T24 Cause:T23
+E8	Phosphorylation:T19 Theme:T21 Cause:T20
+E5	Phosphorylation:T8 Theme:T11 Cause:T10 Site:T12
+E4	Phosphorylation:T8 Theme:T11 Cause:T9 Site:T12
+E7	Phosphorylation:T16 Theme:T17 Site:T18
+E6	Phosphorylation:T13 Theme:T15 Cause:T14
+E1	Phosphorylation:T1 Theme:T4 Cause:T2 Site:T5
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T1 Theme:T4 Cause:T3 Site:T5

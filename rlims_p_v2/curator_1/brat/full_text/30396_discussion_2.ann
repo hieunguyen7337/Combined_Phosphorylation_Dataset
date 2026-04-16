@@ -1,0 +1,41 @@
+T14	Protein 778 782	MEF2
+T15	Site 732 738	serine
+T16	Site 739 748	threonine
+T17	Phosphorylation 812 828	unPHOSphorylated
+T10	Phosphorylation 584 598	PHOSphorylated
+T11	Protein 599 607	peptides
+T12	Site 575 583	tyrosine
+T13	Phosphorylation 749 763	phosphorylaTED
+T18	Phosphorylation 847 862	PHOSphorylation
+T19	Protein 874 888	p38 MAP kinase
+T30	Protein 1529 1534	Smad3
+T31	Site 1595 1626	the proline -rich linker domain
+T8	Site 358 373	phosPHOpeptides
+T9	Phosphorylation 460 476	unPHOSphorylated
+T6	Site 282 291	tyrosines
+T7	Phosphorylation 358 373	phosPHOpeptides
+T4	Phosphorylation 275 291	phosPHOtyrosines
+T5	Protein 295 328	receptors or cytoplasmic proteins
+T2	Protein 120 124	MEF2
+T3	Site 140 154	acceptor sites
+T1	Phosphorylation 125 139	PHOSphorylated
+T29	Protein 1674 1689	Erk MAP kinases
+T28	Phosphorylation 1576 1591	PHOSphorylation
+T21	Protein 866 870	MEF2
+T20	Protein 893 902	ERK5/BMK1
+T23	Protein 1049 1054	Smads
+T22	Phosphorylation 1008 1023	phosphorylaTION
+T25	Protein 1064 1074	MAP kinase
+T24	Phosphorylation 1085 1100	PHOSphorylation
+T27	Site 1104 1135	the MEF2 transactivation domain
+T26	Protein 1108 1112	MEF2
+E10	Phosphorylation:T28 Theme:T30 Cause:T29 Site:T31
+E9	Phosphorylation:T24 Theme:T26 Cause:T25 Site:T27
+E8	Phosphorylation:T22 Theme:T23
+E5	Phosphorylation:T13 Theme:T14 Site:T16
+E4	Phosphorylation:T13 Theme:T14 Site:T15
+E7	Phosphorylation:T18 Theme:T21 Cause:T20
+E6	Phosphorylation:T18 Theme:T21 Cause:T19
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T10 Theme:T11 Site:T12
+E2	Phosphorylation:T4 Theme:T5 Site:T6

@@ -1,0 +1,9 @@
+T6	Protein 11087 11101	neurofilaments
+T4	Phosphorylation 10658 10672	PHOSphorylated
+T5	Phosphorylation 11066 11083	dePHOSphorylation
+T2	Protein 10673 10688	neurofilament H
+T3	Protein 10721 10736	neurofilament M
+T1	Phosphorylation 10620 10634	phosphorylaTED
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T1 Theme:T3

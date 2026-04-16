@@ -1,0 +1,36 @@
+T14	Protein 1139 1143	CREB
+T15	Site 1147 1153	Ser133
+T16	Site 1174 1180	Ser142
+T17	Phosphorylation 1228 1243	phosphorylation
+T10	Protein 1087 1091	CREB
+T11	Site 1095 1101	Ser133
+T12	Phosphorylation 1124 1138	phosphorylates
+T13	Protein 1117 1123	CaMKII
+T18	Protein 1257 1263	CaMKII
+T19	Site 1247 1253	Ser142
+T8	Phosphorylation 1072 1086	phosphorylates
+T9	Protein 1065 1071	CaMKIV
+T6	Protein 873 877	CREB
+T7	Phosphorylation 1004 1018	phosphopeptide
+T4	Protein 837 843	CaMKII
+T5	Protein 848 854	CaMKIV
+T2	Protein 32 36	CREB
+T3	Phosphorylation 859 872	phosphorylate
+T1	Phosphorylation 112 127	phosphorylation
+T21	Protein 1289 1293	CREB
+T20	Phosphorylation 1336 1350	phosphorylated
+T23	Phosphorylation 1583 1598	phosphorylation
+T22	Site 1326 1332	Ser133
+T25	Site 1602 1608	Ser142
+T24	Protein 1626 1630	CREB
+T27	Protein 1708 1712	CREB
+T26	Phosphorylation 1732 1747	phosphorylation
+E9	Phosphorylation:T26 Theme:T27
+E8	Phosphorylation:T23 Theme:T24 Site:T25
+E5	Phosphorylation:T12 Theme:T14 Cause:T13 Site:T15
+E4	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T11
+E7	Phosphorylation:T20 Theme:T21 Site:T22
+E6	Phosphorylation:T12 Theme:T14 Cause:T13 Site:T16
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T6 Cause:T5
+E2	Phosphorylation:T3 Theme:T6 Cause:T4

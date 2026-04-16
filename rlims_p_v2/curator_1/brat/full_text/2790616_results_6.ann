@@ -1,0 +1,9 @@
+T6	Protein 2264 2269	Rad53
+T4	Protein 2036 2041	Rad53
+T5	Phosphorylation 2270 2285	PHOSphorylation
+T2	Protein 1561 1566	Rad53
+T3	Phosphorylation 2012 2026	PHOSphorylated
+T1	Phosphorylation 1567 1582	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

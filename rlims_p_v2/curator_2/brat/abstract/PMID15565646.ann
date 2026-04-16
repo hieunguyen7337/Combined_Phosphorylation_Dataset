@@ -1,0 +1,21 @@
+T8	Phosphorylation 1256 1271	phosphorylation
+T9	Protein 1198 1206	CK1alpha
+T6	Phosphorylation 1020 1035	phosphorylating
+T7	Protein 1048 1056	CK1alpha
+T4	Phosphorylation 395 410	phosphorylation
+T5	Protein 382 394	beta-catenin
+T2	Protein 167 185	Protein kinase CK1
+T3	Protein 259 271	beta-catenin
+T1	Phosphorylation 240 255	phosphorylation
+T14	Protein 1509 1517	CK1alpha
+T15	Protein 1526 1532	casein
+T10	Protein 1275 1287	beta-catenin
+T11	Phosphorylation 1410 1425	phosphorylation
+T12	Protein 1429 1433	axin
+T13	Phosphorylation 1555 1564	substrate
+E5	Phosphorylation:T11 Theme:T12
+E4	Phosphorylation:T8 Theme:T10 Cause:T9
+E6	Phosphorylation:T13 Theme:T15 Cause:T14
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T6 Theme:T5 Cause:T7
+E2	Phosphorylation:T4 Theme:T5

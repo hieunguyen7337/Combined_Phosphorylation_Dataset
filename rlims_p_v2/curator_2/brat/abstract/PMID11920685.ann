@@ -1,0 +1,24 @@
+T8	Site 644 650	Thr845
+T9	Phosphorylation 993 1018	trans-autophosphorylation
+T6	Protein 715 719	H2O2
+T7	Protein 691 695	ASK1
+T4	Protein 19 55	apoptosis signal-regulating kinase 1
+T5	Phosphorylation 625 640	phosphorylation
+T2	Protein 63 69	stress
+T3	Protein 108 127	pre-formed oligomer
+T1	Phosphorylation 89 104	phosphorylation
+T14	Protein 1185 1189	ASK1
+T15	Site 1175 1181	Thr845
+T16	Phosphorylation 1380 1395	phosphorylation
+T17	Protein 1399 1450	oligomerized and activation-competent forms of ASK1
+T10	Protein 872 876	ASK1
+T11	Site 1022 1028	Thr845
+T12	Phosphorylation 1202 1222	trans-phosphorylated
+T13	Protein 1226 1255	an unidentified Thr845 kinase
+T18	Site 1373 1379	Thr845
+E5	Phosphorylation:T12 Theme:T14 Cause:T13 Site:T15
+E4	Phosphorylation:T9 Theme:T10 Cause:T10 Site:T11
+E6	Phosphorylation:T16 Theme:T17 Site:T18
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T5 Theme:T7 Cause:T6 Site:T8
+E2	Phosphorylation:T1 Theme:T4 Cause:T2

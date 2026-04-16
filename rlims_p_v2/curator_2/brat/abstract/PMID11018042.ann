@@ -1,0 +1,37 @@
+T14	Protein 462 469	cofilin
+T15	Phosphorylation 784 798	phosphorylated
+T16	Protein 770 774	ROCK
+T17	Protein 858 863	LIMK2
+T10	Phosphorylation 470 485	phosphorylation
+T11	Protein 428 433	LIMK1
+T12	Protein 438 443	LIMK2
+T13	Protein 524 563	the active form of ROCK ( ROCK-Delta3 )
+T18	Site 803 854	threonine 505 residue within the activation segment
+T19	Phosphorylation 1003 1018	phosphorylation
+T8	Protein 271 289	Rho family GTPases
+T9	Protein 224 231	cofilin
+T6	Protein 127 149	LIM-kinase 1 ( LIMK1 )
+T7	Protein 154 176	LIM-kinase 2 ( LIMK2 )
+T4	Site 64 77	threonine 505
+T5	Phosphorylation 232 247	phosphorylation
+T2	Protein 81 85	ROCK
+T3	Protein 28 40	LIM kinase 2
+T1	Phosphorylation 45 60	phosphorylation
+T21	Protein 974 979	LIMK2
+T20	Protein 995 1002	cofilin
+T23	Protein 1188 1192	ROCK
+T22	Phosphorylation 1202 1216	phosphorylates
+T25	Site 1217 1230	threonine 505
+T24	Protein 1245 1250	LIMK2
+T26	Phosphorylation 1279 1299	this phosphorylation
+E11	Phosphorylation:T22 Theme:T24 Cause:T23 Site:T25
+E10	Phosphorylation:T19 Theme:T20 Cause:T21
+E9	Phosphorylation:T19 Theme:T20
+E8	Phosphorylation:T15 Theme:T17 Cause:T16 Site:T18
+E5	Phosphorylation:T10 Theme:T14 Cause:T11
+E4	Phosphorylation:T5 Theme:T9 Cause:T8
+E7	Phosphorylation:T10 Theme:T14 Cause:T13
+E6	Phosphorylation:T10 Theme:T14 Cause:T12
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T5 Theme:T9 Cause:T7
+E2	Phosphorylation:T5 Theme:T9 Cause:T6

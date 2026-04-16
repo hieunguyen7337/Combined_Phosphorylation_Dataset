@@ -1,0 +1,3 @@
+T2	Protein 1723 1729	STAT-1
+T1	Phosphorylation 1730 1745	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

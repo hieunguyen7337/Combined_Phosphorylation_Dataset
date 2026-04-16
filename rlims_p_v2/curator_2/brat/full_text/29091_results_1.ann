@@ -1,0 +1,21 @@
+T8	Phosphorylation 4510 4524	PHOSphorylated
+T9	Protein 4496 4500	AKT2
+T6	Protein 4459 4463	AKT1
+T7	Site 4482 4489	Ser 473
+T4	Site 4176 4182	Thr308
+T5	Phosphorylation 4464 4478	phosphorylaTED
+T2	Protein 4109 4112	AKT
+T3	Site 4165 4171	Ser473
+T1	Phosphorylation 4146 4161	PHOSphorylation
+T14	Protein 4783 4786	AKT
+T10	Protein 4505 4509	AKT3
+T11	Phosphorylation 4616 4630	PHOSphorylated
+T12	Protein 4631 4634	AKT
+T13	Phosphorylation 4768 4782	PHOSphorylated
+E5	Phosphorylation:T8 Theme:T10
+E4	Phosphorylation:T8 Theme:T9
+E7	Phosphorylation:T13 Theme:T14
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T5 Theme:T6 Site:T7
+E2	Phosphorylation:T1 Theme:T2 Site:T4

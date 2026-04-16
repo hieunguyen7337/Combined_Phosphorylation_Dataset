@@ -1,0 +1,11 @@
+T6	Protein 669 685	phosphatase PP2A
+T7	Protein 710 715	4E-BP
+T4	Phosphorylation 716 731	phosphorylation
+T5	Protein 656 660	mTOR
+T2	Protein 98 104	4E-BP1
+T3	Protein 9 32	splicing factor SF2/ASF
+T1	Phosphorylation 79 94	phosphorylation
+E4	Phosphorylation:T4 Theme:T7 Cause:T6
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T7 Cause:T5
+E2	Phosphorylation:T1 Theme:T2 Cause:T3

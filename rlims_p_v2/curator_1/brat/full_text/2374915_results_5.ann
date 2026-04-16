@@ -1,0 +1,7 @@
+T4	Phosphorylation 937 952	PHOSphorylation
+T5	Protein 960 994	histone variant H2AX ( gammaH2AX )
+T2	Phosphorylation 426 440	PHOSphorylated
+T3	Protein 441 458	RNA polymerase II
+T1	Phosphorylation 336 350	PHOSphorylated
+E1	Phosphorylation:T2 Theme:T3
+E2	Phosphorylation:T4 Theme:T5

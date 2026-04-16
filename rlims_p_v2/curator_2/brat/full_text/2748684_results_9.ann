@@ -1,0 +1,13 @@
+T8	Phosphorylation 1312 1326	PHOSphorylated
+T9	Protein 1327 1335	p38 MAPK
+T6	Phosphorylation 1244 1258	PHOSphorylated
+T7	Protein 1259 1270	p44/42 MAPK
+T4	Protein 1147 1179	three members of the MAPK family
+T5	Phosphorylation 1210 1224	phosphorylaTED
+T2	Protein 552 574	retinoblastoma protein
+T3	Phosphorylation 1123 1137	phosphorylaTED
+T1	Phosphorylation 537 551	PHOSphorylated
+E4	Phosphorylation:T8 Theme:T9
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T3 Theme:T4

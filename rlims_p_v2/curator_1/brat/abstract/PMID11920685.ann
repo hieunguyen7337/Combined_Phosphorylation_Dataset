@@ -1,0 +1,22 @@
+T8	Phosphorylation 993 1018	trans-autophosphorylation
+T9	Protein 872 885	ASK1 oligomer
+T6	Protein 691 695	ASK1
+T7	Site 644 650	Thr845
+T4	Phosphorylation 625 640	phosphorylation
+T5	Protein 715 719	H2O2
+T2	Protein 63 69	stress
+T3	Protein 19 55	apoptosis signal-regulating kinase 1
+T1	Phosphorylation 89 104	phosphorylation
+T14	Site 1175 1181	Thr845
+T15	Phosphorylation 1380 1395	phosphorylation
+T16	Protein 1446 1450	ASK1
+T17	Site 1373 1379	Thr845
+T10	Site 1022 1028	Thr845
+T11	Phosphorylation 1202 1222	trans-phosphorylated
+T12	Protein 1271 1275	H2O2
+T13	Protein 1185 1189	ASK1
+E5	Phosphorylation:T15 Theme:T16 Site:T17
+E4	Phosphorylation:T11 Theme:T13 Cause:T12 Site:T14
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7

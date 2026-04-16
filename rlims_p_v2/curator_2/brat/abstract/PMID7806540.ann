@@ -1,0 +1,68 @@
+T12	Site 846 853	Tyr1162
+T13	Site 858 866	d Tyr116
+T14	Phosphorylation 1083 1102	autophosphorylation
+T15	Protein 1030 1054	mutant insulin receptors
+T16	Site 1074 1082	tyrosine
+T17	Phosphorylation 1268 1284	osphorylation of
+T10	Site 801 809	tyrosine
+T11	Site 836 843	Tyr1158
+T38	Protein 1238 1245	insulin
+T39	Protein 1285 1289	IRS1
+T36	Site 836 867	Tyr1158 , Tyr1162 , and Tyr1163
+T37	Phosphorylation 1266 1281	phosphorylation
+T34	Protein 692 695	Shc
+T35	Protein 871 891	the insulin receptor
+T32	Site 2045 2052	Tyr1162
+T19	Protein 1296 1300	c an
+T30	Protein 2060 2076	insulin receptor
+T31	Site 2033 2040	Tyr1158
+T18	Protein 1287 1292	S1 an
+T33	Phosphorylation 696 711	phosphorylation
+T8	Phosphorylation 810 829	autophosphorylation
+T9	Protein 873 890	e insulin recepto
+T6	Phosphorylation 694 710	c phosphorylatio
+T7	Protein 690 694	r Sh
+T4	Site 580 588	tyrosine
+T5	Phosphorylation 625 634	substrate
+T2	Phosphorylation 589 604	phosphorylation
+T3	Protein 608 645	insulin receptor substrate 1 ( IRS1 )
+T1	Phosphorylation 180 189	substrate
+T29	Phosphorylation 2014 2029	phosphorylation
+T28	Protein 1817 1820	Shc
+T21	Phosphorylation 1505 1520	phosphorylation
+T20	Site 1259 1268	rosine ph
+T23	Site 1496 1504	tyrosine
+T22	Protein 1524 1527	Shc
+T25	Protein 1620 1625	f IRS
+T24	Phosphorylation 1601 1617	e phosphorylatio
+T27	Phosphorylation 1821 1836	phosphorylation
+T26	Site 1592 1601	s tyrosin
+T43	Phosphorylation 1603 1618	phosphorylation
+T42	Protein 1480 1487	insulin
+T41	Site 1257 1265	tyrosine
+T40	Protein 1294 1297	Shc
+T46	Protein 1722 1743	FYY and YFF receptors
+T45	Site 1594 1602	tyrosine
+T44	Protein 1622 1626	IRS1
+E19	Phosphorylation:T37 Theme:T40 Cause:T38 Site:T41
+E18	Phosphorylation:T37 Theme:T39 Cause:T38 Site:T41
+E11	Phosphorylation:T24 Theme:T25 Site:T26
+E10	Phosphorylation:T21 Theme:T22 Site:T23
+E13	Phosphorylation:T29 Theme:T30 Site:T31
+E12	Phosphorylation:T27 Theme:T28
+E15	Phosphorylation:T33 Theme:T34
+E14	Phosphorylation:T29 Theme:T30 Site:T32
+E17	Phosphorylation:T8 Theme:T35 Cause:T35 Site:T36
+E16	Phosphorylation:T8 Theme:T35 Cause:T35 Site:T10
+E9	Phosphorylation:T17 Theme:T19 Site:T20
+E8	Phosphorylation:T17 Theme:T18 Site:T20
+E5	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T12
+E4	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T11
+E7	Phosphorylation:T14 Theme:T15 Site:T16
+E6	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T13
+E1	Phosphorylation:T2 Theme:T3 Site:T4
+E3	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T10
+E2	Phosphorylation:T6 Theme:T7
+E20	Phosphorylation:T21 Theme:T22 Cause:T42 Site:T23
+E21	Phosphorylation:T43 Theme:T44 Site:T45
+E22	Phosphorylation:T27 Theme:T28 Cause:T46

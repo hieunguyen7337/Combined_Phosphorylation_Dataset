@@ -1,0 +1,24 @@
+T8	Phosphorylation 900 911	phospho-MLC
+T9	Protein 885 889	Pak1
+T6	Protein 765 769	Pak2
+T7	Protein 831 857	myosin light chain ( MLC )
+T4	Phosphorylation 808 823	phosphorylation
+T5	Protein 756 760	Pak1
+T2	Protein 535 544	heregulin
+T3	Protein 575 582	cofilin
+T1	Phosphorylation 554 571	dephosphorylation
+T14	Protein 1077 1081	Pak2
+T15	Protein 1046 1049	MLC
+T16	Phosphorylation 1415 1430	phosphorylation
+T17	Protein 1411 1414	MLC
+T10	Phosphorylation 986 1001	phosphorylation
+T11	Protein 982 985	MLC
+T12	Phosphorylation 1050 1065	phosphorylation
+T13	Protein 1068 1072	Pak1
+E5	Phosphorylation:T12 Theme:T15 Cause:T13
+E4	Phosphorylation:T10 Theme:T11
+E7	Phosphorylation:T16 Theme:T17
+E6	Phosphorylation:T12 Theme:T15 Cause:T14
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T4 Theme:T7 Cause:T6
+E2	Phosphorylation:T4 Theme:T7 Cause:T5

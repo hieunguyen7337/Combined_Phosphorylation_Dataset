@@ -1,0 +1,38 @@
+T14	Protein 1524 1529	eIF4E
+T15	Phosphorylation 132 147	phosphorylation
+T16	Protein 151 171	initiation factor 4E
+T17	Phosphorylation 263 278	phosphorylation
+T10	Protein 1164 1169	eIF4E
+T11	Phosphorylation 1401 1420	the phosphorylation
+T12	Protein 1424 1429	eIF4E
+T13	Phosphorylation 1505 1520	phosphorylation
+T18	Protein 200 226	initiation factor (eIF) 4E
+T19	Phosphorylation 479 494	phosphorylation
+T8	Protein 914 919	eIF4E
+T9	Phosphorylation 1136 1160	enhanced phosphorylation
+T6	Protein 818 823	eIF4E
+T7	Phosphorylation 914 935	eIF4E phosphorylation
+T4	Protein 498 503	eIF4E
+T5	Phosphorylation 788 814	the phosphorylation status
+T2	Protein 56 70	p38/RK mitogen
+T3	Phosphorylation 470 494	enhanced phosphorylation
+T1	Phosphorylation 259 278	the phosphorylation
+T21	Phosphorylation 792 807	phosphorylation
+T20	Protein 420 462	stress-activated protein kinase (JNK/SAPK)
+T23	Phosphorylation 1145 1160	phosphorylation
+T22	Phosphorylation 920 935	phosphorylation
+T24	Phosphorylation 1405 1420	phosphorylation
+E11	Phosphorylation:T21 Theme:T6
+E10	Phosphorylation:T19 Theme:T4 Cause:T20
+E13	Phosphorylation:T23 Theme:T10
+E12	Phosphorylation:T22 Theme:T8
+E14	Phosphorylation:T24 Theme:T12
+E9	Phosphorylation:T17 Theme:T18
+E8	Phosphorylation:T15 Theme:T16
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T13 Theme:T14
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

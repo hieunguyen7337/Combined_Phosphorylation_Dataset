@@ -1,0 +1,18 @@
+T8	Protein 2447 2453	p44/42
+T9	Phosphorylation 2661 2676	PHOSphorylation
+T6	Protein 2353 2359	p44/42
+T7	Phosphorylation 2428 2443	PHOSphorylation
+T4	Protein 1458 1464	p44/42
+T5	Phosphorylation 2334 2349	PHOSphorylation
+T2	Protein 1248 1254	p44/42
+T3	Phosphorylation 1439 1454	PHOSphorylation
+T1	Phosphorylation 1229 1244	PHOSphorylation
+T10	Protein 2680 2683	AKT
+T11	Phosphorylation 3115 3130	PHOSphorylation
+T12	Protein 3134 3137	AKT
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

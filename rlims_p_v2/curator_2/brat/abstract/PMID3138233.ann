@@ -1,0 +1,104 @@
+T12	Phosphorylation 415 431	phosphothreonine
+T39	Phosphorylation 1592 1606	phosphorylated
+T14	Phosphorylation 651 667	phosphothreonine
+T15	Protein 707 719	EGF receptor
+T16	Site 686 699	threonine 669
+T17	Phosphorylation 731 744	Phosphoserine
+T10	Site 422 431	threonine
+T11	Site 451 458	serines
+T38	Site 1507 1522	phosphopeptides
+T13	Phosphorylation 444 458	phosphoserines
+T36	Phosphorylation 1507 1522	phosphopeptides
+T37	Protein 1441 1459	human EGF receptor
+T34	Protein 1218 1234	the EGF receptor
+T35	Site 1348 1354	serine
+T18	Protein 806 818	EGF receptor
+T19	Site 773 784	serines 671
+T30	Phosphorylation 1259 1274	phosphorylation
+T31	Protein 1222 1234	EGF receptor
+T50	Site 1248 1280	all of the phosphorylation sites
+T51	Anaphora 1680 1715	these threonine and serine residues
+T52	Anaphora 1348 1354	serine
+T53	Anaphora 1344 1363	the serine residues
+T32	Site 1255 1280	the phosphorylation sites
+T33	Phosphorylation 1325 1340	phosphorylation
+T8	Phosphorylation 371 386	phosphorylation
+T9	Protein 338 350	EGF receptor
+T6	Protein 230 286	protein kinase C ( Ca2+/phospholipid -dependent enzyme )
+T7	Phosphorylation 296 311	phosphorylation
+T4	Phosphorylation 175 194	autophosphorylation
+T5	Protein 102 142	epidermal growth factor ( EGF ) receptor
+T2	Protein 5 37	Epidermal growth factor receptor
+T3	Site 38 67	threonine and serine residues
+T1	Phosphorylation 68 82	phosphorylated
+T29	Site 773 798	serines 671 and 1046/1047
+T28	Site 1029 1071	the three identified phosphorylation sites
+T21	Site 773 780	serines
+T20	Site 789 798	1046/1047
+T23	Site 838 844	serine
+T22	Phosphorylation 831 844	phosphoserine
+T25	Phosphorylation 1050 1065	phosphorylation
+T24	Site 872 989	tryptic peptides containing multiple serine residues located carboxyl terminal to the conserved protein kinase domain
+T27	Site 909 915	serine
+T26	Protein 1100 1112	EGF receptor
+T49	Site 1495 1522	all tryptic phosphopeptides
+T48	Anaphora 1248 1280	all of the phosphorylation sites
+T43	Protein 1664 1676	EGF receptor
+T42	Phosphorylation 1641 1656	phosphorylation
+T41	Site 1615 1628	threonine 669
+T40	Protein 1525 1546	A mutant EGF receptor
+T47	Site 821 853	Two other phosphoserine residues
+T46	Anaphora 1029 1071	the three identified phosphorylation sites
+T45	Site 1700 1706	serine
+T44	Site 1686 1695	threonine
+E19	Phosphorylation:T25 Theme:T26 Site:T29
+E18	Phosphorylation:T25 Theme:T26 Site:T28
+E35	Phosphorylation:T33 Theme:T34 Site:T24
+E34	Phosphorylation:T33 Theme:T34 Site:T53
+E33	Phosphorylation:T42 Theme:T43 Site:T51
+E32	Phosphorylation:T36 Theme:T37 Site:T49
+E31	Phosphorylation:T30 Theme:T31 Site:T48
+E30	Phosphorylation:T17 Theme:T18 Site:T29
+E11	Phosphorylation:T14 Theme:T15 Site:T16
+E10	Phosphorylation:T13 Theme:T9 Site:T11
+E13	Phosphorylation:T17 Theme:T18 Site:T20
+E12	Phosphorylation:T17 Theme:T18 Site:T19
+E15	Phosphorylation:T22 Theme:T18 Site:T23
+E14	Phosphorylation:T17 Theme:T18 Site:T21
+E17	Phosphorylation:T25 Theme:T26 Site:T27
+E16	Phosphorylation:T22 Theme:T18 Site:T24
+E9	Phosphorylation:T13 Theme:T9 Site:T10
+E8	Phosphorylation:T12 Theme:T9 Site:T11
+E5	Phosphorylation:T8 Theme:T9 Site:T10
+E4	Phosphorylation:T7 Theme:T5 Cause:T6
+E7	Phosphorylation:T12 Theme:T9 Site:T10
+E6	Phosphorylation:T8 Theme:T9 Site:T11
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T4 Theme:T5 Cause:T6
+E2	Phosphorylation:T4 Theme:T5 Cause:T5
+E24	Phosphorylation:T30 Theme:T31 Site:T16
+E25	Phosphorylation:T33 Theme:T34 Site:T35
+E26	Phosphorylation:T36 Theme:T37 Site:T38
+E27	Phosphorylation:T39 Theme:T40 Site:T41
+E20	Phosphorylation:T30 Theme:T31 Site:T32
+E21	Phosphorylation:T30 Theme:T31 Site:T28
+E22	Phosphorylation:T30 Theme:T31 Site:T24
+E23	Phosphorylation:T30 Theme:T31 Site:T29
+E28	Phosphorylation:T42 Theme:T43 Site:T44
+E29	Phosphorylation:T42 Theme:T43 Site:T45
+R6	Coreference Arg1:T48 Arg2:T24
+R12	Coreference Arg1:T51 Arg2:T50
+R2	Coreference Arg1:T48 Arg2:T28
+R3	Coreference Arg1:T48 Arg2:T47
+R15	Coreference Arg1:T52 Arg2:T29
+R9	Coreference Arg1:T51 Arg2:T29
+R1	Coreference Arg1:T46 Arg2:T29
+R8	Coreference Arg1:T51 Arg2:T16
+R4	Coreference Arg1:T48 Arg2:T29
+R11	Coreference Arg1:T51 Arg2:T28
+R10	Coreference Arg1:T51 Arg2:T24
+R16	Coreference Arg1:T53 Arg2:T29
+R7	Coreference Arg1:T51 Arg2:T41
+R14	Coreference Arg1:T52 Arg2:T24
+R5	Coreference Arg1:T48 Arg2:T16
+R13	Coreference Arg1:T51 Arg2:T49

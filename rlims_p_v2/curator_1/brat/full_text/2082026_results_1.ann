@@ -1,0 +1,18 @@
+T8	Protein 661 667	ERK1/2
+T9	Phosphorylation 1295 1310	PHOSphorylation
+T6	Protein 517 557	downstream cognate transcription factors
+T7	Phosphorylation 642 657	PHOSphorylation
+T4	Protein 424 442	ERK1/2 ( pERK1/2 )
+T5	Phosphorylation 486 499	PHOSphorylate
+T2	Protein 352 358	ERK1/2
+T3	Phosphorylation 409 423	phosphorylaTED
+T1	Phosphorylation 374 389	phosphorylaTION
+T10	Protein 1322 1336	MAP kinase p38
+T11	Phosphorylation 1356 1371	PHOSphorylation
+T12	Protein 1375 1378	p38
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6 Cause:T4
+E2	Phosphorylation:T3 Theme:T4

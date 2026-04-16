@@ -1,0 +1,36 @@
+T14	Protein 6795 6799	WOX1
+T15	Site 6760 6765	Tyr33
+T16	Site 6782 6791	WW domain
+T17	Phosphorylation 6821 6836	PHOSphorylation
+T10	Phosphorylation 6267 6282	PHOSphorylation
+T11	Protein 6249 6258	WWOX/WOX1
+T12	Site 6261 6266	Tyr33
+T13	Phosphorylation 6766 6781	-PHOSphorylated
+T18	Site 6816 6841	this PHOSphorylation site
+T19	Phosphorylation 7135 7150	PHOSphorylation
+T8	Protein 3435 3438	p53
+T9	Site 3413 3418	Ser46
+T6	Site 3253 3258	Ser46
+T7	Phosphorylation 3419 3434	-PHOSphorylated
+T4	Phosphorylation 3259 3274	-PHOSphorylated
+T5	Protein 3275 3278	p53
+T2	Protein 2363 2366	IKK
+T3	Protein 2347 2359	IkappaBalpha
+T1	Phosphorylation 2328 2343	PHOSphorylation
+T21	Protein 7172 7176	Zfra
+T20	Protein 7154 7158	WOX1
+T23	Site 7180 7184	Ser8
+T22	Site 7162 7167	Tyr33
+E11	Phosphorylation:T19 Theme:T20 Site:T23
+E10	Phosphorylation:T19 Theme:T20 Site:T22
+E13	Phosphorylation:T19 Theme:T21 Site:T23
+E12	Phosphorylation:T19 Theme:T21 Site:T22
+E9	Phosphorylation:T17 Theme:T14 Site:T16
+E8	Phosphorylation:T17 Theme:T14 Site:T15
+E5	Phosphorylation:T13 Theme:T14 Site:T15
+E4	Phosphorylation:T10 Theme:T11 Site:T12
+E7	Phosphorylation:T17 Theme:T14 Site:T18
+E6	Phosphorylation:T13 Theme:T14 Site:T16
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T8 Site:T9
+E2	Phosphorylation:T4 Theme:T5 Site:T6

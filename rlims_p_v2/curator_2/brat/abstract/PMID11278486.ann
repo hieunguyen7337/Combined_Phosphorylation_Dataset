@@ -1,0 +1,43 @@
+T14	Site 766 776	serine 144
+T15	Site 788 798	serine 139
+T16	Phosphorylation 1014 1061	two autophosphorylation sites direct activation
+T17	Phosphorylation 39 58	Autophosphorylation
+T10	Protein 548 566	alpha- and betaPAK
+T11	Phosphorylation 632 659	most phosphorylation events
+T12	Protein 667 670	PAK
+T13	Phosphorylation 736 753	a phosphorylation
+T18	Protein 22 25	PAK
+T19	Site 69 103	both regulatory and kinase domains
+T8	Protein 494 497	PAK
+T9	Phosphorylation 510 539	the autophosphorylation sites
+T6	Protein 324 327	PAK
+T7	Phosphorylation 434 460	autophosphorylation events
+T4	Phosphorylation 286 320	The Cdc42 -induced phosphorylation
+T5	Protein 290 295	Cdc42
+T2	Phosphorylation 203 238	multiple autophosphorylation events
+T3	Protein 132 162	p21-activated kinases ( PAKs )
+T1	Phosphorylation 39 65	Autophosphorylation events
+T29	Phosphorylation 1018 1037	autophosphorylation
+T28	Site 757 842	alphaPAK serine 144 or betaPAK serine 139 , which lie in the kinase inhibitory domain
+T21	Phosphorylation 305 320	phosphorylation
+T20	Phosphorylation 212 231	autophosphorylation
+T23	Site 548 566	alpha- and betaPAK
+T22	Phosphorylation 434 453	autophosphorylation
+T25	Phosphorylation 637 652	phosphorylation
+T24	Phosphorylation 514 533	autophosphorylation
+T27	Phosphorylation 738 753	phosphorylation
+T26	Site 671 699	N-terminal regulatory domain
+E11	Phosphorylation:T22 Theme:T8 Cause:T8 Site:T23
+E10	Phosphorylation:T21 Theme:T6 Cause:T5
+E13	Phosphorylation:T25 Theme:T12 Site:T26
+E12	Phosphorylation:T24 Theme:T8 Cause:T8
+E14	Phosphorylation:T27 Theme:T12 Site:T28
+E9	Phosphorylation:T20 Theme:T3 Cause:T3
+E8	Phosphorylation:T17 Theme:T18 Cause:T18 Site:T19
+E5	Phosphorylation:T11 Theme:T12
+E4	Phosphorylation:T9 Theme:T10
+E7	Phosphorylation:T13 Theme:T12 Site:T15
+E6	Phosphorylation:T13 Theme:T12 Site:T14
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T7 Theme:T8
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

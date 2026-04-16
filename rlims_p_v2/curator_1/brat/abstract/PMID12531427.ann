@@ -1,0 +1,35 @@
+T14	Protein 342 358	oxidative stress
+T15	Protein 367 377	caveolin-1
+T16	Phosphorylation 480 495	phosphotyrosine
+T17	Phosphorylation 647 662	phosphorylation
+T10	Protein 249 259	caveolin-1
+T11	Site 181 192	Tyrosine 14
+T12	Phosphorylation 274 283	substrate
+T13	Phosphorylation 378 393	phosphorylation
+T18	Protein 696 699	Abl
+T19	Protein 666 676	caveolin-1
+T8	Phosphorylation 212 227	phosphorylation
+T9	Protein 208 211	Abl
+T6	Protein 104 114	Caveolin-1
+T7	Site 136 147	tyrosine 14
+T4	Site 85 96	tyrosine 14
+T5	Phosphorylation 118 132	phosphorylated
+T2	Protein 27 43	oxidative stress
+T3	Protein 71 81	caveolin-1
+T1	Phosphorylation 52 67	phosphorylation
+T21	Phosphorylation 748 763	phosphotyrosine
+T20	Site 707 718	tyrosine 14
+T23	Site 755 763	tyrosine
+T22	Protein 721 731	Caveolin-1
+T25	Protein 835 838	Abl
+T24	Phosphorylation 859 874	phosphorylation
+T27	Site 892 903	tyrosine 14
+T26	Protein 878 888	caveolin-1
+E8	Phosphorylation:T24 Theme:T26 Cause:T25 Site:T27
+E5	Phosphorylation:T17 Theme:T19 Cause:T18 Site:T20
+E4	Phosphorylation:T13 Theme:T15 Cause:T14
+E7	Phosphorylation:T21 Theme:T22 Site:T23
+E6	Phosphorylation:T21 Theme:T22
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T11
+E2	Phosphorylation:T5 Theme:T6 Site:T7

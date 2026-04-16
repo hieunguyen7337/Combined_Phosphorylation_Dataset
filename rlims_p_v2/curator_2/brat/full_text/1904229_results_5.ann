@@ -1,0 +1,12 @@
+T8	Protein 1526 1530	JNK1
+T9	Site 1536 1549	Thr183/Tyr185
+T6	Site 1068 1073	Tyr33
+T7	Phosphorylation 1511 1525	PHOSphorylated
+T4	Phosphorylation 1074 1088	PHOSphorylated
+T5	Protein 1060 1066	p-WOX1
+T2	Protein 64 68	WOX1
+T3	Site 42 47	Tyr33
+T1	Phosphorylation 48 63	-PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T7 Theme:T8 Site:T9
+E2	Phosphorylation:T4 Theme:T5 Site:T6

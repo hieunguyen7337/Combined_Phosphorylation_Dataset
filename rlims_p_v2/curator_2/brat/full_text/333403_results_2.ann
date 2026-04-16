@@ -1,0 +1,16 @@
+T8	Protein 847 859	human FOXO3a
+T9	Phosphorylation 2006 2021	PHOSphorylation
+T6	Protein 793 796	PKB
+T7	Protein 837 842	dFOXO
+T4	Phosphorylation 448 463	PHOSphorylation
+T5	Phosphorylation 793 819	PKB-PHOSphorylation-mutant
+T2	Protein 379 382	PKB
+T3	Protein 418 434	mammalian FOXO3a
+T1	Phosphorylation 393 408	phosphorylaTION
+T10	Phosphorylation 5442 5456	PHOSphorylated
+T11	Protein 5460 5464	dPKB
+T12	Protein 5413 5438	FOXO transcription factor
+E4	Phosphorylation:T10 Theme:T12 Cause:T11
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T5 Theme:T8 Cause:T6
+E2	Phosphorylation:T5 Theme:T7 Cause:T6

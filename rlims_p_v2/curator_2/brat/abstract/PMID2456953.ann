@@ -1,0 +1,22 @@
+T8	Site 533 539	Tyr 23
+T9	Phosphorylation 772 787	phosphorylation
+T6	Phosphorylation 516 532	phosphorylatable
+T7	Protein 499 502	p36
+T4	Phosphorylation 102 117	phosphorylation
+T5	Protein 499 501	p3
+T2	Protein 61 88	src tyrosine-protein kinase
+T3	Protein 32 35	p36
+T1	Phosphorylation 48 57	substrate
+T10	Protein 837 840	p36
+T11	Site 763 771	tyrosine
+T12	Site 5 28	A discontinuous epitope
+T13	Anaphora 98 122	the phosphorylation site
+E8	Phosphorylation:T9 Theme:T10 Site:T11
+E5	Phosphorylation:T9 Theme:T10 Cause:T2 Site:T11
+E4	Phosphorylation:T6 Theme:T7 Cause:T2 Site:T8
+E7	Phosphorylation:T4 Theme:T3 Cause:T2 Site:T13
+E6	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T12
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T4 Theme:T5 Cause:T2
+E2	Phosphorylation:T4 Theme:T3 Cause:T2
+R1	Coreference Arg1:T13 Arg2:T12

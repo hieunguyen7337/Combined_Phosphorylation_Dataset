@@ -1,0 +1,70 @@
+T12	Site 651 657	Thr-19
+T13	Site 658 665	Ser-392
+T14	Site 670 676	Ser-22
+T15	Site 677 684	Ser-392
+T16	Phosphorylation 982 997	phosphorylation
+T17	Protein 917 924	lamin A
+T10	Protein 767 774	lamin A
+T11	Site 730 748	the three residues
+T38	Site 1221 1228	Ser-525
+T39	Anaphora 1480 1488	the site
+T36	Anaphora 1001 1010	the motif
+T37	Phosphorylation 1278 1292	phosphorylated
+T34	Protein 910 924	mutant lamin A
+T35	Site 812 827	Ser-403/Ser-404
+T18	Site 812 819	Ser-403
+T19	Site 820 827	Ser-404
+T30	Protein 1506 1512	lamina
+T31	Protein 632 650	the double mutants
+T32	Site 651 684	Thr-19/Ser-392 and Ser-22/Ser-392
+T33	Anaphora 730 748	the three residues
+T8	Site 219 228	threonine
+T9	Phosphorylation 711 726	phosphorylation
+T6	Protein 182 189	lamin A
+T7	Site 208 214	serine
+T4	Protein 298 309	cdc2-kinase
+T5	Protein 314 330	protein kinase C
+T2	Protein 59 66	lamin A
+T3	Phosphorylation 271 285	phosphorylated
+T1	Phosphorylation 28 43	phosphorylation
+T29	Protein 1409 1427	the mutant protein
+T28	Site 1480 1488	the site
+T21	Site 1001 1010	the motif
+T20	Site 835 887	a PKC motif flanking the nuclear localization signal
+T23	Phosphorylation 1276 1291	y phosphorylate
+T22	Site 509 571	Thr-19 and Ser-22 within the amino - terminal cdc2-kinase moti
+T25	Site 1198 1227	the carboxy - terminal Ser-52
+T24	Protein 1134 1141	lamin A
+T27	Site 1219 1227	l Ser-52
+T26	Phosphorylation 1461 1476	phosphorylation
+T40	Site 1198 1228	the carboxy - terminal Ser-525
+E19	Phosphorylation:T26 Theme:T29 Site:T27
+E18	Phosphorylation:T26 Theme:T24 Site:T28
+E11	Phosphorylation:T16 Theme:T17 Site:T18
+E10	Phosphorylation:T9 Theme:T10 Site:T15
+E13	Phosphorylation:T16 Theme:T17 Site:T20
+E12	Phosphorylation:T16 Theme:T17 Site:T19
+E15	Phosphorylation:T9 Theme:T10 Site:T22
+E14	Phosphorylation:T16 Theme:T17 Site:T21
+E17	Phosphorylation:T26 Theme:T24 Site:T27
+E16	Phosphorylation:T23 Theme:T24 Site:T25
+E9	Phosphorylation:T9 Theme:T10 Site:T14
+E8	Phosphorylation:T9 Theme:T10 Site:T13
+E5	Phosphorylation:T3 Theme:T6 Cause:T5 Site:T8
+E4	Phosphorylation:T3 Theme:T6 Cause:T5 Site:T7
+E7	Phosphorylation:T9 Theme:T10 Site:T12
+E6	Phosphorylation:T9 Theme:T10 Site:T11
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T6 Cause:T4 Site:T8
+E2	Phosphorylation:T3 Theme:T6 Cause:T4 Site:T7
+E24	Phosphorylation:T16 Theme:T34 Site:T21
+E25	Phosphorylation:T16 Theme:T34 Site:T35
+E26	Phosphorylation:T37 Theme:T24 Site:T25
+E27	Phosphorylation:T37 Theme:T24 Site:T40
+E20	Phosphorylation:T26 Theme:T29 Site:T28
+E21	Phosphorylation:T26 Theme:T30 Site:T27
+E22	Phosphorylation:T26 Theme:T30 Site:T28
+E23	Phosphorylation:T9 Theme:T31 Site:T11
+R2	Coreference Arg1:T36 Arg2:T20
+R3	Coreference Arg1:T39 Arg2:T38
+R1	Coreference Arg1:T33 Arg2:T32

@@ -1,0 +1,13 @@
+T8	Protein 1093 1123	tumour-associated Chk2 alleles
+T9	Protein 1153 1159	Cdc25A
+T6	Protein 1015 1019	Cdk2
+T7	Phosphorylation 1139 1152	phosphorylate
+T4	Site 934 944	serine 123
+T5	Phosphorylation 994 1011	dephosphorylation
+T2	Protein 890 894	Chk2
+T3	Protein 924 930	Cdc25A
+T1	Phosphorylation 905 920	phosphorylation
+T10	Phosphorylation 1271 1286	phosphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T7 Theme:T9 Cause:T8
+E2	Phosphorylation:T5 Theme:T6

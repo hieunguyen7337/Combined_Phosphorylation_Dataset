@@ -1,0 +1,14 @@
+T8	Phosphorylation 5820 5835	PHOSphorylation
+T9	Protein 5839 5847	PKCalpha
+T6	Phosphorylation 5633 5648	phosphorylaTION
+T7	Protein 5652 5662	PKCbeta-II
+T4	Phosphorylation 5421 5436	PHOSphorylation
+T5	Protein 5417 5420	PKC
+T2	Protein 5211 5248	specific Ca2+ -dependent PKC isoforms
+T3	Phosphorylation 5190 5207	dePHOSphorylation
+T1	Phosphorylation 5174 5189	phosphorylaTION
+E5	Phosphorylation:T8 Theme:T9
+E4	Phosphorylation:T6 Theme:T7
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T3 Theme:T2

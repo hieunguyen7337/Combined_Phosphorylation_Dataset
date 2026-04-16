@@ -1,0 +1,21 @@
+T8	Protein 418 425	protein
+T9	Phosphorylation 1160 1175	phosphotyrosine
+T6	Phosphorylation 426 441	phosphorylation
+T7	Protein 452 468	tyrosine kinases
+T4	Phosphorylation 1145 1175	A more intense phosphotyrosine
+T5	Site 1167 1175	tyrosine
+T2	Protein 400 425	tyrosine specific protein
+T3	Site 400 408	tyrosine
+T1	Phosphorylation 400 441	tyrosine specific protein phosphorylation
+T14	Protein 1585 1598	gamma catenin
+T15	Site 1513 1521	tyrosine
+T10	Phosphorylation 1265 1280	phosphorylation
+T11	Protein 1294 1327	cadherin-catenin complex proteins
+T12	Phosphorylation 1522 1537	phosphorylation
+T13	Protein 1546 1571	E-cadherin , beta catenin
+E5	Phosphorylation:T12 Theme:T13 Site:T15
+E4	Phosphorylation:T10 Theme:T11 Site:T5
+E6	Phosphorylation:T12 Theme:T14 Site:T15
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T8 Cause:T7 Site:T3
+E2	Phosphorylation:T4 Theme:T2 Site:T5

@@ -1,0 +1,22 @@
+T8	Site 1056 1119	two main sites , Ser845 (PKA site) and Ser831 (CaMKII/PKC site)
+T9	Phosphorylation 1160 1175	PHOSphorylation
+T6	Phosphorylation 1028 1043	PHOSphorylation
+T7	Protein 1047 1052	GluR1
+T4	Protein 852 857	GluR1
+T5	Phosphorylation 831 848	dePHOSphorylation
+T2	Protein 292 306	AMPA receptors
+T3	Phosphorylation 811 826	phosphorylaTION
+T1	Phosphorylation 273 288	PHOSphorylation
+T14	Phosphorylation 1526 1541	PHOSphorylation
+T15	Protein 1520 1525	GluR1
+T10	Site 1179 1187	PKA site
+T11	Phosphorylation 1338 1353	PHOSphorylation
+T12	Protein 1357 1362	GluR1
+T13	Site 1366 1381	CaMKII/PKC site
+E5	Phosphorylation:T9 Theme:T7 Site:T10
+E4	Phosphorylation:T6 Theme:T7 Site:T8
+E7	Phosphorylation:T14 Theme:T15
+E6	Phosphorylation:T11 Theme:T12 Site:T13
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T4
+E2	Phosphorylation:T3 Theme:T4

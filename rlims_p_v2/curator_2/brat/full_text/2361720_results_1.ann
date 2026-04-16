@@ -1,0 +1,24 @@
+T8	Protein 7971 7974	Us9
+T9	Site 7984 8022	a conserved acid cluster ( AC ) region
+T6	Protein 7864 7880	certain proteins
+T7	Phosphorylation 8049 8063	PHOSphorylated
+T4	Phosphorylation 7915 7930	PHOSphorylation
+T5	Protein 7909 7914	their
+T2	Phosphorylation 1183 1197	PHOSphorylated
+T3	Protein 1198 1234	neurofilament H ( an axonal marker )
+T1	Phosphorylation 1086 1103	nonphosphorylaTED
+T14	Phosphorylation 8767 8782	PHOSphorylation
+T15	Protein 8763 8766	its
+T16	Protein 8666 8669	Us9
+T10	Site 8028 8039	two serines
+T11	Phosphorylation 8190 8205	PHOSphorylation
+T12	Protein 8186 8189	Us9
+T13	Phosphorylation 8530 8545	PHOSphorylation
+E8	Phosphorylation:T14 Theme:T16
+E5	Phosphorylation:T7 Theme:T8 Site:T10
+E4	Phosphorylation:T7 Theme:T8 Site:T9
+E7	Phosphorylation:T14 Theme:T15
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T4 Theme:T6
+E2	Phosphorylation:T4 Theme:T5

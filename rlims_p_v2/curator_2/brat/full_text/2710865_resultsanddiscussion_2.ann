@@ -1,0 +1,6 @@
+T4	Protein 4118 4122	ArcA
+T2	Protein 3894 3898	AcrA
+T3	Phosphorylation 4099 4114	PHOSphorylation
+T1	Phosphorylation 3930 3945	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

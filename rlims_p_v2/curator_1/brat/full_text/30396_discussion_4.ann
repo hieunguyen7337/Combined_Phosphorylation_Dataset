@@ -1,0 +1,3 @@
+T2	Protein 1612 1624	MEF2 protein
+T1	Phosphorylation 1597 1611	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2

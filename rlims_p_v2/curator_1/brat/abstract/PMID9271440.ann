@@ -1,0 +1,33 @@
+T14	Phosphorylation 1306 1321	phosphorylation
+T15	Site 1301 1305	S371
+T16	Phosphorylation 1362 1376	Phosphopeptide
+T17	Phosphorylation 1511 1526	phosphorylation
+T10	Site 1139 1143	S371
+T11	Phosphorylation 1279 1298	autophosphorylation
+T12	Protein 1187 1234	specific members of the protein kinase C family
+T13	Site 1247 1262	homologous site
+T18	Site 1506 1510	T389
+T19	Phosphorylation 1531 1546	phosphorylation
+T8	Phosphorylation 1144 1159	phosphorylation
+T9	Protein 1111 1116	Serum
+T6	Phosphorylation 576 591	phosphorylation
+T7	Site 600 622	T367 , S371 , and T447
+T4	Protein 101 107	p70s6k
+T5	Site 156 173	two sets of sites
+T2	Protein 69 75	p70s6k
+T3	Phosphorylation 136 152	phosphorylations
+T1	Phosphorylation 45 60	phosphorylation
+T21	Protein 1736 1742	p70s6k
+T20	Phosphorylation 1683 1698	phosphorylation
+T23	Phosphorylation 1775 1790	phosphorylation
+T22	Site 1663 1667	T389
+T24	Site 1770 1774	S371
+E9	Phosphorylation:T23 Theme:T4 Site:T24
+E8	Phosphorylation:T20 Theme:T21 Site:T22
+E5	Phosphorylation:T11 Theme:T12 Cause:T12 Site:T13
+E4	Phosphorylation:T8 Theme:T4 Cause:T9 Site:T10
+E7	Phosphorylation:T17 Theme:T4 Site:T18
+E6	Phosphorylation:T14 Theme:T4 Site:T15
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T4 Site:T7
+E2	Phosphorylation:T3 Theme:T4 Site:T5

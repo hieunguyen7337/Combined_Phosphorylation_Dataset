@@ -1,0 +1,3 @@
+T2	Protein 1893 1896	tau
+T1	Phosphorylation 1893 1912	tau-PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

@@ -1,0 +1,24 @@
+T8	Phosphorylation 1457 1487	increased Ser9-phosphorylation
+T9	Protein 1491 1500	GSK-3beta
+T6	Phosphorylation 1070 1090	Ser9-phosphorylation
+T7	Protein 1094 1103	GSK-3beta
+T4	Protein 762 771	GSK-3beta
+T5	Site 738 742	Ser9
+T2	Protein 707 709	IR
+T3	Phosphorylation 727 758	inhibitory Ser9-phosphorylation
+T1	Phosphorylation 664 703	insulin-induced Tyr-autophosphorylation
+T14	Protein 1091 1101	of GSK-3be
+T15	Site 1066 1072	n ) Se
+T16	Phosphorylation 1467 1487	Ser9-phosphorylation
+T10	Site 1467 1471	Ser9
+T11	Phosphorylation 680 703	Tyr-autophosphorylation
+T12	Site 680 683	Tyr
+T13	Phosphorylation 738 758	Ser9-phosphorylation
+E8	Phosphorylation:T16 Theme:T9 Site:T10
+E5	Phosphorylation:T11 Theme:T2 Cause:T2 Site:T12
+E4	Phosphorylation:T8 Theme:T9 Site:T10
+E7	Phosphorylation:T6 Theme:T14 Site:T15
+E6	Phosphorylation:T13 Theme:T4 Site:T5
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T3 Theme:T4 Site:T5

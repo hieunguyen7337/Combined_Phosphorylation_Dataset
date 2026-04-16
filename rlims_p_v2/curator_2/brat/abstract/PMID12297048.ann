@@ -1,0 +1,16 @@
+T8	Protein 54 66	beta-catenin
+T9	Phosphorylation 547 562	phosphorylation
+T6	Protein 805 817	beta-catenin
+T7	Phosphorylation 35 50	phosphorylation
+T4	Protein 534 546	beta-catenin
+T5	Phosphorylation 773 801	the stepwise phosphorylation
+T2	Protein 82 86	axin
+T3	Phosphorylation 518 562	rapidly couples beta-catenin phosphorylation
+T1	Phosphorylation 24 50	the paired phosphorylation
+T10	Phosphorylation 786 801	phosphorylation
+E5	Phosphorylation:T9 Theme:T4
+E4	Phosphorylation:T7 Theme:T8
+E6	Phosphorylation:T10 Theme:T6
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

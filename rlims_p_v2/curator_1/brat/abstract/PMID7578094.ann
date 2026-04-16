@@ -1,0 +1,41 @@
+T14	Site 1083 1087	Y338
+T15	Phosphorylation 1127 1142	phosphorylation
+T16	Phosphorylation 1162 1178	phosphorylations
+T17	Phosphorylation 1286 1302	unphosphorylated
+T10	Protein 899 904	c-src
+T11	Site 1008 1012	Y338
+T12	Site 1017 1021	Y530
+T13	Phosphorylation 1064 1079	phosphorylation
+T18	Phosphorylation 1347 1365	monophosphorylated
+T19	Anaphora 1303 1309	enzyme
+T8	Anaphora 801 807	enzyme
+T9	Phosphorylation 990 1004	phosphorylated
+T6	Phosphorylation 456 475	autophosphorylation
+T7	Phosphorylation 772 787	phosphorylation
+T4	Protein 193 228	pp60c-src tyrosine kinase ( srcTK )
+T5	Site 285 298	RRLIEDAEYAARG
+T2	Protein 25 46	c-src tyrosine kinase
+T3	Phosphorylation 254 269	phosphorylation
+T1	Phosphorylation 135 154	autophosphorylation
+T21	Site 1402 1407	Y-419
+T20	Phosphorylation 1408 1423	phosphorylation
+T23	Site 1524 1529	Y-419
+T22	Phosphorylation 1501 1520	autophosphorylation
+T25	Protein 1614 1619	srcTK
+T24	Phosphorylation 1560 1579	autophosphorylation
+E11	Phosphorylation:T18 Theme:T19
+E10	Phosphorylation:T16 Theme:T10 Site:T12
+E13	Phosphorylation:T22 Theme:T4 Cause:T4 Site:T23
+E12	Phosphorylation:T20 Theme:T4 Site:T21
+E14	Phosphorylation:T24 Theme:T25 Cause:T25
+E9	Phosphorylation:T16 Theme:T10 Site:T11
+E8	Phosphorylation:T15 Theme:T10 Site:T14
+E5	Phosphorylation:T9 Theme:T10 Site:T11
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T13 Theme:T10 Site:T14
+E6	Phosphorylation:T9 Theme:T10 Site:T12
+E1	Phosphorylation:T1 Theme:T2 Cause:T2
+E3	Phosphorylation:T6 Theme:T4 Cause:T4
+E2	Phosphorylation:T3 Theme:T4 Site:T5
+R1	Coreference Arg1:T8 Arg2:T4
+R2	Coreference Arg1:T19 Arg2:T4

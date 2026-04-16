@@ -1,0 +1,27 @@
+T8	Site 341 352	this region
+T9	Phosphorylation 574 589	PHOSphorylation
+T6	Phosphorylation 322 337	PHOSphorylation
+T7	Protein 356 359	p53
+T4	Protein 116 119	p53
+T5	Site 91 112	the N-terminal region
+T2	Protein 5 8	p53
+T3	Phosphorylation 72 87	PHOSphorylation
+T1	Phosphorylation 9 24	PHOSphorylation
+T14	Phosphorylation 1043 1058	phosphorylaTION
+T15	Protein 1039 1042	p53
+T16	Phosphorylation 1099 1114	PHOSphorylation
+T17	Protein 1118 1122	VRK1
+T10	Protein 590 604	mutants of p53
+T11	Site 617 827	its amino ( DeltaN has mutated the following residues : S6A , S9A , S15A , T18A , S20A , S33A and S37A ) or carboxy terminus ( DeltaC has mutated the following residues : S315A , S371A , S376A , S378A , S392A )
+T12	Phosphorylation 986 1002	PHOSphorylatable
+T13	Protein 986 1002	PHOSphorylatable
+T18	Protein 1079 1082	p53
+T19	Site 1082 1086	T18D
+E8	Phosphorylation:T16 Theme:T18 Cause:T17 Site:T19
+E5	Phosphorylation:T9 Theme:T10 Site:T11
+E4	Phosphorylation:T6 Theme:T7 Site:T5
+E7	Phosphorylation:T14 Theme:T15
+E6	Phosphorylation:T12 Theme:T13
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7 Site:T8
+E2	Phosphorylation:T3 Theme:T4 Site:T5

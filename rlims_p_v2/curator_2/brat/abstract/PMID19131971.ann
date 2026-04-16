@@ -1,0 +1,19 @@
+T8	Protein 447 526	GSK3beta kinase , the Pin1 prolyl isomerase , and the PP2A-B56alpha phosphatase
+T9	Anaphora 555 566	these sites
+T6	Site 378 389	T58 and S62
+T7	Phosphorylation 536 551	phosphorylation
+T4	Phosphorylation 390 405	phosphorylation
+T5	Protein 315 320	c-Myc
+T2	Protein 271 276	c-Myc
+T3	Site 218 258	threonine58 ( T58 ) and serine62 ( S62 )
+T1	Phosphorylation 174 189	Phosphorylation
+T10	Phosphorylation 874 889	phosphorylation
+T11	Protein 817 822	c-Myc
+T12	Site 853 856	T58
+T13	Site 870 873	S62
+E5	Phosphorylation:T10 Theme:T11 Site:T13
+E4	Phosphorylation:T10 Theme:T11 Site:T12
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T7 Theme:T5 Cause:T8 Site:T9
+E2	Phosphorylation:T4 Theme:T5 Site:T6
+R1	Coreference Arg1:T9 Arg2:T6

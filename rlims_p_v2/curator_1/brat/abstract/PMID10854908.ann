@@ -1,0 +1,36 @@
+T14	Protein 574 600	activation of D2 receptors
+T15	Protein 628 635	ARPP-21
+T16	Phosphorylation 741 756	phosphorylation
+T17	Protein 684 699	methamphetamine
+T10	Phosphorylation 518 533	phosphorylation
+T11	Protein 451 486	activation of dopamine D1 receptors
+T12	Protein 510 517	ARPP-21
+T13	Phosphorylation 636 651	phosphorylation
+T18	Protein 703 710	cocaine
+T19	Protein 733 740	ARPP-21
+T8	Site 415 422	Ser(55)
+T9	Phosphorylation 397 411	phosphorylated
+T6	Phosphorylation 318 333	phosphorylation
+T7	Protein 389 396	ARPP-21
+T4	Phosphorylation 173 187	phosphoprotein
+T5	Protein 138 145	ARPP-21
+T2	Protein 52 59	ARPP-21
+T3	Phosphorylation 86 100	phosphoprotein
+T1	Phosphorylation 33 48	phosphorylation
+T21	Protein 978 1000	protein phosphatase-2A
+T20	Phosphorylation 1030 1047	dephosphorylation
+T23	Phosphorylation 1110 1125	phosphorylation
+T22	Protein 1051 1058	ARPP-21
+T25	Phosphorylation 1130 1147	dephosphorylation
+T24	Protein 1151 1158	ARPP-21
+E11	Phosphorylation:T25 Theme:T24
+E10	Phosphorylation:T23 Theme:T24
+E9	Phosphorylation:T20 Theme:T22 Cause:T21
+E8	Phosphorylation:T16 Theme:T19 Cause:T18
+E5	Phosphorylation:T10 Theme:T12 Cause:T11
+E4	Phosphorylation:T9 Theme:T7 Site:T8
+E7	Phosphorylation:T16 Theme:T19 Cause:T17
+E6	Phosphorylation:T13 Theme:T15 Cause:T14
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7 Site:T8
+E2	Phosphorylation:T4 Theme:T5

@@ -1,0 +1,12 @@
+T8	Protein 1259 1263	WOX1
+T9	Site 1234 1239	Tyr33
+T6	Site 124 129	Tyr33
+T7	Phosphorylation 1240 1255	PHOSphorylation
+T4	Phosphorylation 97 112	PHOSphorylation
+T5	Protein 116 120	WOX1
+T2	Protein 47 51	WOX1
+T3	Site 24 29	Tyr33
+T1	Phosphorylation 5 20	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T7 Theme:T8 Site:T9
+E2	Phosphorylation:T4 Theme:T5 Site:T6

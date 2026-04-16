@@ -1,0 +1,48 @@
+T14	Phosphorylation 1124 1138	phosphorylates
+T15	Protein 1117 1123	CaMKII
+T16	Protein 1139 1143	CREB
+T17	Site 1147 1153	Ser133
+T10	Protein 1065 1071	CaMKIV
+T11	Protein 1087 1091	CREB
+T12	Site 1095 1101	Ser133
+T13	Phosphorylation 1072 1086	phosphorylates
+T18	Site 1174 1180	Ser142
+T33	Site 1751 1818	a negative regulatory site in the transcriptional activation domain
+T30	Protein 1708 1712	CREB
+T31	Site 1751 1777	a negative regulatory site
+T32	Site 1781 1818	the transcriptional activation domain
+T19	Phosphorylation 1228 1243	phosphorylation
+T8	Protein 873 877	CREB
+T9	Phosphorylation 1004 1018	phosphopeptide
+T6	Protein 837 843	CaMKII
+T7	Protein 848 854	CaMKIV
+T4	Site 131 137	a site
+T5	Phosphorylation 859 872	phosphorylate
+T2	Protein 40 102	Ca2+/calmodulin -dependent protein kinases type II and type IV
+T3	Protein 32 36	CREB
+T1	Phosphorylation 112 127	phosphorylation
+T29	Phosphorylation 1732 1747	phosphorylation
+T28	Site 1602 1608	Ser142
+T21	Protein 1289 1293	CREB
+T20	Protein 1257 1263	CaMKII
+T23	Phosphorylation 1336 1350	phosphorylated
+T22	Site 1247 1253	Ser142
+T25	Phosphorylation 1583 1598	phosphorylation
+T24	Site 1326 1332	Ser133
+T27	Protein 1626 1630	CREB
+T26	Protein 1536 1540	CREB
+E11	Phosphorylation:T25 Theme:T27 Site:T28
+E10	Phosphorylation:T25 Theme:T26 Site:T28
+E13	Phosphorylation:T29 Theme:T30 Site:T32
+E12	Phosphorylation:T29 Theme:T30 Site:T31
+E15	Phosphorylation:T29 Theme:T30 Site:T33
+E14	Phosphorylation:T1 Theme:T3 Cause:T2
+E9	Phosphorylation:T23 Theme:T21 Site:T24
+E8	Phosphorylation:T19 Theme:T21 Cause:T20 Site:T22
+E5	Phosphorylation:T13 Theme:T11 Cause:T10 Site:T12
+E4	Phosphorylation:T9 Theme:T11 Cause:T10 Site:T12
+E7	Phosphorylation:T14 Theme:T16 Cause:T15 Site:T18
+E6	Phosphorylation:T14 Theme:T16 Cause:T15 Site:T17
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T5 Theme:T8 Cause:T7
+E2	Phosphorylation:T5 Theme:T8 Cause:T6

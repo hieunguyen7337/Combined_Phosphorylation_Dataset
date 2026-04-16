@@ -1,0 +1,37 @@
+T14	Phosphorylation 3878 3892	PHOSphorylated
+T15	Protein 3893 3901	proteins
+T16	Protein 2377 2385	Aurora B
+T17	Protein 2507 2518	CAP-C/SMC-4
+T10	Protein 2819 2831	topo IIalpha
+T11	Phosphorylation 2927 2942	PHOSphorylation
+T12	Protein 2864 2876	topo IIalpha
+T13	Phosphorylation 3264 3273	SUBstrate
+T18	Protein 2523 2535	topo IIalpha
+T19	Protein 2622 2627	CAP-C
+T8	Phosphorylation 2792 2806	PHOSphorylated
+T9	Protein 2776 2784	Aurora B
+T6	Protein 2649 2661	topo IIalpha
+T7	Phosphorylation 2752 2761	SUBstrate
+T4	Phosphorylation 2699 2713	phosPHOprotein
+T5	Protein 2743 2751	Aurora B
+T2	Phosphorylation 2603 2618	PHOSphorylation
+T3	Protein 2622 2634	CAP-C ( 63 )
+T1	Phosphorylation 2386 2396	SUBstrates
+T21	Protein 3255 3263	Aurora B
+T23	Phosphorylation 3571 3586	PHOSphorylation
+T22	Protein 3127 3139	topo IIalpha
+T25	Phosphorylation 4153 4163	SUBstrates
+T24	Phosphorylation 3726 3736	subSTRates
+T26	Phosphorylation 4360 4370	SUBstrates
+E11	Phosphorylation:T7 Theme:T6 Cause:T5
+E10	Phosphorylation:T7 Theme:T6 Cause:T20
+E12	Phosphorylation:T13 Theme:T22 Cause:T21
+E9	Phosphorylation:T7 Theme:T6
+E8	Phosphorylation:T2 Theme:T19
+E5	Phosphorylation:T14 Theme:T15
+E4	Phosphorylation:T11 Theme:T12
+E7	Phosphorylation:T1 Theme:T18 Cause:T16
+E6	Phosphorylation:T1 Theme:T17 Cause:T16
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T8 Theme:T10 Cause:T9
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

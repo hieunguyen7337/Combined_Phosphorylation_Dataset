@@ -1,0 +1,8 @@
+T6	Site 593 598	Ser46
+T4	Phosphorylation 599 614	PHOSphorylation
+T5	Protein 589 592	p53
+T2	Protein 486 489	p53
+T3	Site 461 466	Ser46
+T1	Phosphorylation 467 482	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E2	Phosphorylation:T4 Theme:T5 Site:T6

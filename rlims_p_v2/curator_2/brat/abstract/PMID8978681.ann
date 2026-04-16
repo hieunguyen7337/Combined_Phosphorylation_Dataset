@@ -1,0 +1,52 @@
+T14	Site 1010 1016	Ser473
+T15	Phosphorylation 1024 1039	phosphorylation
+T16	Site 1043 1056	both residues
+T17	Phosphorylation 1128 1143	phosphorylation
+T10	Site 822 828	Ser473
+T11	Phosphorylation 975 990	phosphorylation
+T12	Protein 900 908	PKBalpha
+T13	Site 999 1005	Thr308
+T18	Site 1147 1153	Thr308
+T19	Phosphorylation 1182 1197	phosphorylation
+T8	Protein 832 847	MAPKAP kinase-2
+T9	Protein 746 754	PKBalpha
+T6	Site 470 492	both of these residues
+T7	Phosphorylation 803 818	phosphorylation
+T4	Site 420 426	Ser473
+T5	Phosphorylation 451 466	phosphorylation
+T2	Protein 358 366	PKBalpha
+T3	Site 409 415	Thr308
+T1	Phosphorylation 390 405	phosphorylation
+T29	Protein 1300 1313	insulin/IGF-1
+T28	Anaphora 1043 1056	both residues
+T21	Phosphorylation 1268 1282	phosphorylated
+T20	Site 1201 1207	Ser473
+T23	Anaphora 386 389	its
+T22	Protein 1251 1259	PKBalpha
+T25	Anaphora 470 492	both of these residues
+T24	Site 409 426	Thr308 and Ser473
+T27	Site 999 1016	Thr308 and Ser473
+T26	Protein 912 961	insulin or insulin-like growth factor-1 ( IGF-1 )
+E19	Phosphorylation:T11 Theme:T12 Cause:T26 Site:T14
+E18	Phosphorylation:T11 Theme:T12 Cause:T26 Site:T13
+E20	Phosphorylation:T21 Theme:T22 Cause:T29
+E11	Phosphorylation:T15 Theme:T12 Site:T14
+E10	Phosphorylation:T15 Theme:T12 Site:T13
+E13	Phosphorylation:T17 Theme:T12 Site:T18
+E12	Phosphorylation:T15 Theme:T12 Site:T16
+E15	Phosphorylation:T21 Theme:T22
+E14	Phosphorylation:T19 Theme:T12 Site:T20
+E17	Phosphorylation:T1 Theme:T23 Site:T4
+E16	Phosphorylation:T1 Theme:T23 Site:T3
+E9	Phosphorylation:T15 Theme:T12
+E8	Phosphorylation:T11 Theme:T12 Site:T14
+E5	Phosphorylation:T5 Theme:T2 Site:T4
+E4	Phosphorylation:T5 Theme:T2 Site:T3
+E7	Phosphorylation:T11 Theme:T12 Site:T13
+E6	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T10
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T5 Theme:T2 Site:T6
+E2	Phosphorylation:T1 Theme:T2 Site:T4
+R1	Coreference Arg1:T23 Arg2:T2
+R3	Coreference Arg1:T28 Arg2:T27
+R2	Coreference Arg1:T25 Arg2:T24

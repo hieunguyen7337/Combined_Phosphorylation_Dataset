@@ -1,0 +1,10 @@
+T6	Phosphorylation 10181 10196	PHOSphorylation
+T7	Protein 10210 10213	ICs
+T4	Phosphorylation 9362 9376	PHOSphorylated
+T5	Protein 9350 9383	activated ( PHOSphorylated ) TrkA
+T2	Protein 9183 9187	TrkA
+T3	Site 9224 9240	cytoplasmic tail
+T1	Phosphorylation 9197 9216	autoPHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Cause:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T4 Theme:T5

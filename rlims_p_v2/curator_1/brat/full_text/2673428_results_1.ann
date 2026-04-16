@@ -1,0 +1,9 @@
+T6	Protein 998 1001	ATM
+T4	Protein 135 154	H2AX ( gamma-H2AX )
+T5	Phosphorylation 983 997	PHOSphorylated
+T2	Protein 32 36	H2AX
+T3	Phosphorylation 120 134	PHOSphorylated
+T1	Phosphorylation 50 64	phosphorylaTED
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

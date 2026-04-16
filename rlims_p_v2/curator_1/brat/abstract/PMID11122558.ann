@@ -1,0 +1,10 @@
+T6	Protein 433 463	translational repressor 4E-BP1
+T7	Protein 472 504	ribosomal protein S6 kinase S6K1
+T4	Phosphorylation 317 332	phosphorylation
+T5	Protein 342 350	proteins
+T2	Phosphorylation 313 338	the phosphorylation state
+T3	Phosphorylation 177 187	substrates
+T1	Phosphorylation 167 187	metabolic substrates
+E1	Phosphorylation:T4 Theme:T5
+E3	Phosphorylation:T4 Theme:T7
+E2	Phosphorylation:T4 Theme:T6

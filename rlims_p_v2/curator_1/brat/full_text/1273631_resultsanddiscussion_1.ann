@@ -1,0 +1,15 @@
+T8	Phosphorylation 6014 6032	hypoPHOSphorylated
+T9	Protein 6033 6039	PolIIa
+T6	Phosphorylation 5063 5091	hypophosphorylaTION-specific
+T7	Phosphorylation 5107 5122	PHOSphorylation
+T4	Phosphorylation 1205 1232	hypophosphorylaTED-specific
+T5	Phosphorylation 1295 1310	PHOSphorylation
+T2	Protein 448 454	PolIIa
+T3	Phosphorylation 461 476	PHOSphorylation
+T1	Phosphorylation 428 446	hypophosphorylaTED
+T10	Phosphorylation 6835 6853	hypoPHOSphorylated
+T12	Protein 5186 5191	PolII
+E4	Phosphorylation:T10 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T12
+E2	Phosphorylation:T8 Theme:T9

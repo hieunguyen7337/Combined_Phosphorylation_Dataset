@@ -1,0 +1,4 @@
+T2	Protein 321 337	topoisomerase II
+T3	Site 421 426	sites
+T1	Phosphorylation 427 441	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2 Site:T3

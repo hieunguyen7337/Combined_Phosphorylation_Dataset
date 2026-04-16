@@ -1,0 +1,29 @@
+T8	Phosphorylation 720 734	phosphorylated
+T9	Protein 701 708	p70 S6K
+T6	Protein 389 424	insulin receptor substrate proteins
+T7	Phosphorylation 406 415	substrate
+T4	Phosphorylation 370 385	phosphorylation
+T5	Protein 342 362	IFNalpha and IFNbeta
+T2	Protein 104 122	type I interferons
+T3	Protein 64 80	4E-BP1 repressor
+T1	Phosphorylation 41 56	phosphorylation
+T14	Protein 1094 1101	p70 S6K
+T15	Phosphorylation 1332 1347	phosphorylation
+T16	Protein 1296 1315	IFNalpha or IFNbeta
+T17	Protein 1368 1385	4E-BP-1 repressor
+T10	Site 738 751	threonine 421
+T11	Site 756 766	serine 424
+T12	Phosphorylation 1064 1079	phosphorylation
+T13	Protein 1042 1052	Type I IFN
+T21	Protein 1413 1419	4E-BP1
+T20	Protein 1471 1480	rapamycin
+T18	Phosphorylation 1420 1435	phosphorylation
+T19	Protein 1444 1455	PI3'-kinase
+E8	Phosphorylation:T18 Theme:T21 Cause:T20
+E5	Phosphorylation:T12 Theme:T14 Cause:T13
+E4	Phosphorylation:T8 Theme:T9 Site:T11
+E7	Phosphorylation:T18 Theme:T21 Cause:T19
+E6	Phosphorylation:T15 Theme:T17 Cause:T16
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T9 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

@@ -1,0 +1,29 @@
+T14	Protein 1126 1131	GRK6A
+T15	Protein 1147 1152	NHERF
+T16	Site 1168 1176	Ser(289)
+T17	Phosphorylation 1399 1413	phosphorylates
+T10	Phosphorylation 509 524	phosphorylation
+T11	Phosphorylation 755 768	phosphorylate
+T12	Protein 769 774	NHERF
+T13	Phosphorylation 1132 1146	phosphorylates
+T18	Protein 1393 1398	GRK6A
+T19	Protein 1414 1419	NHERF
+T8	Protein 395 400	NHERF
+T9	Site 468 476	Ser(289)
+T6	Phosphorylation 261 281	this phosphorylation
+T7	Phosphorylation 401 416	phosphorylation
+T4	Phosphorylation 218 232	phosphorylated
+T5	Protein 147 199	The Na(+)/H(+) exchanger regulatory factor ( NHERF )
+T2	Protein 5 42	G protein -coupled receptor kinase 6A
+T3	Protein 62 100	Na(+)/H(+) exchanger regulatory factor
+T1	Phosphorylation 43 57	phosphorylates
+T21	Protein 1468 1473	GRK6A
+T20	Phosphorylation 1538 1553	phosphorylation
+T23	Phosphorylation 266 281	phosphorylation
+T22	Protein 1557 1562	NHERF
+E5	Phosphorylation:T17 Theme:T19 Cause:T18
+E4	Phosphorylation:T13 Theme:T15 Cause:T14 Site:T16
+E6	Phosphorylation:T20 Theme:T22 Cause:T21
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T11 Theme:T12
+E2	Phosphorylation:T7 Theme:T8 Site:T9

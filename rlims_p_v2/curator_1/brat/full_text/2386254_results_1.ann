@@ -1,0 +1,23 @@
+T8	Phosphorylation 928 943	PHOSphorylation
+T9	Protein 958 962	Net1
+T6	Protein 699 703	Net1
+T7	Phosphorylation 865 879	PHOSphorylated
+T4	Phosphorylation 811 826	phosphorylaTION
+T5	Site 804 810	Ser152
+T2	Protein 589 593	Net1
+T3	Site 630 636	Ser152
+T1	Phosphorylation 570 585	PHOSphorylation
+T14	Protein 1362 1366	Net1
+T15	Phosphorylation 1680 1697	dePHOSphorylation
+T16	Protein 1701 1705	Net1
+T10	Site 966 972	Ser152
+T11	Phosphorylation 1057 1074	dePHOSphorylation
+T12	Protein 1078 1082	Net1
+T13	Phosphorylation 1347 1361	PHOSphorylated
+E5	Phosphorylation:T11 Theme:T12
+E4	Phosphorylation:T8 Theme:T9 Site:T10
+E7	Phosphorylation:T15 Theme:T16
+E6	Phosphorylation:T13 Theme:T14
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T4 Theme:T6 Site:T5
+E2	Phosphorylation:T4 Theme:T2 Site:T5

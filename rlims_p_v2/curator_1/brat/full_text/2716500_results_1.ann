@@ -1,0 +1,18 @@
+T8	Protein 996 999	DVL
+T9	Phosphorylation 2010 2025	PHOSphorylation
+T6	Site 975 984	threonine
+T7	Phosphorylation 1000 1015	PHOSphorylation
+T4	Protein 932 936	DVL3
+T5	Site 964 970	serine
+T2	Protein 916 920	DVL1
+T3	Protein 923 927	DVL2
+T1	Phosphorylation 946 960	PHOSphorylated
+T10	Protein 2036 2039	ERK
+E8	Phosphorylation:T9 Theme:T10
+E5	Phosphorylation:T1 Theme:T4 Site:T5
+E4	Phosphorylation:T1 Theme:T3 Site:T6
+E7	Phosphorylation:T7 Theme:T8
+E6	Phosphorylation:T1 Theme:T4 Site:T6
+E1	Phosphorylation:T1 Theme:T2 Site:T5
+E3	Phosphorylation:T1 Theme:T3 Site:T5
+E2	Phosphorylation:T1 Theme:T2 Site:T6

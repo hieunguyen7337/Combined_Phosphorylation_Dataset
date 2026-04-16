@@ -1,0 +1,38 @@
+T14	Protein 1106 1118	p120 catenin
+T15	Site 1122 1130	tyrosine
+T16	Phosphorylation 88 103	phosphorylation
+T17	Protein 5 57	p120 Catenin-associated Fer and Fyn tyrosine kinases
+T10	Protein 958 961	Fer
+T11	Protein 966 969	Fyn
+T12	Phosphorylation 1083 1102	the phosphorylation
+T13	Protein 1069 1074	K-ras
+T18	Protein 67 79	beta-catenin
+T19	Site 80 87	Tyr-142
+T8	Site 466 474	tyrosine
+T9	Phosphorylation 906 954	increased Tyr-142 phosphorylation and activation
+T6	Protein 455 458	Fer
+T7	Protein 462 482	Fyn tyrosine kinases
+T4	Site 398 405	Tyr-142
+T5	Phosphorylation 421 442	can be phosphorylated
+T2	Phosphorylation 362 381	the phosphorylation
+T3	Protein 385 405	beta-catenin Tyr-142
+T1	Phosphorylation 67 146	beta-catenin Tyr-142 phosphorylation and beta-catenin-alpha-catenin Interaction
+T21	Protein 385 397	beta-catenin
+T20	Phosphorylation 366 381	phosphorylation
+T23	Anaphora 408 420	This residue
+T22	Phosphorylation 428 442	phosphorylated
+T25	Site 916 923	Tyr-142
+T24	Phosphorylation 924 939	phosphorylation
+T26	Phosphorylation 1087 1102	phosphorylation
+E11	Phosphorylation:T26 Theme:T14 Cause:T13 Site:T15
+E10	Phosphorylation:T22 Theme:T3 Cause:T7 Site:T23
+E9	Phosphorylation:T22 Theme:T3 Cause:T6 Site:T23
+E8	Phosphorylation:T20 Theme:T21 Site:T4
+E5	Phosphorylation:T9 Theme:T11
+E4	Phosphorylation:T9 Theme:T10
+E7	Phosphorylation:T16 Theme:T18 Cause:T17 Site:T19
+E6	Phosphorylation:T12 Theme:T14 Cause:T13 Site:T15
+E1	Phosphorylation:T2 Theme:T3 Site:T4
+E3	Phosphorylation:T5 Theme:T3 Cause:T7 Site:T8
+E2	Phosphorylation:T5 Theme:T3 Cause:T6 Site:T8
+R1	Coreference Arg1:T23 Arg2:T4

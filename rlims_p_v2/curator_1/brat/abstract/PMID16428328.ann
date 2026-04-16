@@ -1,0 +1,25 @@
+T8	Protein 1191 1197	4E-BP1
+T9	Protein 1202 1205	S6K
+T6	Phosphorylation 1159 1187	the phosphorylation reaction
+T7	Protein 1219 1237	the raptor complex
+T4	Site 1002 1004	S6
+T5	Phosphorylation 964 977	the substrate
+T2	Protein 758 762	mTOR
+T3	Phosphorylation 941 960	the phosphorylation
+T1	Phosphorylation 735 754	the phosphorylation
+T14	Phosphorylation 945 960	phosphorylation
+T15	Protein 926 929	S6K
+T16	Protein 980 1004	40S ribosomal protein S6
+T17	Phosphorylation 968 977	substrate
+T10	Site 1202 1204	S6
+T11	Phosphorylation 739 754	phosphorylation
+T12	Protein 806 827	p70 S6 kinase ( S6K )
+T13	Protein 832 892	eukaryotic initiation factor 4E-binding protein 1 ( 4E-BP1 )
+T18	Phosphorylation 1163 1178	phosphorylation
+E5	Phosphorylation:T14 Theme:T16 Cause:T15
+E4	Phosphorylation:T11 Theme:T13 Cause:T2
+E7	Phosphorylation:T18 Theme:T9 Cause:T7
+E6	Phosphorylation:T18 Theme:T8 Cause:T7
+E1	Phosphorylation:T6 Theme:T8 Cause:T7 Site:T10
+E3	Phosphorylation:T11 Theme:T12 Cause:T2
+E2	Phosphorylation:T6 Theme:T9 Cause:T7 Site:T10

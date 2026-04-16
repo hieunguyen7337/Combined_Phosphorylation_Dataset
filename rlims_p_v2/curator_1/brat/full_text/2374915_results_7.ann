@@ -1,0 +1,6 @@
+T4	Protein 545 549	H2AX
+T2	Protein 163 167	H2AX
+T3	Phosphorylation 550 565	PHOSphorylation
+T1	Phosphorylation 144 159	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

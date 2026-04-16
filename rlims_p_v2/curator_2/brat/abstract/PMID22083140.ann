@@ -1,0 +1,23 @@
+T8	Phosphorylation 441 461	this phosphorylation
+T9	Phosphorylation 893 908	phosphorylation
+T6	Protein 288 351	glycogen synthase kinase 3 ( GSK3 , alpha - and beta-isoforms )
+T7	Protein 199 211	beta-catenin
+T4	Phosphorylation 1331 1350	its phosphorylation
+T5	Phosphorylation 246 261	phosphorylation
+T2	Phosphorylation 1257 1297	newly synthesised beta-catenin substrate
+T3	Protein 1275 1287	beta-catenin
+T1	Phosphorylation 889 908	the phosphorylation
+T14	Phosphorylation 1288 1297	substrate
+T15	Phosphorylation 1335 1350	phosphorylation
+T16	Protein 1168 1172	GSK3
+T17	Anaphora 1331 1334	its
+T10	Protein 877 880	Wnt
+T11	Protein 912 916	LRP6
+T12	Site 917 931	PPPSPxS motifs
+T13	Phosphorylation 992 1009	pseudo-substrates
+E5	Phosphorylation:T15 Theme:T17 Cause:T16
+E4	Phosphorylation:T9 Theme:T11 Cause:T10 Site:T12
+E1	Phosphorylation:T2 Theme:T3 Cause:T3
+E3	Phosphorylation:T5 Theme:T7 Cause:T6
+E2	Phosphorylation:T4 Theme:T3
+R1	Coreference Arg1:T17 Arg2:T3

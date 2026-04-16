@@ -1,0 +1,13 @@
+T8	Phosphorylation 1874 1889	PHOSphorylation
+T9	Protein 1870 1873	AKT
+T6	Phosphorylation 1488 1503	PHOSphorylation
+T7	Protein 1470 1487	Estrogen Receptor
+T4	Phosphorylation 1372 1387	phosphorylaTION
+T5	Protein 1368 1371	AKT
+T2	Protein 69 72	AKT
+T3	Site 96 102	Ser473
+T1	Phosphorylation 103 118	PHOSphorylation
+E4	Phosphorylation:T8 Theme:T9
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T4 Theme:T5

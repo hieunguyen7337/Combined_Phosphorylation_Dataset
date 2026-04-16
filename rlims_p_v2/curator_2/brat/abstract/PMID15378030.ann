@@ -1,0 +1,29 @@
+T8	Protein 795 798	PGM
+T9	Site 814 827	threonine 466
+T6	Phosphorylation 761 791	Pak1 -mediated phosphorylation
+T7	Protein 761 765	Pak1
+T4	Protein 226 257	p21-activated kinase 1 ( Pak1 )
+T5	Protein 323 351	phosphoglucomutase 1 ( PGM )
+T2	Protein 19 39	phosphoglucomutase 1
+T3	Phosphorylation 258 296	binds to , phosphorylates and enhances
+T1	Phosphorylation 19 68	phosphoglucomutase 1 phosphorylation and activity
+T14	Protein 72 90	a signaling kinase
+T15	Phosphorylation 269 283	phosphorylates
+T16	Protein 209 257	signaling kinase p21-activated kinase 1 ( Pak1 )
+T17	Phosphorylation 776 791	phosphorylation
+T10	Phosphorylation 1272 1306	its phosphorylation and regulation
+T11	Protein 1216 1220	Pak1
+T12	Protein 1310 1313	PGM
+T13	Phosphorylation 40 55	phosphorylation
+T20	Anaphora 1272 1275	its
+T18	Phosphorylation 1276 1291	phosphorylation
+T19	Protein 1194 1220	cell signaling kinase Pak1
+E8	Phosphorylation:T18 Theme:T12 Cause:T20
+E5	Phosphorylation:T13 Theme:T2 Cause:T14
+E4	Phosphorylation:T10 Theme:T12 Cause:T11
+E7	Phosphorylation:T17 Theme:T8 Cause:T7 Site:T9
+E6	Phosphorylation:T15 Theme:T5 Cause:T16
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T8 Cause:T7 Site:T9
+E2	Phosphorylation:T3 Theme:T5 Cause:T4
+R1	Coreference Arg1:T20 Arg2:T19

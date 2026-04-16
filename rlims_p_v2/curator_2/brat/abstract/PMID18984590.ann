@@ -1,0 +1,20 @@
+T8	Phosphorylation 549 568	autophosphorylation
+T9	Phosphorylation 1177 1196	autophosphorylation
+T6	Phosphorylation 1601 1630	complete auto-phosphorylation
+T7	Protein 151 170	protein kinase Pak2
+T4	Phosphorylation 1173 1196	the autophosphorylation
+T5	Phosphorylation 1307 1326	Autophosphorylation
+T2	Phosphorylation 512 568	caspase cleavage , ATP binding , and autophosphorylation
+T3	Protein 572 576	Pak2
+T1	Phosphorylation 263 282	autophosphorylation
+T14	Phosphorylation 1610 1630	auto-phosphorylation
+T10	Protein 1020 1024	Pak2
+T11	Site 1200 1209	two sites
+T12	Site 1236 1268	Ser-141 in the regulatory domain
+T13	Site 1273 1304	Thr-402 in the catalytic domain
+E5	Phosphorylation:T9 Theme:T10 Cause:T10 Site:T12
+E4	Phosphorylation:T9 Theme:T10 Cause:T10 Site:T11
+E6	Phosphorylation:T9 Theme:T10 Cause:T10 Site:T13
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T8 Theme:T3 Cause:T3
+E2	Phosphorylation:T1 Theme:T7 Cause:T7

@@ -1,0 +1,10 @@
+T6	Protein 681 686	Rad52
+T7	Site 687 697	C terminus
+T4	Protein 517 522	Rad52
+T5	Phosphorylation 629 644	PHOSphorylation
+T2	Protein 66 71	Rad52
+T3	Phosphorylation 526 540	PHOSphorylated
+T1	Phosphorylation 31 46	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6 Site:T7
+E2	Phosphorylation:T3 Theme:T4

@@ -1,0 +1,3 @@
+T2	Protein 1016 1043	the p65 subunit of NFkappaB
+T1	Phosphorylation 997 1012	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

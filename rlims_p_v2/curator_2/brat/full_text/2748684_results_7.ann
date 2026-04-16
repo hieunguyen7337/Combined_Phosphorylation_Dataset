@@ -1,0 +1,10 @@
+T6	Phosphorylation 1059 1073	PHOSphorylated
+T7	Site 1090 1095	pT231
+T4	Site 928 933	pT181
+T5	Phosphorylation 953 967	PHOSphorylated
+T2	Protein 786 792	Tau255
+T3	Site 903 914	pS202/pT205
+T1	Phosphorylation 866 881	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T2 Site:T7
+E2	Phosphorylation:T1 Theme:T2 Site:T4

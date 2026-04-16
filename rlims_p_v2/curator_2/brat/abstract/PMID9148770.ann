@@ -1,0 +1,73 @@
+T12	Site 308 325	tyrosine residues
+T13	Phosphorylation 393 407	phosphorylated
+T14	Protein 377 380	Csk
+T15	Site 384 392	tyrosine
+T16	Phosphorylation 456 471	Phosphorylation
+T17	Site 497 504	Tyr-184
+T10	Protein 211 238	C-terminal Src-kinase , Csk
+T11	Site 263 271	tyrosine
+T38	Site 1561 1568	Tyr-304
+T39	Anaphora 250 278	this protein tyrosine kinase
+T36	Site 1482 1489	Tyr-184
+T37	Phosphorylation 1538 1557	autophosphorylation
+T34	Phosphorylation 1456 1470	phosphorylated
+T35	Protein 1445 1448	Csk
+T32	Phosphorylation 1327 1342	phosphoproteins
+T19	Phosphorylation 578 593	phosphorylation
+T30	Site 1221 1228	Tyr-184
+T31	Phosphorylation 1202 1217	phosphorylation
+T18	Site 528 535	Tyr-304
+T33	Protein 1327 1342	phosphoproteins
+T8	Phosphorylation 286 304	autophosphorylated
+T9	Protein 255 278	protein tyrosine kinase
+T6	Protein 211 232	C-terminal Src-kinase
+T7	Site 150 158	tyrosine
+T4	Phosphorylation 159 178	autophosphorylation
+T5	Protein 235 238	Csk
+T2	Protein 23 26	csk
+T3	Site 27 35	tyrosine
+T1	Phosphorylation 36 51	phosphorylation
+T29	Phosphorylation 1156 1170	Phosphopeptide
+T28	Phosphorylation 791 810	autophosphorylation
+T21	Site 540 545	Y304F
+T20	Protein 574 577	Csk
+T23	Site 636 644	tyrosine
+T22	Phosphorylation 645 660	phosphorylation
+T25	Phosphorylation 717 731	phosphorylated
+T24	Site 611 616	Y184F
+T27	Site 735 742	Tyr-184
+T26	Protein 704 707	Csk
+T43	Protein 1493 1526	an as yet unknown tyrosine kinase
+T42	Protein 671 707	A catalytically inactive form of Csk
+T41	Protein 435 453	sodium pervanadate
+T40	Site 308 316	tyrosine
+E19	Phosphorylation:T22 Theme:T20 Site:T24
+E18	Phosphorylation:T22 Theme:T20 Site:T23
+E11	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T12
+E10	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T11
+E13	Phosphorylation:T8 Theme:T10 Cause:T10 Site:T12
+E12	Phosphorylation:T8 Theme:T10 Cause:T10 Site:T11
+E15	Phosphorylation:T16 Theme:T14 Site:T17
+E14	Phosphorylation:T13 Theme:T14 Site:T15
+E17	Phosphorylation:T19 Theme:T20 Site:T21
+E16	Phosphorylation:T16 Theme:T14 Site:T18
+E9	Phosphorylation:T8 Theme:T9 Cause:T10 Site:T12
+E8	Phosphorylation:T8 Theme:T9 Cause:T10 Site:T11
+E5	Phosphorylation:T4 Theme:T6 Cause:T6 Site:T7
+E4	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7
+E7	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T12
+E6	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T11
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T4 Theme:T5 Cause:T6 Site:T7
+E2	Phosphorylation:T4 Theme:T5 Cause:T5 Site:T7
+E24	Phosphorylation:T34 Theme:T35 Site:T36
+E25	Phosphorylation:T37 Theme:T35 Cause:T35 Site:T38
+E26	Phosphorylation:T8 Theme:T39 Cause:T39 Site:T40
+E27	Phosphorylation:T13 Theme:T14 Cause:T41 Site:T15
+E20	Phosphorylation:T25 Theme:T26 Site:T27
+E21	Phosphorylation:T29 Theme:T26 Site:T30
+E22	Phosphorylation:T31 Theme:T26 Site:T30
+E23	Phosphorylation:T32 Theme:T33
+E28	Phosphorylation:T25 Theme:T42 Site:T27
+E29	Phosphorylation:T34 Theme:T35 Cause:T43 Site:T36
+R1	Coreference Arg1:T39 Arg2:T10

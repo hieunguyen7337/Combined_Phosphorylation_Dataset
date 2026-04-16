@@ -1,0 +1,3 @@
+T2	Protein 902 912	histone H3
+T1	Phosphorylation 883 898	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

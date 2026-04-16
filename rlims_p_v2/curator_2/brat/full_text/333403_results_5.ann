@@ -1,0 +1,9 @@
+T6	Protein 2376 2382	d4E-BP
+T4	Phosphorylation 2268 2283	PHOSphorylation
+T5	Phosphorylation 2357 2372	PHOSphorylation
+T2	Protein 1670 1676	d4E-BP
+T3	Protein 1713 1715	it
+T1	Phosphorylation 1793 1808	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T1 Theme:T3

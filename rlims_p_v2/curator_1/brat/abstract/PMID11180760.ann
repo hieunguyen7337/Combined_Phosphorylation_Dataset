@@ -1,0 +1,4 @@
+T2	Protein 1024 1073	MAP ( mitogen-activated protein ) kinase ( MAPK )
+T3	Protein 1137 1179	N-terminal transactivation function (AF-1)
+T1	Phosphorylation 1102 1116	phosphorylates
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

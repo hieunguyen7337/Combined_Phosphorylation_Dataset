@@ -1,0 +1,9 @@
+T6	Protein 2148 2156	p38 MAPK
+T4	Protein 2004 2007	JNK
+T5	Phosphorylation 2157 2172	PHOSphorylation
+T2	Protein 354 362	p38 MAPK
+T3	Phosphorylation 2008 2023	PHOSphorylation
+T1	Phosphorylation 363 378	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

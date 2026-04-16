@@ -1,0 +1,41 @@
+T14	Phosphorylation 978 993	phosphotyrosine
+T15	Phosphorylation 1219 1234	phosphorylation
+T16	Protein 1058 1067	PLCgamma2
+T17	Site 1292 1300	Tyr(753)
+T10	Protein 484 492	PLCgamma
+T11	Phosphorylation 800 815	phosphorylation
+T12	Protein 781 790	PLCgamma2
+T13	Site 791 799	tyrosine
+T18	Site 1305 1313	Tyr(759)
+T19	Phosphorylation 1316 1331	Phosphorylation
+T8	Phosphorylation 470 483	phosphorylate
+T9	Protein 434 465	non - receptor tyrosine kinases
+T6	Protein 194 229	phospholipase Cgamma2 ( PLCgamma2 )
+T7	Site 166 174	Tyrosine
+T4	Site 69 77	tyrosine
+T5	Phosphorylation 175 190	phosphorylation
+T2	Protein 5 16	Tec kinases
+T3	Protein 101 121	phospholipase Cgamma
+T1	Phosphorylation 78 93	phosphorylation
+T29	Site 1734 1748	SH2-SH3 linker
+T28	Protein 1724 1733	PLCgamma2
+T21	Anaphora 1335 1345	both sites
+T20	Protein 1376 1379	Tec
+T23	Protein 1450 1459	PLCgamma2
+T22	Phosphorylation 1427 1442	phosphorylation
+T25	Site 1502 1511	Tyr(1217)
+T24	Site 1488 1497	Tyr(1197)
+T27	Protein 1610 1625	Btk/Tec kinases
+T26	Phosphorylation 1681 1696	phosphorylation
+E10	Phosphorylation:T26 Theme:T28 Cause:T27 Site:T29
+E9	Phosphorylation:T22 Theme:T23 Site:T25
+E8	Phosphorylation:T22 Theme:T23 Site:T24
+E5	Phosphorylation:T15 Theme:T16 Site:T17
+E4	Phosphorylation:T11 Theme:T12 Site:T13
+E7	Phosphorylation:T19 Theme:T16 Cause:T20 Site:T21
+E6	Phosphorylation:T15 Theme:T16 Site:T18
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T8 Theme:T10 Cause:T9
+E2	Phosphorylation:T5 Theme:T6 Site:T7
+R1	Coreference Arg1:T21 Arg2:T17
+R2	Coreference Arg1:T21 Arg2:T18

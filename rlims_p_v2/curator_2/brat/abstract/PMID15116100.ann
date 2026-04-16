@@ -1,0 +1,4 @@
+T2	Protein 1278 1294	G-17 stimulation
+T3	Protein 1354 1358	CREB
+T1	Phosphorylation 1359 1374	phosphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

@@ -1,0 +1,19 @@
+T8	Protein 881 901	ribosomal protein S6
+T9	Protein 908 963	eukaryotic initiation factor 4E -binding protein 4E-BP1
+T6	Protein 833 871	mammalian target of rapamycin ( mTOR )
+T7	Protein 874 878	S6K1
+T4	Phosphorylation 797 812	phosphorylation
+T5	Protein 816 830	tuberin (TSC2)
+T2	Protein 670 680	Src kinase
+T3	Protein 766 794	Akt/protein kinase B ( PKB )
+T1	Phosphorylation 730 745	phosphorylation
+T10	Phosphorylation 1057 1072	phosphorylation
+T11	Protein 987 991	Akt1
+T12	Protein 1076 1080	TSC2
+E5	Phosphorylation:T4 Theme:T8 Cause:T2
+E4	Phosphorylation:T4 Theme:T7 Cause:T2
+E7	Phosphorylation:T10 Theme:T12 Cause:T11
+E6	Phosphorylation:T4 Theme:T9 Cause:T2
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T4 Theme:T6 Cause:T2
+E2	Phosphorylation:T4 Theme:T5 Cause:T2

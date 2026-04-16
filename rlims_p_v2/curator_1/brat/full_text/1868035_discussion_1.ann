@@ -1,0 +1,4 @@
+T2	Protein 1274 1277	ATM
+T3	Protein 1438 1442	H2AX
+T1	Phosphorylation 1443 1458	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

@@ -1,0 +1,80 @@
+T12	Site 526 548	tail (Ser-431) domains
+T39	Protein 1516 1518	K8
+T14	Protein 689 699	keratin 6e
+T15	Site 657 663	Ser-59
+T16	Phosphorylation 757 772	phosphorylation
+T17	Protein 753 756	its
+T10	Site 447 486	two major in vivo phosphorylation sites
+T11	Site 502 521	the head ( Ser-23 )
+T38	Protein 1630 1673	mitogen -activated protein and cdc2 kinases
+T13	Phosphorylation 703 717	phosphorylated
+T36	Site 1431 1463	a conserved phosphorylation site
+T37	Phosphorylation 1527 1542	phosphorylation
+T34	Phosphorylation 1443 1458	phosphorylation
+T35	Protein 1483 1499	type II keratins
+T18	Protein 732 735	K6e
+T33	Site 1378 1409	the conserved head domain motif
+T30	Protein 1360 1362	K8
+T31	Protein 1367 1370	K6e
+T32	Site 1334 1340	serine
+T19	Site 736 742	Ser-59
+T8	Phosphorylation 465 480	phosphorylation
+T9	Protein 496 498	K8
+T6	Phosphorylation 164 179	phosphorylation
+T7	Protein 229 281	keratin type I and II intermediate filament proteins
+T4	Site 51 72	conserved head domain
+T5	Site 90 148	epidermal growth factor -stimulated tail domain serine 431
+T2	Protein 30 39	keratin 8
+T3	Site 73 82	serine 23
+T1	Phosphorylation 5 20	Phosphorylation
+T29	Phosphorylation 1341 1356	phosphorylation
+T28	Site 1181 1191	serine 431
+T21	Protein 846 848	K8
+T20	Phosphorylation 849 864	phosphorylation
+T23	Phosphorylation 1011 1025	phosphorylated
+T22	Site 868 875	Ser-431
+T25	Site 1026 1033	residue
+T24	Protein 1078 1120	mitogen -activated protein or cdc2 kinases
+T27	Protein 1192 1194	K8
+T26	Phosphorylation 1174 1187	phosphoserine
+T43	Protein 935 966	epidermal growth factor ( EGF )
+T42	Anaphora 753 756	its
+T41	Site 502 548	the head ( Ser-23 ) and tail (Ser-431) domains
+T40	Site 1519 1526	Ser-431
+T46	Anaphora 998 1033	the major K8 phosphorylated residue
+T45	Protein 1051 1053	K8
+T44	Protein 970 990	after mitotic arrest
+E19	Phosphorylation:T34 Theme:T35 Site:T36
+E18	Phosphorylation:T29 Theme:T31 Site:T33
+E32	Phosphorylation:T23 Theme:T45 Cause:T24 Site:T46
+E31	Phosphorylation:T20 Theme:T21 Cause:T44 Site:T22
+E30	Phosphorylation:T20 Theme:T21 Cause:T43 Site:T22
+E11	Phosphorylation:T20 Theme:T21 Site:T22
+E10	Phosphorylation:T16 Theme:T18 Site:T19
+E13	Phosphorylation:T23 Theme:T21 Cause:T24 Site:T22
+E12	Phosphorylation:T23 Theme:T21 Cause:T24 Site:T25
+E15	Phosphorylation:T29 Theme:T30 Site:T32
+E14	Phosphorylation:T26 Theme:T27 Site:T28
+E17	Phosphorylation:T29 Theme:T31 Site:T32
+E16	Phosphorylation:T29 Theme:T30 Site:T33
+E9	Phosphorylation:T16 Theme:T17 Site:T19
+E8	Phosphorylation:T13 Theme:T14 Site:T15
+E5	Phosphorylation:T8 Theme:T9 Site:T10
+E4	Phosphorylation:T6 Theme:T7
+E7	Phosphorylation:T8 Theme:T9 Site:T12
+E6	Phosphorylation:T8 Theme:T9 Site:T11
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T1 Theme:T2 Site:T5
+E2	Phosphorylation:T1 Theme:T2 Site:T4
+E24	Phosphorylation:T34 Theme:T30 Site:T33
+E25	Phosphorylation:T34 Theme:T31 Site:T36
+E26	Phosphorylation:T34 Theme:T31 Site:T32
+E27	Phosphorylation:T34 Theme:T31 Site:T33
+E20	Phosphorylation:T34 Theme:T35 Site:T32
+E21	Phosphorylation:T34 Theme:T35 Site:T33
+E22	Phosphorylation:T34 Theme:T30 Site:T36
+E23	Phosphorylation:T34 Theme:T30 Site:T32
+E28	Phosphorylation:T37 Theme:T39 Cause:T38 Site:T40
+E29	Phosphorylation:T8 Theme:T9 Site:T41
+R1	Coreference Arg1:T42 Arg2:T18
+R2	Coreference Arg1:T46 Arg2:T22

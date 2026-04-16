@@ -1,0 +1,6 @@
+T4	Protein 293 301	PKCalpha
+T2	Protein 258 267	PKCbeta-I
+T3	Phosphorylation 272 289	dePHOSphorylation
+T1	Phosphorylation 239 254	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

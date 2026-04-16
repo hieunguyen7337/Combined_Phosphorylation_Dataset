@@ -1,0 +1,19 @@
+T8	Protein 812 818	ERK1/2
+T9	Phosphorylation 1286 1301	PHOSphorylation
+T6	Protein 659 665	ERK1/2
+T7	Phosphorylation 819 834	PHOSphorylation
+T4	Protein 492 498	ERK1/2
+T5	Phosphorylation 666 681	PHOSphorylation
+T2	Protein 348 351	ERK
+T3	Phosphorylation 473 488	PHOSphorylation
+T1	Phosphorylation 322 337	PHOSphorylation
+T10	Protein 1279 1285	ERK1/2
+T11	Phosphorylation 1395 1408	PHOSphorylate
+T12	Protein 1324 1367	Extracellular regulated kinase kinase (MEK)
+T13	Protein 1422 1433	ERK1/2 [22]
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E6	Phosphorylation:T11 Theme:T13 Cause:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

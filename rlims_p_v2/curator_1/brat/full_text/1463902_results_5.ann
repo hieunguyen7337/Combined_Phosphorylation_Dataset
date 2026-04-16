@@ -1,0 +1,22 @@
+T8	Phosphorylation 2836 2853	phosPHOthreonines
+T9	Phosphorylation 2920 2935	PHOSphotyrosine
+T6	Site 2817 2853	phosPHOserines and phosPHOthreonines
+T7	Phosphorylation 2817 2831	phosPHOserines
+T4	Phosphorylation 2716 2733	dephosphorylaTION
+T5	Protein 2710 2715	Rad52
+T2	Protein 5 10	Rad52
+T3	Phosphorylation 2075 2090	PHOSphorylation
+T1	Phosphorylation 14 28	PHOSphorylated
+T14	Protein 1990 1995	Rad52
+T15	Protein 2767 2788	protein phosphatase 1
+T10	Phosphorylation 3031 3045	PHOSphorylated
+T11	Protein 3022 3027	Rad52
+T12	Site 3049 3055	serine
+T13	Site 3063 3072	threonine
+E5	Phosphorylation:T10 Theme:T11 Site:T13
+E4	Phosphorylation:T10 Theme:T11 Site:T12
+E7	Phosphorylation:T4 Theme:T5 Cause:T15 Site:T6
+E6	Phosphorylation:T3 Theme:T14
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5 Site:T6
+E2	Phosphorylation:T4 Theme:T5

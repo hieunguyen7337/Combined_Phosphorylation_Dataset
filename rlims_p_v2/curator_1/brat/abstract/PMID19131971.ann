@@ -1,0 +1,23 @@
+T8	Site 386 389	S62
+T9	Phosphorylation 536 551	phosphorylation
+T6	Protein 315 320	c-Myc
+T7	Site 378 381	T58
+T4	Site 242 258	serine62 ( S62 )
+T5	Phosphorylation 390 405	phosphorylation
+T2	Protein 271 276	c-Myc
+T3	Site 218 237	threonine58 ( T58 )
+T1	Phosphorylation 174 189	Phosphorylation
+T14	Site 870 873	S62
+T10	Anaphora 555 566	these sites
+T11	Phosphorylation 874 889	phosphorylation
+T12	Protein 817 822	c-Myc
+T13	Site 853 856	T58
+E5	Phosphorylation:T9 Theme:T6 Site:T10
+E4	Phosphorylation:T5 Theme:T6 Site:T8
+E7	Phosphorylation:T11 Theme:T12 Site:T14
+E6	Phosphorylation:T11 Theme:T12 Site:T13
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T5 Theme:T6 Site:T7
+E2	Phosphorylation:T1 Theme:T2 Site:T4
+R1	Coreference Arg1:T10 Arg2:T7
+R2	Coreference Arg1:T10 Arg2:T8

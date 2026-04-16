@@ -1,0 +1,25 @@
+T8	Site 439 516	specific PHOSphorylation sites within the alpha-catenin binding domain of Arm
+T9	Phosphorylation 1150 1165	PHOSphorylation
+T6	Protein 593 605	beta-catenin
+T7	Site 531 542	These sites
+T4	Phosphorylation 629 643	PHOSphorylated
+T5	Protein 647 663	Casein Kinase II
+T2	Protein 513 516	Arm
+T3	Site 448 509	PHOSphorylation sites within the alpha-catenin binding domain
+T1	Phosphorylation 448 463	PHOSphorylation
+T14	Protein 8585 8597	beta-catenin
+T15	Site 8564 8572	tyrosine
+T16	Phosphorylation 8928 8949	phosphorylaTION-based
+T17	Site 8918 8927	threonine
+T10	Protein 1145 1149	CKII
+T11	Phosphorylation 8392 8407	PHOSphorylation
+T12	Protein 8417 8429	beta-catenin
+T13	Phosphorylation 8545 8560	PHOSphorylation
+T18	Phosphorylation 8967 8990	dePHOSphorylation-based
+E5	Phosphorylation:T13 Theme:T14 Site:T15
+E4	Phosphorylation:T11 Theme:T12
+E7	Phosphorylation:T18 Theme:T14 Site:T17
+E6	Phosphorylation:T16 Theme:T14 Site:T17
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T8
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7

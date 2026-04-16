@@ -1,0 +1,10 @@
+T6	Phosphorylation 1155 1170	PHOSphorylation
+T7	Protein 1181 1185	ULK1
+T4	Phosphorylation 372 387	PHOSphorylation
+T5	Protein 398 404	4E-BP1
+T2	Protein 141 150	S6 kinase
+T3	Site 141 143	S6
+T1	Phosphorylation 122 137	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T4 Theme:T5

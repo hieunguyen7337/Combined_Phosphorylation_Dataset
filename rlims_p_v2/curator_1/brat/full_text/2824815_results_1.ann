@@ -1,0 +1,4 @@
+T2	Protein 443 446	AKT
+T3	Site 466 472	Ser473
+T1	Phosphorylation 447 462	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3

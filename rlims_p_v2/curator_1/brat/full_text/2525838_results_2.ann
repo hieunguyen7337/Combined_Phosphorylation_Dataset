@@ -1,0 +1,12 @@
+T8	Protein 866 870	H2AX
+T6	Site 825 835	serine 139
+T7	Phosphorylation 843 857	PHOSphorylated
+T4	Phosphorylation 807 821	PHOSphorylated
+T5	Protein 706 718	Histone H2AX
+T2	Protein 434 452	H2AX ( gammaH2AX )
+T3	Protein 457 462	RAD51
+T1	Phosphorylation 419 433	PHOSphorylated
+E4	Phosphorylation:T7 Theme:T8
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5 Site:T6
+E2	Phosphorylation:T1 Theme:T3

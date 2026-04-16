@@ -1,0 +1,19 @@
+T8	Phosphorylation 276 290	phosphorylaTED
+T9	Protein 268 272	ArcA
+T6	Phosphorylation 209 224	PHOSphorylation
+T7	Protein 228 232	ArcA
+T4	Phosphorylation 168 188	auto-phosphorylaTION
+T5	Protein 118 122	ArcB
+T2	Protein 77 81	ArcA
+T3	Site 24 29	Asp54
+T1	Phosphorylation 5 20	PHOSphorylation
+T10	Phosphorylation 322 338	unPHOSphorylated
+T11	Protein 339 343	ArcA
+T12	Phosphorylation 374 389	PHOSphorylation
+T13	Protein 435 439	ArcA
+E5	Phosphorylation:T10 Theme:T11
+E4	Phosphorylation:T8 Theme:T9
+E6	Phosphorylation:T12 Theme:T13
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T7 Cause:T5
+E2	Phosphorylation:T4 Theme:T5 Cause:T5

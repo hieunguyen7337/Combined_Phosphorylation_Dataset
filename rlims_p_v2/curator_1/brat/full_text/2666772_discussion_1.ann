@@ -1,0 +1,44 @@
+T14	Phosphorylation 6377 6392	phosphorylaTION
+T15	Protein 6354 6357	Src
+T16	Protein 6400 6407	p130Cas
+T17	Site 6368 6376	tyrosine
+T10	Protein 5555 5558	Src
+T11	Site 5576 5582	Tyr527
+T12	Phosphorylation 6280 6295	PHOSphorylation
+T13	Protein 6272 6279	p130Cas
+T34	Protein 8336 8339	Akt
+T18	Phosphorylation 6408 6417	subSTRate
+T33	Site 8431 8437	Ser473
+T30	Site 8340 8347	Ser 473
+T31	Phosphorylation 8438 8453	PHOSphorylation
+T32	Protein 8427 8430	Akt
+T19	Phosphorylation 6495 6510	PHOSphorylation
+T8	Phosphorylation 5464 5473	SUBstrate
+T9	Phosphorylation 5561 5575	PHOSphorylated
+T6	Protein 5484 5491	p130Cas
+T7	Site 5441 5449	tyrosine
+T4	Phosphorylation 5413 5428	phosphorylaTION
+T5	Protein 5399 5402	Src
+T2	Protein 5313 5316	FAK
+T3	Site 5317 5321	Y397
+T1	Phosphorylation 5322 5341	autophosphorylaTION
+T29	Phosphorylation 8348 8363	PHOSphorylation
+T28	Site 7562 7569	Ser 473
+T21	Site 6488 6494	serine
+T20	Protein 6480 6487	p130Cas
+T23	Protein 6805 6812	p130Cas
+T22	Phosphorylation 6820 6835	phosphorylaTION
+T25	Phosphorylation 6891 6906	PHOSphorylation
+T24	Site 6813 6819	serine
+T27	Protein 7558 7561	Akt
+T26	Phosphorylation 7570 7585	PHOSphorylation
+E10	Phosphorylation:T29 Theme:T34 Site:T30
+E9	Phosphorylation:T31 Theme:T32 Site:T33
+E8	Phosphorylation:T26 Theme:T27 Site:T28
+E5	Phosphorylation:T14 Theme:T16 Cause:T15 Site:T17
+E4	Phosphorylation:T12 Theme:T13
+E7	Phosphorylation:T22 Theme:T23 Site:T24
+E6	Phosphorylation:T19 Theme:T20 Site:T21
+E1	Phosphorylation:T1 Theme:T2 Cause:T2 Site:T3
+E3	Phosphorylation:T9 Theme:T10 Site:T11
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7

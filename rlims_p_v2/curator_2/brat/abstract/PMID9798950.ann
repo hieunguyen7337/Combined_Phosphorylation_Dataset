@@ -1,0 +1,40 @@
+T14	Protein 103 135	heparin-sensitive protein kinase
+T15	Phosphorylation 900 914	phosphorylated
+T16	Phosphorylation 1017 1034	Phosphoamino acid
+T17	Phosphorylation 1068 1082	phosphorylated
+T10	Phosphorylation 812 826	phosphopeptide
+T11	Protein 925 994	a heparin-sensitive endogenous cytoskeleton-associated protein kinase
+T12	Protein 998 1014	protein kinase A
+T13	Protein 881 894	beta-spectrin
+T18	Protein 1083 1096	beta-spectrin
+T19	Site 1160 1201	serine ( &gt ; 90% ) and threonine residu
+T8	Protein 641 649	spectrin
+T9	Protein 772 785	beta-spectrin
+T6	Protein 189 197	spectrin
+T7	Phosphorylation 748 763	phosphorylation
+T4	Phosphorylation 136 151	phosphorylation
+T5	Phosphorylation 164 179	Phosphorylation
+T2	Protein 11 24	beta-spectrin
+T3	Site 84 97	threonine-347
+T1	Phosphorylation 25 40	phosphorylation
+T21	Protein 1432 1499	heparin-sensitive cytoskeleton-associated endogenous protein kinase
+T20	Phosphorylation 1410 1424	phosphorylated
+T23	Site 1516 1563	amino acid residues 338-348 on the beta1 repeat
+T22	Protein 1567 1598	beta-spectrinG (betaSPIIa) gene
+T25	Protein 1720 1734	beta-spectrinG
+T24	Phosphorylation 1625 1640	phosphorylation
+T26	Site 1644 1650	Thr347
+E11	Phosphorylation:T15 Theme:T13 Cause:T12
+E10	Phosphorylation:T15 Theme:T13 Cause:T11
+E13	Phosphorylation:T20 Theme:T22 Cause:T21 Site:T23
+E12	Phosphorylation:T17 Theme:T18 Site:T19
+E14	Phosphorylation:T24 Theme:T25 Site:T26
+E9	Phosphorylation:T4 Theme:T2 Cause:T14 Site:T3
+E8	Phosphorylation:T1 Theme:T2 Cause:T14 Site:T3
+E5	Phosphorylation:T7 Theme:T9
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T10 Theme:T13 Cause:T12
+E6	Phosphorylation:T10 Theme:T13 Cause:T11
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T4 Theme:T2 Site:T3

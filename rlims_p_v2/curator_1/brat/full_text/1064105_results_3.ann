@@ -1,0 +1,7 @@
+T4	Phosphorylation 435 450	PHOSphorylation
+T5	Protein 392 417	highest E2 concentrations
+T2	Protein 349 376	0.1 pmol/l to 100 nmol/l E2
+T3	Protein 275 278	ERK
+T1	Phosphorylation 279 294	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E2	Phosphorylation:T4 Theme:T3 Cause:T5

@@ -1,0 +1,6 @@
+T4	Site 1053 1065	the PKA site
+T2	Protein 1044 1049	GluR1
+T3	Site 1067 1073	Ser845
+T1	Phosphorylation 1025 1040	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E2	Phosphorylation:T1 Theme:T2 Site:T4

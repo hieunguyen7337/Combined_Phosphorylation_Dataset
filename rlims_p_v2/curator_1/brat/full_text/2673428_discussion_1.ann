@@ -1,0 +1,16 @@
+T8	Phosphorylation 8626 8641	phosphorylaTION
+T9	Protein 8588 8593	RAD18
+T6	Phosphorylation 7460 7477	dePHOSphorylation
+T7	Protein 7449 7459	gamma-H2AX
+T4	Protein 4227 4239	Histone H2AX
+T5	Phosphorylation 6996 7006	SUBstrates
+T2	Protein 4268 4271	ATM
+T3	Protein 4276 4280	MDC1
+T1	Phosphorylation 4240 4255	PHOSphorylation
+T10	Phosphorylation 8645 8662	dePHOSphorylation
+T11	Phosphorylation 11098 11107	SUBstrate
+E5	Phosphorylation:T10 Theme:T9
+E4	Phosphorylation:T8 Theme:T9
+E1	Phosphorylation:T1 Theme:T4 Cause:T2
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T1 Theme:T4 Cause:T3

@@ -1,0 +1,6 @@
+T4	Protein 317 370	interaction of GSK3beta with scaffolding peptide axin
+T2	Protein 437 449	beta-catenin
+T3	Phosphorylation 418 433	phosphorylation
+T1	Phosphorylation 404 433	the effective phosphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T2 Cause:T4

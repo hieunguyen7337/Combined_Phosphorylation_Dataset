@@ -1,0 +1,19 @@
+T8	Protein 2291 2294	ERK
+T9	Phosphorylation 2480 2497	dePHOSphorylation
+T6	Protein 1331 1337	ERK1/2
+T7	Phosphorylation 2276 2290	phosphorylaTED
+T4	Protein 988 994	ERK1/2
+T5	Phosphorylation 1316 1330	PHOSphorylated
+T2	Protein 366 372	ERK1/2
+T3	Phosphorylation 995 1010	PHOSphorylation
+T1	Phosphorylation 347 362	PHOSphorylation
+T10	Protein 2464 2470	ERK1/2
+T11	Phosphorylation 2913 2928	-PHOSphorylated
+T12	Protein 2909 2912	MEK
+T13	Protein 2929 2932	ERK
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E6	Phosphorylation:T11 Theme:T13 Cause:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

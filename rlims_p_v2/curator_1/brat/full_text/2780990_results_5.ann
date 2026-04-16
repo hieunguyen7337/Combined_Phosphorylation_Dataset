@@ -1,0 +1,17 @@
+T8	Site 1763 1770	Ser-151
+T9	Phosphorylation 2056 2071	PHOSphorylation
+T6	Phosphorylation 1691 1706	PHOSphorylation
+T7	Protein 1732 1737	Rex-2
+T4	Phosphorylation 894 909	PHOSphorylation
+T5	Phosphorylation 1289 1304	PHOSphorylation
+T2	Phosphorylation 805 820	PHOSphorylation
+T3	Protein 767 774	wtRex-1
+T1	Phosphorylation 156 171	PHOSphorylation
+T10	Protein 2110 2115	Rex-1
+T11	Site 2075 2081	Ser-97
+T12	Site 2086 2093	Thr-174
+T13	Phosphorylation 2357 2372	PHOSphorylation
+E4	Phosphorylation:T9 Theme:T10 Site:T12
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T9 Theme:T10 Site:T11
+E2	Phosphorylation:T6 Theme:T7 Site:T8

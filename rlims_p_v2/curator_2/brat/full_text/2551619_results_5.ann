@@ -1,0 +1,23 @@
+T8	Protein 1272 1277	ErbB2
+T9	Protein 1282 1287	ErbB3
+T6	Protein 1087 1110	the p55 subunit of PI3K
+T7	Phosphorylation 1301 1315	PHOSphorylated
+T4	Protein 971 975	MAPK
+T5	Phosphorylation 1068 1083	PHOSphorylation
+T2	Protein 879 893	ErbB receptors
+T3	Phosphorylation 956 970	PHOSphorylated
+T1	Phosphorylation 860 875	PHOSphorylation
+T14	Phosphorylation 2538 2553	PHOSphorylation
+T15	Phosphorylation 2840 2855	PHOSphorylation
+T16	Phosphorylation 3009 3024	PHOSphorylation
+T10	Phosphorylation 1578 1593	PHOSphorylation
+T11	Protein 1573 1577	MAPK
+T12	Phosphorylation 2095 2109	PHOSphorylated
+T13	Protein 2110 2115	ErbB3
+E5	Phosphorylation:T7 Theme:T9
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T12 Theme:T13
+E6	Phosphorylation:T10 Theme:T11
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

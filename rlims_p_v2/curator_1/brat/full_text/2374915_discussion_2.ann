@@ -1,0 +1,3 @@
+T2	Protein 3489 3524	single-stranded binding protein RPA
+T1	Phosphorylation 3466 3481	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

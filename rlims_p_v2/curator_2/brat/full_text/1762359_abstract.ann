@@ -1,0 +1,10 @@
+T6	Protein 1105 1108	Arm
+T4	Protein 1023 1032	Armadillo
+T5	Phosphorylation 1109 1124	PHOSphorylation
+T2	Protein 1035 1038	Arm
+T3	Protein 1042 1054	beta-catenin
+T1	Phosphorylation 1004 1019	phosphorylaTION
+E4	Phosphorylation:T5 Theme:T6
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T1 Theme:T4
+E2	Phosphorylation:T1 Theme:T3

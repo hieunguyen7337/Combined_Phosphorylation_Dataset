@@ -1,0 +1,14 @@
+T8	Site 1342 1344	S6
+T6	Protein 1316 1323	insulin
+T7	Protein 1334 1351	protein S6 kinase
+T4	Phosphorylation 1388 1403	phosphorylation
+T5	Protein 1300 1311	Amino acids
+T2	Protein 1342 1351	S6 kinase
+T3	Protein 1356 1387	4E-binding protein 1 ( 4E-BP1 )
+T1	Phosphorylation 1334 1403	protein S6 kinase and 4E-binding protein 1 ( 4E-BP1 ) phosphorylation
+E5	Phosphorylation:T4 Theme:T3 Cause:T5 Site:T8
+E4	Phosphorylation:T4 Theme:T7 Cause:T6 Site:T8
+E6	Phosphorylation:T4 Theme:T3 Cause:T6 Site:T8
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T7 Cause:T5 Site:T8
+E2	Phosphorylation:T1 Theme:T3

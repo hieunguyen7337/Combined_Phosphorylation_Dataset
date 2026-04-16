@@ -1,0 +1,46 @@
+T14	Protein 611 615	Cdk5
+T15	Protein 668 679	inhibitor-1
+T16	Site 683 689	Ser-67
+T17	Phosphorylation 768 782	phospho-Ser-67
+T10	Protein 380 391	inhibitor-1
+T11	Site 422 428	Ser-67
+T12	Phosphorylation 527 542	phosphorylation
+T13	Phosphorylation 653 667	phosphorylates
+T36	Protein 1327 1338	inhibitor-1
+T34	Phosphorylation 1303 1318	phosphorylation
+T35	Protein 1288 1292	Cdk5
+T32	Site 1171 1177	Ser-67
+T19	Site 776 782	Ser-67
+T30	Protein 1213 1243	cAMP -dependent protein kinase
+T31	Protein 1141 1152	inhibitor-1
+T18	Protein 783 794	inhibitor-1
+T33	Phosphorylation 1199 1208	substrate
+T8	Phosphorylation 395 409	phosphorylated
+T9	Protein 436 515	proline -directed kinases , Cdk1 , Cdk5 , and mitogen -activated protein kinase
+T6	Protein 271 282	inhibitor-1
+T7	Site 286 292	Thr-35
+T4	Phosphorylation 252 267	phosphorylation
+T5	Protein 210 240	cAMP -dependent protein kinase
+T2	Protein 60 64	Cdk5
+T3	Protein 24 56	protein phosphatase inhibitor -1
+T1	Phosphorylation 5 20	Phosphorylation
+T29	Phosphorylation 1153 1167	phosphorylated
+T28	Site 1051 1057	Ser-67
+T21	Protein 819 850	protein phosphatases-2A and -2B
+T20	Phosphorylation 799 815	dephosphorylated
+T23	Protein 990 1029	N-methyl-d-aspartic acid -type channels
+T22	Phosphorylation 866 881	phosphorylation
+T25	Site 900 906	Ser-67
+T24	Protein 885 896	inhibitor-1
+T27	Protein 1074 1085	inhibitor-1
+T26	Phosphorylation 1032 1047	Phosphorylation
+E10	Phosphorylation:T34 Theme:T36 Cause:T35
+E9	Phosphorylation:T29 Theme:T31 Cause:T30 Site:T32
+E8	Phosphorylation:T26 Theme:T27 Site:T28
+E5	Phosphorylation:T17 Theme:T18 Site:T19
+E4	Phosphorylation:T13 Theme:T15 Cause:T14 Site:T16
+E7	Phosphorylation:T22 Theme:T24 Cause:T23 Site:T25
+E6	Phosphorylation:T20 Theme:T18 Cause:T21 Site:T19
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T11
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7

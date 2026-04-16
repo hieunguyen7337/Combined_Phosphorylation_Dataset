@@ -1,0 +1,20 @@
+T8	Phosphorylation 547 566	autophosphorylation
+T9	Protein 570 582	native MIHCK
+T6	Phosphorylation 418 433	Phosphorylation
+T7	Site 502 532	the expressed catalytic domain
+T4	Phosphorylation 378 397	autophosphorylation
+T5	Protein 304 309	MIHCK
+T2	Protein 130 180	Acanthamoeba myosin I heavy chain kinase ( MIHCK )
+T3	Protein 196 232	the heavy chains of amoeba myosins I
+T1	Phosphorylation 181 195	phosphorylates
+T14	Protein 1696 1701	MIHCK
+T10	Phosphorylation 653 662	substrate
+T11	Phosphorylation 1076 1095	autophosphorylation
+T12	Protein 981 986	MIHCK
+T13	Phosphorylation 1666 1685	autophosphorylation
+E5	Phosphorylation:T11 Theme:T12 Cause:T12
+E4	Phosphorylation:T8 Theme:T9 Cause:T9
+E6	Phosphorylation:T13 Theme:T14 Cause:T14
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T6 Theme:T5 Site:T7
+E2	Phosphorylation:T4 Theme:T5 Cause:T5

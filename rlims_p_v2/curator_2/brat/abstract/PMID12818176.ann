@@ -1,0 +1,19 @@
+T8	Protein 468 498	Mitochondrially localized JNKs
+T9	Protein 648 656	BIM (EL)
+T6	Protein 457 465	BIM (EL)
+T7	Phosphorylation 633 647	phosphorylated
+T4	Phosphorylation 438 453	phosphorylation
+T5	Protein 399 402	TFD
+T2	Protein 5 8	JNK
+T3	Protein 19 22	BIM
+T1	Phosphorylation 23 38	phosphorylation
+T14	Protein 897 905	BIM (EL)
+T10	Site 660 665	Ser65
+T11	Phosphorylation 791 806	phosphorylation
+T12	Protein 782 790	BIM (EL)
+T13	Phosphorylation 921 936	phosphorylation
+E5	Phosphorylation:T13 Theme:T14
+E4	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

@@ -1,0 +1,13 @@
+T8	Phosphorylation 646 660	phosphorylated
+T9	Protein 590 593	p38
+T6	Protein 301 304	p38
+T7	Site 308 314	Tyr323
+T4	Phosphorylation 286 300	phosphorylates
+T5	Protein 237 285	T cell receptor -activated tyrosine kinase Zap70
+T2	Protein 168 189	upstream MAPK kinases
+T3	Protein 109 132	p38 MAP kinase ( MAPK )
+T1	Phosphorylation 136 150	phosphorylated
+T10	Site 664 670	Tyr323
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T9 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7

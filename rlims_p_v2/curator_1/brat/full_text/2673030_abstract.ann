@@ -1,0 +1,3 @@
+T2	Protein 474 478	CheY
+T1	Phosphorylation 427 442	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

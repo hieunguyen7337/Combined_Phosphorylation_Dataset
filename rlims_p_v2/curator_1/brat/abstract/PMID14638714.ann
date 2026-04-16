@@ -1,0 +1,15 @@
+T8	Site 1315 1319	T389
+T9	Phosphorylation 1366 1382	phosphorylations
+T6	Phosphorylation 1296 1311	phosphorylation
+T7	Protein 1323 1340	p70/p85 S6 kinase
+T4	Site 1218 1222	S473
+T5	Site 1227 1231	T308
+T2	Phosphorylation 1199 1214	phosphorylation
+T3	Protein 1174 1198	Protein kinase B ( PKB )
+T1	Phosphorylation 800 815	phosphorylation
+T10	Protein 1420 1426	eIF-4E
+T11	Site 1430 1434	S209
+E4	Phosphorylation:T9 Theme:T10 Site:T11
+E1	Phosphorylation:T2 Theme:T3 Site:T4
+E3	Phosphorylation:T6 Theme:T7 Site:T8
+E2	Phosphorylation:T2 Theme:T3 Site:T5

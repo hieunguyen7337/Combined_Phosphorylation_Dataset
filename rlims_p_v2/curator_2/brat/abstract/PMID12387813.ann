@@ -1,0 +1,9 @@
+T6	Site 689 697	Tyr(521)
+T7	Phosphorylation 1051 1066	phosphopeptides
+T4	Phosphorylation 698 713	-phosphorylated
+T5	Protein 611 614	Src
+T2	Protein 82 85	Src
+T3	Site 57 65	Tyr(527)
+T1	Phosphorylation 66 81	-phosphorylated
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E2	Phosphorylation:T4 Theme:T5 Site:T6

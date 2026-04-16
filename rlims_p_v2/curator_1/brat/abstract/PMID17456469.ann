@@ -1,0 +1,5 @@
+T4	Site 1127 1133	Tyr-54
+T2	Protein 1192 1195	Src
+T3	Protein 1112 1126	beta-arrestin1
+T1	Phosphorylation 1196 1211	phosphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4

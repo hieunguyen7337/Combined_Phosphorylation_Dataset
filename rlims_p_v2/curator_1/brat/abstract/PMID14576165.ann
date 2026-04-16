@@ -1,0 +1,35 @@
+T14	Site 686 704	serine residue 346
+T15	Phosphorylation 740 754	phosphorylated
+T16	Phosphorylation 848 863	phosphorylation
+T17	Protein 908 911	PS1
+T10	Protein 623 626	PS1
+T11	Site 595 619	large hydrophilic domain
+T12	Phosphorylation 662 677	phosphorylation
+T13	Protein 758 761	PKC
+T18	Phosphorylation 966 981	phosphorylation
+T19	Protein 962 965	PS1
+T8	Phosphorylation 577 590	phosphorylate
+T9	Protein 1351 1351	
+T6	Protein 538 541	PKC
+T7	Protein 445 448	PS1
+T4	Phosphorylation 426 441	phosphorylation
+T5	Protein 510 533	protein kinase ( PK ) A
+T2	Protein 24 36	presenilin 1
+T3	Site 44 68	caspase recognition site
+T1	Phosphorylation 5 20	Phosphorylation
+T21	Protein 1168 1171	PS1
+T20	Phosphorylation 1044 1059	phosphorylation
+T23	Phosphorylation 1060 1077	dephosphorylation
+T22	Site 1085 1109	caspase recognition site
+E11	Phosphorylation:T20 Theme:T21 Site:T22
+E10	Phosphorylation:T18 Theme:T19
+E12	Phosphorylation:T23 Theme:T21 Site:T22
+E9	Phosphorylation:T16 Theme:T17
+E8	Phosphorylation:T15 Theme:T10 Cause:T13 Site:T14
+E5	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T11
+E4	Phosphorylation:T8 Theme:T10 Cause:T5 Site:T11
+E7	Phosphorylation:T12 Theme:T10 Cause:T13 Site:T14
+E6	Phosphorylation:T8 Theme:T10 Cause:T6 Site:T11
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T4 Theme:T7 Cause:T6
+E2	Phosphorylation:T4 Theme:T7 Cause:T5

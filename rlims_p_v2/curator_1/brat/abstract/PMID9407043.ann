@@ -1,0 +1,23 @@
+T8	Site 1128 1134	Ser831
+T9	Phosphorylation 83 98	phosphorylation
+T6	Phosphorylation 1169 1208	a protein kinase C phosphorylation site
+T7	Protein 1171 1187	protein kinase C
+T4	Protein 197 245	Ca2+/CaM-dependent protein kinase II ( CaM-KII )
+T5	Protein 292 370	alpha-amino3-hydroxyl-5-methyl-4-isoxazole-propionate-type glutamate receptors
+T2	Protein 27 71	Ca2+/calmodulin -dependent protein kinase II
+T3	Phosphorylation 246 278	can phosphorylate and potentiate
+T1	Phosphorylation 23 103	the Ca2+/calmodulin -dependent protein kinase II regulatory phosphorylation site
+T14	Protein 1033 1038	GluR2
+T15	Phosphorylation 1188 1203	phosphorylation
+T16	Protein 949 954	GluR1
+T10	Protein 111 189	alpha-amino-3-hydroxyl-5-methyl-4-isoxazole-propionate-type glutamate receptor
+T11	Phosphorylation 250 263	phosphorylate
+T12	Phosphorylation 977 990	phosphorylate
+T13	Protein 961 968	CaM-KII
+E5	Phosphorylation:T11 Theme:T5 Cause:T4
+E4	Phosphorylation:T9 Theme:T10 Cause:T2
+E7	Phosphorylation:T15 Theme:T16 Cause:T7 Site:T8
+E6	Phosphorylation:T12 Theme:T14 Cause:T13
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7 Cause:T7 Site:T8
+E2	Phosphorylation:T3 Theme:T5 Cause:T4

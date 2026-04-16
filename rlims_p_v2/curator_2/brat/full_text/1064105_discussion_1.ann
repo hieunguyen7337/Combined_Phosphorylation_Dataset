@@ -1,0 +1,34 @@
+T8	Protein 8404 8407	ERK
+T9	Phosphorylation 11261 11276	PHOSphorylation
+T6	Protein 6659 6663	ERKs
+T7	Phosphorylation 8408 8423	PHOSphorylation
+T4	Protein 5234 5238	ERKs
+T5	Phosphorylation 6640 6655	PHOSphorylation
+T2	Protein 4654 4659	MAPKs
+T3	Phosphorylation 5214 5230	PHOSphorylations
+T1	Phosphorylation 4639 4653	PHOSphorylated
+T14	Site 12139 12155	serine/threonine
+T15	Phosphorylation 12668 12683	dephosphorylaTE
+T16	Protein 12753 12756	ERK
+T17	Site 12684 12692	tyrosine
+T10	Protein 11257 11260	ERK
+T11	Phosphorylation 11460 11476	PHOSphorylations
+T12	Phosphorylation 12201 12218	dePHOSphorylation
+T13	Protein 12222 12226	ERKs
+T21	Site 12684 12724	tyrosine , threonine and serine residues
+T20	Phosphorylation 12757 12774	dePHOSphorylation
+T18	Site 12695 12704	threonine
+T19	Site 12709 12715	serine
+E11	Phosphorylation:T20 Theme:T16 Site:T17
+E10	Phosphorylation:T20 Theme:T16 Site:T21
+E13	Phosphorylation:T20 Theme:T16 Site:T19
+E12	Phosphorylation:T20 Theme:T16 Site:T18
+E9	Phosphorylation:T15 Theme:T16 Site:T19
+E8	Phosphorylation:T15 Theme:T16 Site:T18
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T15 Theme:T16 Site:T17
+E6	Phosphorylation:T12 Theme:T13 Site:T14
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

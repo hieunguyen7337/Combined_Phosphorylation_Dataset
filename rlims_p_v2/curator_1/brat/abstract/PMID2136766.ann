@@ -1,0 +1,13 @@
+T8	Phosphorylation 1812 1827	phosphorylation
+T9	Site 1799 1811	tyrosine 527
+T6	Phosphorylation 1702 1717	phosphorylation
+T7	Site 1689 1701	Tyrosine 416
+T4	Site 1661 1670	serine 12
+T5	Phosphorylation 1671 1686	phosphorylation
+T2	Phosphorylation 1550 1565	phosphorylation
+T3	Protein 1569 1576	pp60src
+T1	Phosphorylation 1461 1475	phosphopeptide
+E4	Phosphorylation:T8 Theme:T3 Site:T9
+E1	Phosphorylation:T2 Theme:T3 Site:T4
+E3	Phosphorylation:T6 Theme:T3 Site:T7
+E2	Phosphorylation:T5 Theme:T3 Site:T4

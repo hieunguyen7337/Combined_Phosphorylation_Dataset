@@ -1,0 +1,7 @@
+T4	Phosphorylation 995 1010	PHOSphorylation
+T5	Protein 988 994	ERK1/2
+T2	Protein 291 304	EGF treatment
+T3	Protein 366 372	ERK1/2
+T1	Phosphorylation 347 362	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E2	Phosphorylation:T4 Theme:T5

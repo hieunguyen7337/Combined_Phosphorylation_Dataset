@@ -1,0 +1,4 @@
+T2	Protein 1006 1009	PAK
+T3	Protein 897 902	CtBP1
+T1	Phosphorylation 1010 1025	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

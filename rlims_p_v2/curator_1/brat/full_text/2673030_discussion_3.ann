@@ -1,0 +1,28 @@
+T8	Phosphorylation 1838 1852	phosphorylaTED
+T9	Protein 1853 1857	CheB
+T6	Protein 1804 1808	CheY
+T7	Protein 1820 1824	CheB
+T4	Phosphorylation 1790 1803	PHOSphorylate
+T5	Protein 1772 1777	CheAp
+T2	Protein 1384 1389	CheAp
+T3	Protein 1376 1380	CheB
+T1	Phosphorylation 1357 1372	PHOSphorylation
+T14	Protein 1938 1942	CheB
+T15	Phosphorylation 2020 2034	PHOSphorylated
+T16	Protein 2035 2039	CheB
+T17	Phosphorylation 2109 2123	PHOSphorylated
+T10	Phosphorylation 1899 1915	unPHOSphorylated
+T11	Phosphorylation 1972 1987	phosphorylaTION
+T12	Protein 1991 1996	CheAp
+T13	Protein 1929 1933	CheY
+T18	Protein 2124 2128	CheB
+T19	Protein 1916 1920	CheB
+E9	Phosphorylation:T10 Theme:T19
+E8	Phosphorylation:T17 Theme:T18
+E5	Phosphorylation:T11 Theme:T13 Cause:T12
+E4	Phosphorylation:T8 Theme:T9
+E7	Phosphorylation:T15 Theme:T16
+E6	Phosphorylation:T11 Theme:T14 Cause:T12
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T4 Theme:T7 Cause:T5
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

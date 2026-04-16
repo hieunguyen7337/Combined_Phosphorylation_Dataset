@@ -1,0 +1,3 @@
+T2	Protein 837 842	Trp53
+T1	Phosphorylation 843 858	phosphorylation
+E1	Phosphorylation:T1 Theme:T2

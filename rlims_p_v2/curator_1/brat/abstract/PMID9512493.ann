@@ -1,0 +1,29 @@
+T8	Protein 333 364	PKBalpha , PKBbeta and PKBgamma
+T9	Anaphora 531 542	each enzyme
+T6	Phosphorylation 497 512	Phosphorylation
+T7	Protein 568 626	PtdIns ( 3,4,5 ) P3 or PtdIns ( 3,4 ) P2 , as well as PDK1
+T4	Protein 344 351	PKBbeta
+T5	Protein 356 364	PKBgamma
+T2	Protein 440 494	3-phosphoinositide-dependent protein kinase-1 ( PDK1 )
+T3	Protein 333 341	PKBalpha
+T1	Phosphorylation 372 386	phosphorylated
+T14	Site 745 815	Thr308 in PKBalpha , namely Thr309 ( PKBbeta ) and Thr305 ( PKBgamma )
+T15	Phosphorylation 872 881	substrate
+T16	Phosphorylation 1003 1018	phosphorylation
+T17	Protein 1046 1074	insulin-like growth factor-1
+T10	Phosphorylation 699 714	phosphorylation
+T11	Protein 671 675	PDK1
+T12	Protein 647 654	PKBbeta
+T13	Protein 659 667	PKBgamma
+T20	Site 1022 1028	Thr305
+T18	Protein 986 994	PKBgamma
+T19	Anaphora 999 1002	its
+E5	Phosphorylation:T10 Theme:T12 Cause:T11 Site:T14
+E4	Phosphorylation:T6 Theme:T9 Cause:T7
+E7	Phosphorylation:T16 Theme:T19 Cause:T17 Site:T20
+E6	Phosphorylation:T10 Theme:T13 Cause:T11 Site:T14
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T1 Theme:T5 Cause:T2
+E2	Phosphorylation:T1 Theme:T4 Cause:T2
+R1	Coreference Arg1:T9 Arg2:T8
+R2	Coreference Arg1:T19 Arg2:T18

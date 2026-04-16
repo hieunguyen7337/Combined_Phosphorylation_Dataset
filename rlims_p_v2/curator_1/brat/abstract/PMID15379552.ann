@@ -1,0 +1,46 @@
+T14	Phosphorylation 851 866	phosphorylation
+T15	Protein 774 824	extracellular signal-regulated kinases 1/2 ( ERK )
+T16	Protein 881 885	Gab1
+T17	Site 834 850	serine/threonine
+T10	Phosphorylation 529 544	phosphorylation
+T11	Protein 642 646	Gab1
+T12	Site 508 528	serine and threonine
+T13	Phosphorylation 698 713	phosphorylation
+T34	Anaphora 1825 1830	sites
+T32	Protein 1854 1857	Akt
+T33	Site 1385 1423	T312 , S381 , S454 , T476 , S581 , S59
+T30	Phosphorylation 1809 1824	phosphorylation
+T31	Protein 1845 1849	PI3K
+T18	Phosphorylation 974 989	phosphorylation
+T19	Protein 958 964	ERK1/2
+T8	Phosphorylation 426 440	phosphorylated
+T9	Site 444 469	serine/threonine residues
+T6	Protein 397 413	docking proteins
+T7	Site 364 372	tyrosine
+T4	Phosphorylation 373 388	phosphorylation
+T5	Protein 351 354	RTK
+T2	Protein 29 32	ERK
+T3	Protein 66 70	Gab1
+T1	Phosphorylation 41 56	phosphorylation
+T29	Phosphorylation 1462 1477	phosphorylation
+T28	Site 1385 1424	T312 , S381 , S454 , T476 , S581 , S597
+T21	Phosphorylation 1016 1030	phosphopeptide
+T20	Protein 1001 1005	Gab1
+T23	Site 1104 1120	serine/threonine
+T22	Phosphorylation 1089 1103	phosphorylated
+T25	Phosphorylation 1331 1344	phosphorylate
+T24	Phosphorylation 1174 1189	phosphopeptides
+T27	Protein 1345 1349	Gab1
+T26	Protein 1324 1330	ERK1/2
+E11	Phosphorylation:T30 Theme:T27 Cause:T32 Site:T34
+E10	Phosphorylation:T30 Theme:T27 Cause:T31 Site:T34
+E9	Phosphorylation:T25 Theme:T27 Cause:T26 Site:T28
+E8	Phosphorylation:T22 Theme:T20 Site:T23
+E5	Phosphorylation:T13 Theme:T11
+E4	Phosphorylation:T10 Theme:T11 Site:T12
+E7	Phosphorylation:T18 Theme:T20 Cause:T19
+E6	Phosphorylation:T14 Theme:T16 Cause:T15 Site:T17
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T6 Site:T9
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7
+R1	Coreference Arg1:T34 Arg2:T33

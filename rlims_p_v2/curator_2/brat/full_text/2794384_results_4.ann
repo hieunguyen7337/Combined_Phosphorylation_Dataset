@@ -1,0 +1,3 @@
+T2	Protein 1368 1379	NFkappaBp65
+T1	Phosphorylation 1380 1395	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

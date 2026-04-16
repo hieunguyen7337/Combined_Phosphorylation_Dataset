@@ -1,0 +1,93 @@
+T38	Phosphorylation 2128 2143	PHOSphorylation
+T47	Protein 2800 2805	Rex-1
+T39	Protein 2172 2177	Rex-1
+T46	Phosphorylation 2742 2757	PHOSphorylation
+T14	Phosphorylation 1194 1208	PHOSphorylated
+T15	Protein 1184 1189	Rex-1
+T16	Site 1229 1245	Ser-70 , Ser-177
+T17	Site 1250 1257	Thr-174
+T10	Phosphorylation 1100 1114	PHOSphorylated
+T11	Protein 955 960	Rex-1
+T12	Site 1125 1131	serine
+T13	Site 1136 1145	threonine
+T36	Site 2070 2076	Ser-70
+T37	Site 2081 2088	Thr-174
+T34	Site 2020 2027	Ser-106
+T57	Site 3829 3836	Thr-174
+T32	Site 2000 2006	Thr-37
+T33	Site 2009 2015	Ser-97
+T30	Site 1982 1988	Thr-22
+T31	Site 1991 1997	Ser-36
+T58	Phosphorylation 4085 4100	PHOSphorylation
+T59	Protein 4115 4120	Rex-1
+T35	Phosphorylation 2051 2066	PHOSphorylation
+T50	Protein 3450 3455	Rex-1
+T51	Site 3396 3403	Thr-174
+T52	Phosphorylation 3601 3616	PHOSphorylation
+T53	Protein 3584 3589	Rex-2
+T54	Site 3539 3546	Ser-151
+T55	Phosphorylation 3810 3825	PHOSphorylation
+T56	Protein 3840 3845	Rex-1
+T20	Protein 1328 1333	Rex-1
+T8	Phosphorylation 822 837	PHOSphorylation
+T9	Phosphorylation 913 928	PHOSphorylation
+T6	Phosphorylation 651 666	phosphorylaTION
+T7	Protein 694 699	Rex-2
+T4	Phosphorylation 214 229	PHOSphorylation
+T5	Phosphorylation 565 580	PHOSphorylation
+T2	Phosphorylation 190 204	phosPHOprotein
+T3	Protein 179 184	Rex-1
+T1	Phosphorylation 23 38	PHOSphorylation
+T29	Phosphorylation 1958 1973	phosphorylaTION
+T28	Site 1894 1903	threonine
+T21	Phosphorylation 1484 1499	PHOSphorylation
+T63	Phosphorylation 4511 4526	PHOSphopeptides
+T23	Protein 1667 1672	Rex-1
+T22	Phosphorylation 1652 1666	phosphorylaTED
+T25	Phosphorylation 1851 1865	PHOSphorylated
+T24	Phosphorylation 1691 1706	PHOSphorylation
+T27	Site 1883 1889	serine
+T26	Protein 1842 1847	Rex-1
+T49	Phosphorylation 3487 3502	PHOSphorylation
+T48	Site 2624 2630	Ser-97
+T43	Phosphorylation 2293 2308	PHOSphorylation
+T42	Phosphorylation 2203 2218	PHOSphorylation
+T41	Site 2257 2264	Thr-174
+T40	Site 2246 2252	Ser-97
+T61	Phosphorylation 4269 4284	phosphorylaTION
+T60	Site 4104 4111	Ser-177
+T45	Site 2365 2372	Ser-151
+T44	Protein 2334 2339	Rex-2
+T18	Phosphorylation 1334 1349	PHOSphorylation
+T64	Phosphorylation 5116 5131	PHOSphorylation
+T62	Phosphorylation 4452 4467	PHOSphopeptides
+E19	Phosphorylation:T38 Theme:T39 Site:T40
+E18	Phosphorylation:T35 Theme:T26 Site:T37
+E30	Phosphorylation:T62 Theme:T59
+E11	Phosphorylation:T25 Theme:T26 Site:T28
+E10	Phosphorylation:T25 Theme:T26 Site:T27
+E13	Phosphorylation:T29 Theme:T26 Site:T31
+E12	Phosphorylation:T29 Theme:T26 Site:T30
+E15	Phosphorylation:T29 Theme:T26 Site:T33
+E14	Phosphorylation:T29 Theme:T26 Site:T32
+E17	Phosphorylation:T35 Theme:T26 Site:T36
+E16	Phosphorylation:T29 Theme:T26 Site:T34
+E9	Phosphorylation:T22 Theme:T23
+E8	Phosphorylation:T18 Theme:T20
+E5	Phosphorylation:T14 Theme:T15 Site:T16
+E4	Phosphorylation:T10 Theme:T11 Site:T13
+E7	Phosphorylation:T18 Theme:T19
+E6	Phosphorylation:T14 Theme:T15 Site:T17
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T10 Theme:T11 Site:T12
+E2	Phosphorylation:T6 Theme:T7
+E24	Phosphorylation:T43 Theme:T44 Site:T45
+E25	Phosphorylation:T46 Theme:T47 Site:T48
+E26	Phosphorylation:T49 Theme:T50 Site:T51
+E27	Phosphorylation:T52 Theme:T53 Site:T54
+E20	Phosphorylation:T38 Theme:T39 Site:T41
+E21	Phosphorylation:T38 Theme:T39
+E22	Phosphorylation:T42 Theme:T39 Site:T40
+E23	Phosphorylation:T42 Theme:T39 Site:T41
+E28	Phosphorylation:T55 Theme:T56 Site:T57
+E29	Phosphorylation:T58 Theme:T59 Site:T60

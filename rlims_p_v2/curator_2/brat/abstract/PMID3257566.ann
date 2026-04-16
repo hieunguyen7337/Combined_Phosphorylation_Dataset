@@ -1,0 +1,37 @@
+T14	Anaphora 209 214	e tha
+T15	Protein 229 269	s protein S6 of the 40S ribosomal subuni
+T16	Phosphorylation 878 895	autophosphorylate
+T17	Protein 44 74	a mitogen -activated S6 kinase
+T10	Protein 1143 1145	S6
+T11	Phosphorylation 1356 1371	phosphorylation
+T12	Phosphorylation 214 229	t phosphorylate
+T13	Protein 200 209	f a kinas
+T18	Anaphora 843 853	The kinase
+T19	Phosphorylation 938 953	phosphorylation
+T8	Phosphorylation 1073 1099	the tryptic phosphopeptide
+T9	Phosphorylation 1146 1160	phosphorylated
+T6	Phosphorylation 935 962	S6 phosphorylation activity
+T7	Protein 935 937	S6
+T4	Protein 606 622	protein kinase C
+T5	Protein 625 655	cAMP -dependent protein kinase
+T2	Protein 231 241	protein S6
+T3	Phosphorylation 875 895	to autophosphorylate
+T1	Phosphorylation 216 230	phosphorylates
+T21	Anaphora 1010 1020	the kinase
+T20	Phosphorylation 1085 1099	phosphopeptide
+T22	Anaphora 1319 1329	the kinase
+E11	Phosphorylation:T11 Theme:T22
+E10	Phosphorylation:T9 Theme:T10 Cause:T21
+E9	Phosphorylation:T19 Theme:T7 Cause:T18
+E8	Phosphorylation:T16 Theme:T18 Cause:T18
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T6 Theme:T5 Cause:T7
+E7	Phosphorylation:T12 Theme:T15 Cause:T14
+E6	Phosphorylation:T11 Theme:T2
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T5
+E2	Phosphorylation:T3 Theme:T4
+R4	Coreference Arg1:T22 Arg2:T17
+R3	Coreference Arg1:T21 Arg2:T17
+R1	Coreference Arg1:T14 Arg2:T13
+R2	Coreference Arg1:T18 Arg2:T17

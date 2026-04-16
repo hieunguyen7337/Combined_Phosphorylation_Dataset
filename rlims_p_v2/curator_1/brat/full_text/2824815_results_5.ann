@@ -1,0 +1,7 @@
+T4	Protein 5038 5041	AKT
+T5	Protein 5016 5018	ER
+T2	Protein 4899 4901	ER
+T3	Phosphorylation 5019 5034	PHOSphorylation
+T1	Phosphorylation 4902 4917	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T5 Cause:T4

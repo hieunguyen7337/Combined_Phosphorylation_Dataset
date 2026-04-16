@@ -1,0 +1,62 @@
+T14	Protein 294 347	the class I major histocompatibility antigens ( HLA )
+T15	Phosphorylation 512 526	phosphorylated
+T16	Protein 415 429	IL-2 receptors
+T17	Phosphorylation 727 741	phosphorylated
+T10	Protein 387 403	protein kinase C
+T11	Protein 200 231	interleukin-2 ( IL-2 ) receptor
+T12	Protein 234 278	the leukocyte-specific membrane glycoprotein
+T13	Protein 281 287	Thr200
+T36	Protein 121 188	interleukin-2 receptor , class I HLA antigens and T200 glycoprotein
+T37	Protein 554 630	tumor-promoting phorbol ester , 12-O-tetradecanoylphorbol 13-acetate ( TPA )
+T34	Site 1456 1515	the carboxyl terminal cytoplasmic domain of the heavy chain
+T35	Anaphora 171 188	T200 glycoprotein
+T32	Protein 1354 1370	the HLA antigens
+T19	Phosphorylation 875 889	phosphorylated
+T30	Phosphorylation 1336 1350	phosphorylated
+T31	Protein 1383 1399	protein kinase C
+T18	Protein 707 721	IL-2 receptors
+T33	Site 1456 1538	the carboxyl terminal cytoplasmic domain of the heavy chain by limited proteolysis
+T8	Protein 171 188	T200 glycoprotein
+T9	Phosphorylation 372 382	substrates
+T6	Protein 121 143	interleukin-2 receptor
+T7	Protein 146 166	class I HLA antigens
+T4	Protein 23 60	lymphocyte integral membrane proteins
+T5	Phosphorylation 98 113	Phosphorylation
+T2	Protein 79 95	protein kinase C
+T3	Protein 64 74	substrates
+T1	Phosphorylation 64 74	substrates
+T29	Protein 1259 1272	IL-2 receptor
+T28	Protein 1307 1323	protein kinase C
+T21	Protein 845 858	IL-2 receptor
+T20	Protein 902 918	protein kinase C
+T23	Phosphorylation 1104 1119	phosphorylation
+T22	Site 799 837	the carboxyl terminal cytoplasmic tail
+T25	Site 1075 1082	Ser-247
+T24	Protein 1127 1140	IL-2 receptor
+T27	Phosphorylation 1236 1251	phosphorylation
+T26	Site 1150 1157	Thr-250
+E19	Phosphorylation:T30 Theme:T32 Cause:T31 Site:T34
+E18	Phosphorylation:T27 Theme:T29 Cause:T28 Site:T26
+E11	Phosphorylation:T17 Theme:T18
+E10	Phosphorylation:T15 Theme:T16
+E13	Phosphorylation:T23 Theme:T24 Site:T25
+E12	Phosphorylation:T19 Theme:T21 Cause:T20 Site:T22
+E15	Phosphorylation:T27 Theme:T29 Cause:T28
+E14	Phosphorylation:T23 Theme:T24 Site:T26
+E17	Phosphorylation:T27 Theme:T29 Cause:T28 Site:T25
+E16	Phosphorylation:T30 Theme:T32 Cause:T31 Site:T33
+E9	Phosphorylation:T9 Theme:T14 Cause:T10
+E8	Phosphorylation:T9 Theme:T13 Cause:T10
+E5	Phosphorylation:T5 Theme:T8
+E4	Phosphorylation:T5 Theme:T7
+E7	Phosphorylation:T9 Theme:T12 Cause:T10
+E6	Phosphorylation:T9 Theme:T11 Cause:T10
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T1 Theme:T4 Cause:T2
+E24	Phosphorylation:T15 Theme:T16 Cause:T37
+E20	Phosphorylation:T5 Theme:T6 Cause:T2
+E21	Phosphorylation:T5 Theme:T7 Cause:T2
+E22	Phosphorylation:T5 Theme:T8 Cause:T2
+E23	Phosphorylation:T5 Theme:T36 Cause:T2
+R1	Coreference Arg1:T35 Arg2:T4

@@ -1,0 +1,55 @@
+T12	Site 412 419	Thr-558
+T13	Phosphorylation 505 520	phosphorylation
+T14	Protein 524 527	KCl
+T15	Protein 498 504	moesin
+T16	Phosphorylation 561 576	phosphorylation
+T17	Protein 617 620	KCl
+T10	Protein 453 462	glutamate
+T11	Protein 402 408	moesin
+T38	Protein 1404 1410	moesin
+T39	Site 1414 1421	Thr-558
+T36	Protein 1439 1442	KCl
+T37	Protein 1456 1472	PKA - and Rac1 -
+T34	Protein 1322 1328	moesin
+T35	Phosphorylation 1385 1400	phosphorylation
+T32	Phosphorylation 1329 1344	phosphorylation
+T19	Site 580 587	Thr-558
+T30	Protein 1159 1192	KCl -induced chloride conductance
+T31	Protein 1049 1055	moesin
+T18	Protein 554 560	Moesin
+T33	Protein 1348 1351	KCl
+T8	Phosphorylation 383 398	phosphorylation
+T9	Protein 352 371	RhoA and Rho kinase
+T6	Phosphorylation 305 320	phosphorylation
+T7	Protein 148 154	Moesin
+T4	Protein 102 108	moesin
+T5	Site 112 119	Thr-558
+T2	Protein 46 71	protein kinase A and Rac1
+T3	Protein 123 126	KCl
+T1	Phosphorylation 83 98	phosphorylation
+T29	Protein 1059 1062	KCl
+T28	Phosphorylation 1030 1045	phosphorylation
+T21	Protein 756 759	KCl
+T20	Phosphorylation 776 791	phosphorylation
+T23	Phosphorylation 985 1000	phosphorylation
+T22	Protein 769 775	moesin
+T25	Protein 883 907	protein kinase A ( PKA )
+T24	Protein 1004 1007	KCl
+T27	Protein 978 984	moesin
+T26	Protein 941 945	Rac1
+E11	Phosphorylation:T23 Theme:T27 Cause:T26
+E10	Phosphorylation:T23 Theme:T27 Cause:T25
+E13	Phosphorylation:T28 Theme:T31 Cause:T30
+E12	Phosphorylation:T28 Theme:T31 Cause:T29
+E15	Phosphorylation:T35 Theme:T38 Cause:T36 Site:T39
+E14	Phosphorylation:T32 Theme:T34 Cause:T33
+E16	Phosphorylation:T35 Theme:T38 Cause:T37 Site:T39
+E9	Phosphorylation:T23 Theme:T27 Cause:T24
+E8	Phosphorylation:T20 Theme:T22 Cause:T21
+E5	Phosphorylation:T8 Theme:T11 Cause:T10 Site:T12
+E4	Phosphorylation:T8 Theme:T11 Cause:T9 Site:T12
+E7	Phosphorylation:T16 Theme:T18 Cause:T17 Site:T19
+E6	Phosphorylation:T13 Theme:T15 Cause:T14
+E1	Phosphorylation:T1 Theme:T4 Cause:T2 Site:T5
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T1 Theme:T4 Cause:T3 Site:T5

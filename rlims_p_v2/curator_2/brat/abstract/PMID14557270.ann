@@ -1,0 +1,26 @@
+T8	Protein 592 603	p85 betaPIX
+T9	Phosphorylation 901 916	phosphorylation
+T6	Protein 459 470	p85 betaPIX
+T7	Phosphorylation 604 619	phosphorylation
+T4	Protein 186 197	p85 betaPIX
+T5	Phosphorylation 471 486	phosphorylation
+T2	Protein 76 87	p85 betaPIX
+T3	Phosphorylation 167 182	phosphorylation
+T1	Phosphorylation 88 103	phosphorylation
+T14	Protein 1279 1290	p85 betaPIX
+T15	Phosphorylation 1748 1763	phosphorylation
+T16	Protein 1724 1728	bFGF
+T17	Protein 1735 1738	NGF
+T10	Protein 784 795	ERK or PAK2
+T11	Protein 920 931	p85 betaPIX
+T12	Phosphorylation 1082 1102	non-phosphorylatable
+T13	Phosphorylation 1260 1275	phosphorylation
+T18	Protein 1767 1778	p85 betaPIX
+E8	Phosphorylation:T15 Theme:T18 Cause:T17
+E5	Phosphorylation:T9 Theme:T11 Cause:T10
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T15 Theme:T18 Cause:T16
+E6	Phosphorylation:T13 Theme:T14
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

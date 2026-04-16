@@ -1,0 +1,22 @@
+T8	Site 1157 1177	CaMKII site (Ser831)
+T9	Phosphorylation 1395 1409	phosphorylaTED
+T6	Site 1093 1110	PKA site (Ser845)
+T7	Phosphorylation 1121 1136	PHOSphorylation
+T4	Phosphorylation 1038 1053	phosphorylaTION
+T5	Protein 1057 1062	GluR1
+T2	Phosphorylation 923 938	PHOSphorylation
+T3	Protein 942 955	AMPA receptor
+T1	Phosphorylation 128 143	PHOSphorylation
+T14	Phosphorylation 1647 1662	PHOSphorylation
+T15	Protein 1666 1675	GluR1p845
+T10	Protein 1419 1432	GluR1 subunit
+T11	Phosphorylation 1473 1483	SUBstrates
+T12	Phosphorylation 1579 1594	PHOSphorylation
+T13	Protein 1598 1607	GluR1p831
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T5 Site:T8
+E7	Phosphorylation:T14 Theme:T15
+E6	Phosphorylation:T12 Theme:T13
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T4 Theme:T5 Site:T6
+E2	Phosphorylation:T4 Theme:T5

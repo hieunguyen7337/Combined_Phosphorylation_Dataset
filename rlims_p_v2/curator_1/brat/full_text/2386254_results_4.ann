@@ -1,0 +1,18 @@
+T8	Protein 3449 3488	MAPK-activated protein kinase 2 ( MK2 )
+T9	Phosphorylation 3748 3763	PHOSphorylation
+T6	Phosphorylation 3501 3510	SUBstrate
+T7	Protein 3518 3550	p38 MAPK alpha-and beta-isoforms
+T4	Phosphorylation 1965 1980	PHOSphorylation
+T5	Protein 1875 1883	p38 MAPK
+T2	Phosphorylation 610 625	PHOSphorylation
+T3	Protein 601 609	p38 MAPK
+T1	Phosphorylation 528 542	PHOSphorylated
+T10	Protein 3767 3770	MK2
+T11	Site 3794 3800	Thr334
+T12	Phosphorylation 4102 4117	PHOSphorylation
+T13	Protein 4121 4124	MK2
+E5	Phosphorylation:T12 Theme:T13
+E4	Phosphorylation:T9 Theme:T10 Site:T11
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T6 Theme:T8 Cause:T7
+E2	Phosphorylation:T4 Theme:T5

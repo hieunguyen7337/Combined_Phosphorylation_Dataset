@@ -1,0 +1,11 @@
+T8	Phosphorylation 818 837	autophosphorylation
+T9	Protein 841 876	an S6/H4 kinase from human placenta
+T6	Phosphorylation 581 600	autophosphorylation
+T7	Phosphorylation 736 755	autophosphorylation
+T4	Phosphorylation 418 427	substrate
+T5	Phosphorylation 436 455	autophosphorylation
+T2	Phosphorylation 264 279	phosphorylating
+T3	Phosphorylation 333 352	autophosphorylation
+T1	Phosphorylation 5 24	Autophosphorylation
+T10	Phosphorylation 1050 1069	autophosphorylation
+E1	Phosphorylation:T8 Theme:T9 Cause:T9

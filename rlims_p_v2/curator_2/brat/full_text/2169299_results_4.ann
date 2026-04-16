@@ -1,0 +1,14 @@
+T8	Site 1028 1034	serine
+T9	Phosphorylation 1130 1145	PHOSphorylation
+T6	Phosphorylation 973 988	PHOSphorylation
+T7	Protein 992 1024	all three NMDA receptor subunits
+T4	Phosphorylation 883 898	PHOSphorylation
+T5	Protein 902 915	NMDA receptor
+T2	Protein 695 708	NMDA receptor
+T3	Phosphorylation 815 830	PHOSphorylation
+T1	Phosphorylation 676 691	phosphorylaTION
+T10	Protein 1149 1171	NMDA receptor subunits
+E4	Phosphorylation:T9 Theme:T10
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7 Site:T8
+E2	Phosphorylation:T4 Theme:T5

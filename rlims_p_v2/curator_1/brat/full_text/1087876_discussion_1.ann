@@ -1,0 +1,5 @@
+T2	Protein 4380 4384	MAPK
+T3	Protein 4366 4371	FGF-2
+T1	Phosphorylation 4385 4400	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T1 Theme:T2 Cause:T3

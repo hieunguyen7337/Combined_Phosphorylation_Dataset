@@ -1,0 +1,26 @@
+T8	Site 750 756	Ser780
+T9	Phosphorylation 1093 1107	PHOSphorylated
+T6	Phosphorylation 730 744	PHOSphorylated
+T7	Protein 745 748	pRb
+T4	Protein 611 614	pRb
+T5	Site 616 622	Ser780
+T2	Protein 55 58	pRb
+T3	Phosphorylation 596 610	PHOSphorylated
+T1	Phosphorylation 59 74	PHOSphorylation
+T14	Protein 1889 1892	pRb
+T15	Site 1894 1900	Ser780
+T16	Protein 5 21	HIV-1 expression
+T17	Protein 540 545	HIV-1
+T10	Protein 1142 1180	cyclin D1/cyclin -dependent kinase-4/6
+T11	Protein 1108 1111	pRb
+T12	Site 1113 1119	Ser780
+T13	Phosphorylation 1874 1888	PHOSphorylated
+T18	Protein 1835 1840	HIV-1
+E8	Phosphorylation:T13 Theme:T14 Cause:T18 Site:T15
+E5	Phosphorylation:T13 Theme:T14 Site:T15
+E4	Phosphorylation:T9 Theme:T11 Cause:T10 Site:T12
+E7	Phosphorylation:T3 Theme:T4 Cause:T17 Site:T5
+E6	Phosphorylation:T1 Theme:T2 Cause:T16
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7 Site:T8
+E2	Phosphorylation:T3 Theme:T4 Site:T5

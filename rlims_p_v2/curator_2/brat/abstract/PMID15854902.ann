@@ -1,0 +1,11 @@
+T4	Protein 70 97	target of rapamycin ( TOR )
+T5	Protein 146 159	TOR complex 1
+T2	Protein 182 188	p70S6K
+T3	Protein 193 199	4E-BP1
+T1	Phosphorylation 163 177	phosphorylates
+E5	Phosphorylation:T1 Theme:T3 Cause:T4
+E4	Phosphorylation:T1 Theme:T2 Cause:T5
+E6	Phosphorylation:T1 Theme:T3 Cause:T5
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T1 Theme:T2 Cause:T4
+E2	Phosphorylation:T1 Theme:T3

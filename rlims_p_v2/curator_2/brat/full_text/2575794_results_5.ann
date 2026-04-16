@@ -1,0 +1,4 @@
+T2	Protein 1643 1655	Met receptor
+T3	Site 1663 1671	tyrosine
+T1	Phosphorylation 1672 1686	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2 Site:T3

@@ -1,0 +1,7 @@
+T4	Protein 609 614	GluR1
+T5	Site 618 624	Ser845
+T2	Protein 220 229	GluR1p845
+T3	Phosphorylation 590 605	PHOSphorylation
+T1	Phosphorylation 201 216	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4 Site:T5

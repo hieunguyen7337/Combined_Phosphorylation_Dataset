@@ -1,0 +1,10 @@
+T6	Protein 821 828	cofilin
+T7	Protein 788 793	LIMK1
+T4	Phosphorylation 807 820	phosphorylate
+T5	Protein 788 792	LIMK
+T2	Protein 701 705	PAK4
+T3	Protein 721 726	LIMK1
+T1	Phosphorylation 706 720	phosphorylated
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T4 Theme:T6 Cause:T7
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

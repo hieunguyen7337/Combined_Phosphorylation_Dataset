@@ -1,0 +1,4 @@
+T2	Protein 936 953	calpain inhibitor
+T3	Protein 1013 1070	PAK , c-Raf , MEK1/2 , ERK , MKK3/6 , p38 , JNK , and Akt
+T1	Phosphorylation 963 978	phosphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

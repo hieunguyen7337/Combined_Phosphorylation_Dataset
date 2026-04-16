@@ -1,0 +1,6 @@
+T4	Protein 2872 2884	beta-catenin
+T2	Protein 2694 2706	beta-catenin
+T3	Phosphorylation 2857 2871	PHOSphorylated
+T1	Phosphorylation 2679 2693	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

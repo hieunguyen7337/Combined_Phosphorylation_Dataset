@@ -1,0 +1,33 @@
+T14	Phosphorylation 1536 1563	autophosphorylation-induced
+T15	Protein 1588 1593	c-Abl
+T16	Site 1392 1412	a tyrosine (Tyr-245)
+T17	Phosphorylation 1674 1693	autophosphorylation
+T10	Phosphorylation 1033 1052	autophosphorylation
+T11	Phosphorylation 1253 1272	autophosphorylation
+T12	Protein 1230 1235	c-Src
+T13	Site 1236 1252	catalytic domain
+T18	Protein 1611 1646	the c-Abl Y245F/Y412F double mutant
+T19	Site 1621 1632	Y245F/Y412F
+T8	Phosphorylation 853 872	Autophosphorylation
+T9	Protein 910 915	c-Abl
+T6	Phosphorylation 409 425	Unphosphorylated
+T7	Protein 426 431	c-Abl
+T4	Phosphorylation 257 273	unphosphorylated
+T5	Protein 274 294	murine type IV c-Abl
+T2	Protein 5 10	c-Abl
+T3	Site 169 178	tyrosines
+T1	Phosphorylation 122 141	autophosphorylation
+T21	Protein 1732 1737	c-Abl
+T20	Phosphorylation 1875 1890	phosphorylation
+T23	Site 1906 1913	Tyr-245
+T22	Site 1894 1901	Tyr-412
+E10	Phosphorylation:T20 Theme:T21 Site:T23
+E9	Phosphorylation:T20 Theme:T21 Site:T22
+E8	Phosphorylation:T17 Theme:T18 Cause:T18 Site:T19
+E5	Phosphorylation:T11 Theme:T12 Cause:T12 Site:T13
+E4	Phosphorylation:T8 Theme:T9 Cause:T9
+E7	Phosphorylation:T17 Theme:T18 Cause:T18
+E6	Phosphorylation:T14 Theme:T15 Cause:T15 Site:T16
+E1	Phosphorylation:T1 Theme:T2 Cause:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T4 Theme:T5

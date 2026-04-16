@@ -1,0 +1,19 @@
+T8	Protein 577 582	MIHCK
+T9	Phosphorylation 653 662	substrate
+T6	Phosphorylation 418 433	Phosphorylation
+T7	Phosphorylation 547 566	autophosphorylation
+T4	Phosphorylation 378 397	autophosphorylation
+T5	Protein 304 309	MIHCK
+T2	Protein 143 180	myosin I heavy chain kinase ( MIHCK )
+T3	Protein 200 232	heavy chains of amoeba myosins I
+T1	Phosphorylation 181 195	phosphorylates
+T10	Phosphorylation 1076 1095	autophosphorylation
+T11	Protein 981 986	MIHCK
+T12	Phosphorylation 1666 1685	autophosphorylation
+T13	Protein 1696 1701	MIHCK
+E5	Phosphorylation:T10 Theme:T11 Cause:T11
+E4	Phosphorylation:T7 Theme:T8 Cause:T8
+E6	Phosphorylation:T12 Theme:T13 Cause:T13
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T6 Theme:T5
+E2	Phosphorylation:T4 Theme:T5 Cause:T5

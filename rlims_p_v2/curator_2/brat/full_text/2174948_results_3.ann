@@ -1,0 +1,9 @@
+T6	Protein 1711 1719	DNA-PKcs
+T4	Protein 1610 1618	DNA-PKcs
+T5	Phosphorylation 1809 1828	autoPHOSphorylation
+T2	Protein 389 397	DNA-PKcs
+T3	Phosphorylation 1633 1652	autoPHOSphorylation
+T1	Phosphorylation 345 364	autoPHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Cause:T2
+E3	Phosphorylation:T5 Theme:T6 Cause:T6
+E2	Phosphorylation:T3 Theme:T4 Cause:T4

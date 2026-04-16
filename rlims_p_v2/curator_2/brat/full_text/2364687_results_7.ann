@@ -1,0 +1,3 @@
+T2	Protein 1013 1019	4E-BP1
+T1	Phosphorylation 1020 1037	dePHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

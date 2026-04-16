@@ -1,0 +1,63 @@
+T12	Phosphorylation 3486 3502	PHOSphorylations
+T13	Protein 3450 3454	PYK2
+T14	Protein 3479 3485	ERK1/2
+T15	Site 3468 3474	Tyr402
+T16	Phosphorylation 3711 3727	PHOSphorylations
+T17	Protein 3675 3679	PYK2
+T10	Protein 3204 3210	ERK1/2
+T11	Site 3193 3199	Tyr402
+T38	Site 5685 5691	Tyr402
+T39	Phosphorylation 6469 6484	PHOSphorylation
+T36	Phosphorylation 5703 5719	PHOSphorylations
+T37	Protein 5696 5702	ERK1/2
+T34	Protein 4653 4659	ERK1/2
+T35	Site 4642 4648	Tyr402
+T18	Protein 3704 3710	ERK1/2
+T19	Site 3693 3699	Tyr402
+T30	Protein 4527 4533	ERK1/2
+T31	Site 4516 4522	Tyr402
+T32	Phosphorylation 4660 4676	PHOSphorylations
+T33	Protein 4624 4628	PYK2
+T8	Phosphorylation 3211 3227	PHOSphorylations
+T9	Protein 3175 3179	PYK2
+T6	Protein 2972 2995	a close homolog of PYK2
+T7	Site 2956 2962	Tyr397
+T4	Phosphorylation 2941 2955	PHOSphorylated
+T5	Protein 2966 2969	FAK
+T2	Protein 2491 2495	PYK2
+T3	Site 2504 2510	Tyr402
+T1	Phosphorylation 2511 2526	-PHOSphorylated
+T29	Protein 4498 4502	PYK2
+T28	Phosphorylation 4534 4550	PHOSphorylations
+T21	Protein 3841 3845	PYK2
+T20	Phosphorylation 3877 3893	PHOSphorylations
+T23	Site 3859 3865	Tyr402
+T22	Protein 3870 3876	ERK1/2
+T25	Protein 3960 3964	PYK2
+T24	Phosphorylation 3996 4012	PHOSphorylations
+T27	Site 3978 3984	Tyr402
+T26	Protein 3989 3995	ERK1/2
+T43	Site 6718 6724	Tyr402
+T42	Phosphorylation 6725 6740	PHOSphorylation
+T41	Site 6462 6468	Tyr402
+T40	Protein 6488 6492	PYK2
+E19	Phosphorylation:T39 Theme:T40 Site:T41
+E18	Phosphorylation:T36 Theme:T37 Site:T38
+E20	Phosphorylation:T42 Theme:T40 Site:T43
+E11	Phosphorylation:T20 Theme:T22 Site:T23
+E10	Phosphorylation:T20 Theme:T21 Site:T23
+E13	Phosphorylation:T24 Theme:T26 Site:T27
+E12	Phosphorylation:T24 Theme:T25 Site:T27
+E15	Phosphorylation:T28 Theme:T30 Site:T31
+E14	Phosphorylation:T28 Theme:T29 Site:T31
+E17	Phosphorylation:T32 Theme:T34 Site:T35
+E16	Phosphorylation:T32 Theme:T33 Site:T35
+E9	Phosphorylation:T16 Theme:T18 Site:T19
+E8	Phosphorylation:T16 Theme:T17 Site:T19
+E5	Phosphorylation:T8 Theme:T10 Site:T11
+E4	Phosphorylation:T8 Theme:T9 Site:T11
+E7	Phosphorylation:T12 Theme:T14 Site:T15
+E6	Phosphorylation:T12 Theme:T13 Site:T15
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T4 Theme:T6 Site:T7
+E2	Phosphorylation:T4 Theme:T5 Site:T7

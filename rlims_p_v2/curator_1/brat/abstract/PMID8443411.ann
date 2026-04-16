@@ -1,0 +1,16 @@
+T8	Site 1419 1423	T160
+T9	Phosphorylation 2121 2136	phosphorylation
+T6	Protein 1454 1484	Cdc2 activating kinase ( CAK )
+T7	Protein 1348 1369	Cdk2/cyclin A complex
+T4	Site 420 433	threonine-160
+T5	Phosphorylation 1400 1415	phosphorylation
+T2	Phosphorylation 399 414	phosphorylation
+T3	Protein 310 344	cyclin-dependent kinase 2 ( Cdk2 )
+T1	Phosphorylation 5 20	Phosphorylation
+T10	Protein 2073 2094	Cdk2/cyclin A complex
+T11	Site 2258 2262	T160
+T12	Phosphorylation 2263 2278	phosphorylation
+E4	Phosphorylation:T12 Theme:T10 Site:T11
+E1	Phosphorylation:T2 Theme:T3 Site:T4
+E3	Phosphorylation:T9 Theme:T10 Site:T11
+E2	Phosphorylation:T5 Theme:T7 Cause:T6 Site:T8

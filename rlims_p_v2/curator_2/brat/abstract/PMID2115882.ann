@@ -1,0 +1,85 @@
+T38	Phosphorylation 817 832	phosphorylation
+T13	Protein 362 374	EGF receptor
+T14	Phosphorylation 488 531	the Thr669 and Ser671 phosphorylation sites
+T15	Site 492 498	Thr669
+T16	Site 503 509	Ser671
+T17	Phosphorylation 798 832	the EGF -dependent phosphorylation
+T10	Site 283 292	threonine
+T11	Site 297 305	tyrosine
+T12	Phosphorylation 391 406	phosphorylation
+T39	Anaphora 868 887	the mutant receptor
+T36	Phosphorylation 661 680	autophosphorylation
+T37	Protein 567 590	The mutant EGF receptor
+T34	Anaphora 421 432	these sites
+T35	Phosphorylation 510 525	phosphorylation
+T32	Phosphorylation 78 87	substrate
+T33	Site 274 314	serine , threonine and tyrosine residues
+T30	Site 1614 1622	tyrosine
+T31	Phosphorylation 49 64	phosphorylation
+T50	Protein 1523 1539	the EGF receptor
+T18	Protein 802 805	EGF
+T19	Protein 868 887	the mutant receptor
+T8	Protein 187 227	epidermal growth factor ( EGF ) receptor
+T9	Site 274 280	serine
+T6	Protein 139 175	the epidermal growth factor receptor
+T7	Phosphorylation 255 270	phosphorylation
+T4	Site 42 48	Ser671
+T5	Phosphorylation 78 135	substrate specificity and ligand -induced internalization
+T2	Protein 358 374	the EGF receptor
+T3	Site 31 37	Thr669
+T1	Phosphorylation 27 70	the Thr669 and Ser671 phosphorylation sites
+T29	Protein 1614 1639	tyrosine kinase substrate
+T28	Phosphorylation 1603 1639	a specific tyrosine kinase substrate
+T21	Protein 836 864	an 85-kDa cellular substrate
+T20	Phosphorylation 1381 1414	the mutated phosphorylation sites
+T23	Site 1468 1474	Thr654
+T22	Phosphorylation 1419 1474	the nearby protein kinase C phosphorylation site Thr654
+T25	Protein 1527 1539	EGF receptor
+T24	Phosphorylation 1504 1519	phosphorylation
+T27	Site 1554 1560	Ser671
+T26	Site 1543 1549	Thr669
+T49	Protein 183 227	The epidermal growth factor ( EGF ) receptor
+T48	Phosphorylation 1630 1639	substrate
+T43	Protein 1282 1297	mutant receptor
+T42	Phosphorylation 1393 1408	phosphorylation
+T41	Phosphorylation 1009 1018	substrate
+T40	Phosphorylation 855 864	substrate
+T47	Protein 1430 1446	protein kinase C
+T46	Phosphorylation 1447 1462	phosphorylation
+T45	Anaphora 1381 1414	the mutated phosphorylation sites
+T44	Site 488 531	the Thr669 and Ser671 phosphorylation sites
+E19	Phosphorylation:T35 Theme:T2 Site:T15
+E18	Phosphorylation:T12 Theme:T13 Site:T34
+E32	Phosphorylation:T38 Theme:T21 Cause:T18
+E31	Phosphorylation:T24 Theme:T50 Site:T27
+E30	Phosphorylation:T24 Theme:T50 Site:T26
+E11	Phosphorylation:T20 Theme:T21
+E10	Phosphorylation:T17 Theme:T2 Cause:T19
+E13	Phosphorylation:T24 Theme:T25 Site:T26
+E12	Phosphorylation:T22 Theme:T21 Site:T23
+E15	Phosphorylation:T28 Theme:T29 Site:T30
+E14	Phosphorylation:T24 Theme:T25 Site:T27
+E17	Phosphorylation:T31 Theme:T6 Site:T4
+E16	Phosphorylation:T31 Theme:T6 Site:T3
+E9	Phosphorylation:T17 Theme:T2 Cause:T18
+E8	Phosphorylation:T14 Theme:T2 Site:T16
+E5	Phosphorylation:T7 Theme:T8 Site:T11
+E4	Phosphorylation:T7 Theme:T8 Site:T10
+E7	Phosphorylation:T14 Theme:T2 Site:T15
+E6	Phosphorylation:T12 Theme:T13
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T7 Theme:T8 Site:T9
+E2	Phosphorylation:T1 Theme:T2 Site:T4
+E24	Phosphorylation:T46 Theme:T43 Cause:T47 Site:T23
+E25	Phosphorylation:T48 Theme:T29 Site:T30
+E26	Phosphorylation:T7 Theme:T49 Site:T9
+E27	Phosphorylation:T7 Theme:T49 Site:T10
+E20	Phosphorylation:T35 Theme:T2 Site:T16
+E21	Phosphorylation:T36 Theme:T37 Cause:T37
+E22	Phosphorylation:T38 Theme:T21 Cause:T19
+E23	Phosphorylation:T42 Theme:T43 Site:T45
+E28	Phosphorylation:T7 Theme:T49 Site:T11
+E29	Phosphorylation:T12 Theme:T2 Site:T34
+R1	Coreference Arg1:T34 Arg2:T33
+R3	Coreference Arg1:T45 Arg2:T44
+R2	Coreference Arg1:T39 Arg2:T18

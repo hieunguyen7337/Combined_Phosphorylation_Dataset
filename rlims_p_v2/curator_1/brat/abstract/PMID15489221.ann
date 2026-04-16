@@ -1,0 +1,68 @@
+T14	Site 1200 1211	serine 1981
+T15	Phosphorylation 1235 1250	phosphorylation
+T16	Protein 1280 1283	ATM
+T17	Protein 1315 1319	Nbs1
+T10	Protein 1058 1070	histone H2AX
+T11	Site 1074 1084	serine 139
+T12	Phosphorylation 1177 1196	autophosphorylation
+T13	Protein 1173 1176	ATM
+T36	Protein 2008 2012	Chk1
+T37	Protein 2019 2023	Chk2
+T34	Protein 1994 1998	Nbs1
+T35	Protein 2001 2005	SMC1
+T32	Phosphorylation 1968 1983	phosphorylation
+T33	Protein 1987 1991	H2AX
+T30	Protein 1879 1890	doxorubicin
+T31	Protein 1936 1939	p53
+T18	Protein 1333 1337	SMC1
+T19	Protein 1351 1355	Chk1
+T8	Phosphorylation 1039 1054	phosphorylation
+T9	Protein 1016 1027	doxorubicin
+T6	Protein 795 798	p53
+T7	Site 802 814	seven serine
+T4	Phosphorylation 776 791	phosphorylation
+T5	Protein 761 764	ATM
+T2	Protein 27 30	ATM
+T3	Protein 61 88	multiple downstream targets
+T1	Phosphorylation 42 57	phosphorylation
+T29	Phosphorylation 1900 1915	phosphorylation
+T28	Protein 1750 1753	p53
+T21	Site 1321 1329	Ser(343)
+T20	Protein 1388 1392	Chk2
+T23	Site 1358 1379	Ser(317) and Ser(345)
+T22	Site 1339 1347	Ser(957)
+T25	Site 1413 1420	Thr(68)
+T24	Site 1395 1408	Ser ( 33/35 )
+T27	Protein 1693 1704	doxorubicin
+T26	Phosphorylation 1714 1729	phosphorylation
+E19	Phosphorylation:T15 Theme:T19 Cause:T16 Site:T25
+E18	Phosphorylation:T15 Theme:T19 Cause:T16 Site:T24
+E31	Phosphorylation:T32 Theme:T37
+E30	Phosphorylation:T32 Theme:T36
+E11	Phosphorylation:T15 Theme:T18 Cause:T16 Site:T22
+E10	Phosphorylation:T15 Theme:T18 Cause:T16 Site:T21
+E13	Phosphorylation:T15 Theme:T18 Cause:T16 Site:T24
+E12	Phosphorylation:T15 Theme:T18 Cause:T16 Site:T23
+E15	Phosphorylation:T15 Theme:T19 Cause:T16 Site:T21
+E14	Phosphorylation:T15 Theme:T18 Cause:T16 Site:T25
+E17	Phosphorylation:T15 Theme:T19 Cause:T16 Site:T23
+E16	Phosphorylation:T15 Theme:T19 Cause:T16 Site:T22
+E9	Phosphorylation:T15 Theme:T17 Cause:T16 Site:T25
+E8	Phosphorylation:T15 Theme:T17 Cause:T16 Site:T24
+E5	Phosphorylation:T15 Theme:T17 Cause:T16 Site:T21
+E4	Phosphorylation:T12 Theme:T13 Cause:T13 Site:T14
+E7	Phosphorylation:T15 Theme:T17 Cause:T16 Site:T23
+E6	Phosphorylation:T15 Theme:T17 Cause:T16 Site:T22
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T11
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7
+E24	Phosphorylation:T15 Theme:T20 Cause:T16 Site:T25
+E25	Phosphorylation:T26 Theme:T28 Cause:T27
+E26	Phosphorylation:T29 Theme:T31 Cause:T30
+E27	Phosphorylation:T32 Theme:T33
+E20	Phosphorylation:T15 Theme:T20 Cause:T16 Site:T21
+E21	Phosphorylation:T15 Theme:T20 Cause:T16 Site:T22
+E22	Phosphorylation:T15 Theme:T20 Cause:T16 Site:T23
+E23	Phosphorylation:T15 Theme:T20 Cause:T16 Site:T24
+E28	Phosphorylation:T32 Theme:T34
+E29	Phosphorylation:T32 Theme:T35

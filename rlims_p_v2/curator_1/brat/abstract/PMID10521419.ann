@@ -1,0 +1,6 @@
+T4	Phosphorylation 904 919	phosphorylation
+T5	Phosphorylation 933 942	substrate
+T2	Protein 394 397	Akt
+T3	Protein 425 428	GSK
+T1	Phosphorylation 411 424	phosphorylate
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

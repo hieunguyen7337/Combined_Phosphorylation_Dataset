@@ -1,0 +1,6 @@
+T4	Phosphorylation 643 658	PHOSphorylation
+T5	Site 638 642	Ser8
+T2	Protein 123 127	Zfra
+T3	Site 79 83	Ser8
+T1	Phosphorylation 99 114	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3

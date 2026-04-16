@@ -1,0 +1,29 @@
+T14	Site 869 876	Ser-323
+T15	Phosphorylation 895 923	Ser-323-non-phosphorylatable
+T16	Protein 934 939	LIMK1
+T17	Site 895 902	Ser-323
+T10	Site 768 775	Ser-310
+T11	Phosphorylation 850 865	phosphorylation
+T12	Protein 827 830	MK2
+T13	Protein 841 846	LIMK1
+T18	Phosphorylation 1037 1066	Ser-323-phosphorylation-mimic
+T19	Site 1037 1044	Ser-323
+T8	Protein 740 743	p38
+T9	Protein 759 764	LIMK1
+T6	Protein 645 652	cofilin
+T7	Phosphorylation 744 758	phosphorylated
+T4	Phosphorylation 653 668	phosphorylation
+T5	Protein 609 615	VEGF-A
+T2	Protein 298 320	LIM-kinase 1 ( LIMK1 )
+T3	Protein 382 389	cofilin
+T1	Phosphorylation 349 364	phosphorylating
+T21	Protein 1326 1329	MK2
+T20	Phosphorylation 1346 1361	phosphorylation
+T22	Protein 1340 1345	LIMK1
+E5	Phosphorylation:T15 Theme:T16 Site:T17
+E4	Phosphorylation:T11 Theme:T13 Cause:T12 Site:T14
+E7	Phosphorylation:T20 Theme:T22 Cause:T21
+E6	Phosphorylation:T18 Theme:T16 Site:T19
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

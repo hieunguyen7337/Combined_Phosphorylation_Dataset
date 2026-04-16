@@ -1,0 +1,25 @@
+T8	Anaphora 681 684	its
+T9	Phosphorylation 898 914	dephosphorylated
+T6	Phosphorylation 685 700	phosphorylation
+T7	Protein 584 589	EIF4E
+T4	Phosphorylation 1068 1089	eIF4E phosphorylation
+T5	Protein 1068 1073	eIF4E
+T2	Protein 601 605	mRNA
+T3	Site 704 711	Ser-209
+T1	Phosphorylation 681 700	its phosphorylation
+T14	Protein 1026 1030	Mnk1
+T15	Phosphorylation 1171 1188	dephosphorylation
+T16	Protein 1165 1170	eIF4E
+T10	Protein 860 865	eIF4E
+T11	Protein 884 890	4E-BP1
+T12	Phosphorylation 1074 1089	phosphorylation
+T13	Protein 1011 1021	ERK1/2 MAP
+E8	Phosphorylation:T15 Theme:T16
+E5	Phosphorylation:T9 Theme:T11
+E4	Phosphorylation:T9 Theme:T10
+E7	Phosphorylation:T12 Theme:T5 Cause:T14
+E6	Phosphorylation:T12 Theme:T5 Cause:T13
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T8 Site:T3
+E2	Phosphorylation:T4 Theme:T5
+R1	Coreference Arg1:T8 Arg2:T7

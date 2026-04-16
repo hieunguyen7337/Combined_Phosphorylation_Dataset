@@ -1,0 +1,14 @@
+T8	Phosphorylation 882 897	phosphorylation
+T9	Protein 869 881	beta-catenin
+T6	Phosphorylation 768 783	phosphorylation
+T7	Site 787 797	Tyr276/216
+T4	Phosphorylation 869 897	beta-catenin phosphorylation
+T5	Protein 903 908	GSK-3
+T2	Protein 802 817	GSK-3alpha/beta
+T3	Site 787 793	Tyr276
+T1	Phosphorylation 764 783	the phosphorylation
+T10	Site 903 922	GSK-3-specific site
+E4	Phosphorylation:T8 Theme:T9 Site:T10
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T2 Site:T7
+E2	Phosphorylation:T4 Theme:T5

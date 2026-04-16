@@ -1,0 +1,12 @@
+T8	Protein 1279 1282	Akt
+T6	Protein 973 976	Akt
+T7	Phosphorylation 1264 1278	PHOSphorylated
+T4	Protein 515 537	the Akt protein kinase
+T5	Phosphorylation 954 969	PHOSphorylation
+T2	Protein 488 491	ERK
+T3	Phosphorylation 496 511	PHOSphorylation
+T1	Phosphorylation 469 484	phosphorylaTION
+E4	Phosphorylation:T7 Theme:T8
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

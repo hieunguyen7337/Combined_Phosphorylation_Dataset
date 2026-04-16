@@ -1,0 +1,60 @@
+T38	Phosphorylation 8394 8409	PHOSphorylation
+T13	Protein 6364 6388	GTP -binding protein NGB
+T14	Protein 6391 6403	topo IIalpha
+T15	Protein 6408 6413	CAP-C
+T16	Protein 6491 6515	EAD/H box polypeptide 30
+T17	Phosphorylation 6629 6639	SUBstrates
+T10	Phosphorylation 6067 6077	SUBstrates
+T11	Phosphorylation 6453 6463	SUBstrates
+T12	Protein 6444 6452	Aurora B
+T39	Phosphorylation 9227 9242	phosphorylaTION
+T36	Protein 8288 8296	Aurora B
+T37	Protein 8322 8334	topo IIalpha
+T34	Site 8239 8246	residue
+T35	Phosphorylation 8297 8312	phosphorylaTION
+T32	Phosphorylation 8224 8238	PHOSphorylated
+T33	Site 8207 8210	one
+T30	Protein 8266 8282	topoisomerase II
+T31	Site 8122 8127	sites
+T18	Phosphorylation 6985 6999	phosPHOprotein
+T19	Protein 6967 6979	topo IIalpha
+T8	Phosphorylation 5606 5616	subSTRates
+T9	Phosphorylation 5723 5737	PHOSphorylated
+T6	Protein 5022 5030	proteins
+T7	Phosphorylation 5156 5166	SUBstrates
+T4	Phosphorylation 4764 4774	SUBstrates
+T5	Phosphorylation 4991 5006	PHOSphorylation
+T2	Phosphorylation 4436 4450	PHOSphorylated
+T3	Phosphorylation 4708 4723	PHOSphorylation
+T1	Phosphorylation 562 572	SUBstrates
+T29	Phosphorylation 8106 8121	phosphorylaTION
+T28	Protein 7539 7551	topo IIalpha
+T21	Protein 7079 7087	Aurora B
+T20	Phosphorylation 7065 7074	SUBstrate
+T23	Protein 7211 7219	Aurora B
+T22	Phosphorylation 7231 7244	PHOSphorylate
+T25	Phosphorylation 7336 7351	PHOSphorylation
+T24	Protein 7245 7262	the topoisomerase
+T27	Protein 7399 7424	kinase -inactive Aurora B
+T26	Phosphorylation 7525 7538	PHOSphorylate
+T43	Protein 9347 9355	Aurora B
+T42	Phosphorylation 9371 9384	phosphorylaTE
+T41	Protein 9186 9198	topo IIalpha
+T40	Protein 9246 9254	Aurora B
+T44	Phosphorylation 9414 9423	SUBstrate
+E11	Phosphorylation:T29 Theme:T30 Site:T31
+E10	Phosphorylation:T26 Theme:T28 Cause:T27
+E13	Phosphorylation:T32 Theme:T30 Site:T34
+E12	Phosphorylation:T32 Theme:T30 Site:T33
+E15	Phosphorylation:T39 Theme:T41 Cause:T40
+E14	Phosphorylation:T35 Theme:T37 Cause:T36
+E16	Phosphorylation:T42 Theme:T41 Cause:T43
+E9	Phosphorylation:T22 Theme:T19 Cause:T23
+E8	Phosphorylation:T22 Theme:T24 Cause:T23
+E5	Phosphorylation:T11 Theme:T16 Cause:T12
+E4	Phosphorylation:T11 Theme:T15 Cause:T12
+E7	Phosphorylation:T20 Theme:T19 Cause:T21
+E6	Phosphorylation:T18 Theme:T19
+E1	Phosphorylation:T5 Theme:T6
+E3	Phosphorylation:T11 Theme:T14 Cause:T12
+E2	Phosphorylation:T11 Theme:T13 Cause:T12

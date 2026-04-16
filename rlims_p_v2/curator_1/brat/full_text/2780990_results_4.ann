@@ -1,0 +1,22 @@
+T8	Site 716 731	Thr-22 , Thr-37
+T9	Site 736 743	Thr-174
+T6	Site 644 651	Ser-106
+T7	Phosphorylation 679 693	PHOSphorylated
+T4	Protein 528 533	Rex-1
+T5	Site 615 639	Ser-36 , Ser-70 , Ser-97
+T2	Protein 138 143	Rex-1
+T3	Phosphorylation 590 605	PHOSphorylation
+T1	Phosphorylation 109 124	PHOSphorylation
+T14	Protein 754 759	B sho
+T10	Phosphorylation 809 823	phosPHOpeptide
+T11	Site 862 869	Thr-174
+T12	Phosphorylation 843 858	PHOSphorylation
+T13	Phosphorylation 916 931	PHOSphorylation
+E8	Phosphorylation:T13 Theme:T14
+E5	Phosphorylation:T7 Theme:T4 Site:T9
+E4	Phosphorylation:T7 Theme:T4 Site:T8
+E7	Phosphorylation:T12 Theme:T4 Site:T11
+E6	Phosphorylation:T10 Theme:T4 Site:T11
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T4 Site:T6
+E2	Phosphorylation:T3 Theme:T4 Site:T5

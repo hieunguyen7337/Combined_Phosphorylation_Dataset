@@ -1,0 +1,20 @@
+T8	Protein 710 741	eIF4E -binding protein (4E-BP1)
+T9	Phosphorylation 1061 1076	phosphorylation
+T6	Protein 659 697	Eukaryotic initiation factor ( eIF ) 2
+T7	Protein 700 705	eIF4E
+T4	Protein 1311 1317	4E-BP1
+T5	Phosphorylation 742 757	phosphorylation
+T2	Protein 1080 1097	the alpha subunit
+T3	Phosphorylation 1318 1353	were significantly dephosphorylated
+T1	Phosphorylation 1051 1076	Increased phosphorylation
+T10	Protein 1084 1120	alpha subunit of eIF2 ( eIF2 alpha )
+T11	Phosphorylation 1337 1353	dephosphorylated
+T12	Protein 1301 1306	eIF4E
+E8	Phosphorylation:T11 Theme:T12
+E5	Phosphorylation:T5 Theme:T8
+E4	Phosphorylation:T5 Theme:T7
+E7	Phosphorylation:T11 Theme:T4
+E6	Phosphorylation:T9 Theme:T10
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

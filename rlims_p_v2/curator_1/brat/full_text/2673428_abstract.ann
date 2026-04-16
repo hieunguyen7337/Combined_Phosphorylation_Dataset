@@ -1,0 +1,3 @@
+T2	Protein 502 528	ATM , BRCA1 and gamma-H2AX
+T1	Phosphorylation 487 501	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2

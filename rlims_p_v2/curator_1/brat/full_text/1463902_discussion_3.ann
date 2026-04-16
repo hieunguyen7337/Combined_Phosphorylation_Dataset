@@ -1,0 +1,20 @@
+T8	Protein 4571 4576	Rad52
+T9	Phosphorylation 5685 5700	PHOSphorylation
+T6	Protein 4313 4318	Rad52
+T7	Phosphorylation 4550 4567	DePHOSphorylation
+T4	Protein 4231 4236	Rad52
+T5	Phosphorylation 4294 4309	PHOSphorylation
+T2	Protein 3972 3977	Rad52
+T3	Phosphorylation 4212 4227	phosphorylaTION
+T1	Phosphorylation 3953 3968	PHOSphorylation
+T10	Protein 5479 5484	Rad52
+T11	Phosphorylation 5881 5896	PHOSphorylation
+T12	Protein 4190 4200	cell cycle
+T13	Protein 4244 4282	Cell cycle -independent and cell cycle
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T5 Theme:T6 Cause:T13
+E6	Phosphorylation:T3 Theme:T4 Cause:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

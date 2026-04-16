@@ -1,0 +1,5 @@
+T2	Protein 4559 4562	ERK
+T3	Protein 4567 4570	Akt
+T1	Phosphorylation 4571 4586	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T1 Theme:T3

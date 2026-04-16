@@ -1,0 +1,47 @@
+T8	Phosphorylation 699 714	phosphorylation
+T9	Protein 647 654	PKBbeta
+T6	Phosphorylation 497 512	Phosphorylation
+T7	Protein 531 542	each enzyme
+T4	Protein 344 351	PKBbeta
+T5	Protein 356 364	PKBgamma
+T2	Protein 440 494	3-phosphoinositide-dependent protein kinase-1 ( PDK1 )
+T3	Protein 333 341	PKBalpha
+T1	Phosphorylation 372 386	phosphorylated
+T14	Site 796 815	Thr305 ( PKBgamma )
+T15	Phosphorylation 872 881	substrate
+T16	Phosphorylation 1003 1018	phosphorylation
+T17	Protein 986 994	PKBgamma
+T10	Protein 659 667	PKBgamma
+T11	Protein 755 763	PKBalpha
+T12	Site 745 763	Thr308 in PKBalpha
+T13	Site 773 791	Thr309 ( PKBbeta )
+T20	Protein 671 675	PDK1
+T18	Site 1022 1028	Thr305
+T19	Protein 312 366	All three isoforms ( PKBalpha , PKBbeta and PKBgamma )
+E19	Phosphorylation:T8 Theme:T9 Cause:T20 Site:T12
+E18	Phosphorylation:T1 Theme:T19 Cause:T2
+E11	Phosphorylation:T8 Theme:T10 Site:T12
+E10	Phosphorylation:T8 Theme:T9 Site:T14
+E13	Phosphorylation:T8 Theme:T10 Site:T14
+E12	Phosphorylation:T8 Theme:T10 Site:T13
+E15	Phosphorylation:T8 Theme:T11 Site:T13
+E14	Phosphorylation:T8 Theme:T11 Site:T12
+E17	Phosphorylation:T16 Theme:T17 Site:T18
+E16	Phosphorylation:T8 Theme:T11 Site:T14
+E9	Phosphorylation:T8 Theme:T9 Site:T13
+E8	Phosphorylation:T8 Theme:T9 Site:T12
+E5	Phosphorylation:T6 Theme:T3
+E4	Phosphorylation:T6 Theme:T7
+E7	Phosphorylation:T6 Theme:T5
+E6	Phosphorylation:T6 Theme:T4
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T1 Theme:T5 Cause:T2
+E2	Phosphorylation:T1 Theme:T4 Cause:T2
+E24	Phosphorylation:T8 Theme:T10 Cause:T20 Site:T14
+E25	Phosphorylation:T8 Theme:T11 Cause:T20 Site:T12
+E26	Phosphorylation:T8 Theme:T11 Cause:T20 Site:T13
+E27	Phosphorylation:T8 Theme:T11 Cause:T20 Site:T14
+E20	Phosphorylation:T8 Theme:T9 Cause:T20 Site:T13
+E21	Phosphorylation:T8 Theme:T9 Cause:T20 Site:T14
+E22	Phosphorylation:T8 Theme:T10 Cause:T20 Site:T12
+E23	Phosphorylation:T8 Theme:T10 Cause:T20 Site:T13

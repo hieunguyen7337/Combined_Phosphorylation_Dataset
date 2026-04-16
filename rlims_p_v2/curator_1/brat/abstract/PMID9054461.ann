@@ -1,0 +1,43 @@
+T14	Protein 732 735	K6e
+T15	Site 736 742	Ser-59
+T16	Phosphorylation 849 864	phosphorylation
+T17	Protein 935 990	epidermal growth factor ( EGF ) or after mitotic arrest
+T10	Phosphorylation 703 717	phosphorylated
+T11	Protein 689 699	keratin 6e
+T12	Site 657 663	Ser-59
+T13	Phosphorylation 757 772	phosphorylation
+T32	Site 1519 1526	Ser-431
+T19	Site 868 875	Ser-431
+T30	Protein 1630 1673	mitogen -activated protein and cdc2 kinases
+T31	Protein 1516 1518	K8
+T18	Protein 846 848	K8
+T8	Site 513 519	Ser-23
+T9	Site 532 539	Ser-431
+T6	Phosphorylation 465 480	phosphorylation
+T7	Protein 496 498	K8
+T4	Site 138 148	serine 431
+T5	Phosphorylation 164 179	phosphorylation
+T2	Protein 30 39	keratin 8
+T3	Site 73 82	serine 23
+T1	Phosphorylation 5 20	Phosphorylation
+T29	Phosphorylation 1527 1542	phosphorylation
+T28	Phosphorylation 1443 1458	phosphorylation
+T21	Protein 1078 1120	mitogen -activated protein or cdc2 kinases
+T20	Phosphorylation 1011 1025	phosphorylated
+T23	Phosphorylation 1174 1187	phosphoserine
+T22	Protein 1008 1010	K8
+T25	Protein 1360 1362	K8
+T24	Phosphorylation 1341 1356	phosphorylation
+T27	Site 1334 1340	serine
+T26	Protein 1367 1370	K6e
+E11	Phosphorylation:T29 Theme:T31 Cause:T30 Site:T32
+E10	Phosphorylation:T24 Theme:T26 Site:T27
+E9	Phosphorylation:T24 Theme:T25 Site:T27
+E8	Phosphorylation:T20 Theme:T22 Cause:T21 Site:T19
+E5	Phosphorylation:T10 Theme:T11 Site:T12
+E4	Phosphorylation:T6 Theme:T7 Site:T9
+E7	Phosphorylation:T16 Theme:T18 Cause:T17 Site:T19
+E6	Phosphorylation:T13 Theme:T14 Site:T15
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T7 Site:T8
+E2	Phosphorylation:T1 Theme:T2 Site:T4

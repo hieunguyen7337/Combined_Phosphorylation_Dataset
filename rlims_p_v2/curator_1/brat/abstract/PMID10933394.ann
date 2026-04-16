@@ -1,0 +1,17 @@
+T8	Site 567 571	Y513
+T9	Phosphorylation 648 663	phosphorylation
+T6	Protein 576 579	Lyn
+T7	Protein 562 566	CD19
+T4	Site 463 471	tyrosine
+T5	Phosphorylation 590 605	phosphorylation
+T2	Protein 426 429	Lyn
+T3	Protein 458 462	CD19
+T1	Phosphorylation 472 487	phosphorylation
+T10	Protein 667 671	CD19
+T11	Site 672 676	Y482
+T12	Phosphorylation 732 752	transphosphorylation
+T13	Protein 704 707	Lyn
+E4	Phosphorylation:T12 Theme:T13 Cause:T13
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T9 Theme:T10 Site:T11
+E2	Phosphorylation:T5 Theme:T7 Cause:T6 Site:T8

@@ -1,0 +1,13 @@
+T8	Phosphorylation 772 787	phosphorylation
+T9	Protein 837 840	p36
+T6	Protein 499 502	p36
+T7	Site 533 539	Tyr 23
+T4	Protein 32 35	p36
+T5	Phosphorylation 516 532	phosphorylatable
+T2	Phosphorylation 102 117	phosphorylation
+T3	Protein 61 88	src tyrosine-protein kinase
+T1	Phosphorylation 48 57	substrate
+T10	Site 763 771	tyrosine
+E1	Phosphorylation:T2 Theme:T4 Cause:T3
+E3	Phosphorylation:T8 Theme:T9 Site:T10
+E2	Phosphorylation:T5 Theme:T6 Site:T7

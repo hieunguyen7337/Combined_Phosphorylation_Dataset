@@ -1,0 +1,50 @@
+T38	Protein 1327 1338	inhibitor-1
+T14	Phosphorylation 527 542	phosphorylation
+T15	Phosphorylation 653 667	phosphorylates
+T16	Protein 611 615	Cdk5
+T17	Protein 668 679	inhibitor-1
+T10	Protein 471 475	Cdk5
+T11	Protein 482 515	mitogen -activated protein kinase
+T12	Protein 380 391	inhibitor-1
+T13	Site 422 428	Ser-67
+T36	Phosphorylation 1303 1318	phosphorylation
+T37	Protein 1288 1292	Cdk5
+T34	Phosphorylation 1199 1208	substrate
+T35	Protein 1213 1243	cAMP -dependent protein kinase
+T18	Site 683 689	Ser-67
+T33	Site 1171 1177	Ser-67
+T30	Site 1051 1057	Ser-67
+T31	Phosphorylation 1153 1167	phosphorylated
+T32	Protein 1141 1152	inhibitor-1
+T19	Phosphorylation 768 782	phospho-Ser-67
+T8	Phosphorylation 395 409	phosphorylated
+T9	Protein 464 468	Cdk1
+T6	Protein 271 282	inhibitor-1
+T7	Site 286 292	Thr-35
+T4	Phosphorylation 252 267	phosphorylation
+T5	Protein 210 240	cAMP -dependent protein kinase
+T2	Protein 60 64	Cdk5
+T3	Protein 24 56	protein phosphatase inhibitor -1
+T1	Phosphorylation 5 20	Phosphorylation
+T29	Protein 1066 1085	convert inhibitor-1
+T28	Phosphorylation 1032 1047	Phosphorylation
+T21	Protein 819 850	protein phosphatases-2A and -2B
+T20	Phosphorylation 799 815	dephosphorylated
+T23	Site 776 782	Ser-67
+T22	Protein 783 794	inhibitor-1
+T25	Protein 955 1029	glutamate -dependent regulation of N-methyl-d-aspartic acid -type channels
+T24	Phosphorylation 866 881	phosphorylation
+T27	Site 900 906	Ser-67
+T26	Protein 885 896	inhibitor-1
+E11	Phosphorylation:T34 Theme:T32 Cause:T35 Site:T33
+E10	Phosphorylation:T31 Theme:T32 Site:T33
+E12	Phosphorylation:T36 Theme:T38 Cause:T37
+E9	Phosphorylation:T28 Theme:T29 Site:T30
+E8	Phosphorylation:T24 Theme:T26 Cause:T25 Site:T27
+E5	Phosphorylation:T8 Theme:T12 Cause:T11 Site:T13
+E4	Phosphorylation:T8 Theme:T12 Cause:T10 Site:T13
+E7	Phosphorylation:T20 Theme:T22 Cause:T21 Site:T23
+E6	Phosphorylation:T15 Theme:T17 Cause:T16 Site:T18
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T12 Cause:T9 Site:T13
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7

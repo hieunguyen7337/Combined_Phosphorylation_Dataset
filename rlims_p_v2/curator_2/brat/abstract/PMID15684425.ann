@@ -1,0 +1,42 @@
+T14	Protein 580 590	histone H3
+T15	Phosphorylation 672 686	phosphorylated
+T16	Protein 661 671	MLTK-alpha
+T17	Protein 687 697	histone H3
+T10	Protein 446 456	histone H3
+T11	Site 460 465	Ser28
+T12	Phosphorylation 565 579	phosphorylated
+T13	Protein 468 478	MLTK-alpha
+T32	Protein 1611 1621	histone H3
+T19	Phosphorylation 962 977	phosphorylation
+T30	Phosphorylation 1592 1607	phosphorylation
+T31	Protein 1534 1544	MLTK-alpha
+T18	Site 701 706	Ser28
+T33	Site 1625 1630	Ser28
+T8	Phosphorylation 431 445	phosphorylates
+T9	Protein 348 430	mixed lineage kinase -like mitogen-activated protein triple kinase ( MLTK ) -alpha
+T6	Protein 140 173	mitogen -activated protein kinase
+T7	Protein 233 243	histone H3
+T4	Site 24 29	Ser28
+T5	Phosphorylation 247 262	phosphorylation
+T2	Protein 56 128	mixed lineage kinase -like mitogen-activated protein triple kinase alpha
+T3	Protein 33 43	histone H3
+T1	Phosphorylation 5 20	Phosphorylation
+T29	Site 1314 1319	Ser28
+T28	Protein 1284 1294	histone H3
+T21	Protein 981 991	histone H3
+T20	Protein 940 952	UVB - or EGF
+T23	Phosphorylation 1174 1189	phosphorylation
+T22	Site 995 1000	Ser28
+T25	Protein 1193 1203	histone H3
+T24	Protein 1152 1164	UVB - or EGF
+T27	Phosphorylation 1295 1310	phosphorylation
+T26	Site 1207 1212	Ser28
+E9	Phosphorylation:T30 Theme:T32 Cause:T31 Site:T33
+E8	Phosphorylation:T27 Theme:T28 Site:T29
+E5	Phosphorylation:T15 Theme:T17 Cause:T16 Site:T18
+E4	Phosphorylation:T12 Theme:T14 Cause:T13
+E7	Phosphorylation:T23 Theme:T25 Cause:T24 Site:T26
+E6	Phosphorylation:T19 Theme:T21 Cause:T20 Site:T22
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T8 Theme:T10 Cause:T9 Site:T11
+E2	Phosphorylation:T5 Theme:T7 Cause:T6

@@ -1,0 +1,12 @@
+T8	Protein 952 956	Mps1
+T9	Phosphorylation 2285 2295	SUBstrates
+T6	Protein 777 781	Mad1
+T7	Phosphorylation 957 976	autoPHOSphorylation
+T4	Phosphorylation 758 773	PHOSphorylation
+T5	Protein 753 757	Mps1
+T2	Protein 304 308	Mps1
+T3	Protein 324 328	Mad1
+T1	Phosphorylation 309 323	PHOSphorylates
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T8 Cause:T8
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

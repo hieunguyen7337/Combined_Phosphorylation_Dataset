@@ -1,0 +1,61 @@
+T38	Protein 1467 1472	Raf-1
+T39	Site 1560 1590	serine - and Tyr(340)/Tyr(341)
+T14	Anaphora 849 858	this site
+T15	Phosphorylation 917 937	transphosphorylation
+T16	Protein 904 907	KSR
+T17	Protein 958 965	c-Raf-1
+T10	Protein 808 811	KSR
+T11	Protein 777 784	c-Raf-1
+T12	Site 755 763	Thr(269)
+T13	Phosphorylation 830 845	phosphorylation
+T36	Phosphorylation 1591 1606	-phosphorylated
+T37	Protein 1634 1647	high dose EGF
+T34	Phosphorylation 1406 1421	phosphorylation
+T35	Site 1425 1462	serine residues and Tyr(340)/Tyr(341)
+T32	Protein 1398 1405	c-Raf-1
+T19	Phosphorylation 1059 1068	substrate
+T30	Phosphorylation 1359 1374	phosphorylation
+T31	Protein 1297 1327	High dose EGF ( 10-100 ng/ml )
+T18	Phosphorylation 966 985	autophosphorylation
+T33	Site 1350 1358	Thr(269)
+T8	Site 606 615	threonine
+T9	Phosphorylation 790 804	phosphorylated
+T6	Protein 563 566	KSR
+T7	Protein 595 602	c-Raf-1
+T4	Site 467 475	Thr(269)
+T5	Phosphorylation 580 594	phosphorylated
+T2	Protein 479 482	KSR
+T3	Protein 456 463	c-Raf-1
+T1	Phosphorylation 437 452	phosphorylation
+T29	Site 1249 1267	serine or tyrosine
+T28	Protein 1287 1294	c-Raf-1
+T21	Protein 991 1023	kinase -inactive c-Raf-1 (K375M)
+T20	Protein 1055 1058	KSR
+T23	Protein 1141 1144	KSR
+T22	Phosphorylation 1177 1192	phosphorylation
+T25	Site 1168 1176	Thr(269)
+T24	Protein 1211 1218	c-Raf-1
+T27	Protein 1230 1233	EGF
+T26	Phosphorylation 1268 1283	phosphorylation
+T43	Site 1672 1680	Thr(269)
+T42	Protein 1694 1701	c-Raf-1
+T41	Protein 1725 1728	KSR
+T40	Phosphorylation 1707 1721	phosphorylated
+T47	Anaphora 1764 1773	this site
+T46	Protein 1791 1798	c-Raf-1
+T45	Protein 1813 1816	KSR
+T44	Phosphorylation 1745 1760	phosphorylation
+E11	Phosphorylation:T36 Theme:T38 Cause:T37 Site:T39
+E10	Phosphorylation:T34 Theme:T32 Cause:T31 Site:T35
+E13	Phosphorylation:T44 Theme:T46 Cause:T45 Site:T47
+E12	Phosphorylation:T40 Theme:T42 Cause:T41 Site:T43
+E9	Phosphorylation:T30 Theme:T32 Cause:T31 Site:T33
+E8	Phosphorylation:T26 Theme:T28 Cause:T27 Site:T29
+E5	Phosphorylation:T18 Theme:T17 Cause:T17
+E4	Phosphorylation:T15 Theme:T17 Cause:T16
+E7	Phosphorylation:T22 Theme:T24 Cause:T23 Site:T25
+E6	Phosphorylation:T19 Theme:T21 Cause:T20
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T9 Theme:T11 Cause:T10 Site:T12
+E2	Phosphorylation:T5 Theme:T7 Cause:T6 Site:T8
+R1	Coreference Arg1:T47 Arg2:T43

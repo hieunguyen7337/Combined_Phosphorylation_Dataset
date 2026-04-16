@@ -1,0 +1,8 @@
+T4	Phosphorylation 1404 1419	PHOSphorylation
+T5	Protein 1384 1388	PYK2
+T2	Protein 895 899	PYK2
+T3	Protein 904 910	ERK1/2
+T1	Phosphorylation 911 927	PHOSphorylations
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

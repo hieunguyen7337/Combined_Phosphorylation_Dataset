@@ -1,0 +1,27 @@
+T8	Phosphorylation 862 898	signaling -dependent phosphorylation
+T9	Protein 979 983	Pak1
+T6	Site 402 408	Ser-65
+T7	Site 413 420	Ser-128
+T4	Protein 298 329	p21-activated kinase 1 ( Pak1 )
+T5	Protein 394 398	TCoB
+T2	Protein 64 82	tubulin cofactor B
+T3	Phosphorylation 379 393	phosphorylates
+T1	Phosphorylation 31 60	nitration and phosphorylation
+T14	Phosphorylation 45 60	phosphorylation
+T15	Phosphorylation 883 898	phosphorylation
+T16	Phosphorylation 984 999	phosphorylation
+T17	Phosphorylation 1056 1071	phosphorylation
+T10	Protein 902 906	TCoB
+T11	Phosphorylation 968 1005	functional Pak1 phosphorylation sites
+T12	Phosphorylation 1056 1094	phosphorylation -dependent MT regrowth
+T13	Protein 938 942	TCoB
+E10	Phosphorylation:T17 Theme:T13
+E9	Phosphorylation:T16 Theme:T10 Cause:T9
+E8	Phosphorylation:T15 Theme:T10
+E5	Phosphorylation:T11 Theme:T10 Cause:T9
+E4	Phosphorylation:T8 Theme:T10 Cause:T9
+E7	Phosphorylation:T14 Theme:T2
+E6	Phosphorylation:T12 Theme:T13
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T5 Cause:T4 Site:T7
+E2	Phosphorylation:T3 Theme:T5 Cause:T4 Site:T6

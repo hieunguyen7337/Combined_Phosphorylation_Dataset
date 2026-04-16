@@ -1,0 +1,61 @@
+T12	Phosphorylation 862 880	autophosphorylated
+T13	Phosphorylation 938 957	autophosphorylation
+T14	Site 985 992	Thr-402
+T15	Phosphorylation 999 1032	the autophosphorylation reactions
+T16	Phosphorylation 1131 1154	the autophosphorylation
+T17	Site 1163 1170	Thr-402
+T10	Phosphorylation 783 807	PAK2 autophosphorylation
+T11	Protein 783 787	PAK2
+T38	Phosphorylation 1282 1292	substrates
+T39	Phosphorylation 1349 1359	substrates
+T36	Phosphorylation 1003 1022	autophosphorylation
+T37	Site 1036 1053	regulatory domain
+T34	Phosphorylation 999 1022	the autophosphorylation
+T35	Site 1171 1194	on the catalytic domain
+T18	Phosphorylation 1253 1268	phosphorylation
+T19	Phosphorylation 1272 1292	exogenous substrates
+T30	Phosphorylation 788 807	autophosphorylation
+T31	Site 844 861	regulatory domain
+T32	Site 884 901	multiple residues
+T33	Site 961 981	the catalytic domain
+T8	Protein 616 620	PAK2
+T9	Phosphorylation 657 707	the free enzyme and enzyme -substrate complex have
+T6	Phosphorylation 559 581	the substrate reaction
+T7	Phosphorylation 589 612	the autophosphorylation
+T4	Protein 305 309	PAK2
+T5	Phosphorylation 397 419	the substrate reaction
+T2	Protein 157 161	PAK2
+T3	Phosphorylation 305 329	PAK2 autophosphorylation
+T1	Phosphorylation 178 197	autophosphorylation
+T29	Phosphorylation 684 694	-substrate
+T28	Phosphorylation 593 612	autophosphorylation
+T21	Phosphorylation 1500 1533	the enzyme -substrate recognition
+T20	Phosphorylation 1319 1359	the exogenous protein/peptide substrates
+T23	Phosphorylation 1720 1733	the substrate
+T22	Phosphorylation 1599 1628	autophosphorylation reactions
+T25	Phosphorylation 310 329	autophosphorylation
+T24	Phosphorylation 1882 1921	the reversible phosphorylation reaction
+T27	Phosphorylation 563 572	substrate
+T26	Phosphorylation 401 410	substrate
+T43	Phosphorylation 1897 1912	phosphorylation
+T42	Phosphorylation 1724 1733	substrate
+T41	Phosphorylation 1599 1618	autophosphorylation
+T40	Phosphorylation 1511 1521	-substrate
+E18	Phosphorylation:T12 Theme:T11 Cause:T11 Site:T37
+E11	Phosphorylation:T13 Theme:T11 Cause:T11 Site:T14
+E10	Phosphorylation:T12 Theme:T11 Cause:T11 Site:T32
+E13	Phosphorylation:T16 Theme:T11 Cause:T11 Site:T17
+E12	Phosphorylation:T13 Theme:T11 Cause:T11 Site:T33
+E15	Phosphorylation:T13 Theme:T11 Cause:T11 Site:T17
+E14	Phosphorylation:T16 Theme:T11 Cause:T11 Site:T35
+E17	Phosphorylation:T36 Theme:T11 Cause:T11 Site:T37
+E16	Phosphorylation:T13 Theme:T11 Cause:T11 Site:T35
+E9	Phosphorylation:T12 Theme:T11 Cause:T11 Site:T31
+E8	Phosphorylation:T30 Theme:T11 Cause:T11
+E5	Phosphorylation:T1 Theme:T2 Cause:T2
+E4	Phosphorylation:T10 Theme:T11
+E7	Phosphorylation:T28 Theme:T8 Cause:T8
+E6	Phosphorylation:T25 Theme:T4 Cause:T4
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T7 Theme:T8
+E2	Phosphorylation:T3 Theme:T4

@@ -1,0 +1,66 @@
+T12	Protein 478 506	PKCepsilon ( PKCepsilon TG )
+T13	Phosphorylation 634 656	cMyBPC phosphorylation
+T14	Protein 660 673	PKCepsilon TG
+T15	Phosphorylation 937 952	phosphorylation
+T16	Protein 956 958	WT
+T17	Phosphorylation 1462 1477	phosphorylation
+T10	Protein 350 356	cMyBPC
+T11	Phosphorylation 517 560	enhanced sarcomeric protein phosphorylation
+T38	Phosphorylation 799 814	phosphorylation
+T39	Protein 777 783	cMyBPC
+T36	Protein 660 670	PKCepsilon
+T37	Protein 634 640	cMyBPC
+T34	Protein 526 544	sarcomeric protein
+T35	Phosphorylation 641 656	phosphorylation
+T18	Protein 1112 1118	cMyBPC
+T33	Protein 443 506	cardiac-specific overexpression of PKCepsilon ( PKCepsilon TG )
+T30	Phosphorylation 357 372	phosphorylation
+T31	Protein 336 339	PKC
+T32	Phosphorylation 545 560	phosphorylation
+T19	Site 1485 1491	Ser302
+T8	Protein 275 281	cMyBPC
+T9	Phosphorylation 336 372	PKC -mediated cMyBPC phosphorylation
+T6	Phosphorylation 258 274	to phosphorylate
+T7	Protein 241 244	PKC
+T4	Phosphorylation 129 188	Cardiac myosin binding protein C ( cMyBPC ) phosphorylation
+T5	Protein 129 172	Cardiac myosin binding protein C ( cMyBPC )
+T2	Protein 57 81	myosin binding protein C
+T3	Site 85 95	serine 302
+T1	Phosphorylation 26 41	phosphorylation
+T29	Phosphorylation 261 274	phosphorylate
+T28	Protein 49 81	cardiac myosin binding protein C
+T21	Protein 1597 1607	PKCepsilon
+T20	Phosphorylation 1593 1634	the PKCepsilon -dependent phosphorylation
+T23	Phosphorylation 1703 1743	a likely PKCepsilon phosphorylation site
+T22	Site 1213 1219	Ser302
+T25	Protein 1693 1699	cMyBPC
+T24	Protein 1712 1722	PKCepsilon
+T27	Protein 5 15	PKCepsilon
+T26	Site 1677 1683	Ser302
+T43	Phosphorylation 1619 1634	phosphorylation
+T42	Phosphorylation 1388 1403	phosphorylation
+T41	Phosphorylation 1070 1085	phosphorylation
+T40	Site 784 798	serine ( Ser )
+T46	Phosphorylation 173 188	phosphorylation
+T45	Phosphorylation 1723 1738	phosphorylation
+T44	Site 1568 1574	Ser302
+E19	Phosphorylation:T45 Theme:T25 Cause:T24 Site:T26
+E18	Phosphorylation:T43 Theme:T18 Cause:T21 Site:T44
+E20	Phosphorylation:T46 Theme:T5
+E11	Phosphorylation:T29 Theme:T8 Cause:T7
+E10	Phosphorylation:T1 Theme:T28 Cause:T27 Site:T3
+E13	Phosphorylation:T32 Theme:T34 Cause:T33
+E12	Phosphorylation:T30 Theme:T10 Cause:T31
+E15	Phosphorylation:T38 Theme:T39 Site:T40
+E14	Phosphorylation:T35 Theme:T37 Cause:T36
+E17	Phosphorylation:T43 Theme:T18 Cause:T21 Site:T22
+E16	Phosphorylation:T15 Theme:T39
+E9	Phosphorylation:T23 Theme:T25 Cause:T24 Site:T26
+E8	Phosphorylation:T17 Theme:T18 Site:T19
+E5	Phosphorylation:T11 Theme:T12
+E4	Phosphorylation:T9 Theme:T10
+E7	Phosphorylation:T15 Theme:T16
+E6	Phosphorylation:T13 Theme:T14
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T8 Cause:T7
+E2	Phosphorylation:T4 Theme:T5

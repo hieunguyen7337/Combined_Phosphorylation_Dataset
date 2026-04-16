@@ -1,0 +1,32 @@
+T8	Phosphorylation 1827 1862	a putative Akt phosphorylation site
+T9	Phosphorylation 982 996	Phosphorylated
+T6	Protein 1838 1841	Akt
+T7	Site 1792 1799	Ser-244
+T4	Phosphorylation 1724 1789	their conservative autophosphorylation sites and catalytic domain
+T5	Phosphorylation 1792 1815	Ser-244 phosphorylation
+T2	Protein 997 1000	Akt
+T3	Phosphorylation 1701 1720	the phosphorylation
+T1	Phosphorylation 982 1000	Phosphorylated Akt
+T14	Phosphorylation 1800 1815	phosphorylation
+T15	Protein 1868 1872	PAK3
+T16	Phosphorylation 1842 1857	phosphorylation
+T10	Phosphorylation 1705 1720	phosphorylation
+T11	Protein 1651 1655	PAK1
+T12	Protein 1665 1669	PAK3
+T13	Phosphorylation 1743 1762	autophosphorylation
+E11	Phosphorylation:T13 Theme:T11 Cause:T11
+E10	Phosphorylation:T10 Theme:T12 Cause:T12
+E13	Phosphorylation:T13 Theme:T12 Cause:T11
+E12	Phosphorylation:T13 Theme:T11 Cause:T12
+E15	Phosphorylation:T14 Theme:T15 Cause:T6 Site:T7
+E14	Phosphorylation:T13 Theme:T12 Cause:T12
+E16	Phosphorylation:T16 Theme:T15 Cause:T6 Site:T7
+E9	Phosphorylation:T10 Theme:T12 Cause:T11
+E8	Phosphorylation:T10 Theme:T11 Cause:T12
+E5	Phosphorylation:T8 Theme:T6 Cause:T6 Site:T7
+E4	Phosphorylation:T5 Theme:T6 Site:T7
+E7	Phosphorylation:T10 Theme:T11 Cause:T11
+E6	Phosphorylation:T9 Theme:T2
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T1 Cause:T1
+E2	Phosphorylation:T3 Theme:T1

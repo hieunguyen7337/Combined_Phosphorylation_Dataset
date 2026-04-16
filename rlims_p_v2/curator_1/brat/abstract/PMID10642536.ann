@@ -1,0 +1,6 @@
+T4	Site 876 884	Thr(521)
+T2	Protein 805 816	hIL-9Ralpha
+T3	Site 864 872	Ser(519)
+T1	Phosphorylation 845 860	phosphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E2	Phosphorylation:T1 Theme:T2 Site:T4

@@ -1,0 +1,11 @@
+T8	Phosphorylation 983 992	SUBstrate
+T6	Protein 884 887	p53
+T7	Site 888 893	Ser15
+T4	Protein 554 558	H2AX
+T5	Phosphorylation 894 909	phosphorylaTION
+T2	Protein 247 251	H2AX
+T3	Phosphorylation 559 574	PHOSphorylation
+T1	Phosphorylation 259 273	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6 Site:T7
+E2	Phosphorylation:T3 Theme:T4

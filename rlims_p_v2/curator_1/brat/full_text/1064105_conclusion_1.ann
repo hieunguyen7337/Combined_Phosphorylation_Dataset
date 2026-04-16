@@ -1,0 +1,9 @@
+T4	Protein 421 425	ERK2
+T5	Phosphorylation 346 363	dePHOSphorylation
+T2	Protein 254 263	mER-alpha
+T3	Protein 412 416	ERK1
+T1	Phosphorylation 330 345	phosphorylaTION
+E4	Phosphorylation:T5 Theme:T4 Cause:T2
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T5 Theme:T3 Cause:T2
+E2	Phosphorylation:T1 Theme:T4 Cause:T2

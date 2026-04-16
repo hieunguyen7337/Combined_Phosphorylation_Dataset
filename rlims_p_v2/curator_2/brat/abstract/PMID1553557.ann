@@ -1,0 +1,11 @@
+T6	Protein 103 169	A slowly activating , voltage -dependent potassium channel protein
+T7	Anaphora 671 698	the channel subunit protein
+T4	Site 702 708	Ser103
+T5	Protein 31 50	a potassium channel
+T2	Protein 79 95	protein kinase C
+T3	Protein 671 698	the channel subunit protein
+T1	Phosphorylation 652 667	phosphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E2	Phosphorylation:T1 Theme:T3 Site:T4
+R2	Coreference Arg1:T7 Arg2:T6
+R1	Coreference Arg1:T7 Arg2:T5

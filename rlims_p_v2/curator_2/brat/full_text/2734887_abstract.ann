@@ -1,0 +1,3 @@
+T2	Protein 551 577	apoptosis regulator PEA-15
+T1	Phosphorylation 529 547	de-PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

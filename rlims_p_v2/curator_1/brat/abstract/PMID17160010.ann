@@ -1,0 +1,18 @@
+T8	Protein 1325 1328	ERK
+T9	Phosphorylation 2025 2040	phosphorylation
+T6	Protein 1311 1314	p38
+T7	Protein 1317 1320	JNK
+T4	Protein 1165 1184	Ergosterol peroxide
+T5	Protein 1189 1199	ergosterol
+T2	Protein 744 765	MAP kinases ( MAPKs )
+T3	Phosphorylation 1292 1307	phosphorylation
+T1	Phosphorylation 725 740	phosphorylation
+T10	Protein 2044 2049	MAPKs
+E8	Phosphorylation:T9 Theme:T10
+E5	Phosphorylation:T3 Theme:T7 Cause:T5
+E4	Phosphorylation:T3 Theme:T7 Cause:T4
+E7	Phosphorylation:T3 Theme:T8 Cause:T5
+E6	Phosphorylation:T3 Theme:T8 Cause:T4
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T6 Cause:T5
+E2	Phosphorylation:T3 Theme:T6 Cause:T4

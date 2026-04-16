@@ -1,0 +1,4 @@
+T2	Protein 24 27	p53
+T3	Site 31 36	Ser46
+T1	Phosphorylation 5 20	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3

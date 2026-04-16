@@ -1,0 +1,4 @@
+T2	Protein 463 474	MADR2 (3SA)
+T3	Phosphorylation 589 603	PHOSphorylated
+T1	Phosphorylation 439 454	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2

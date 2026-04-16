@@ -1,0 +1,66 @@
+T12	Phosphorylation 4079 4093	PHOSphorylated
+T13	Protein 4066 4071	Rad52
+T14	Site 4105 4122	N-terminal domain
+T15	Phosphorylation 4280 4295	phosphorylaTION
+T16	Phosphorylation 4452 4467	PHOSphorylation
+T17	Phosphorylation 4542 4557	PHOSphorylation
+T10	Protein 4006 4011	Rad52
+T11	Site 4033 4047	the C terminus
+T38	Protein 6493 6498	Rad52
+T39	Phosphorylation 6705 6720	PHOSphorylation
+T36	Protein 6437 6442	Rad52
+T37	Phosphorylation 6499 6514	PHOSphorylation
+T34	Protein 6312 6317	Rad52
+T35	Phosphorylation 6475 6490	PHOSphorylation
+T32	Protein 6102 6107	Rad52
+T33	Phosphorylation 6364 6379	phosphorylaTION
+T30	Protein 6047 6052	Rad52
+T31	Phosphorylation 6083 6098	PHOSphorylation
+T18	Site 4522 4532	C terminus
+T19	Phosphorylation 5145 5160	PHOSphorylation
+T8	Site 3949 3966	C terminal domain
+T9	Phosphorylation 4015 4029	PHOSphorylated
+T6	Phosphorylation 3914 3929	phosphorylaTION
+T7	Protein 3970 3975	Rad52
+T4	Phosphorylation 3665 3682	dePHOSphorylation
+T5	Protein 3642 3647	Rad52
+T2	Protein 3375 3380	Rad52
+T3	Site 3508 3540	serine and/or threonine residues
+T1	Phosphorylation 3399 3413	PHOSphorylated
+T29	Phosphorylation 6032 6046	PHOSphorylated
+T28	Phosphorylation 5974 5984	subSTRates
+T21	Phosphorylation 5355 5369	PHOSphorylated
+T20	Protein 5021 5026	Rad52
+T23	Phosphorylation 5466 5481	PHOSphorylation
+T22	Protein 5370 5375	Rad52
+T25	Phosphorylation 5695 5710	PHOSphorylation
+T24	Protein 5485 5490	Rad52
+T27	Phosphorylation 5848 5863	PHOSphorylation
+T26	Protein 5664 5669	Rad52
+T43	Protein 5827 5837	cell cycle
+T42	Phosphorylation 6930 6945	PHOSphorylation
+T41	Phosphorylation 6801 6816	phosphorylaTION
+T40	Protein 6699 6704	Rad52
+T45	Protein 6890 6895	Rad52
+T44	Protein 6342 6352	cell cycle
+E19	Phosphorylation:T16 Theme:T13
+E18	Phosphorylation:T41 Theme:T40
+E20	Phosphorylation:T33 Theme:T34 Cause:T44
+E21	Phosphorylation:T42 Theme:T45
+E11	Phosphorylation:T25 Theme:T26
+E10	Phosphorylation:T23 Theme:T24
+E13	Phosphorylation:T31 Theme:T32
+E12	Phosphorylation:T29 Theme:T30
+E15	Phosphorylation:T35 Theme:T36
+E14	Phosphorylation:T33 Theme:T34
+E17	Phosphorylation:T39 Theme:T40
+E16	Phosphorylation:T37 Theme:T38
+E9	Phosphorylation:T21 Theme:T22
+E8	Phosphorylation:T19 Theme:T20
+E5	Phosphorylation:T12 Theme:T13 Site:T14
+E4	Phosphorylation:T9 Theme:T10 Site:T11
+E7	Phosphorylation:T17 Theme:T13 Site:T18
+E6	Phosphorylation:T15 Theme:T13
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T7 Site:T8
+E2	Phosphorylation:T4 Theme:T5

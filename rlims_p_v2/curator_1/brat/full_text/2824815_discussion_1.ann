@@ -1,0 +1,3 @@
+T2	Protein 2196 2201	Stat5
+T1	Phosphorylation 2202 2217	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

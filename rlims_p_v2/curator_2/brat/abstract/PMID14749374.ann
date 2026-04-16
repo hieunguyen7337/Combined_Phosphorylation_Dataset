@@ -1,0 +1,20 @@
+T8	Phosphorylation 418 433	Phosphorylation
+T9	Protein 479 482	Myc
+T6	Protein 318 321	Myc
+T7	Site 339 361	T358 , S373 , and T400
+T4	Phosphorylation 303 317	phosphorylates
+T5	Protein 298 302	Pak2
+T2	Protein 209 213	Pak2
+T3	Protein 229 232	Myc
+T1	Phosphorylation 194 204	substrates
+T14	Protein 696 700	Pak2
+T15	Protein 725 728	Myc
+T10	Anaphora 437 455	all three residues
+T11	Phosphorylation 557 572	phosphorylation
+T12	Phosphorylation 649 664	phosphorylation
+T13	Phosphorylation 677 692	Phosphorylation
+E4	Phosphorylation:T13 Theme:T15 Cause:T14
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T9 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7
+R1	Coreference Arg1:T10 Arg2:T7

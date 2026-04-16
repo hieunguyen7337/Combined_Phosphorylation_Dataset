@@ -1,0 +1,48 @@
+T14	Phosphorylation 3510 3535	phosphorylaTION-deficient
+T15	Site 3546 3560	S369-S373-S377
+T16	Phosphorylation 3635 3650	phosphorylaTION
+T17	Protein 3701 3706	Runx2
+T10	Site 3305 3408	S92A-S96A-S100A , S369A-S373A-S377A , S389A-T393A-S397A , T394A-S398A-T402A and T476A-T480A-S484A-S488A
+T11	Site 3241 3261	five consensus sites
+T12	Phosphorylation 3270 3285	PHOSphorylation
+T13	Protein 3289 3302	GSK-3beta [5]
+T32	Protein 4512 4517	Runx2
+T19	Site 3343 3408	S389A-T393A-S397A , T394A-S398A-T402A and T476A-T480A-S484A-S488A
+T30	Phosphorylation 4493 4508	PHOSphorylation
+T31	Protein 4539 4548	GSK-3beta
+T18	Site 3305 3320	S92A-S96A-S100A
+T33	Site 4521 4535	S369-S373-S377
+T8	Protein 3289 3298	GSK-3beta
+T9	Protein 3178 3183	Runx2
+T6	Protein 3054 3059	Runx2
+T7	Phosphorylation 3141 3166	phosphorylaTION-deficient
+T4	Phosphorylation 3035 3050	phosphorylaTION
+T5	Protein 3063 3072	GSK-3beta
+T2	Protein 54 63	GSK-3beta
+T3	Protein 45 50	Runx2
+T1	Phosphorylation 26 41	PHOSphorylation
+T29	Site 3908 3922	S369-S373-S377
+T28	Protein 3854 3859	Runx2
+T21	Phosphorylation 3738 3753	PHOSphorylation
+T20	Site 3620 3634	the other four
+T23	Site 3757 3761	S369
+T22	Protein 3787 3792	Runx2
+T25	Site 3767 3771	S377
+T24	Site 3762 3766	S373
+T27	Protein 3879 3888	GSK-3beta
+T26	Phosphorylation 3860 3875	PHOSphorylation
+E11	Phosphorylation:T21 Theme:T22 Site:T23
+E10	Phosphorylation:T16 Theme:T17 Site:T20
+E13	Phosphorylation:T21 Theme:T22 Site:T25
+E12	Phosphorylation:T21 Theme:T22 Site:T24
+E15	Phosphorylation:T30 Theme:T32 Cause:T31 Site:T33
+E14	Phosphorylation:T26 Theme:T28 Cause:T27 Site:T29
+E9	Phosphorylation:T16 Theme:T17 Site:T19
+E8	Phosphorylation:T16 Theme:T17 Site:T18
+E5	Phosphorylation:T12 Theme:T9 Cause:T13 Site:T11
+E4	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T11
+E7	Phosphorylation:T14 Theme:T9 Site:T15
+E6	Phosphorylation:T12 Theme:T9 Cause:T13 Site:T10
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

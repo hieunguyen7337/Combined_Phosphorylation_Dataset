@@ -1,0 +1,9 @@
+T6	Protein 4939 4943	NarL
+T4	Protein 1870 1874	NarL
+T5	Phosphorylation 4920 4938	non-PHOSphorylated
+T2	Protein 1103 1107	NarL
+T3	Phosphorylation 1851 1869	non-PHOSphorylated
+T1	Phosphorylation 1088 1102	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

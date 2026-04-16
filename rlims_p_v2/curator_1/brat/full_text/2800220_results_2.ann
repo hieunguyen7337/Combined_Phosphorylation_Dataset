@@ -1,0 +1,10 @@
+T6	Phosphorylation 1289 1303	PHOSphorylated
+T7	Protein 1304 1309	53BP1
+T4	Phosphorylation 1090 1105	phosphorylaTION
+T5	Phosphorylation 1133 1147	PHOSphorylated
+T2	Protein 953 956	p53
+T3	Protein 961 980	H2AX ( gamma-H2AX )
+T1	Phosphorylation 981 996	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T1 Theme:T3

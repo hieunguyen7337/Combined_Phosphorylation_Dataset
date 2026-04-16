@@ -1,0 +1,35 @@
+T8	Phosphorylation 1073 1099	the tryptic phosphopeptide
+T9	Phosphorylation 1146 1160	phosphorylated
+T6	Phosphorylation 935 962	S6 phosphorylation activity
+T7	Protein 935 937	S6
+T4	Protein 606 622	protein kinase C
+T5	Protein 625 655	cAMP -dependent protein kinase
+T2	Protein 231 241	protein S6
+T3	Phosphorylation 875 895	to autophosphorylate
+T1	Phosphorylation 216 230	phosphorylates
+T14	Anaphora 200 209	f a kinas
+T15	Protein 229 240	s protein S
+T16	Phosphorylation 878 895	autophosphorylate
+T17	Phosphorylation 938 953	phosphorylation
+T10	Protein 1143 1145	S6
+T11	Phosphorylation 1356 1371	phosphorylation
+T12	Phosphorylation 214 229	t phosphorylate
+T13	Protein 46 74	mitogen -activated S6 kinase
+T20	Anaphora 843 853	The kinase
+T18	Phosphorylation 1085 1099	phosphopeptide
+T19	Anaphora 567 577	The kinase
+E11	Phosphorylation:T11 Theme:T13
+E10	Phosphorylation:T9 Theme:T10 Cause:T10
+E12	Phosphorylation:T16 Theme:T20 Cause:T19
+E9	Phosphorylation:T17 Theme:T7 Cause:T13
+E8	Phosphorylation:T16 Theme:T13 Cause:T13
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T6 Theme:T5 Cause:T7
+E7	Phosphorylation:T12 Theme:T15 Cause:T14
+E6	Phosphorylation:T11 Theme:T2
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T5
+E2	Phosphorylation:T3 Theme:T4
+R2	Coreference Arg1:T19 Arg2:T13
+R1	Coreference Arg1:T14 Arg2:T13
+R3	Coreference Arg1:T20 Arg2:T13

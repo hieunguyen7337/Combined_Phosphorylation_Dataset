@@ -1,0 +1,46 @@
+T14	Protein 1320 1326	4E-BP1
+T15	Protein 1333 1344	p70 ( S6K )
+T16	Phosphorylation 1472 1493	GSK-3 phosphorylation
+T17	Protein 1472 1477	GSK-3
+T10	Protein 1238 1244	4E-BP1
+T11	Protein 1249 1260	p70 ( S6K )
+T12	Phosphorylation 1291 1360	the insulin-stimulated Akt , 4E-BP1 , and p70 ( S6K ) phosphorylation
+T13	Protein 1314 1317	Akt
+T18	Phosphorylation 848 863	phosphorylation
+T19	Protein 801 847	Akt or GSK-3 [glycogen synthase (GS) kinase 3]
+T8	Protein 1084 1087	Akt
+T9	Phosphorylation 1238 1276	4E-BP1 and p70 ( S6K ) phosphorylation
+T6	Phosphorylation 1061 1080	the phosphorylation
+T7	Protein 1044 1051	Insulin
+T4	Protein 975 977	so
+T5	Protein 906 966	eukaryotic initiation factor 4E binding protein 1 ( 4E-BP1 )
+T2	Protein 808 847	GSK-3 [glycogen synthase (GS) kinase 3]
+T3	Phosphorylation 883 902	the phosphorylation
+T1	Phosphorylation 790 863	myocardial Akt or GSK-3 [glycogen synthase (GS) kinase 3] phosphorylation
+T21	Protein 971 1012	ribosomal protein S6 kinase ( p70 ( S6K )
+T20	Phosphorylation 887 902	phosphorylation
+T23	Protein 1084 1143	Akt ( P &lt ; 0.04 ) , 4E-BP1 ( P &lt ; 0.002 ) , and p70 (
+T22	Phosphorylation 1065 1080	phosphorylation
+T25	Phosphorylation 1345 1360	phosphorylation
+T24	Phosphorylation 1261 1276	phosphorylation
+T26	Phosphorylation 1478 1493	phosphorylation
+E19	Phosphorylation:T25 Theme:T15
+E18	Phosphorylation:T25 Theme:T14
+E20	Phosphorylation:T26 Theme:T17
+E11	Phosphorylation:T18 Theme:T19
+E10	Phosphorylation:T16 Theme:T17
+E13	Phosphorylation:T20 Theme:T21
+E12	Phosphorylation:T20 Theme:T5
+E15	Phosphorylation:T24 Theme:T10
+E14	Phosphorylation:T22 Theme:T23
+E17	Phosphorylation:T25 Theme:T13
+E16	Phosphorylation:T24 Theme:T11
+E9	Phosphorylation:T12 Theme:T15
+E8	Phosphorylation:T12 Theme:T14
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T6 Theme:T8 Cause:T7
+E7	Phosphorylation:T12 Theme:T13
+E6	Phosphorylation:T9 Theme:T11
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T5
+E2	Phosphorylation:T3 Theme:T4

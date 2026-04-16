@@ -1,0 +1,41 @@
+T14	Phosphorylation 873 887	phosphorylated
+T15	Site 859 869	serine 931
+T16	Phosphorylation 984 999	phosphopeptides
+T17	Protein 1030 1032	Fu
+T10	Phosphorylation 806 821	phosphorylation
+T11	Protein 794 796	Fu
+T12	Protein 830 834	Cos2
+T13	Site 838 848	serine 572
+T18	Protein 1003 1007	Cos2
+T19	Site 921 931	serine 572
+T30	Phosphorylation 1638 1653	phosphorylation
+T8	Phosphorylation 746 761	phosphorylation
+T9	Protein 741 745	Cos2
+T6	Protein 555 581	serine/threonine kinase Fu
+T7	Protein 601 626	kinesin-like protein Cos2
+T4	Protein 48 79	kinesin-related protein Costal2
+T5	Phosphorylation 582 596	phosphorylates
+T2	Protein 95 128	the serine/threonine kinase fused
+T3	Protein 5 13	Hedgehog
+T1	Phosphorylation 25 40	phosphorylation
+T29	Site 1464 1483	serines 572 and 931
+T28	Protein 1382 1386	Cos2
+T21	Protein 1091 1095	Cos2
+T20	Phosphorylation 1064 1079	phosphorylation
+T23	Protein 1208 1212	Cos2
+T22	Phosphorylation 1181 1196	phosphorylation
+T25	Protein 1292 1296	Cos2
+T24	Phosphorylation 1265 1280	phosphorylation
+T27	Protein 1348 1350	Fu
+T26	Phosphorylation 1445 1460	phosphorylation
+E11	Phosphorylation:T26 Theme:T28 Cause:T27 Site:T29
+E10	Phosphorylation:T24 Theme:T25
+E9	Phosphorylation:T22 Theme:T23
+E8	Phosphorylation:T20 Theme:T21
+E5	Phosphorylation:T10 Theme:T12 Cause:T11 Site:T13
+E4	Phosphorylation:T8 Theme:T9
+E7	Phosphorylation:T16 Theme:T18 Cause:T17 Site:T19
+E6	Phosphorylation:T14 Theme:T12 Cause:T11 Site:T15
+E1	Phosphorylation:T1 Theme:T4 Cause:T2
+E3	Phosphorylation:T5 Theme:T7 Cause:T6
+E2	Phosphorylation:T1 Theme:T4 Cause:T3

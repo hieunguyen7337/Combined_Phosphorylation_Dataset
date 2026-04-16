@@ -1,0 +1,11 @@
+T6	Site 1567 1587	tyrosine residue 198
+T7	Protein 1713 1719	Reelin
+T4	Phosphorylation 1681 1696	PHOSphorylation
+T5	Protein 1675 1680	Dab-1
+T2	Protein 1591 1596	Dab-1
+T3	Site 1567 1575	tyrosine
+T1	Phosphorylation 1538 1553	PHOSphorylation
+E4	Phosphorylation:T4 Theme:T5 Cause:T7
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T1 Theme:T2 Site:T6
+E2	Phosphorylation:T4 Theme:T5

@@ -1,0 +1,6 @@
+T4	Protein 12592 12595	Lyn
+T2	Protein 10863 10866	Lyn
+T3	Phosphorylation 12625 12640	PHOSphorylation
+T1	Phosphorylation 10867 10882	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

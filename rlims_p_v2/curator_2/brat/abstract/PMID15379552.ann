@@ -1,0 +1,44 @@
+T14	Protein 774 824	extracellular signal-regulated kinases 1/2 ( ERK )
+T15	Protein 881 885	Gab1
+T16	Site 834 850	serine/threonine
+T17	Phosphorylation 974 989	phosphorylation
+T10	Site 444 460	serine/threonine
+T11	Phosphorylation 529 544	phosphorylation
+T12	Site 508 528	serine and threonine
+T13	Phosphorylation 851 866	phosphorylation
+T34	Phosphorylation 698 713	phosphorylation
+T35	Protein 642 646	Gab1
+T18	Protein 958 964	ERK1/2
+T33	Site 1601 1612	These sites
+T30	Phosphorylation 1809 1824	phosphorylation
+T31	Site 1798 1830	identified phosphorylation sites
+T32	Site 1480 1543	Serine residues S454 , S581 , S597 , and threonine residue T476
+T19	Protein 1001 1005	Gab1
+T8	Site 364 372	tyrosine
+T9	Phosphorylation 426 440	phosphorylated
+T6	Protein 122 166	a family of multifunctional docking proteins
+T7	Anaphora 391 413	these docking proteins
+T4	Phosphorylation 373 388	phosphorylation
+T5	Protein 351 354	RTK
+T2	Protein 29 32	ERK
+T3	Protein 66 70	Gab1
+T1	Phosphorylation 41 56	phosphorylation
+T29	Site 1430 1446	consensus motifs
+T28	Protein 1451 1461	MAP kinase
+T21	Phosphorylation 1089 1103	phosphorylated
+T20	Phosphorylation 1016 1030	phosphopeptide
+T23	Phosphorylation 1331 1344	phosphorylate
+T22	Phosphorylation 1174 1189	phosphopeptides
+T25	Protein 1345 1349	Gab1
+T24	Protein 1324 1330	ERK1/2
+T27	Phosphorylation 1462 1477	phosphorylation
+T26	Site 1357 1426	serine/threonine residues ( T312 , S381 , S454 , T476 , S581 , S597 )
+E8	Phosphorylation:T34 Theme:T35
+E5	Phosphorylation:T17 Theme:T19 Cause:T18
+E4	Phosphorylation:T13 Theme:T15 Cause:T14 Site:T16
+E7	Phosphorylation:T27 Theme:T25 Cause:T28 Site:T29
+E6	Phosphorylation:T23 Theme:T25 Cause:T24 Site:T26
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T9 Theme:T7 Site:T10
+E2	Phosphorylation:T4 Theme:T7 Cause:T5 Site:T8
+R1	Coreference Arg1:T7 Arg2:T6

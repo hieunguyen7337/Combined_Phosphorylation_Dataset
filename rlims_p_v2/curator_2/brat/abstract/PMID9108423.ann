@@ -1,0 +1,78 @@
+T12	Phosphorylation 313 328	phosphorylation
+T13	Phosphorylation 397 412	phosphorylation
+T14	Protein 381 396	casein kinase I
+T15	Phosphorylation 454 469	phosphorylation
+T16	Protein 478 493	casein kinase I
+T17	Phosphorylation 553 566	phosphorylate
+T10	Phosphorylation 252 267	phosphorylation
+T11	Protein 306 312	p72syk
+T38	Site 1226 1232	Thr 42
+T39	Site 810 861	two consensus casein kinase I phosphorylation sites
+T36	Protein 1373 1388	casein kinase I
+T37	Site 1365 1369	CDB3
+T34	Site 1208 1215	Ser 303
+T35	Phosphorylation 1346 1361	phosphorylation
+T32	Phosphorylation 1124 1138	phosphorylated
+T33	Phosphorylation 1159 1174	phosphorylation
+T30	Site 999 1055	a heptapeptide containing the major phosphorylation site
+T31	Site 1142 1148	Thr 42
+T18	Protein 524 539	casein kinase I
+T19	Protein 593 599	band 3
+T8	Protein 100 124	Human erythrocyte band 3
+T9	Site 221 229	tyrosine
+T6	Protein 186 201	casein kinase I
+T7	Protein 206 236	p72syk protein tyrosine kinase
+T4	Phosphorylation 136 145	substrate
+T5	Protein 153 183	red blood cell protein kinases
+T2	Protein 23 48	the major casein kinase I
+T3	Protein 74 92	erythrocyte band 3
+T1	Phosphorylation 49 64	phosphorylation
+T29	Phosphorylation 1035 1050	phosphorylation
+T28	Site 780 793	this sequence
+T21	Site 624 636	Thr residues
+T20	Site 571 608	cytoplasmic domain of band 3 ( CDB3 )
+T23	Site 708 745	a peptide encompassing residues 24-91
+T22	Phosphorylation 684 699	phosphorylation
+T25	Protein 824 839	casein kinase I
+T24	Phosphorylation 840 855	phosphorylation
+T27	Protein 708 745	a peptide encompassing residues 24-91
+T26	Protein 780 793	this sequence
+T40	Anaphora 780 793	this sequence
+E19	Phosphorylation:T24 Theme:T19 Cause:T25 Site:T28
+E36	Phosphorylation:T35 Theme:T8 Cause:T36 Site:T38
+E35	Phosphorylation:T35 Theme:T8 Cause:T36 Site:T37
+E34	Phosphorylation:T35 Theme:T19 Cause:T36 Site:T38
+E33	Phosphorylation:T35 Theme:T19 Cause:T36 Site:T37
+E32	Phosphorylation:T33 Theme:T8 Site:T34
+E31	Phosphorylation:T33 Theme:T19 Site:T34
+E30	Phosphorylation:T32 Theme:T8 Site:T30
+E11	Phosphorylation:T17 Theme:T19 Cause:T18 Site:T20
+E10	Phosphorylation:T17 Theme:T8 Cause:T18 Site:T21
+E13	Phosphorylation:T22 Theme:T8 Site:T23
+E12	Phosphorylation:T17 Theme:T19 Cause:T18 Site:T21
+E15	Phosphorylation:T24 Theme:T26 Cause:T25 Site:T28
+E14	Phosphorylation:T22 Theme:T19 Site:T23
+E17	Phosphorylation:T24 Theme:T27 Cause:T25 Site:T28
+E16	Phosphorylation:T24 Theme:T26 Cause:T25 Site:T23
+E18	Phosphorylation:T24 Theme:T27 Cause:T25 Site:T23
+E9	Phosphorylation:T17 Theme:T8 Cause:T18 Site:T20
+E8	Phosphorylation:T15 Theme:T8 Cause:T16
+E5	Phosphorylation:T10 Theme:T8 Cause:T11
+E4	Phosphorylation:T4 Theme:T8 Cause:T7 Site:T9
+E7	Phosphorylation:T13 Theme:T8 Cause:T14
+E6	Phosphorylation:T12 Theme:T8 Cause:T11
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T4 Theme:T8 Cause:T6 Site:T9
+E2	Phosphorylation:T4 Theme:T8 Cause:T5 Site:T9
+E24	Phosphorylation:T29 Theme:T19 Site:T31
+E25	Phosphorylation:T29 Theme:T8 Site:T30
+E26	Phosphorylation:T29 Theme:T8 Site:T31
+E27	Phosphorylation:T32 Theme:T19 Site:T31
+E20	Phosphorylation:T24 Theme:T19 Cause:T25 Site:T23
+E21	Phosphorylation:T24 Theme:T8 Cause:T25 Site:T28
+E22	Phosphorylation:T24 Theme:T8 Cause:T25 Site:T23
+E23	Phosphorylation:T29 Theme:T19 Site:T30
+E28	Phosphorylation:T32 Theme:T19 Site:T30
+E29	Phosphorylation:T32 Theme:T8 Site:T31
+E37	Phosphorylation:T24 Theme:T8 Cause:T25 Site:T39
+R1	Coreference Arg1:T40 Arg2:T27

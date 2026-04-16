@@ -1,0 +1,5 @@
+T4	Phosphorylation 1581 1596	PHOSphorylation
+T2	Protein 1228 1231	ERK
+T3	Phosphorylation 1498 1515	dephosphorylaTION
+T1	Phosphorylation 1232 1247	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

@@ -1,0 +1,13 @@
+T8	Phosphorylation 1610 1625	-PHOSphorylated
+T9	Protein 1626 1629	MLC
+T6	Protein 1507 1510	MLC
+T7	Site 1475 1480	Ser19
+T4	Site 1352 1357	Ser19
+T5	Phosphorylation 1481 1496	PHOSphorylation
+T2	Protein 1391 1395	ROCK
+T3	Protein 1361 1387	myosin light chain ( MLC )
+T1	Phosphorylation 1333 1348	PHOSphorylation
+T10	Site 1604 1609	Ser19
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T8 Theme:T9 Site:T10
+E2	Phosphorylation:T5 Theme:T6 Site:T7

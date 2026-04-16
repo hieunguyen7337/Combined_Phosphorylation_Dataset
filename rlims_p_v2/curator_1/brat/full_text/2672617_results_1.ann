@@ -1,0 +1,4 @@
+T2	Protein 5069 5072	Abl
+T3	Protein 5106 5111	CrkII
+T1	Phosphorylation 5073 5087	PHOSphorylates
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

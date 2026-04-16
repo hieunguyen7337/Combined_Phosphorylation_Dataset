@@ -1,0 +1,20 @@
+T8	Phosphorylation 1433 1448	phosphorylation
+T9	Protein 1419 1423	PDGF
+T6	Phosphorylation 1343 1358	phosphorylation
+T7	Protein 1370 1375	Tiam1
+T4	Protein 616 621	Tiam1
+T5	Phosphorylation 1290 1305	phosphorylation
+T2	Protein 643 667	protein kinase C ( PKC )
+T3	Protein 672 712	calcium/calmodulin kinase II ( CaMK II )
+T1	Phosphorylation 625 639	phosphorylated
+T14	Protein 1848 1853	Tiam1
+T10	Protein 1540 1547	CaMK II
+T11	Protein 1472 1477	Tiam1
+T12	Phosphorylation 1877 1891	phosphorylated
+T13	Protein 1940 1947	CaMK II
+E5	Phosphorylation:T8 Theme:T11 Cause:T10
+E4	Phosphorylation:T8 Theme:T11 Cause:T9
+E6	Phosphorylation:T12 Theme:T14 Cause:T13
+E1	Phosphorylation:T1 Theme:T4 Cause:T2
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T1 Theme:T4 Cause:T3

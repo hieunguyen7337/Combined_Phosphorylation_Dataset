@@ -1,0 +1,3 @@
+T2	Protein 4272 4372	EBP50 ( ERM -binding PHOSphoprotein 50 ; also known as NHERF1 [Na+/H+ exchanger regulatory factor 1]
+T1	Phosphorylation 4293 4307	PHOSphoprotein
+E1	Phosphorylation:T1 Theme:T2

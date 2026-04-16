@@ -1,0 +1,4 @@
+T2	Protein 275 278	ERK
+T3	Phosphorylation 435 450	PHOSphorylation
+T1	Phosphorylation 279 294	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2

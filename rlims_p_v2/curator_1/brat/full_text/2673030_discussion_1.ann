@@ -1,0 +1,6 @@
+T4	Phosphorylation 3472 3481	SUBstrate
+T5	Protein 1575 1580	CheYp
+T2	Phosphorylation 2984 2993	SUBstrate
+T3	Phosphorylation 3325 3334	SUBstrate
+T1	Phosphorylation 1558 1574	dePHOSphorylates
+E1	Phosphorylation:T1 Theme:T5

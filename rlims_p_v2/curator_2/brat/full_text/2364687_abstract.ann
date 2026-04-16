@@ -1,0 +1,3 @@
+T2	Protein 1117 1121	ULK1
+T1	Phosphorylation 1098 1113	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

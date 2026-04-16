@@ -1,0 +1,42 @@
+T14	Protein 1328 1358	cell -specific phosphoproteins
+T15	Phosphorylation 1668 1691	mitotic phosphoproteins
+T16	Protein 1676 1691	phosphoproteins
+T17	Phosphorylation 1774 1815	the two prominent mitotic phosphoproteins
+T10	Phosphorylation 963 978	phosphoproteins
+T11	Phosphorylation 1013 1032	the phosphoproteins
+T12	Protein 1017 1032	phosphoproteins
+T13	Phosphorylation 1316 1358	the mitotic cell -specific phosphoproteins
+T18	Phosphorylation 5 24	Anti-phosphopeptide
+T19	Protein 116 130	lamins A and C
+T8	Protein 424 439	phosphoproteins
+T9	Phosphorylation 483 504	these phosphoproteins
+T6	Site 337 345	Thr(402)
+T7	Phosphorylation 419 439	many phosphoproteins
+T4	Phosphorylation 297 345	the regulatory autophosphorylation site Thr(402)
+T5	Protein 349 353	PAK2
+T2	Phosphorylation 72 95	mitotic phosphoproteins
+T3	Protein 80 95	phosphoproteins
+T1	Phosphorylation 5 33	Anti-phosphopeptide antibody
+T21	Protein 1291 1305	lamins A and C
+T20	Phosphorylation 1343 1358	phosphoproteins
+T23	Phosphorylation 1800 1815	phosphoproteins
+T22	Protein 1755 1769	lamins A and C
+T25	Phosphorylation 489 504	phosphoproteins
+T24	Phosphorylation 312 331	autophosphorylation
+E11	Phosphorylation:T3 Theme:T19
+E10	Phosphorylation:T17 Theme:T16
+E13	Phosphorylation:T16 Theme:T22
+E12	Phosphorylation:T20 Theme:T21
+E15	Phosphorylation:T8 Theme:T8
+E14	Phosphorylation:T24 Theme:T5 Cause:T5 Site:T6
+E17	Phosphorylation:T12 Theme:T12
+E16	Phosphorylation:T25 Theme:T8
+E9	Phosphorylation:T15 Theme:T16
+E8	Phosphorylation:T13 Theme:T14
+E5	Phosphorylation:T9 Theme:T8
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T11 Theme:T12
+E6	Phosphorylation:T10 Theme:T10
+E1	Phosphorylation:T1 Theme:T1
+E3	Phosphorylation:T4 Theme:T5 Cause:T5 Site:T6
+E2	Phosphorylation:T2 Theme:T3

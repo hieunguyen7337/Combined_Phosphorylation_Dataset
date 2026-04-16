@@ -1,0 +1,23 @@
+T8	Protein 1887 1896	caspase-1
+T9	Site 1900 1906	Ser376
+T6	Phosphorylation 1854 1883	PAK1 -induced phosphorylation
+T7	Protein 1854 1858	PAK1
+T4	Protein 1562 1566	PAK1
+T5	Protein 1670 1679	caspase-1
+T2	Protein 909 916	IkappaB
+T3	Phosphorylation 1641 1657	to phosphorylate
+T1	Phosphorylation 909 932	IkappaB phosphorylation
+T14	Phosphorylation 1868 1883	phosphorylation
+T15	Phosphorylation 2060 2075	phosphorylation
+T10	Phosphorylation 2050 2075	caspase-1 phosphorylation
+T11	Protein 2050 2059	caspase-1
+T12	Phosphorylation 917 932	phosphorylation
+T13	Phosphorylation 1644 1657	phosphorylate
+E8	Phosphorylation:T15 Theme:T11
+E5	Phosphorylation:T12 Theme:T2
+E4	Phosphorylation:T10 Theme:T11
+E7	Phosphorylation:T14 Theme:T8 Cause:T7 Site:T9
+E6	Phosphorylation:T13 Theme:T5 Cause:T4
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T8 Cause:T7 Site:T9
+E2	Phosphorylation:T3 Theme:T5 Cause:T4

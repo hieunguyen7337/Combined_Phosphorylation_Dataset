@@ -1,0 +1,6 @@
+T4	Protein 619 623	Net1
+T2	Protein 595 623	Exchange Factor ( GEF ) Net1
+T3	Site 652 678	a critical inhibitory site
+T1	Phosphorylation 632 648	dePHOSphorylated
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E2	Phosphorylation:T1 Theme:T4 Site:T3

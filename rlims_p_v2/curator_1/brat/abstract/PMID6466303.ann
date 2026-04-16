@@ -1,0 +1,25 @@
+T8	Protein 292 301	rhodopsin
+T9	Phosphorylation 397 414	Dephosphorylation
+T6	Protein 134 139	opsin
+T7	Phosphorylation 373 388	phosphorylation
+T4	Phosphorylation 109 124	phosphorylation
+T5	Protein 226 242	rhodopsin kinase
+T2	Protein 30 39	rhodopsin
+T3	Phosphorylation 64 78	phosphorylated
+T1	Phosphorylation 5 20	Phosphorylation
+T14	Phosphorylation 992 1007	phosphorylation
+T15	Site 1017 1063	serine residues at positions 334 , 338 and 343
+T16	Site 1090 1135	threonine residues at positions 335 and 336 .
+T10	Phosphorylation 536 553	dephosphorylation
+T11	Phosphorylation 666 680	phosphorylated
+T12	Site 908 914	serine
+T13	Phosphorylation 901 914	phosphoserine
+E9	Phosphorylation:T14 Theme:T8 Site:T16
+E8	Phosphorylation:T14 Theme:T8 Site:T15
+E5	Phosphorylation:T9 Theme:T8
+E4	Phosphorylation:T7 Theme:T8
+E7	Phosphorylation:T11 Theme:T8 Site:T12
+E6	Phosphorylation:T10 Theme:T8
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T6 Cause:T5
+E2	Phosphorylation:T3 Theme:T2

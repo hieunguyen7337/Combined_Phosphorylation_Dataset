@@ -1,0 +1,18 @@
+T8	Protein 731 736	eIF4E
+T9	Phosphorylation 1121 1135	phosphorylated
+T6	Site 516 524	Ser(209)
+T7	Phosphorylation 712 727	phosphorylation
+T4	Protein 451 473	Mitogens and cytokines
+T5	Protein 507 512	eIF4E
+T2	Protein 24 55	eukaryotic initiation factor 4E
+T3	Phosphorylation 488 503	phosphorylation
+T1	Phosphorylation 5 20	Phosphorylation
+T10	Protein 1136 1141	eIF4E
+T11	Phosphorylation 1206 1220	phosphorylated
+T12	Anaphora 1221 1225	form
+E5	Phosphorylation:T11 Theme:T12
+E4	Phosphorylation:T9 Theme:T10
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T7 Theme:T8
+E2	Phosphorylation:T3 Theme:T5 Cause:T4 Site:T6
+R1	Coreference Arg1:T12 Arg2:T10

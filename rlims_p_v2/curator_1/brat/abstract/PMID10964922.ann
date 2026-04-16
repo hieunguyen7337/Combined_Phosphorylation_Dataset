@@ -1,0 +1,33 @@
+T14	Site 1184 1189	Y412F
+T15	Phosphorylation 1536 1563	autophosphorylation-induced
+T16	Protein 1588 1593	c-Abl
+T17	Phosphorylation 1674 1693	autophosphorylation
+T10	Phosphorylation 1033 1052	autophosphorylation
+T11	Protein 1075 1078	Abl
+T12	Phosphorylation 1253 1272	autophosphorylation
+T13	Protein 1198 1203	c-Abl
+T18	Protein 1615 1620	c-Abl
+T19	Site 1621 1632	Y245F/Y412F
+T8	Phosphorylation 853 872	Autophosphorylation
+T9	Protein 910 915	c-Abl
+T6	Phosphorylation 409 425	Unphosphorylated
+T7	Protein 426 431	c-Abl
+T4	Phosphorylation 257 273	unphosphorylated
+T5	Protein 281 294	type IV c-Abl
+T2	Protein 5 10	c-Abl
+T3	Site 169 178	tyrosines
+T1	Phosphorylation 122 141	autophosphorylation
+T21	Protein 1732 1737	c-Abl
+T20	Phosphorylation 1875 1890	phosphorylation
+T23	Site 1906 1913	Tyr-245
+T22	Site 1894 1901	Tyr-412
+E10	Phosphorylation:T20 Theme:T21 Site:T23
+E9	Phosphorylation:T20 Theme:T21 Site:T22
+E8	Phosphorylation:T17 Theme:T18 Cause:T18 Site:T19
+E5	Phosphorylation:T10 Theme:T11 Cause:T11
+E4	Phosphorylation:T8 Theme:T9 Cause:T9
+E7	Phosphorylation:T15 Theme:T16 Cause:T16
+E6	Phosphorylation:T12 Theme:T13 Cause:T13 Site:T14
+E1	Phosphorylation:T1 Theme:T2 Cause:T2 Site:T3
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T4 Theme:T5

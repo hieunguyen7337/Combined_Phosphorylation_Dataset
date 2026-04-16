@@ -1,0 +1,3 @@
+T2	Protein 1728 1731	pRb
+T1	Phosphorylation 1732 1751	hypoPHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

@@ -1,0 +1,6 @@
+T4	Protein 965 972	the JNK
+T2	Protein 451 455	JNK1
+T3	Phosphorylation 946 961	PHOSphorylation
+T1	Phosphorylation 436 455	PHOSphorylated-JNK1
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

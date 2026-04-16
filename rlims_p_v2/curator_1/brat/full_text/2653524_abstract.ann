@@ -1,0 +1,7 @@
+T4	Protein 903 906	JNK
+T2	Protein 892 906	ERK1/2 and JNK
+T3	Protein 892 898	ERK1/2
+T1	Phosphorylation 877 891	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T1 Theme:T4
+E2	Phosphorylation:T1 Theme:T3

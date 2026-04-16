@@ -1,0 +1,17 @@
+T8	Phosphorylation 6886 6902	unphosphorylaTED
+T9	Phosphorylation 7030 7044	PHOSphorylated
+T6	Phosphorylation 6328 6343	phosphorylaTION
+T7	Phosphorylation 6363 6380	dePHOSphorylation
+T4	Phosphorylation 4069 4084	PHOSphorylation
+T5	Phosphorylation 4318 4334	unPHOSphorylated
+T2	Phosphorylation 3652 3661	SUBstrate
+T3	Phosphorylation 3928 3945	dePHOSphorylation
+T1	Phosphorylation 2933 2942	SUBstrate
+T10	Protein 7022 7026	CheA
+T11	Protein 3954 3959	CheYp
+T12	Protein 4296 4300	CheA
+T13	Protein 6903 6907	CheA
+E4	Phosphorylation:T8 Theme:T13
+E1	Phosphorylation:T9 Theme:T10
+E3	Phosphorylation:T5 Theme:T12
+E2	Phosphorylation:T3 Theme:T11

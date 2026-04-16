@@ -1,0 +1,3 @@
+T2	Protein 666 669	Met
+T1	Phosphorylation 647 662	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2

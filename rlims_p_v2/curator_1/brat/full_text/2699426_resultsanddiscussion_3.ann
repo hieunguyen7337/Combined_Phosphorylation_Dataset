@@ -1,0 +1,9 @@
+T6	Protein 1986 1989	ERK
+T4	Protein 1907 1910	ERK
+T5	Phosphorylation 1990 2005	PHOSphorylation
+T2	Protein 970 973	ERK
+T3	Phosphorylation 1888 1903	PHOSphorylation
+T1	Phosphorylation 951 966	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

@@ -1,0 +1,20 @@
+T8	Phosphorylation 865 880	phosphorylation
+T9	Protein 845 852	PDGF-BB
+T6	Protein 720 737	alphaB-crystallin
+T7	Site 741 747	Ser-59
+T4	Protein 603 620	alphaB-crystallin
+T5	Phosphorylation 701 716	Phosphorylation
+T2	Protein 5 22	alphaB-crystallin
+T3	Phosphorylation 624 638	phosphorylated
+T1	Phosphorylation 26 40	phosphorylated
+T14	Protein 1102 1119	alphaB-crystallin
+T10	Protein 884 901	alphaB-crystallin
+T11	Phosphorylation 1083 1098	phosphorylation
+T12	Protein 1067 1074	PDGF-BB
+T13	Protein 1124 1138	p38 MAP kinase
+E5	Phosphorylation:T11 Theme:T14 Cause:T12
+E4	Phosphorylation:T8 Theme:T10 Cause:T9
+E6	Phosphorylation:T11 Theme:T14 Cause:T13
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6 Site:T7
+E2	Phosphorylation:T3 Theme:T4

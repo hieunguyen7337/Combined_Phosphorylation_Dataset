@@ -1,0 +1,70 @@
+T38	Phosphorylation 2916 2931	PHOSphorylation
+T39	Protein 2935 2944	GSK-3beta
+T14	Site 789 810	two conserved serines
+T15	Phosphorylation 904 919	PHOSphorylation
+T16	Protein 893 896	The
+T17	Site 897 903	Ser104
+T10	Site 803 810	serines
+T11	Site 813 819	Ser104
+T12	Site 824 830	Ser451
+T13	Phosphorylation 748 773	PHOSphorylation-deficient
+T36	Protein 2744 2753	GSK-3beta
+T37	Site 2757 2761	Ser9
+T34	Phosphorylation 2730 2743	PHOSphorylate
+T35	Protein 2714 2717	Akt
+T32	Phosphorylation 2573 2588	phosphorylaTION
+T19	Protein 1170 1175	RUNX2
+T30	Site 1826 1852	negative regulatory region
+T31	Phosphorylation 2108 2117	SUBstrate
+T18	Phosphorylation 1074 1089	PHOSphorylation
+T33	Phosphorylation 2647 2662	PHOSphorylation
+T8	Protein 707 710	its
+T9	Protein 838 849	human RUNX2
+T6	Phosphorylation 711 726	phosphorylaTION
+T7	Protein 684 689	Runx2
+T4	Site 622 626	S373
+T5	Site 627 631	S377
+T2	Protein 651 667	the Runx protein
+T3	Site 617 621	S369
+T1	Phosphorylation 632 647	PHOSphorylation
+T29	Protein 1856 1861	Runx2
+T28	Phosphorylation 1803 1818	PHOSphorylation
+T21	Site 1120 1166	the C-terminal transcription inhibition domain
+T20	Site 1093 1099	Ser451
+T23	Protein 1258 1261	PKA
+T22	Phosphorylation 1239 1254	PHOSphorylation
+T25	Site 1226 1230	T341
+T24	Protein 1295 1306	mouse Runx2
+T27	Phosphorylation 1479 1494	PHOSphorylation
+T26	Site 1269 1291	transactivation domain
+T40	Protein 2910 2915	Runx2
+E19	Phosphorylation:T13 Theme:T9 Site:T14
+E18	Phosphorylation:T13 Theme:T8 Site:T12
+E30	Phosphorylation:T38 Theme:T40 Cause:T39
+E11	Phosphorylation:T6 Theme:T9 Site:T11
+E10	Phosphorylation:T6 Theme:T9 Site:T10
+E13	Phosphorylation:T13 Theme:T7 Site:T14
+E12	Phosphorylation:T6 Theme:T9 Site:T12
+E15	Phosphorylation:T13 Theme:T7 Site:T12
+E14	Phosphorylation:T13 Theme:T7 Site:T11
+E17	Phosphorylation:T13 Theme:T8 Site:T11
+E16	Phosphorylation:T13 Theme:T8 Site:T14
+E9	Phosphorylation:T6 Theme:T8 Site:T12
+E8	Phosphorylation:T6 Theme:T8 Site:T11
+E5	Phosphorylation:T6 Theme:T7 Site:T11
+E4	Phosphorylation:T6 Theme:T7 Site:T10
+E7	Phosphorylation:T6 Theme:T8 Site:T10
+E6	Phosphorylation:T6 Theme:T7 Site:T12
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T1 Theme:T2 Site:T5
+E2	Phosphorylation:T1 Theme:T2 Site:T4
+E24	Phosphorylation:T18 Theme:T19 Site:T20
+E25	Phosphorylation:T18 Theme:T19 Site:T21
+E26	Phosphorylation:T22 Theme:T24 Cause:T23 Site:T25
+E27	Phosphorylation:T22 Theme:T24 Cause:T23 Site:T26
+E20	Phosphorylation:T13 Theme:T9 Site:T11
+E21	Phosphorylation:T13 Theme:T9 Site:T12
+E22	Phosphorylation:T15 Theme:T16 Site:T17
+E23	Phosphorylation:T15 Theme:T9 Site:T17
+E28	Phosphorylation:T28 Theme:T29 Site:T30
+E29	Phosphorylation:T34 Theme:T36 Cause:T35 Site:T37

@@ -1,0 +1,11 @@
+T8	Site 1531 1536	Ser46
+T6	Phosphorylation 1537 1552	-PHOSphorylated
+T7	Protein 1553 1556	p53
+T4	Protein 1522 1526	WOX1
+T5	Site 1500 1505	Tyr33
+T2	Protein 1299 1344	ERK ( extracellular signal-activated kinase )
+T3	Phosphorylation 1506 1521	-phosphorylaTED
+T1	Phosphorylation 1284 1298	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7 Site:T8
+E2	Phosphorylation:T3 Theme:T4 Site:T5

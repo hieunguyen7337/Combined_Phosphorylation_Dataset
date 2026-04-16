@@ -1,0 +1,37 @@
+T14	Protein 415 419	MRP2
+T15	Site 326 370	Adjacent to the C-terminal PDZ binding motif
+T16	Phosphorylation 538 563	phosphorylation-mimicking
+T17	Protein 525 529	MRP2
+T10	Protein 1177 1185	MRP2 PDZ
+T11	Phosphorylation 18 33	phosphorylation
+T12	Site 5 17	C - terminal
+T13	Phosphorylation 447 462	phosphorylation
+T18	Anaphora 534 537	its
+T19	Phosphorylation 945 970	phosphorylation-mimicking
+T8	Protein 1015 1019	MRP2
+T9	Phosphorylation 1154 1169	phosphorylation
+T6	Site 469 478	Ser(1542)
+T7	Phosphorylation 987 1027	a phosphorylated C-terminal MRP2 peptide
+T4	Phosphorylation 431 479	a potential PKC phosphorylation site (Ser(1542))
+T5	Protein 443 446	PKC
+T2	Protein 73 85	PDZ proteins
+T3	Protein 37 41	MRP2
+T1	Phosphorylation 9 33	terminal phosphorylation
+T21	Phosphorylation 989 1003	phosphorylated
+T20	Protein 971 982	MRP2 mutant
+T23	Site 1004 1014	C-terminal
+T22	Protein 1015 1027	MRP2 peptide
+T25	Site 1182 1199	PDZ binding motif
+T24	Protein 1177 1181	MRP2
+E11	Phosphorylation:T9 Theme:T24 Site:T25
+E10	Phosphorylation:T21 Theme:T22 Site:T23
+E9	Phosphorylation:T19 Theme:T20
+E8	Phosphorylation:T16 Theme:T18
+E5	Phosphorylation:T11 Theme:T3 Site:T12
+E4	Phosphorylation:T9 Theme:T10
+E7	Phosphorylation:T13 Theme:T14 Cause:T5 Site:T15
+E6	Phosphorylation:T13 Theme:T14 Cause:T5 Site:T6
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T7 Theme:T8
+E2	Phosphorylation:T4 Theme:T5 Cause:T5 Site:T6
+R1	Coreference Arg1:T18 Arg2:T17

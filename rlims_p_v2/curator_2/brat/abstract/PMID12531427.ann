@@ -1,0 +1,47 @@
+T14	Phosphorylation 378 393	phosphorylation
+T15	Protein 320 325	c-Abl
+T16	Protein 342 358	oxidative stress
+T17	Protein 367 377	caveolin-1
+T10	Phosphorylation 212 227	phosphorylation
+T11	Protein 208 211	Abl
+T12	Site 181 192	Tyrosine 14
+T13	Phosphorylation 274 283	substrate
+T34	Site 892 903	tyrosine 14
+T18	Phosphorylation 480 495	phosphotyrosine
+T33	Protein 878 888	caveolin-1
+T30	Site 487 495	tyrosine
+T31	Phosphorylation 859 874	phosphorylation
+T32	Protein 835 838	Abl
+T19	Protein 532 535	Abl
+T8	Protein 104 114	Caveolin-1
+T9	Site 136 147	tyrosine 14
+T6	Phosphorylation 118 132	phosphorylated
+T7	Protein 163 178	cellular stress
+T4	Protein 71 81	caveolin-1
+T5	Site 85 96	tyrosine 14
+T2	Protein 27 43	oxidative stress
+T3	Protein 5 10	c-Abl
+T1	Phosphorylation 52 67	phosphorylation
+T29	Site 755 763	tyrosine
+T28	Protein 721 731	Caveolin-1
+T21	Protein 452 460	caveolin
+T20	Protein 594 610	oxidative stress
+T23	Protein 613 629	Oxidative stress
+T22	Phosphorylation 647 662	phosphorylation
+T25	Site 692 718	the Abl site , tyrosine 14
+T24	Protein 666 676	caveolin-1
+T27	Protein 805 810	c-Abl
+T26	Phosphorylation 748 763	phosphotyrosine
+E11	Phosphorylation:T18 Theme:T21 Cause:T19 Site:T30
+E10	Phosphorylation:T26 Theme:T28 Cause:T27 Site:T29
+E13	Phosphorylation:T31 Theme:T33 Cause:T32 Site:T34
+E12	Phosphorylation:T18 Theme:T21 Cause:T20 Site:T30
+E9	Phosphorylation:T22 Theme:T24 Cause:T23 Site:T25
+E8	Phosphorylation:T18 Theme:T21 Cause:T20
+E5	Phosphorylation:T14 Theme:T17 Cause:T15
+E4	Phosphorylation:T10 Theme:T8 Cause:T11 Site:T12
+E7	Phosphorylation:T18 Theme:T21 Cause:T19
+E6	Phosphorylation:T14 Theme:T17 Cause:T16
+E1	Phosphorylation:T1 Theme:T4 Cause:T2 Site:T5
+E3	Phosphorylation:T6 Theme:T8 Cause:T7 Site:T9
+E2	Phosphorylation:T1 Theme:T4 Cause:T3 Site:T5

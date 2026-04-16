@@ -1,0 +1,82 @@
+T38	Phosphorylation 1511 1526	phosphorylation
+T13	Protein 1189 1238	ecific members of the protein kinase C family , w
+T14	Site 1245 1265	e homologous site is
+T15	Phosphorylation 1310 1327	phorylation is re
+T16	Site 1303 1310	71 phos
+T17	Phosphorylation 1362 1376	Phosphopeptide
+T10	Protein 955 962	0s6k ho
+T11	Site 1139 1146	S371 ph
+T12	Phosphorylation 1281 1302	tophosphorylation , S
+T39	Protein 1389 1401	S371 mutants
+T36	Phosphorylation 1306 1321	phosphorylation
+T37	Site 1301 1305	S371
+T34	Phosphorylation 1279 1298	autophosphorylation
+T35	Protein 1187 1234	specific members of the protein kinase C family
+T32	Protein 953 959	p70s6k
+T19	Phosphorylation 1513 1530	osphorylation , a
+T30	Site 600 622	T367 , S371 , and T447
+T31	Phosphorylation 1144 1159	phosphorylation
+T18	Site 1389 1393	S371
+T33	Site 1139 1143	S371
+T8	Site 621 630	7 , all o
+T9	Phosphorylation 1146 1163	osphorylation ; u
+T6	Site 600 608	T367 , S
+T7	Site 609 617	71 , and
+T4	Protein 101 107	p70s6k
+T5	Phosphorylation 576 591	phosphorylation
+T2	Protein 69 75	p70s6k
+T3	Phosphorylation 136 152	phosphorylations
+T1	Phosphorylation 45 60	phosphorylation
+T29	Site 156 173	two sets of sites
+T28	Site 1772 1779	71 phos
+T21	Phosphorylation 1533 1549	osphorylation si
+T20	Site 1506 1513	T389 ph
+T23	Phosphorylation 1685 1701	osphorylation at
+T22	Site 1532 1554	hosphorylation site pr
+T25	Site 1663 1671	T389 , w
+T24	Site 1704 1715	is site , d
+T27	Phosphorylation 1779 1795	phorylation play
+T26	Protein 1738 1745	0s6k ac
+T43	Site 1663 1667	T389
+T42	Phosphorylation 1683 1698	phosphorylation
+T41	Phosphorylation 1531 1546	phosphorylation
+T40	Site 1506 1510	T389
+T46	Site 1770 1774	S371
+T45	Phosphorylation 1775 1790	phosphorylation
+T44	Anaphora 1702 1711	this site
+E19	Phosphorylation:T23 Theme:T10 Site:T24
+E18	Phosphorylation:T21 Theme:T4 Site:T20
+E35	Phosphorylation:T45 Theme:T32 Site:T46
+E34	Phosphorylation:T42 Theme:T32 Site:T44
+E33	Phosphorylation:T38 Theme:T39 Site:T40
+E32	Phosphorylation:T36 Theme:T32 Site:T37
+E31	Phosphorylation:T34 Theme:T35 Cause:T35
+E30	Phosphorylation:T31 Theme:T32 Site:T33
+E11	Phosphorylation:T17 Theme:T4 Site:T18
+E10	Phosphorylation:T15 Theme:T4 Site:T16
+E13	Phosphorylation:T19 Theme:T10 Site:T20
+E12	Phosphorylation:T17 Theme:T10 Site:T18
+E15	Phosphorylation:T21 Theme:T10 Site:T22
+E14	Phosphorylation:T19 Theme:T4 Site:T20
+E17	Phosphorylation:T21 Theme:T4 Site:T22
+E16	Phosphorylation:T21 Theme:T10 Site:T20
+E9	Phosphorylation:T15 Theme:T10 Site:T16
+E8	Phosphorylation:T12 Theme:T13 Cause:T13 Site:T14
+E5	Phosphorylation:T5 Theme:T4 Site:T8
+E4	Phosphorylation:T5 Theme:T4 Site:T7
+E7	Phosphorylation:T9 Theme:T10 Site:T11
+E6	Phosphorylation:T9 Theme:T4 Site:T11
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T4 Site:T6
+E2	Phosphorylation:T3 Theme:T4
+E24	Phosphorylation:T23 Theme:T26 Site:T25
+E25	Phosphorylation:T27 Theme:T26 Site:T28
+E26	Phosphorylation:T27 Theme:T10 Site:T28
+E27	Phosphorylation:T27 Theme:T4 Site:T28
+E20	Phosphorylation:T23 Theme:T10 Site:T25
+E21	Phosphorylation:T23 Theme:T4 Site:T24
+E22	Phosphorylation:T23 Theme:T4 Site:T25
+E23	Phosphorylation:T23 Theme:T26 Site:T24
+E28	Phosphorylation:T3 Theme:T4 Site:T29
+E29	Phosphorylation:T5 Theme:T4 Site:T30
+R1	Coreference Arg1:T44 Arg2:T43

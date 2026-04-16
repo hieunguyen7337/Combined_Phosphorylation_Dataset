@@ -1,0 +1,47 @@
+T14	Protein 478 493	casein kinase I
+T15	Phosphorylation 553 566	phosphorylate
+T16	Protein 524 539	casein kinase I
+T17	Protein 593 608	band 3 ( CDB3 )
+T10	Phosphorylation 313 328	phosphorylation
+T11	Phosphorylation 397 412	phosphorylation
+T12	Protein 381 396	casein kinase I
+T13	Phosphorylation 454 469	phosphorylation
+T18	Site 624 636	Thr residues
+T19	Phosphorylation 684 699	phosphorylation
+T30	Protein 1373 1388	casein kinase I
+T31	Protein 1365 1369	CDB3
+T32	Site 1226 1232	Thr 42
+T8	Phosphorylation 252 267	phosphorylation
+T9	Protein 306 312	p72syk
+T6	Protein 206 212	p72syk
+T7	Protein 106 124	erythrocyte band 3
+T4	Phosphorylation 136 145	substrate
+T5	Protein 186 201	casein kinase I
+T2	Protein 33 48	casein kinase I
+T3	Protein 74 92	erythrocyte band 3
+T1	Phosphorylation 49 64	phosphorylation
+T29	Phosphorylation 1346 1361	phosphorylation
+T28	Site 1208 1215	Ser 303
+T21	Phosphorylation 840 855	phosphorylation
+T20	Site 731 745	residues 24-91
+T23	Phosphorylation 1035 1050	phosphorylation
+T22	Protein 824 839	casein kinase I
+T25	Phosphorylation 1124 1138	phosphorylated
+T24	Anaphora 999 1013	a heptapeptide
+T27	Phosphorylation 1159 1174	phosphorylation
+T26	Site 1142 1148	Thr 42
+E11	Phosphorylation:T23 Theme:T24
+E10	Phosphorylation:T21 Theme:T17 Cause:T22
+E13	Phosphorylation:T27 Theme:T17 Site:T28
+E12	Phosphorylation:T25 Theme:T24 Site:T26
+E14	Phosphorylation:T29 Theme:T31 Cause:T30 Site:T32
+E9	Phosphorylation:T19 Theme:T17 Site:T20
+E8	Phosphorylation:T15 Theme:T17 Cause:T16 Site:T18
+E5	Phosphorylation:T10 Theme:T7 Cause:T9
+E4	Phosphorylation:T8 Theme:T7 Cause:T9
+E7	Phosphorylation:T13 Theme:T7 Cause:T14
+E6	Phosphorylation:T11 Theme:T7 Cause:T12
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T4 Theme:T7 Cause:T6
+E2	Phosphorylation:T4 Theme:T7 Cause:T5
+R1	Coreference Arg1:T24 Arg2:T17

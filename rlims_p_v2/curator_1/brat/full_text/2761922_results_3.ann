@@ -1,0 +1,13 @@
+T8	Protein 810 814	PI3K
+T9	Protein 782 785	Akt
+T6	Protein 527 530	Akt
+T7	Phosphorylation 786 801	PHOSphorylation
+T4	Protein 430 433	Akt
+T5	Phosphorylation 531 546	PHOSphorylation
+T2	Protein 361 364	Akt
+T3	Phosphorylation 434 449	PHOSphorylation
+T1	Phosphorylation 342 357	PHOSphorylation
+E4	Phosphorylation:T7 Theme:T9 Cause:T8
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

@@ -1,0 +1,7 @@
+T4	Protein 2622 2644	recombination proteins
+T2	Protein 2571 2579	histones
+T3	Protein 2582 2615	structural components of the axes
+T1	Phosphorylation 2503 2518	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T1 Theme:T4
+E2	Phosphorylation:T1 Theme:T3

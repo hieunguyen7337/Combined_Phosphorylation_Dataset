@@ -1,0 +1,7 @@
+T4	Site 448 455	Thr-174
+T5	Phosphorylation 743 758	PHOSphorylation
+T2	Protein 150 155	Rex-1
+T3	Site 427 443	Ser-70 , Ser-177
+T1	Phosphorylation 381 396	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E2	Phosphorylation:T1 Theme:T2 Site:T4

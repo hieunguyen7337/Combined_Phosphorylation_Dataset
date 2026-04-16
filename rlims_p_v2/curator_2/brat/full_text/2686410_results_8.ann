@@ -1,0 +1,9 @@
+T6	Protein 2050 2053	MLC
+T4	Protein 1727 1732	ezrin
+T5	Phosphorylation 2054 2069	PHOSphorylation
+T2	Protein 1638 1641	MLC
+T3	Phosphorylation 1712 1726	PHOSphorylated
+T1	Phosphorylation 1619 1634	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

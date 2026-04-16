@@ -1,0 +1,12 @@
+T6	Site 3728 3733	Ser15
+T7	Phosphorylation 3734 3749	PHOSphorylation
+T4	Protein 3640 3643	p53
+T5	Site 3680 3691	the residue
+T2	Protein 534 537	p53
+T3	Phosphorylation 3692 3706	phosphorylaTED
+T1	Phosphorylation 538 553	PHOSphorylation
+E5	Phosphorylation:T7 Theme:T4 Site:T5
+E4	Phosphorylation:T7 Theme:T4 Site:T6
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T4 Site:T6
+E2	Phosphorylation:T3 Theme:T4 Site:T5

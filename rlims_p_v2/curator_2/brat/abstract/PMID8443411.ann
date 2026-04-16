@@ -1,0 +1,14 @@
+T8	Phosphorylation 2121 2136	phosphorylation
+T9	Protein 2073 2077	Cdk2
+T6	Protein 1348 1352	Cdk2
+T7	Site 1419 1423	T160
+T4	Site 420 433	threonine-160
+T5	Phosphorylation 1400 1415	phosphorylation
+T2	Phosphorylation 399 414	phosphorylation
+T3	Protein 310 344	cyclin-dependent kinase 2 ( Cdk2 )
+T1	Phosphorylation 5 20	Phosphorylation
+T10	Site 2258 2262	T160
+T11	Phosphorylation 2263 2278	phosphorylation
+E1	Phosphorylation:T2 Theme:T3 Site:T4
+E3	Phosphorylation:T8 Theme:T9 Site:T10
+E2	Phosphorylation:T5 Theme:T6 Site:T7

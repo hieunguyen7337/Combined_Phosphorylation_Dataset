@@ -1,0 +1,46 @@
+T14	Phosphorylation 613 627	phosphoprotein
+T15	Protein 417 422	EGP-1
+T16	Anaphora 605 607	it
+T17	Phosphorylation 630 647	Phosphoamino acid
+T10	Phosphorylation 1466 1481	phosphorylating
+T11	Protein 1482 1487	EGP-1
+T12	Phosphorylation 94 108	phosphorylated
+T13	Protein 5 43	The epithelial/carcinoma antigen EGP-1
+T32	Protein 1446 1462	protein kinase C
+T19	Phosphorylation 861 876	phosphorylating
+T30	Phosphorylation 1134 1149	phosphorylation
+T31	Phosphorylation 1313 1328	phosphorylation
+T18	Phosphorylation 711 726	phosphorylation
+T8	Phosphorylation 1309 1328	the phosphorylation
+T9	Protein 1332 1337	EGP-1
+T6	Protein 687 692	EGP-1
+T7	Site 733 739	serine
+T4	Protein 613 627	phosphoprotein
+T5	Phosphorylation 672 686	phosphorylated
+T2	Site 112 122	serine 303
+T3	Phosphorylation 611 627	a phosphoprotein
+T1	Phosphorylation 91 108	is phosphorylated
+T29	Site 1162 1252	a serine residue , specifically on serine 303 , located in the cytoplasmic domain of EGP-1
+T28	Anaphora 1066 1077	the antigen
+T21	Anaphora 877 888	the antigen
+T20	Protein 800 816	protein kinase C
+T23	Protein 1001 1006	EGP-1
+T22	Phosphorylation 947 962	phosphorylation
+T25	Phosphorylation 1040 1054	phosphopeptide
+T24	Phosphorylation 1009 1026	Phosphoamino acid
+T27	Protein 1105 1121	protein kinase C
+T26	Phosphorylation 1078 1092	phosphorylated
+E11	Phosphorylation:T10 Theme:T11 Cause:T32
+E10	Phosphorylation:T31 Theme:T9
+E9	Phosphorylation:T26 Theme:T28 Cause:T27 Site:T29
+E8	Phosphorylation:T22 Theme:T23
+E5	Phosphorylation:T12 Theme:T13 Site:T2
+E4	Phosphorylation:T10 Theme:T11
+E7	Phosphorylation:T19 Theme:T21 Cause:T20
+E6	Phosphorylation:T14 Theme:T16
+E1	Phosphorylation:T3 Theme:T4
+E3	Phosphorylation:T8 Theme:T9
+E2	Phosphorylation:T5 Theme:T6 Site:T7
+R1	Coreference Arg1:T16 Arg2:T15
+R2	Coreference Arg1:T21 Arg2:T6
+R3	Coreference Arg1:T28 Arg2:T23

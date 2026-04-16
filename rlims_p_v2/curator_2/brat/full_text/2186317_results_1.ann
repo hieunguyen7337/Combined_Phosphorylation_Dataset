@@ -1,0 +1,4 @@
+T2	Protein 644 649	UL20p
+T3	Site 626 640	amino terminus
+T1	Phosphorylation 597 612	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T3

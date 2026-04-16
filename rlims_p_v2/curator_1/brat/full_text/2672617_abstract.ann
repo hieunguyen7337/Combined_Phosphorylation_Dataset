@@ -1,0 +1,4 @@
+T2	Protein 874 877	Abl
+T3	Protein 925 930	CrkII
+T1	Phosphorylation 906 921	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

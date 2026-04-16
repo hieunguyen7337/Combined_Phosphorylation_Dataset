@@ -1,0 +1,7 @@
+T4	Phosphorylation 836 845	SUBstrate
+T2	Protein 817 820	Syk
+T3	Protein 846 852	SLP-76
+T1	Phosphorylation 793 808	phosphorylaTION
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T3
+E2	Phosphorylation:T1 Theme:T3

@@ -1,0 +1,50 @@
+T14	Protein 1250 1253	PAK
+T15	Protein 1272 1275	MLC
+T16	Phosphorylation 1360 1395	RacQ61 -induced MLC phosphorylation
+T17	Protein 1376 1379	MLC
+T10	Protein 789 792	MLC
+T11	Phosphorylation 1113 1144	RacQ61 -induced phosphorylation
+T12	Protein 1148 1151	MLC
+T13	Phosphorylation 1254 1271	can phosphorylate
+T32	Phosphorylation 1467 1482	phosphorylation
+T19	Protein 1486 1489	MLC
+T30	Phosphorylation 1380 1395	phosphorylation
+T31	Protein 1360 1366	RacQ61
+T18	Phosphorylation 1449 1482	active Rac causes phosphorylation
+T33	Protein 1456 1459	Rac
+T8	Protein 686 692	myosin
+T9	Phosphorylation 754 785	RacQ61 -induced phosphorylation
+T6	Site 546 555	serine-19
+T7	Phosphorylation 671 692	Phosphorylated myosin
+T4	Protein 627 647	actomyosin II ATPase
+T5	Protein 563 603	myosin II regulatory light chain ( MLC )
+T2	Protein 48 54	myosin
+T3	Phosphorylation 527 542	phosphorylation
+T1	Phosphorylation 29 44	phosphorylation
+T29	Phosphorylation 1258 1271	phosphorylate
+T28	Protein 1113 1119	RacQ61
+T21	Protein 48 77	myosin regulatory light chain
+T20	Protein 5 8	Rac
+T23	Protein 471 488	inducing ruffling
+T22	Protein 404 431	expression of active RacQ61
+T25	Phosphorylation 770 785	phosphorylation
+T24	Phosphorylation 671 685	Phosphorylated
+T27	Phosphorylation 1129 1144	phosphorylation
+T26	Protein 754 760	RacQ61
+E11	Phosphorylation:T3 Theme:T5 Cause:T23 Site:T6
+E10	Phosphorylation:T3 Theme:T5 Cause:T22 Site:T6
+E13	Phosphorylation:T25 Theme:T10 Cause:T26
+E12	Phosphorylation:T24 Theme:T8
+E15	Phosphorylation:T29 Theme:T15 Cause:T14
+E14	Phosphorylation:T27 Theme:T12 Cause:T28
+E17	Phosphorylation:T32 Theme:T19 Cause:T33
+E16	Phosphorylation:T30 Theme:T17 Cause:T31
+E9	Phosphorylation:T1 Theme:T21 Cause:T20
+E8	Phosphorylation:T18 Theme:T19
+E5	Phosphorylation:T11 Theme:T12
+E4	Phosphorylation:T9 Theme:T10
+E7	Phosphorylation:T16 Theme:T17
+E6	Phosphorylation:T13 Theme:T15 Cause:T14
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T7 Theme:T8
+E2	Phosphorylation:T3 Theme:T5 Cause:T4 Site:T6

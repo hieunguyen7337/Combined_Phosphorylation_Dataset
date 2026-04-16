@@ -1,0 +1,3 @@
+T2	Protein 742 759	RNA polymerase II
+T1	Phosphorylation 723 741	HypoPHOSphorylated
+E1	Phosphorylation:T1 Theme:T2

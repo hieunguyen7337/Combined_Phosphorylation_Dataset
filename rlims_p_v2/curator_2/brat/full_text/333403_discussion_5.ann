@@ -1,0 +1,10 @@
+T6	Protein 2200 2204	FOXO
+T4	Phosphorylation 2229 2244	PHOSphorylation
+T5	Protein 2276 2297	homolog of this class
+T2	Protein 1437 1444	hFOXO3a
+T3	Protein 1449 1454	dFOXO
+T1	Phosphorylation 1393 1408	PHOSphorylation
+E4	Phosphorylation:T4 Theme:T6
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

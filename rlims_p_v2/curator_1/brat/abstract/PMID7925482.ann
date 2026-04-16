@@ -1,0 +1,33 @@
+T8	Site 219 228	threonine
+T9	Phosphorylation 711 726	phosphorylation
+T6	Protein 182 189	lamin A
+T7	Site 208 214	serine
+T4	Protein 298 309	cdc2-kinase
+T5	Protein 314 330	protein kinase C
+T2	Protein 59 66	lamin A
+T3	Phosphorylation 271 285	phosphorylated
+T1	Phosphorylation 28 43	phosphorylation
+T14	Protein 917 924	lamin A
+T15	Site 837 846	PKC motif
+T16	Anaphora 1005 1010	motif
+T17	Phosphorylation 1278 1292	phosphorylated
+T10	Protein 767 774	lamin A
+T11	Site 651 684	Thr-19/Ser-392 and Ser-22/Ser-392
+T12	Anaphora 734 748	three residues
+T13	Phosphorylation 982 997	phosphorylation
+T21	Anaphora 1484 1488	site
+T20	Phosphorylation 1461 1476	phosphorylation
+T18	Protein 1134 1141	lamin A
+T19	Site 1221 1228	Ser-525
+E9	Phosphorylation:T20 Theme:T18 Site:T21
+E8	Phosphorylation:T17 Theme:T18 Site:T19
+E5	Phosphorylation:T3 Theme:T6 Cause:T5 Site:T8
+E4	Phosphorylation:T3 Theme:T6 Cause:T5 Site:T7
+E7	Phosphorylation:T13 Theme:T14 Site:T16
+E6	Phosphorylation:T9 Theme:T10 Site:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T3 Theme:T6 Cause:T4 Site:T8
+E2	Phosphorylation:T3 Theme:T6 Cause:T4 Site:T7
+R3	Coreference Arg1:T21 Arg2:T19
+R1	Coreference Arg1:T12 Arg2:T11
+R2	Coreference Arg1:T16 Arg2:T15

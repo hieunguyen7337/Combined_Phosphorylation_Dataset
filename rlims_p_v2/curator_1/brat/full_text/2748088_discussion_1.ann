@@ -1,0 +1,27 @@
+T8	Site 1822 1828	His292
+T9	Phosphorylation 2129 2144	phosphorylaTION
+T6	Protein 1772 1776	ArcB
+T7	Protein 1800 1804	ArcA
+T4	Site 1706 1711	Asp54
+T5	Phosphorylation 1786 1799	PHOSphorylate
+T2	Protein 1542 1546	ArcB
+T3	Protein 1698 1702	ArcA
+T1	Phosphorylation 1682 1697	PHOSphorylating
+T14	Phosphorylation 2439 2461	PHOSphorylation-mutant
+T15	Protein 2462 2466	ArcA
+T16	Site 2469 2480	Asp54 - Ala
+T17	Phosphorylation 3000 3025	PHOSphorylation-defective
+T10	Protein 2157 2161	ArcA
+T11	Site 2148 2153	Asp54
+T12	Phosphorylation 2224 2249	PHOSphorylation-defective
+T13	Protein 2250 2254	ArcA
+T20	Protein 3270 3274	arcA
+T18	Protein 3026 3030	ArcA
+T19	Phosphorylation 3244 3269	PHOSphorylation-defective
+E5	Phosphorylation:T14 Theme:T15 Site:T16
+E4	Phosphorylation:T12 Theme:T13
+E7	Phosphorylation:T19 Theme:T20
+E6	Phosphorylation:T17 Theme:T18
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T9 Theme:T10 Site:T11
+E2	Phosphorylation:T5 Theme:T7 Cause:T6 Site:T8

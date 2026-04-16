@@ -1,0 +1,15 @@
+T8	Phosphorylation 581 600	autophosphorylation
+T9	Phosphorylation 736 755	autophosphorylation
+T6	Phosphorylation 418 427	substrate
+T7	Phosphorylation 436 455	autophosphorylation
+T4	Phosphorylation 333 352	autophosphorylation
+T5	Protein 308 323	protein kinases
+T2	Protein 37 52	protein kinases
+T3	Phosphorylation 264 279	phosphorylating
+T1	Phosphorylation 5 24	Autophosphorylation
+T10	Phosphorylation 818 837	autophosphorylation
+T11	Protein 844 856	S6/H4 kinase
+T12	Phosphorylation 1050 1069	autophosphorylation
+E1	Phosphorylation:T1 Theme:T2 Cause:T2
+E3	Phosphorylation:T10 Theme:T11 Cause:T11
+E2	Phosphorylation:T4 Theme:T5 Cause:T5

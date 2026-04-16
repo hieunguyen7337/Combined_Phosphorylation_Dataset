@@ -1,0 +1,12 @@
+T6	Site 1566 1580	amino terminus
+T4	Site 1647 1652	Tyr38
+T5	Site 1657 1660	Y49
+T2	Protein 1584 1588	UL20
+T3	Protein 1591 1596	UL20p
+T1	Phosphorylation 1692 1707	PHOSphorylation
+E5	Phosphorylation:T1 Theme:T3 Site:T5
+E4	Phosphorylation:T1 Theme:T3 Site:T4
+E6	Phosphorylation:T1 Theme:T3 Site:T6
+E1	Phosphorylation:T1 Theme:T2 Site:T4
+E3	Phosphorylation:T1 Theme:T2 Site:T6
+E2	Phosphorylation:T1 Theme:T2 Site:T5

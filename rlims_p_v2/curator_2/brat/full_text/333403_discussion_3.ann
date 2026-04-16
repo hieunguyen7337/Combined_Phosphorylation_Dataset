@@ -1,0 +1,10 @@
+T6	Phosphorylation 2554 2569	PHOSphorylation
+T7	Protein 2573 2578	4E-BP
+T4	Protein 1779 1783	dPKB
+T5	Protein 1815 1820	dTSC2
+T2	Protein 1411 1416	dTSC2
+T3	Phosphorylation 1784 1798	PHOSphorylates
+T1	Phosphorylation 1392 1407	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T3 Theme:T5 Cause:T4

@@ -1,0 +1,33 @@
+T8	Phosphorylation 1639 1657	downstream targets
+T9	Phosphorylation 1954 1984	eIF4E and rpS6 phosphorylation
+T6	Phosphorylation 1610 1635	increased phosphorylation
+T7	Protein 1668 1673	eIF4E
+T4	Protein 1322 1329	Akt/PKB
+T5	Phosphorylation 1406 1490	cAMP , protein kinase A activity , and AMP -activated protein kinase phosphorylation
+T2	Phosphorylation 1296 1311	phosphorylation
+T3	Protein 1333 1340	tuberin
+T1	Phosphorylation 659 693	phosphorylation and/or association
+T14	Phosphorylation 1022 1039	dephosphorylation
+T15	Protein 1047 1115	eukaryotic initiation factor ( eIF ) 4E-binding protein-1 ( 4E-BP1 )
+T16	Phosphorylation 1475 1490	phosphorylation
+T17	Phosphorylation 1620 1635	phosphorylation
+T10	Protein 2017 2023	ERK1/2
+T11	Protein 1954 1959	eIF4E
+T12	Protein 1964 1968	rpS6
+T13	Phosphorylation 659 674	phosphorylation
+T20	Phosphorylation 1969 1984	phosphorylation
+T18	Protein 1682 1709	ribosomal protein ( rp ) S6
+T19	Site 1713 1722	S235/S236
+E11	Phosphorylation:T17 Theme:T18 Site:T19
+E10	Phosphorylation:T17 Theme:T7 Site:T19
+E13	Phosphorylation:T20 Theme:T12 Cause:T10
+E12	Phosphorylation:T20 Theme:T11 Cause:T10
+E9	Phosphorylation:T14 Theme:T15
+E8	Phosphorylation:T9 Theme:T12 Cause:T10
+E5	Phosphorylation:T6 Theme:T7
+E4	Phosphorylation:T5 Theme:T3
+E7	Phosphorylation:T9 Theme:T11 Cause:T10
+E6	Phosphorylation:T8 Theme:T7
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T5 Theme:T4
+E2	Phosphorylation:T2 Theme:T4

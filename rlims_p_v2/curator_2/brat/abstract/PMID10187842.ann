@@ -1,0 +1,29 @@
+T8	Protein 919 926	insulin
+T9	Protein 891 900	PPARalpha
+T6	Protein 410 419	PPARalpha
+T7	Phosphorylation 971 986	phosphorylation
+T4	Phosphorylation 350 365	phosphorylation
+T5	Protein 369 376	insulin
+T2	Protein 51 103	the peroxisome proliferator-activated receptor alpha
+T3	Site 126 171	a ligand -independent trans-activating domain
+T1	Phosphorylation 107 122	phosphorylation
+T14	Phosphorylation 1498 1512	phosphorylated
+T15	Protein 1573 1583	PPARgamma2
+T16	Phosphorylation 1619 1633	phosphorylated
+T17	Site 1637 1724	a single site in a motif that is not homologous to the sites now described in PPARalpha
+T10	Site 990 1056	two mitogen -activated protein kinase sites at positions 12 and 21
+T11	Phosphorylation 1435 1450	phosphorylation
+T12	Protein 1154 1163	PPARalpha
+T13	Site 1454 1473	two serine residues
+T21	Protein 2252 2261	PPARalpha
+T20	Phosphorylation 2336 2351	phosphorylation
+T18	Phosphorylation 1774 1789	phosphorylation
+T19	Protein 1848 1857	PPARalpha
+E8	Phosphorylation:T20 Theme:T21
+E5	Phosphorylation:T14 Theme:T15
+E4	Phosphorylation:T11 Theme:T12 Site:T13
+E7	Phosphorylation:T18 Theme:T19
+E6	Phosphorylation:T16 Theme:T15 Site:T17
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T7 Theme:T9 Cause:T8 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5

@@ -1,0 +1,15 @@
+T8	Phosphorylation 1706 1721	phosphorylaTION
+T9	Phosphorylation 1734 1753	autoPHOSphorylation
+T6	Protein 1682 1695	I-kappaBalpha
+T7	Protein 1682 1705	I-kappaBalpha subSTRate
+T4	Protein 626 634	I-kappaB
+T5	Phosphorylation 1696 1705	subSTRate
+T2	Protein 540 548	I-kappaB
+T3	Phosphorylation 635 650	PHOSphorylation
+T1	Phosphorylation 494 509	PHOSphorylation
+T10	Protein 1726 1733	IKKbeta
+E5	Phosphorylation:T9 Theme:T10 Cause:T10
+E4	Phosphorylation:T8 Theme:T7 Cause:T7
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T7 Cause:T6
+E2	Phosphorylation:T3 Theme:T4

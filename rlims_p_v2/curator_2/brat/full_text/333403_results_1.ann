@@ -1,0 +1,4 @@
+T2	Protein 721 724	PKB
+T3	Protein 629 634	dFOXO
+T1	Phosphorylation 725 740	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2

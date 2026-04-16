@@ -1,0 +1,9 @@
+T6	Protein 887 892	Smad3
+T4	Phosphorylation 790 808	anti-PHOSphoserine
+T5	Phosphorylation 893 908	PHOSphorylation
+T2	Protein 748 753	Smad3
+T3	Site 802 808	serine
+T1	Phosphorylation 722 736	phosphorylaTED
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T4 Theme:T2 Site:T3

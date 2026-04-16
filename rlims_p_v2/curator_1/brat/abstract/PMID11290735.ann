@@ -1,0 +1,57 @@
+T14	Phosphorylation 1595 1618	tuberin phosphorylation
+T15	Protein 1595 1602	tuberin
+T16	Phosphorylation 1629 1654	defective phosphorylation
+T17	Protein 1658 1665	tuberin
+T10	Protein 966 973	tuberin
+T11	Phosphorylation 1501 1518	is phosphorylated
+T12	Protein 1493 1500	tuberin
+T13	Site 1535 1541	serine
+T18	Phosphorylation 13 28	phosphorylation
+T19	Protein 5 12	Tuberin
+T8	Site 1522 1530	tyrosine
+T9	Phosphorylation 966 989	tuberin phosphorylation
+T6	Site 741 749	tyrosine
+T7	Phosphorylation 817 839	serial phosphorylation
+T4	Protein 701 708	tuberin
+T5	Site 730 736	serine
+T2	Protein 60 68	hamartin
+T3	Phosphorylation 709 726	is phosphorylated
+T1	Phosphorylation 5 28	Tuberin phosphorylation
+T29	Anaphora 804 806	it
+T28	Phosphorylation 1753 1768	phosphorylation
+T21	Phosphorylation 824 839	phosphorylation
+T20	Phosphorylation 712 726	phosphorylated
+T23	Site 941 947	Y1571H
+T22	Phosphorylation 974 989	phosphorylation
+T25	Phosphorylation 1504 1518	phosphorylated
+T24	Phosphorylation 1395 1410	phosphorylation
+T27	Phosphorylation 1639 1654	phosphorylation
+T26	Phosphorylation 1603 1618	phosphorylation
+E19	Phosphorylation:T25 Theme:T12 Site:T13
+E18	Phosphorylation:T25 Theme:T12 Site:T8
+E11	Phosphorylation:T16 Theme:T17 Site:T8
+E10	Phosphorylation:T16 Theme:T17 Site:T5
+E13	Phosphorylation:T20 Theme:T4 Site:T5
+E12	Phosphorylation:T18 Theme:T19
+E15	Phosphorylation:T21 Theme:T4 Site:T5
+E14	Phosphorylation:T20 Theme:T4 Site:T6
+E17	Phosphorylation:T22 Theme:T10 Site:T23
+E16	Phosphorylation:T21 Theme:T4 Site:T8
+E9	Phosphorylation:T14 Theme:T15 Site:T8
+E8	Phosphorylation:T14 Theme:T15 Site:T5
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T4 Site:T8
+E7	Phosphorylation:T11 Theme:T12 Site:T13
+E6	Phosphorylation:T11 Theme:T12 Site:T8
+E1	Phosphorylation:T3 Theme:T4 Site:T5
+E3	Phosphorylation:T7 Theme:T4 Site:T5
+E2	Phosphorylation:T3 Theme:T4 Site:T6
+E24	Phosphorylation:T21 Theme:T29 Site:T5
+E25	Phosphorylation:T21 Theme:T29 Site:T8
+E26	Phosphorylation:T24 Theme:T4
+E27	Phosphorylation:T28 Theme:T15
+E20	Phosphorylation:T26 Theme:T15 Site:T5
+E21	Phosphorylation:T26 Theme:T15 Site:T8
+E22	Phosphorylation:T27 Theme:T17 Site:T5
+E23	Phosphorylation:T27 Theme:T17 Site:T8
+R1	Coreference Arg1:T29 Arg2:T4

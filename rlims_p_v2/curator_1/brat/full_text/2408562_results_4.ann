@@ -1,0 +1,6 @@
+T4	Protein 1919 1922	p38
+T2	Protein 1191 1201	Erk1 and 2
+T3	Phosphorylation 1904 1918	PHOSphorylated
+T1	Phosphorylation 1207 1221	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

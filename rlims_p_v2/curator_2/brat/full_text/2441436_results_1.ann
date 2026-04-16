@@ -1,0 +1,6 @@
+T4	Site 615 621	Thr-18
+T2	Protein 561 564	p53
+T3	Protein 583 586	its
+T1	Phosphorylation 596 611	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2 Site:T4
+E2	Phosphorylation:T1 Theme:T3 Site:T4

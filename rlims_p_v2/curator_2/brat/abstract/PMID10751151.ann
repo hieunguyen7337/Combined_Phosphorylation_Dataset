@@ -1,0 +1,38 @@
+T14	Site 1421 1429	tyrosine
+T15	Phosphorylation 1623 1652	that tyrosine phosphorylation
+T16	Protein 1656 1664	catenins
+T17	Site 1628 1636	tyrosine
+T10	Site 1216 1224	tyrosine
+T11	Phosphorylation 1408 1445	HGF -induced tyrosine phosphorylation
+T12	Protein 1408 1411	HGF
+T13	Protein 1449 1457	catenins
+T18	Phosphorylation 122 137	phosphorylation
+T19	Phosphorylation 606 621	phosphorylation
+T8	Protein 1244 1248	p120
+T9	Protein 1264 1276	beta-catenin
+T6	Site 597 605	Tyrosine
+T7	Phosphorylation 1216 1240	tyrosine phosphorylation
+T4	Phosphorylation 597 621	Tyrosine phosphorylation
+T5	Protein 625 633	catenins
+T2	Protein 141 149	catenins
+T3	Site 113 121	tyrosine
+T1	Phosphorylation 113 137	tyrosine phosphorylation
+T21	Protein 1156 1174	activation of TrkA
+T20	Phosphorylation 1225 1240	phosphorylation
+T23	Phosphorylation 1430 1445	phosphorylation
+T22	Protein 1244 1256	p120 ( ctn )
+T25	Phosphorylation 1637 1652	phosphorylation
+T24	Protein 1399 1402	NGF
+E11	Phosphorylation:T23 Theme:T13 Cause:T12 Site:T14
+E10	Phosphorylation:T20 Theme:T9 Cause:T21 Site:T10
+E13	Phosphorylation:T25 Theme:T16 Site:T17
+E12	Phosphorylation:T23 Theme:T13 Cause:T24 Site:T14
+E9	Phosphorylation:T20 Theme:T22 Cause:T21 Site:T10
+E8	Phosphorylation:T19 Theme:T5 Site:T6
+E5	Phosphorylation:T11 Theme:T13 Cause:T12 Site:T14
+E4	Phosphorylation:T7 Theme:T9 Site:T10
+E7	Phosphorylation:T18 Theme:T2 Site:T3
+E6	Phosphorylation:T15 Theme:T16 Site:T17
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T7 Theme:T8 Site:T10
+E2	Phosphorylation:T4 Theme:T5 Site:T6

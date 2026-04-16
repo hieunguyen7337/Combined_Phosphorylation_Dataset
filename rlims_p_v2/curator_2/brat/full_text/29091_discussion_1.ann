@@ -1,0 +1,7 @@
+T4	Protein 1830 1833	AKT
+T5	Phosphorylation 4792 4802	SUBstrates
+T2	Protein 1461 1464	AKT
+T3	Phosphorylation 1815 1829	PHOSphorylated
+T1	Phosphorylation 1446 1460	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

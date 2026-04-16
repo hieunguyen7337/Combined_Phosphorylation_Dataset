@@ -1,0 +1,48 @@
+T14	Protein 1037 1054	insulin receptors
+T15	Site 1074 1082	tyrosine
+T16	Phosphorylation 1266 1281	phosphorylation
+T17	Protein 1238 1245	insulin
+T10	Site 836 843	Tyr1158
+T11	Site 846 853	Tyr1162
+T12	Site 860 867	Tyr1163
+T13	Phosphorylation 1083 1102	autophosphorylation
+T34	Site 2045 2052	Tyr1162
+T32	Protein 2060 2076	insulin receptor
+T19	Site 1197 1203	Y1158F
+T30	Protein 1817 1820	Shc
+T31	Phosphorylation 2014 2029	phosphorylation
+T18	Protein 1285 1289	IRS1
+T33	Site 2033 2040	Tyr1158
+T8	Phosphorylation 810 829	autophosphorylation
+T9	Protein 875 891	insulin receptor
+T6	Phosphorylation 696 711	phosphorylation
+T7	Protein 692 695	Shc
+T4	Site 580 588	tyrosine
+T5	Phosphorylation 625 634	substrate
+T2	Phosphorylation 589 604	phosphorylation
+T3	Protein 608 645	insulin receptor substrate 1 ( IRS1 )
+T1	Phosphorylation 180 189	substrate
+T29	Phosphorylation 1821 1836	phosphorylation
+T28	Site 1594 1602	tyrosine
+T21	Site 1214 1219	Y1163
+T20	Site 1206 1211	Y1162
+T23	Protein 1480 1487	insulin
+T22	Phosphorylation 1505 1520	phosphorylation
+T25	Site 1496 1504	tyrosine
+T24	Protein 1524 1527	Shc
+T27	Protein 1622 1626	IRS1
+T26	Phosphorylation 1603 1618	phosphorylation
+E11	Phosphorylation:T26 Theme:T27 Site:T28
+E10	Phosphorylation:T22 Theme:T24 Cause:T23 Site:T25
+E13	Phosphorylation:T31 Theme:T32 Site:T33
+E12	Phosphorylation:T29 Theme:T30
+E14	Phosphorylation:T31 Theme:T32 Site:T34
+E9	Phosphorylation:T16 Theme:T18 Cause:T17 Site:T21
+E8	Phosphorylation:T16 Theme:T18 Cause:T17 Site:T20
+E5	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T12
+E4	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T11
+E7	Phosphorylation:T16 Theme:T18 Cause:T17 Site:T19
+E6	Phosphorylation:T13 Theme:T14 Site:T15
+E1	Phosphorylation:T2 Theme:T3 Site:T4
+E3	Phosphorylation:T8 Theme:T9 Cause:T9 Site:T10
+E2	Phosphorylation:T6 Theme:T7

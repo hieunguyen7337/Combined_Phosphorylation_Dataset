@@ -1,0 +1,39 @@
+T14	Protein 615 633	prostaglandin E(2)
+T15	Protein 455 469	5-lipoxygenase
+T16	Phosphorylation 646 661	phosphorylation
+T17	Phosphorylation 784 799	phosphorylation
+T10	Site 313 321	Ser(523)
+T11	Phosphorylation 417 432	Phosphorylation
+T12	Protein 491 553	overexpression of the protein kinase A catalytic subunit alpha
+T13	Protein 559 605	pharmacological activators of protein kinase A
+T18	Phosphorylation 996 1009	phosphorylate
+T19	Protein 976 992	protein kinase A
+T30	Site 1820 1828	Ser(523)
+T8	Phosphorylation 294 309	phosphorylation
+T9	Protein 366 380	5-lipoxygenase
+T6	Protein 213 227	5-lipoxygenase
+T7	Site 231 239	Ser(523)
+T4	Phosphorylation 198 212	phosphorylates
+T5	Protein 181 197	Protein kinase A
+T2	Protein 24 40	protein kinase a
+T3	Protein 68 82	5-lipoxygenase
+T1	Phosphorylation 5 20	Phosphorylation
+T29	Phosphorylation 1801 1816	phosphorylation
+T28	Site 1552 1560	Ser(523)
+T21	Phosphorylation 1368 1383	phosphorylation
+T20	Protein 944 958	5-lipoxygenase
+T23	Protein 1387 1405	the fusion protein
+T22	Protein 1271 1287	protein kinase A
+T25	Phosphorylation 1428 1442	phosphorylated
+T24	Site 1409 1417	Ser(523)
+T27	Protein 1668 1682	5-lipoxygenase
+T26	Phosphorylation 1533 1548	phosphorylation
+E9	Phosphorylation:T26 Theme:T27 Site:T28
+E8	Phosphorylation:T21 Theme:T23 Cause:T22 Site:T24
+E5	Phosphorylation:T11 Theme:T15 Cause:T13
+E4	Phosphorylation:T11 Theme:T15 Cause:T12
+E7	Phosphorylation:T18 Theme:T20 Cause:T19
+E6	Phosphorylation:T11 Theme:T15 Cause:T14
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E3	Phosphorylation:T8 Theme:T9 Site:T10
+E2	Phosphorylation:T4 Theme:T6 Cause:T5 Site:T7

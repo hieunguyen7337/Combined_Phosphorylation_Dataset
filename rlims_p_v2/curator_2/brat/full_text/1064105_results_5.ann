@@ -1,0 +1,10 @@
+T8	Phosphorylation 1301 1318	dePHOSphorylation
+T6	Protein 1206 1210	ERKs
+T7	Phosphorylation 1285 1300	phosphorylaTION
+T4	Phosphorylation 838 855	dePHOSphorylation
+T5	Phosphorylation 1185 1202	dephosphorylaTION
+T2	Protein 193 199	ERK1/2
+T3	Phosphorylation 269 284	PHOSphorylation
+T1	Phosphorylation 178 192	phosphorylaTED
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T5 Theme:T6

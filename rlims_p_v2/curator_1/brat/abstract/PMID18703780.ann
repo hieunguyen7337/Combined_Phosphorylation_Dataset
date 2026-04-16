@@ -1,0 +1,3 @@
+T2	Protein 1083 1114	glycogen synthase kinase 3-beta
+T1	Phosphorylation 1115 1130	phosphorylation
+E1	Phosphorylation:T1 Theme:T2

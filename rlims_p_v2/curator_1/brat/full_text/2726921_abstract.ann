@@ -1,0 +1,10 @@
+T6	Phosphorylation 948 963	PHOSphorylation
+T7	Protein 944 947	tau
+T4	Phosphorylation 649 664	PHOSphorylation
+T5	Protein 645 648	tau
+T2	Phosphorylation 432 447	PHOSphorylation
+T3	Protein 428 431	tau
+T1	Phosphorylation 308 317	SUBstrate
+E1	Phosphorylation:T2 Theme:T3
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T4 Theme:T5

@@ -1,0 +1,45 @@
+T14	Protein 781 790	PLCgamma2
+T15	Site 791 799	tyrosine
+T16	Phosphorylation 978 993	phosphotyrosine
+T17	Phosphorylation 1219 1234	phosphorylation
+T10	Phosphorylation 470 483	phosphorylate
+T11	Protein 394 465	members from three distinct families of non - receptor tyrosine kinases
+T12	Protein 484 492	PLCgamma
+T13	Phosphorylation 800 815	phosphorylation
+T18	Protein 1130 1144	BCR engagement
+T33	Site 1734 1748	SH2-SH3 linker
+T30	Phosphorylation 1681 1696	phosphorylation
+T31	Protein 1610 1625	Btk/Tec kinases
+T32	Protein 1724 1733	PLCgamma2
+T19	Protein 1058 1067	PLCgamma2
+T8	Protein 194 229	phospholipase Cgamma2 ( PLCgamma2 )
+T9	Site 166 174	Tyrosine
+T6	Phosphorylation 175 190	phosphorylation
+T7	Protein 340 382	B cell antigen receptor ( BCR ) engagement
+T4	Site 69 77	tyrosine
+T5	Site 122 158	Src homology 2-Src homology 3 linker
+T2	Protein 5 8	Tec
+T3	Protein 101 121	phospholipase Cgamma
+T1	Phosphorylation 78 93	phosphorylation
+T29	Protein 1165 1168	Btk
+T28	Site 1460 1511	carboxyl - terminal sites , Tyr(1197) and Tyr(1217)
+T21	Site 985 993	tyrosine
+T20	Site 1242 1313	Src homology 2 ( SH2 ) -SH3 linker region sites , Tyr(753) and Tyr(759)
+T23	Protein 1376 1410	Tec , but not Syk , family kinases
+T22	Phosphorylation 1316 1331	Phosphorylation
+T25	Anaphora 1335 1345	both sites
+T24	Site 1292 1313	Tyr(753) and Tyr(759)
+T27	Protein 1450 1459	PLCgamma2
+T26	Phosphorylation 1427 1442	phosphorylation
+E11	Phosphorylation:T30 Theme:T32 Cause:T31 Site:T33
+E10	Phosphorylation:T22 Theme:T19 Cause:T29 Site:T25
+E9	Phosphorylation:T26 Theme:T27 Site:T28
+E8	Phosphorylation:T22 Theme:T19 Cause:T23 Site:T25
+E5	Phosphorylation:T13 Theme:T14 Site:T15
+E4	Phosphorylation:T10 Theme:T12 Cause:T11
+E7	Phosphorylation:T16 Theme:T19 Site:T21
+E6	Phosphorylation:T17 Theme:T19 Cause:T18 Site:T20
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4
+E3	Phosphorylation:T6 Theme:T8 Cause:T7 Site:T9
+E2	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T5
+R1	Coreference Arg1:T25 Arg2:T24

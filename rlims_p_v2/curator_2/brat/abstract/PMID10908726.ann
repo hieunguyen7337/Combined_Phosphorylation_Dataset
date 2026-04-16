@@ -1,0 +1,24 @@
+T8	Phosphorylation 734 749	phosphorylation
+T9	Protein 633 668	activation of the Fas/CD95 receptor
+T6	Phosphorylation 1150 1175	eIF2alpha phosphorylation
+T7	Protein 1150 1159	eIF2alpha
+T4	Protein 724 733	eIF2alpha
+T5	Phosphorylation 878 901	the autophosphorylation
+T2	Protein 93 102	eIF2alpha
+T3	Phosphorylation 724 749	eIF2alpha phosphorylation
+T1	Phosphorylation 74 89	phosphorylation
+T14	Protein 1271 1306	activation of the Fas/CD95 receptor
+T15	Protein 1322 1331	caspase-8
+T16	Protein 1380 1389	p70 (S6K)
+T10	Phosphorylation 882 901	autophosphorylation
+T11	Protein 905 923	the protein kinase
+T12	Phosphorylation 1160 1175	phosphorylation
+T13	Phosphorylation 1343 1360	dephosphorylation
+E8	Phosphorylation:T13 Theme:T16 Cause:T15
+E5	Phosphorylation:T10 Theme:T11 Cause:T11
+E4	Phosphorylation:T8 Theme:T4 Cause:T9
+E7	Phosphorylation:T13 Theme:T16 Cause:T14
+E6	Phosphorylation:T12 Theme:T7
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T6 Theme:T7
+E2	Phosphorylation:T3 Theme:T4

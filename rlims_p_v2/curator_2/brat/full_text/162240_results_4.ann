@@ -1,0 +1,6 @@
+T4	Protein 690 700	Rb kinases
+T2	Protein 690 707	Rb kinases ( 24 )
+T3	Protein 684 686	Rb
+T1	Phosphorylation 665 680	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2
+E2	Phosphorylation:T1 Theme:T3 Cause:T4

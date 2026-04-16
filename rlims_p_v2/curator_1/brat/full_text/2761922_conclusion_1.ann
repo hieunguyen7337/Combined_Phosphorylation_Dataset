@@ -1,0 +1,5 @@
+T2	Protein 212 215	ERK
+T3	Protein 220 223	Akt
+T1	Phosphorylation 224 239	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T1 Theme:T3

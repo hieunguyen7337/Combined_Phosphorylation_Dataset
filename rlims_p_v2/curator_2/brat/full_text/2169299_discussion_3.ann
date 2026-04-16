@@ -1,0 +1,6 @@
+T4	Site 1355 1362	Ser 845
+T2	Protein 1255 1264	GluR1p845
+T3	Phosphorylation 1363 1378	PHOSphorylation
+T1	Phosphorylation 1236 1251	PHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T2 Site:T4

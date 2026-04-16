@@ -1,0 +1,9 @@
+T6	Protein 741 752	the pERK1/2
+T4	Protein 669 675	ERK1/2
+T5	Phosphorylation 723 740	dePHOSphorylating
+T2	Protein 180 186	ERK1/2
+T3	Phosphorylation 650 665	phosphorylaTION
+T1	Phosphorylation 159 176	dePHOSphorylation
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

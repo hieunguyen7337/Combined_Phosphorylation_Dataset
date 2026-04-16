@@ -1,0 +1,18 @@
+T8	Protein 9270 9279	Smad1/5/8
+T9	Phosphorylation 9745 9759	PHOSphorylated
+T6	Protein 9046 9055	Smad1/5/8
+T7	Phosphorylation 9255 9269	PHOSphorylated
+T4	Protein 8715 8724	Smad1/5/8
+T5	Phosphorylation 9031 9045	PHOSphorylated
+T2	Protein 4188 4198	histone H3
+T3	Phosphorylation 8700 8714	PHOSphorylated
+T1	Phosphorylation 4215 4229	PHOSphorylated
+T10	Protein 9760 9769	Smad1/5/8
+T11	Phosphorylation 11411 11425	PHOSphorylated
+T12	Protein 11426 11435	Smad1/5/8
+E5	Phosphorylation:T9 Theme:T10
+E4	Phosphorylation:T7 Theme:T8
+E6	Phosphorylation:T11 Theme:T12
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

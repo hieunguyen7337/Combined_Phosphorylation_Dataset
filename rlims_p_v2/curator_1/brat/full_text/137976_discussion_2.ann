@@ -1,0 +1,9 @@
+T6	Phosphorylation 3057 3067	SUBstrates
+T7	Protein 3041 3049	Aurora B
+T4	Protein 3586 3594	Aurora B
+T5	Protein 3567 3579	topo IIalpha
+T2	Protein 3472 3480	proteins
+T3	Phosphorylation 3595 3604	SUBstrate
+T1	Phosphorylation 3457 3471	PHOSphorylated
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T5 Cause:T4

@@ -1,0 +1,88 @@
+T12	Protein 1186 1195	gamma-PAK
+T39	Phosphorylation 956 969	phosphorylate
+T14	Phosphorylation 1244 1261	3 phosphopeptides
+T15	Phosphorylation 1304 1327	9 major phosphopeptides
+T16	Phosphorylation 1358 1380	was autophosphorylated
+T17	Protein 1348 1357	gamma-PAK
+T10	Phosphorylation 1132 1152	exogenous substrates
+T11	Phosphorylation 1155 1182	Tryptic phosphopeptide maps
+T38	Protein 586 603	Cdc42 (GTPgammaS)
+T13	Phosphorylation 1196 1214	autophosphorylated
+T36	Phosphorylation 717 736	autophosphorylation
+T37	Protein 827 844	Cdc42 (GTPgammaS)
+T34	Phosphorylation 527 546	autophosphorylation
+T35	Phosphorylation 692 702	substrates
+T32	Protein 207 262	p21-activated protein kinase gamma-PAK ( Pak2 , PAK I )
+T19	Phosphorylation 1707 1741	the two additional phosphopeptides
+T30	Protein 56 94	p21-activated protein kinase gamma-PAK
+T31	Phosphorylation 312 331	autophosphorylation
+T50	Phosphorylation 1453 1468	phosphopeptides
+T18	Phosphorylation 1445 1468	7 major phosphopeptides
+T52	Phosphorylation 2007 2017	substrates
+T53	Phosphorylation 2023 2038	phosphorylation
+T54	Phosphorylation 2048 2058	substrates
+T33	Phosphorylation 419 438	Autophosphorylation
+T8	Phosphorylation 1113 1128	phosphorylation
+T9	Protein 1132 1152	exogenous substrates
+T6	Protein 857 866	gamma-PAK
+T7	Phosphorylation 970 999	peptide or protein substrates
+T4	Protein 221 245	protein kinase gamma-PAK
+T5	Phosphorylation 867 885	autophosphorylated
+T2	Protein 70 94	protein kinase gamma-PAK
+T3	Phosphorylation 672 702	peptide and protein substrates
+T1	Phosphorylation 5 52	Autophosphorylation and protein kinase activity
+T29	Phosphorylation 5 24	Autophosphorylation
+T28	Phosphorylation 2042 2058	these substrates
+T21	Site 1817 1830	threonine 402
+T20	Protein 1761 1764	PAK
+T23	Phosphorylation 1869 1888	autophosphorylation
+T22	Phosphorylation 1798 1813	phosphorylation
+T25	Phosphorylation 1920 1939	autophosphorylation
+T24	Site 1892 1898	serine
+T27	Phosphorylation 1997 2038	exogenous substrates , or phosphorylation
+T26	Site 1943 1956	threonine 402
+T49	Phosphorylation 1362 1380	autophosphorylated
+T48	Protein 1275 1292	Cdc42 (GTPgammaS)
+T43	Protein 1046 1055	gamma-PAK
+T42	Phosphorylation 1081 1100	autophosphorylation
+T41	Phosphorylation 989 999	substrates
+T40	Protein 857 899	gamma-PAK autophosphorylated with ATP (Mn)
+T47	Phosphorylation 1312 1327	phosphopeptides
+T46	Phosphorylation 1246 1261	phosphopeptides
+T45	Phosphorylation 1163 1177	phosphopeptide
+T44	Phosphorylation 1142 1152	substrates
+T51	Phosphorylation 1726 1741	phosphopeptides
+E19	Phosphorylation:T31 Theme:T32 Cause:T32
+E18	Phosphorylation:T29 Theme:T30 Cause:T30
+E34	Phosphorylation:T51 Theme:T20 Site:T21
+E33	Phosphorylation:T50 Theme:T9
+E32	Phosphorylation:T49 Theme:T17 Cause:T17
+E31	Phosphorylation:T47 Theme:T12 Cause:T48
+E30	Phosphorylation:T46 Theme:T9
+E11	Phosphorylation:T16 Theme:T17 Cause:T17
+E10	Phosphorylation:T15 Theme:T9
+E13	Phosphorylation:T19 Theme:T20 Site:T21
+E12	Phosphorylation:T18 Theme:T9
+E15	Phosphorylation:T23 Theme:T20 Cause:T20 Site:T24
+E14	Phosphorylation:T22 Theme:T20 Site:T21
+E17	Phosphorylation:T28 Theme:T20
+E16	Phosphorylation:T25 Theme:T20 Cause:T20 Site:T26
+E9	Phosphorylation:T14 Theme:T9
+E8	Phosphorylation:T13 Theme:T12 Cause:T12
+E5	Phosphorylation:T8 Theme:T9
+E4	Phosphorylation:T7 Theme:T4
+E7	Phosphorylation:T11 Theme:T12
+E6	Phosphorylation:T10 Theme:T9
+E1	Phosphorylation:T1 Theme:T2 Cause:T2
+E3	Phosphorylation:T5 Theme:T6 Cause:T6
+E2	Phosphorylation:T3 Theme:T4
+E24	Phosphorylation:T36 Theme:T32 Cause:T37
+E25	Phosphorylation:T34 Theme:T32 Cause:T38
+E26	Phosphorylation:T41 Theme:T4
+E27	Phosphorylation:T42 Theme:T43 Cause:T43
+E20	Phosphorylation:T33 Theme:T32
+E21	Phosphorylation:T35 Theme:T4
+E22	Phosphorylation:T36 Theme:T32
+E23	Phosphorylation:T35 Theme:T32
+E28	Phosphorylation:T44 Theme:T9
+E29	Phosphorylation:T45 Theme:T12

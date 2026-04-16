@@ -1,0 +1,32 @@
+T14	Phosphorylation 882 902	hyperphosphorylation
+T15	Protein 877 881	MyoD
+T16	Phosphorylation 1144 1163	hyperphosphorylated
+T17	Protein 1164 1168	MyoD
+T10	Phosphorylation 812 827	phosphorylation
+T11	Protein 808 811	CDK
+T12	Protein 837 841	MyoD
+T13	Site 856 860	S200
+T18	Phosphorylation 1277 1292	phosphorylation
+T19	Protein 1273 1276	CDK
+T8	Protein 710 714	MyoD
+T9	Site 756 765	CDK sites
+T6	Protein 547 551	MyoD
+T7	Phosphorylation 728 743	phosphorylation
+T4	Protein 420 424	MyoD
+T5	Phosphorylation 611 626	phosphorylation
+T2	Protein 32 36	MyoD
+T3	Phosphorylation 438 452	phosphorylated
+T1	Phosphorylation 5 20	Phosphorylation
+T21	Protein 756 759	CDK
+T20	Protein 1258 1262	MyoD
+T22	Protein 579 610	cyclin-dependent kinase ( CDK )
+E10	Phosphorylation:T5 Theme:T6 Cause:T22
+E9	Phosphorylation:T7 Theme:T8 Cause:T21
+E8	Phosphorylation:T18 Theme:T20 Cause:T19
+E5	Phosphorylation:T10 Theme:T12 Cause:T11 Site:T13
+E4	Phosphorylation:T7 Theme:T8 Site:T9
+E7	Phosphorylation:T16 Theme:T17
+E6	Phosphorylation:T14 Theme:T15
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4

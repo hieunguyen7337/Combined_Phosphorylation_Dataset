@@ -1,0 +1,15 @@
+T8	Protein 560 567	ERK 1/2
+T9	Protein 572 575	JNK
+T6	Protein 326 329	JNK
+T7	Phosphorylation 545 559	PHOSphorylated
+T4	Phosphorylation 295 310	PHOSphorylation
+T5	Protein 314 321	ERK 1/2
+T2	Protein 47 54	ERK 1/2
+T3	Protein 59 62	JNK
+T1	Phosphorylation 28 43	PHOSphorylation
+E5	Phosphorylation:T7 Theme:T8
+E4	Phosphorylation:T4 Theme:T6
+E6	Phosphorylation:T7 Theme:T9
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T4 Theme:T5
+E2	Phosphorylation:T1 Theme:T3

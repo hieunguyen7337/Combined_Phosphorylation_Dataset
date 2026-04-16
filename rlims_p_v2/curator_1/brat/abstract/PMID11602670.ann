@@ -1,0 +1,18 @@
+T8	Phosphorylation 1254 1263	substrate
+T9	Phosphorylation 1318 1332	phosphorylated
+T6	Phosphorylation 1529 1554	increased phosphorylation
+T7	Protein 1558 1570	beta-catenin
+T4	Phosphorylation 1399 1424	increased phosphorylation
+T5	Protein 1428 1440	beta-catenin
+T2	Phosphorylation 1314 1332	was phosphorylated
+T3	Protein 1336 1339	PKG
+T1	Phosphorylation 1238 1271	a potential new substrate for PKG
+T10	Protein 1223 1235	beta-Catenin
+T11	Phosphorylation 1409 1424	phosphorylation
+T12	Phosphorylation 1539 1554	phosphorylation
+T13	Protein 1510 1513	PKG
+E5	Phosphorylation:T12 Theme:T7 Cause:T13
+E4	Phosphorylation:T11 Theme:T5
+E1	Phosphorylation:T4 Theme:T5
+E3	Phosphorylation:T9 Theme:T10 Cause:T3
+E2	Phosphorylation:T6 Theme:T7

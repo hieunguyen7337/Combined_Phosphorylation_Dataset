@@ -1,0 +1,31 @@
+T8	Phosphorylation 1694 1709	phosphorylation
+T9	Protein 1732 1742	epsilonPKC
+T6	Protein 1266 1278	beta-catenin
+T7	Phosphorylation 1490 1574	phosphorylated-c-Jun N-terminal kinase and extracellular signal-regulated kinase 1/2
+T4	Phosphorylation 1161 1206	phosphorylated-glycogen synthase kinase 3beta
+T5	Phosphorylation 1258 1294	blocked beta-catenin phosphorylation
+T2	Protein 707 710	Akt
+T3	Site 693 699	hospho
+T1	Phosphorylation 692 719	phosphorylated Akt (Ser473)
+T14	Phosphorylation 1161 1184	phosphorylated-glycogen
+T15	Protein 1176 1206	glycogen synthase kinase 3beta
+T16	Phosphorylation 1279 1294	phosphorylation
+T17	Phosphorylation 1366 1384	non-phosphorylated
+T10	Phosphorylation 692 706	phosphorylated
+T11	Site 712 718	Ser473
+T12	Phosphorylation 978 1004	phosphorylated-phosphatase
+T13	Protein 993 1004	phosphatase
+T21	Protein 1533 1574	extracellular signal-regulated kinase 1/2
+T20	Protein 1505 1528	c-Jun N-terminal kinase
+T18	Protein 1392 1404	beta-catenin
+T19	Phosphorylation 1490 1510	phosphorylated-c-Jun
+E10	Phosphorylation:T19 Theme:T21
+E9	Phosphorylation:T19 Theme:T20
+E8	Phosphorylation:T17 Theme:T18
+E5	Phosphorylation:T12 Theme:T13
+E4	Phosphorylation:T10 Theme:T2 Site:T11
+E7	Phosphorylation:T16 Theme:T6
+E6	Phosphorylation:T14 Theme:T15
+E1	Phosphorylation:T1 Theme:T2 Site:T3
+E3	Phosphorylation:T8 Theme:T9
+E2	Phosphorylation:T5 Theme:T6

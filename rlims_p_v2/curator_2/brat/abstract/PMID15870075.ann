@@ -1,0 +1,6 @@
+T4	Protein 1181 1202	focal adhesion kinase
+T2	Protein 571 615	protein kinase B ( PKB ; also known as Akt )
+T3	Phosphorylation 1166 1180	phosphorylated
+T1	Phosphorylation 556 570	phosphorylated
+E1	Phosphorylation:T1 Theme:T2
+E2	Phosphorylation:T3 Theme:T4

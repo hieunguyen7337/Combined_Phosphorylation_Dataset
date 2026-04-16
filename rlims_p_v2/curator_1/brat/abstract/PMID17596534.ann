@@ -1,0 +1,5 @@
+T4	Site 813 822	serine 15
+T2	Protein 745 748	CsA
+T3	Protein 809 812	p53
+T1	Phosphorylation 823 838	phosphorylation
+E1	Phosphorylation:T1 Theme:T3 Cause:T2 Site:T4

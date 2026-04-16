@@ -1,0 +1,12 @@
+T8	Protein 2277 2281	ULK1
+T6	Protein 2039 2043	ULK1
+T7	Phosphorylation 2319 2334	PHOSphorylation
+T4	Protein 1774 1778	ULK1
+T5	Phosphorylation 2047 2061	PHOSphorylated
+T2	Protein 114 117	ULK
+T3	Phosphorylation 1782 1800	autoPHOSphorylated
+T1	Phosphorylation 95 110	PHOSphorylation
+E4	Phosphorylation:T7 Theme:T8
+E1	Phosphorylation:T1 Theme:T2
+E3	Phosphorylation:T5 Theme:T6
+E2	Phosphorylation:T3 Theme:T4 Cause:T4

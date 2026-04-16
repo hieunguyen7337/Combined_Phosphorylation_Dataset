@@ -54,7 +54,7 @@ The repository contains a mix of active inputs, archived corpora, and reference 
   - Upstream dataset page:
     - `https://research.bioinformatics.udel.edu/iprolink/corpora.php`
   - Note:
-    - The corpora page references RLIMS-P resources, but this repository folder appears to be an older rule/pattern resource rather than the currently used refactored dataset input.
+    - This repository folder do not include the full dataset.
 
 - `Text_mining_UDel/`
   - Upstream export index:
@@ -74,4 +74,4 @@ The repository contains a mix of active inputs, archived corpora, and reference 
 
 - The `eFIP/` and `rlims_p_v2/` folders correspond to corpora listed on the iProLINK corpora page.
 - The `Text_mining_UDel/` folder appears to correspond more closely to files exposed from the UDel text-mining export index, especially IPTMNet and RLIMS JSON exports.
-- `BioCreative_4/` is an archived corpus already stored in the repository and is not part of the current conversion pipeline.
+- `BioCreative_4/` is an archived corpus is not part of the current conversion pipeline.

@@ -36,39 +36,39 @@ The repository contains a mix of active inputs, archived corpora, and reference 
 
 - `eFIP/`
   - Upstream dataset page:
-    - `https://research.bioinformatics.udel.edu/iprolink/corpora.php`
+    - [https://research.bioinformatics.udel.edu/iprolink/corpora.php](https://research.bioinformatics.udel.edu/iprolink/corpora.php)
   - Direct download links:
     - Full-length corpus ZIP (matches `eFIP/Corpus/` source material):
-      - `https://research.bioinformatics.udel.edu/eFIPonline/Corpus.zip`
+      - [https://research.bioinformatics.udel.edu/eFIPonline/Corpus.zip](https://research.bioinformatics.udel.edu/eFIPonline/Corpus.zip)
     - Other corpus spreadsheet:
-      - `https://pir.georgetown.edu/pirwww/iprolink/eFIP.xlsx`
+      - [https://pir.georgetown.edu/pirwww/iprolink/eFIP.xlsx](https://pir.georgetown.edu/pirwww/iprolink/eFIP.xlsx)
 
 - `rlims_p_v2/`
   - Upstream dataset page:
-    - `https://research.bioinformatics.udel.edu/iprolink/corpora.php`
+    - [https://research.bioinformatics.udel.edu/iprolink/corpora.php](https://research.bioinformatics.udel.edu/iprolink/corpora.php)
   - Direct download link:
     - RLIMS-P v2 corpus TAR.GZ:
-      - `https://research.bioinformatics.udel.edu/text_mining/corpus/tars/rlims2.tar.gz`
+      - [https://research.bioinformatics.udel.edu/text_mining/corpus/tars/rlims2.tar.gz](https://research.bioinformatics.udel.edu/text_mining/corpus/tars/rlims2.tar.gz)
 
 - `rlims_p_v1/`
   - Upstream dataset page:
-    - `https://research.bioinformatics.udel.edu/iprolink/corpora.php`
+    - [https://research.bioinformatics.udel.edu/iprolink/corpora.php](https://research.bioinformatics.udel.edu/iprolink/corpora.php)
   - Note:
     - This repository folder do not include the full dataset.
 
 - `Text_mining_UDel/`
   - Upstream export index:
-    - `https://hershey.dbi.udel.edu/textmining/export`
+    - [https://hershey.dbi.udel.edu/textmining/export](https://hershey.dbi.udel.edu/textmining/export)
   - Direct download link:
     - IPTMNet export ZIP:
-      - `https://hershey.dbi.udel.edu/textmining/export/iptmnet5.1.zip`
+      - [https://hershey.dbi.udel.edu/textmining/export/iptmnet5.1.zip](https://hershey.dbi.udel.edu/textmining/export/iptmnet5.1.zip)
 
 - `BioCreative_4/`
   - Upstream dataset index:
-    - `https://ftp.ncbi.nlm.nih.gov/pub/lu/BC4GO/`
+    - [https://ftp.ncbi.nlm.nih.gov/pub/lu/BC4GO/](https://ftp.ncbi.nlm.nih.gov/pub/lu/BC4GO/)
   - Direct download link:
     - BioCreative IV Task 4 corpus ZIP:
-      - `https://ftp.ncbi.nlm.nih.gov/pub/lu/BC4GO/bc4go_test_v090313_.zip`
+      - [https://ftp.ncbi.nlm.nih.gov/pub/lu/BC4GO/bc4go_test_v090313_.zip](https://ftp.ncbi.nlm.nih.gov/pub/lu/BC4GO/bc4go_test_v090313_.zip)
 
 ## Notes on Provenance
 

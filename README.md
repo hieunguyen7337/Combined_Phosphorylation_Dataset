@@ -6,7 +6,7 @@ This repository is a biomedical text-mining workspace centered on phosphorylatio
 
 Most folders contain raw or archived source datasets. The active dataset-building code lives in:
 
-- [Unified_Phosphorylation_Dataset](/F:/document/QUT_research_assistant_file/Dr_Bashar_file/Phos_dataset/Unified_Phosphorylation_Dataset)
+- [Unified_Phosphorylation_Dataset](./Unified_Phosphorylation_Dataset/)
 
 That pipeline:
 
@@ -28,4 +28,4 @@ That pipeline:
 
 Open the detailed pipeline guide here:
 
-- [Unified_Phosphorylation_Dataset/README.md](/F:/document/QUT_research_assistant_file/Dr_Bashar_file/Phos_dataset/Unified_Phosphorylation_Dataset/README.md)
+- [Unified_Phosphorylation_Dataset/README.md](./Unified_Phosphorylation_Dataset/README.md)

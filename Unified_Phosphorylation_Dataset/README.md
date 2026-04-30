@@ -56,16 +56,18 @@ What the code does today:
 - converts raw BRAT annotations from `../rlims_p_v2/`
 - merges those normalized sources into one combined dataset
 - generates markdown reports describing the merged output
+- generates auditable NER-based candidate relations from `../rlims_p_v1/`
+- provides a local Streamlit app for inspecting all `rlims_p_v1` NER records and labeling strict candidate relations
 
 What the code does not do today:
 
 - convert `BioCreative_4/`
 - convert `Text_mining_UDel/`
-- convert `rlims_p_v1/`
+- automatically merge unaudited `rlims_p_v1` candidates into the final combined corpus
 
 So this folder should be understood as a pipeline for the current unified phosphorylation dataset build, not as a universal converter for every dataset archive in the repository.
 
-### Why `rlims_p_v1` Is Not Fully Converted
+### Why `rlims_p_v1` Requires Audit Before Merging
 
 The `../rlims_p_v1/` folder now includes the upstream RLIMS-P v1 benchmarking files:
 
@@ -73,7 +75,235 @@ The `../rlims_p_v1/` folder now includes the upstream RLIMS-P v1 benchmarking fi
 - `rlimsp_benchmarking_IE_set.shtml`: phosphorylation information-extraction benchmark with tagged evidence snippets, PMIDs, PIR IDs, PIR feature lines, titles, and abstracts.
 - `RLIMS-P_patterns.doc` and `Phospho_Patterns.txt`: rule/pattern references.
 
-The IE benchmark is phosphorylation-relevant, but it does not consistently provide the information needed for the unified `[E1]...[/E1]` and `[E2]...[/E2]` relation format. Its PIR feature lines provide phosphorylation residue and protein sequence positions, for example site positions such as `Ser686`, but not direct character offsets for both protein entities in the abstract. Some feature lines also omit the kinase entirely or express it only indirectly. Converting this source into full relation-marker records would require heuristic entity recovery or manual curation, so it is intentionally excluded from the current automatic unified build.
+The IE benchmark is phosphorylation-relevant, but it does not consistently provide the information needed for the unified `[E1]...[/E1]` and `[E2]...[/E2]` relation format. Its PIR feature lines provide phosphorylation residue and protein sequence positions, for example site positions such as `Ser686`, but not direct character offsets for both protein entities in the abstract. Some feature lines also omit the kinase entirely or express it only indirectly.
+
+For that reason, `rlims_p_v1` is processed by a separate NER-assisted candidate generator. The generator creates strict candidate relations only when it can place exact, non-overlapping `[E1]` and `[E2]` spans in the abstract text. These candidates are not ground truth until expert-approved.
+
+## Expert Audit For `rlims_p_v1`
+
+`rlims_p_v1` candidate relations must be reviewed before they are merged into the final training corpus. The audit workflow is append-only: every saved expert decision is written to JSONL, and revisions create a new decision that supersedes the previous one instead of editing history.
+
+The important rule is that `rlims_p_v1` output is currently audit-ready, not training-ready. The NER pipeline proposes candidates; expert decisions decide which candidates become final relation records.
+
+### Installation
+
+Run these commands from the repository root:
+
+```powershell
+cd F:\document\QUT_research_assistant_file\Dr_Bashar_file\Phos_dataset
+```
+
+Create the virtual environment if it does not already exist:
+
+```powershell
+py -3.9 -m venv .venv
+```
+
+Install Python dependencies:
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install --upgrade pip setuptools wheel
+.\.venv\Scripts\python.exe -m pip install -r .\Unified_Phosphorylation_Dataset\requirements.txt
+.\.venv\Scripts\python.exe -m pip install -r .\Unified_Phosphorylation_Dataset\requirements-ner.txt
+```
+
+The NER/audit workflow depends on:
+
+- `spacy`
+- `scispacy`
+- `en_ner_bionlp13cg_md`
+- `streamlit`
+
+### Run The Actual NER Pipeline
+
+Run this from the repository root:
+
+```powershell
+.\.venv\Scripts\python.exe Unified_Phosphorylation_Dataset\convert_rlims_p_v1_to_json.py
+```
+
+Equivalent command from inside this folder:
+
+```powershell
+cd .\Unified_Phosphorylation_Dataset
+..\.venv\Scripts\python.exe .\convert_rlims_p_v1_to_json.py
+```
+
+This writes:
+
+- `data/processed/rlims_p_v1_raw_phosphorylation.json`
+- `data/processed/rlims_p_v1_ner_candidates.json`
+- `data/processed/rlims_p_v1_candidate_relations.json`
+- `data/processed/rlims_p_v1_rejected_relations.json`
+- `reports/rlims_p_v1_conversion_report.md`
+- `audit/brat/rlims_p_v1/`
+
+The files use JSONL records even though the extension is `.json`.
+
+### How The `rlims_p_v1` NER Pipeline Processes Text
+
+The implementation is split between:
+
+- `convert_rlims_p_v1_to_json.py`: command-line entrypoint.
+- `src/phosphorylation_dataset/rlims_v1_conversion.py`: parser, NER, candidate selection, output writer.
+
+Processing steps:
+
+1. Parse the upstream RLIMS-P v1 information-extraction benchmark from `../rlims_p_v1/rlimsp_benchmarking_IE_set.shtml`.
+2. Extract each phosphorylation feature record.
+3. Preserve source metadata:
+   - `PMID`
+   - `PIR`
+   - title
+   - abstract text
+   - full abstract text
+   - PIR FT line
+   - feature type
+   - phosphorylation residue
+   - phosphorylation site positions
+   - declared kinase text when the FT line contains one
+   - red evidence spans from the source HTML
+   - source reference
+4. Run biomedical NER with `en_ner_bionlp13cg_md`.
+5. Keep detected gene/protein-like spans with exact character offsets.
+6. Enrich entity spans with local dictionary information from `../Text_mining_UDel/iptmnet5.1.zip` where possible.
+7. Assign a dictionary role to each entity:
+   - `kinase`
+   - `substrate`
+   - `protein`
+8. Parse the FT line for phosphorylation residue/site evidence, such as `Ser686` or `Thr308`.
+9. Score possible kinase/substrate pairs using:
+   - declared kinase text from the FT line
+   - NER spans
+   - dictionary role
+   - phosphorylation trigger words
+   - evidence-span proximity
+   - source-text order and distance
+10. Choose one strict candidate pair only if a reliable pair exists.
+11. Require exact source-text offsets for both selected entities.
+12. Require non-overlapping P1/P2 spans.
+13. Insert `[E1]...[/E1]` and `[E2]...[/E2]` markers into the abstract.
+14. Write successful strict candidates to `rlims_p_v1_candidate_relations.json`.
+15. Write records that cannot be safely converted to `rlims_p_v1_rejected_relations.json`.
+16. Write all NER-processed records to `rlims_p_v1_ner_candidates.json`.
+17. Write BRAT `.ann` and `.txt` files for visual offset inspection.
+
+Every strict candidate is marked:
+
+```json
+"requires_manual_audit": true
+```
+
+### Current `rlims_p_v1` NER Result
+
+Last successful run:
+
+```text
+Raw feature records: 89
+NER records: 89
+Candidate relations: 30
+Rejected records: 59
+```
+
+Candidate confidence:
+
+```text
+high: 18
+medium: 8
+low: 4
+```
+
+Rejected reasons:
+
+```text
+no_non_overlapping_kinase_substrate_pair: 54
+autophosphorylation_requires_manual_entity_choice: 5
+```
+
+Validation result:
+
+```text
+validation_errors: 0
+BRAT .ann files: 30
+BRAT .txt files: 30
+```
+
+The 89 records are phosphorylation feature records, not all clean PPI relation records. The converter returns 30 strict candidates because it only creates a relation when it can safely produce this structure with exact source offsets:
+
+```text
+[E1]protein_or_kinase[/E1] ... [E2]protein_or_substrate[/E2]
+```
+
+The remaining 59 records are not discarded. They are preserved in `rlims_p_v1_rejected_relations.json` because automatic conversion was unsafe.
+
+The main reasons are:
+
+- Some FT lines describe phosphorylation sites but do not provide a clean kinase-substrate pair in the abstract.
+- Some abstracts mention proteins, but not in a form where the converter can confidently assign P1/P2.
+- Some NER spans are broad or noisy.
+- Some records are autophosphorylation, where the same protein can act as both kinase and substrate.
+- Exact direct positions are required for `[E1]` and `[E2]`; guessing would create bad training labels.
+
+The current pipeline is therefore precision-first:
+
+```text
+30 = strict auditable candidate relations
+59 = records needing manual pairing or rejected from strict automatic conversion
+89 = total RLIMS-P v1 NER-processed records
+```
+
+### Run The Streamlit NER Viewer And Labeling App
+
+Run the local app from the repository root:
+
+```powershell
+.\.venv\Scripts\streamlit.exe run Unified_Phosphorylation_Dataset\audit_rlims_p_v1_labels.py --server.port 8501 -- --candidates Unified_Phosphorylation_Dataset\data\processed\rlims_p_v1_candidate_relations.json --ner Unified_Phosphorylation_Dataset\data\processed\rlims_p_v1_ner_candidates.json --rejected Unified_Phosphorylation_Dataset\data\processed\rlims_p_v1_rejected_relations.json --raw Unified_Phosphorylation_Dataset\data\processed\rlims_p_v1_raw_phosphorylation.json --decisions Unified_Phosphorylation_Dataset\data\audit\rlims_p_v1_label_decisions.jsonl
+```
+
+Open:
+
+```text
+http://localhost:8501
+```
+
+The app has two modes:
+
+- `NER pipeline view (all 89 records)`: shows every NER-processed RLIMS-P v1 record, including records rejected from strict candidate output.
+- `Expert audit view (strict candidates)`: shows the 30 strict candidate relations for expert review.
+
+The NER pipeline view is for understanding how the pipeline behaved. It shows:
+
+- PMID and PIR
+- title
+- FT line
+- declared kinase text
+- phosphorylation site values
+- evidence spans
+- all NER spans
+- dictionary roles
+- whether the record became a strict candidate or was rejected
+- rejection reason when applicable
+
+The expert audit view is intentionally constrained. Reviewers no longer type entity text/start/end directly. They choose `P1` and `P2` from detected source-text spans. The app derives text/start/end from the selected span and only allows the reviewer to set the role. This prevents decisions with offsets that do not match the source text.
+
+The app writes audit decisions to:
+
+- `data/audit/rlims_p_v1_label_decisions.jsonl`
+- `data/audit/rlims_p_v1_label_decisions_latest.json`
+
+Before any expert labeling, approved records should be `0`. That is expected. It means no audit decisions have been saved yet; it does not mean the NER pipeline failed.
+
+### Export Approved `rlims_p_v1` Relations
+
+Export only expert-approved phosphorylation decisions:
+
+```powershell
+.\.venv\Scripts\python.exe Unified_Phosphorylation_Dataset\export_audited_rlims_p_v1.py --candidates Unified_Phosphorylation_Dataset\data\processed\rlims_p_v1_candidate_relations.json --decisions Unified_Phosphorylation_Dataset\data\audit\rlims_p_v1_label_decisions.jsonl --latest Unified_Phosphorylation_Dataset\data\audit\rlims_p_v1_label_decisions_latest.json --output Unified_Phosphorylation_Dataset\data\audit\rlims_p_v1_final_approved_relations.json
+```
+
+Only `approved` decisions with `ppi_label` set to `phosphorylation` are exported. Unreviewed or rejected candidates are not included in `combined_phosphorylation_corpus.json`.
+
+If full 89-record label coverage is required, the next recommended change is to add a separate manual-pairing queue for the 59 rejected records. That should let experts pick P1/P2 from detected spans without weakening the strict automatic candidate rules.
 
 ## Folder Layout
 

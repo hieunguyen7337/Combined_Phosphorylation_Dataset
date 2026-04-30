@@ -1,0 +1,12 @@
+T1	Protein 168 171	hsp
+T2	Protein 206 209	hsp
+T3	Protein 406 410	VHHG
+T4	Protein 419 423	beta
+T5	Protein 443 446	hsp
+T6	Protein 511 514	hsp
+T7	Protein 800 803	hsp
+T8	Protein 871 874	hsp
+T9	Protein 913 929	casein kinase II
+T10	Protein 994 997	hsp
+T11	Protein 1033 1049	casein kinase II
+T12	Evidence 506 646	Both hsp 90 proteins are phosphorylated at two homologous sites. For the alpha protein, these sites correspond to serine 231 and serine 263.

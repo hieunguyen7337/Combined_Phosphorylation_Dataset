@@ -1,0 +1,16 @@
+T1	Protein 52 57	PTP1B
+T2	Protein 328 333	PTP1B
+T3	Protein 408 413	PTP1B
+T4	Protein 556 561	PTP1B
+T5	Protein 662 667	PTP1B
+T6	Protein 680 686	Ser386
+T7	Protein 857 862	PTP1B
+T8	Protein 1124 1129	PTP1B
+T9	Protein 1265 1271	Ser378
+T10	Protein 1312 1328	protein kinase C
+T11	Protein 1330 1333	PKC
+T12	Protein 1388 1393	PTP1B
+T13	Protein 1453 1456	PKC
+T14	Protein 1507 1512	PTP1B
+T15	Protein 1684 1689	PTP1B
+T16	Evidence 1265 1334	Ser378, is also the site of phosphorylation by protein kinase C (PKC)

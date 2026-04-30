@@ -1,0 +1,19 @@
+T1	Protein 0 39	Mitogen-activated protein kinase kinase
+T2	Protein 41 44	MKK
+T3	Protein 75 107	mitogen-activated protein kinase
+T4	Protein 109 113	MAPK
+T5	Protein 224 228	MAPK
+T6	Protein 244 247	MKK
+T7	Protein 467 471	MAPK
+T8	Protein 565 568	MKK
+T9	Protein 655 658	MKK
+T10	Protein 889 893	MAPK
+T11	Protein 921 927	Thr386
+T12	Protein 1005 1011	Thr386
+T13	Protein 1134 1137	MKK
+T14	Protein 1312 1315	MKK
+T15	Protein 1379 1382	MKK
+T16	Protein 1433 1436	MKK
+T17	Protein 1440 1446	Thr292
+T18	Protein 1451 1457	Thr386
+T19	Evidence 853 927	phosphopeptides contained candidate MAPK target sites at Thr292 and Thr386

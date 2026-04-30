@@ -1,0 +1,17 @@
+T1	Protein 109 125	protein kinase C
+T2	Protein 127 130	PKC
+T3	Protein 161 224	receptor-coupled inositol phospholipid-specific phospholipase C
+T4	Protein 298 301	PKC
+T5	Protein 334 337	PLC
+T6	Protein 430 442	PLC isozymes
+T7	Protein 444 452	PLC-beta
+T8	Protein 454 463	PLC-gamma
+T9	Protein 469 478	PLC-delta
+T10	Protein 565 573	PLC-beta
+T11	Protein 608 617	PLC-gamma
+T12	Protein 622 631	PLC-delta
+T13	Protein 707 710	PKC
+T14	Protein 825 833	PLC-beta
+T15	Protein 950 958	PLC-beta
+T16	Protein 962 965	PKC
+T17	Evidence 663 843	Phosphorylation of bovine brain PLC-beta by PKC in vitro resulted in a stoichiometric incorporation of phosphate at serine 887, without any concomitant effect on PLC-beta activity.

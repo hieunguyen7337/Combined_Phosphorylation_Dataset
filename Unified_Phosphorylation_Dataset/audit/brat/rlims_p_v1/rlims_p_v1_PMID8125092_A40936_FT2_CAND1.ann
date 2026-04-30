@@ -1,0 +1,32 @@
+T1	Protein 0 14	Oncoprotein 18
+T2	Protein 16 20	Op18
+T3	Protein 218 222	Op18
+T4	Protein 319 324	Ser25
+T5	Protein 434 439	Ser16
+T6	Protein 557 561	Op18
+T7	Protein 606 610	Op18
+T8	Protein 632 637	Ser38
+T9	Protein 727 731	cdc2
+T10	Protein 794 798	Op18
+T11	Protein 827 877	receptor-regulated calcium-induced protein kinases
+T12	Protein 886 896	MAP kinase
+T13	Protein 942 974	cell-cycle-regulated cdc2 kinase
+T14	Protein 1047 1067	cell-cycle-regulated
+T15	Protein 1084 1088	Op18
+T16	Protein 1246 1251	Ser25
+T17	Protein 1256 1261	Ser38
+T18	Protein 1394 1398	Op18
+T19	Protein 1456 1460	Op18
+T20	Protein 1501 1506	Ser38
+T21	Protein 1531 1536	Ser25
+T22	Protein 1538 1543	Ser16
+T23	Protein 1663 1674	cdc2 kinase
+T24	Protein 1724 1732	p34-cdc2
+T25	Protein 1749 1769	cell-cycle-regulated
+T26	Protein 1789 1794	Ser25
+T27	Protein 1799 1804	Ser38
+T28	Protein 1808 1812	Op18
+T29	Protein 1905 1913	p34-cdc2
+T30	Protein 2055 2059	Op18
+T31	Protein 2120 2131	cdc2 kinase
+T32	Evidence 520 750	Our previous site-mapping studies of Op18 also revealed that basal phosphorylation of Op18 is mainly located on Ser38, which was found to be the primary in vitro phosphorylation site of p13suc1-precipitated cdc2 kinase activities.

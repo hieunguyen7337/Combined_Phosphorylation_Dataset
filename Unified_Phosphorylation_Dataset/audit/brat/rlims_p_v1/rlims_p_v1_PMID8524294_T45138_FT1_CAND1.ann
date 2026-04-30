@@ -1,0 +1,16 @@
+T1	Protein 29 33	skp1
+T2	Protein 43 68	Schizosaccharomyces pombe
+T3	Protein 84 110	glycogen synthase kinase 3
+T4	Protein 112 117	GSK-3
+T5	Protein 247 251	skp1
+T6	Protein 282 292	GSK-3 beta
+T7	Protein 352 362	GSK-3 beta
+T8	Protein 364 368	skp1
+T9	Protein 481 485	skp1
+T10	Protein 650 654	skp1
+T11	Protein 769 773	skp1
+T12	Protein 831 835	skp1
+T13	Protein 929 933	skp1
+T14	Protein 960 965	cdc14
+T15	Protein 1206 1211	GSK-3
+T16	Evidence 481 556	skp1 is also phosphorylated at a serine which has been identified as S-335.

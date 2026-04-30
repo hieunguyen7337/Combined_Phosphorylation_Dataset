@@ -1,0 +1,11 @@
+T1	Protein 77 86	phosducin
+T2	Protein 113 133	beta, gamma subunits
+T3	Protein 141 164	photoreceptor G-protein
+T4	Protein 203 213	transducin
+T5	Protein 262 271	phosducin
+T6	Protein 398 407	phosducin
+T7	Protein 460 477	protein kinase A.
+T8	Protein 579 595	protein kinase A
+T9	Protein 1643 1659	protein kinase A
+T10	Protein 1708 1717	phosducin
+T11	Evidence 1339 1591	Edman degradation of phosphopeptides derived from 32P-labeled bovine phosducin showed that radioactive phosphate was incorporated into serine residue 73 which is located within a consensus phosphorylation sequence for protein kinase A (-R-K-M-S73(P)-).

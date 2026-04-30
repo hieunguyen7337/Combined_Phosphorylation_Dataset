@@ -1,0 +1,24 @@
+T1	Protein 44 60	protein kinase C
+T2	Protein 125 150	20,000-dalton light chain
+T3	Protein 234 259	20,000-dalton light chain
+T4	Protein 263 278	platelet myosin
+T5	Protein 348 375	Platelet myosin light chain
+T6	Protein 491 516	20,000-dalton light chain
+T7	Protein 534 542	serine-1
+T8	Protein 544 552	serine-2
+T9	Protein 558 569	threonine-9
+T10	Protein 600 616	protein kinase C
+T11	Protein 729 738	serine-19
+T12	Protein 742 754	threonine-18
+T13	Protein 775 791	protein kinase C
+T14	Protein 832 838	ATPase
+T15	Protein 851 913	platelet myosin prephosphorylated by myosin light chain kinase
+T16	Protein 929 935	ATPase
+T17	Protein 990 995	actin
+T18	Protein 1049 1064	platelet myosin
+T19	Protein 1168 1181	Mg2(+)-ATPase
+T20	Protein 1194 1209	platelet myosin
+T21	Protein 1271 1287	protein kinase C
+T22	Protein 1406 1412	ATPase
+T23	Protein 1425 1440	platelet myosin
+T24	Evidence 453 570	Dominant phosphorylation sites of the 20,000-dalton light chain are estimated as serine-1, serine-2, and threonine-9.

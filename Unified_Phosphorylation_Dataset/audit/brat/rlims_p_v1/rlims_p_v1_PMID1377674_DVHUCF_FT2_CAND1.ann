@@ -1,0 +1,31 @@
+T1	Protein 188 192	CFTR
+T2	Protein 204 232	AMP-dependent protein kinase
+T3	Protein 234 237	PKA
+T4	Protein 242 258	protein kinase C
+T5	Protein 260 263	PKC
+T6	Protein 290 294	CFTR
+T7	Protein 303 307	CF-2
+T8	Protein 407 410	PKA
+T9	Protein 412 415	PKC
+T10	Protein 454 457	PKG
+T11	Protein 464 509	calcium/calmodulin-dependent protein kinase I
+T12	Protein 511 523	CaM kinase I
+T13	Protein 694 697	PKA
+T14	Protein 702 705	PKG
+T15	Protein 754 757	PKC
+T16	Protein 759 763	CFTR
+T17	Protein 795 798	PKA
+T18	Protein 800 803	PKC
+T19	Protein 808 811	PKG
+T20	Protein 903 907	CF-2
+T21	Protein 991 994	PKA
+T22	Protein 996 999	PKC
+T23	Protein 1004 1007	PKG
+T24	Protein 1009 1013	CFTR
+T25	Protein 1071 1074	Its
+T26	Protein 1150 1153	PKA
+T27	Protein 1157 1160	PKC
+T28	Protein 1193 1197	CFTR
+T29	Protein 1275 1279	CFTR
+T30	Evidence 526 627	Direct amino acid sequencing and peptide mapping of CF-2 revealed that serines 660, 700, 737, and 813
+T31	Evidence 671 705	were phosphorylated by PKA and PKG

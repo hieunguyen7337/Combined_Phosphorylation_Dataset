@@ -14,6 +14,7 @@ That pipeline:
 2. combines them with eFIP-derived normalized files
 3. deduplicates and analyzes the merged dataset
 4. verifies the final output
+5. generates auditable NER-assisted RLIMS-P v1 candidate relations for expert review
 
 ## Repository Overview
 
@@ -29,6 +30,8 @@ That pipeline:
 Open the detailed pipeline guide here:
 
 - [Unified_Phosphorylation_Dataset/README.md](./Unified_Phosphorylation_Dataset/README.md)
+
+That README also documents the RLIMS-P v1 NER workflow, installation commands, Streamlit inspection/labeling app, current 89-record run result, and why only strict expert-auditable candidates are kept out of the final corpus until reviewed.
 
 ## Source Dataset Download Links
 

@@ -19,7 +19,7 @@ That pipeline:
 
 - `BioCreative_4/`: archived corpus files
 - `eFIP/`: eFIP corpus source material and spreadsheets
-- `rlims_p_v1/`: older rule/pattern resource
+- `rlims_p_v1/`: RLIMS-P v1 benchmarking files and older rule/pattern resource
 - `rlims_p_v2/`: RLIMS-P v2 annotations used by the converter
 - `Text_mining_UDel/`: archived IPTMNet-related data
 - `Unified_Phosphorylation_Dataset/`: refactored code, processed outputs, and reports
@@ -53,8 +53,15 @@ The repository contains a mix of active inputs, archived corpora, and reference 
 - `rlims_p_v1/`
   - Upstream dataset page:
     - [https://research.bioinformatics.udel.edu/iprolink/corpora.php](https://research.bioinformatics.udel.edu/iprolink/corpora.php)
+  - Direct download links:
+    - Phosphorylation information-retrieval benchmark dataset:
+      - [https://proteininformationresource.org/iprolink/rlimsp_benchmarking_IR_set](https://proteininformationresource.org/iprolink/rlimsp_benchmarking_IR_set)
+    - Phosphorylation information-extraction benchmark dataset:
+      - [https://proteininformationresource.org/iprolink/rlimsp_benchmarking_IE_set.shtml](https://proteininformationresource.org/iprolink/rlimsp_benchmarking_IE_set.shtml)
+    - RLIMS-P phospho patterns:
+      - [https://proteininformationresource.org/iprolink/RLIMS-P_patterns.doc](https://proteininformationresource.org/iprolink/RLIMS-P_patterns.doc)
   - Note:
-    - This repository folder do not include the full dataset.
+    - The information-extraction benchmark has tagged phosphorylation evidence and PIR feature lines, but it does not consistently provide direct character offsets for both phosphorylation substrate and kinase protein mentions. It is therefore not directly equivalent to the `Unified_Phosphorylation_Dataset` relation-marker format without heuristic extraction or manual curation.
 
 - `Text_mining_UDel/`
   - Upstream export index:

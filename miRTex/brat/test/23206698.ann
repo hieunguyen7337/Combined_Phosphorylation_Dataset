@@ -1,0 +1,14 @@
+T1	Gene 626 654	insulin receptor substrate-2
+T2	Gene 656 661	IRS-2
+T3	Gene 765 770	IRS-2
+T4	Gene 781 797	protein kinase B
+T5	Gene 799 802	Akt
+T6	Gene 962 967	IRS-2
+T7	Gene 993 996	Akt
+T8	MiRNA 0 10	miRNA-7-5p
+T9	MiRNA 337 345	miR-7-5p
+T10	MiRNA 380 388	miR-7-5p
+T11	MiRNA 527 535	miR-7-5p
+T12	MiRNA 678 686	miR-7-5p
+T13	MiRNA 849 857	miR-7-5p
+*	Equiv T2 T1

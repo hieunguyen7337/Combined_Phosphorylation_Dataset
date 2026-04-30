@@ -1,0 +1,18 @@
+T1	Gene 78 82	ISCU
+T2	Gene 87 92	COX10
+T3	Gene 340 371	hypoxia-inducible factor-1alpha
+T4	Gene 890 894	ISCU
+T5	Gene 896 932	iron-sulfur cluster scaffold homolog
+T6	Gene 938 943	COX10
+T7	Gene 945 982	cytochrome c oxidase assembly protein
+T8	MiRNA 18 30	microRNA-210
+T9	MiRNA 271 283	microRNA-210
+T10	MiRNA 285 292	miR-210
+T11	MiRNA 475 482	miR-210
+T12	MiRNA 550 557	miR-210
+T13	MiRNA 679 686	miR-210
+T14	MiRNA 815 822	miR-210
+T15	MiRNA 1130 1137	miR-210
+T16	MiRNA 1166 1173	miR-210
+*	Equiv T5 T4
+*	Equiv T7 T6

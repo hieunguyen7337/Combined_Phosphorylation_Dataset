@@ -1,0 +1,28 @@
+T2	Gene 344 365	tumor suppressor gene
+T3	Gene 804 814	PKCepsilon
+T4	Gene 817 842	cyclin-dependent kinase 6
+T5	Gene 844 848	CDK6
+T6	Gene 855 886	hypoxia-inducible factor 1-beta
+T7	Gene 888 897	HIF1-beta
+T8	Family 1189 1210	transcription factors
+T9	Gene 1212 1217	Nanog
+T10	Gene 1219 1225	Oct3/4
+T14	MiRNA 295 302	miR-107
+T15	MiRNA 415 422	miR-107
+T19	MiRNA 661 668	miR-107
+T21	MiRNA 762 769	miR-107
+T1	Gene 1231 1235	Sox2
+T11	Gene 779 802	protein kinase Cepsilon
+T12	MiRNA 41 48	miR-107
+T13	MiRNA 631 638	miR-107
+T16	MiRNA 736 743	miR-107
+T17	MiRNA 562 569	miR-107
+T18	MiRNA 578 585	miR-107
+T20	MiRNA 927 934	miR-107
+T22	MiRNA 1311 1318	miR-107
+T23	MiRNA 1069 1076	miR-107
+T24	MiRNA 1480 1487	miR-107
+T25	MiRNA 1042 1049	miR-107
+*	Equiv T11 T3
+*	Equiv T4 T5
+*	Equiv T6 T7

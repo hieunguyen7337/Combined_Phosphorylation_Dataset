@@ -61,9 +61,19 @@ What the code does not do today:
 
 - convert `BioCreative_4/`
 - convert `Text_mining_UDel/`
-- use `rlims_p_v1/Phospho_Patterns.txt` in the current pipeline
+- convert `rlims_p_v1/`
 
 So this folder should be understood as a pipeline for the current unified phosphorylation dataset build, not as a universal converter for every dataset archive in the repository.
+
+### Why `rlims_p_v1` Is Not Fully Converted
+
+The `../rlims_p_v1/` folder now includes the upstream RLIMS-P v1 benchmarking files:
+
+- `rlimsp_benchmarking_IR_set.txt`: phosphorylation information-retrieval benchmark with relevant and irrelevant abstracts.
+- `rlimsp_benchmarking_IE_set.shtml`: phosphorylation information-extraction benchmark with tagged evidence snippets, PMIDs, PIR IDs, PIR feature lines, titles, and abstracts.
+- `RLIMS-P_patterns.doc` and `Phospho_Patterns.txt`: rule/pattern references.
+
+The IE benchmark is phosphorylation-relevant, but it does not consistently provide the information needed for the unified `[E1]...[/E1]` and `[E2]...[/E2]` relation format. Its PIR feature lines provide phosphorylation residue and protein sequence positions, for example site positions such as `Ser686`, but not direct character offsets for both protein entities in the abstract. Some feature lines also omit the kinase entirely or express it only indirectly. Converting this source into full relation-marker records would require heuristic entity recovery or manual curation, so it is intentionally excluded from the current automatic unified build.
 
 ## Folder Layout
 

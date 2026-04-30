@@ -1,0 +1,27 @@
+T1	Gene 801 812	(TNF)-alpha
+T2	Gene 1199 1208	TNF-alpha
+T3	Gene 1261 1279	alpha-fetoprotein,
+T4	Gene 1281 1284	AFP
+T5	Gene 1310 1316	hsp-90
+T6	Complex 1345 1354	NF-kappaB
+T7	Gene 1405 1408	AFP
+T8	Gene 1413 1419	hsp-90
+T9	Gene 1458 1467	TNF-alpha
+T10	Gene 1623 1632	TNF-alpha
+T11	Gene 1684 1687	AFP
+T12	Gene 1689 1695	hsp-90
+T13	Complex 1700 1709	NF-kappaB
+T14	MiRNA 31 46	microRNA-491-5p
+T15	MiRNA 598 610	miRNA-491_5p
+T16	MiRNA 702 714	miRNA-491_5p
+T17	MiRNA 919 931	miRNA-491_5p
+T19	MiRNA 1065 1077	miRNA-491_5p
+T20	MiRNA 1375 1387	miRNA-491_5p
+T21	MiRNA 1581 1593	miRNA-491_5p
+T22	Complex 1322 1343	nuclear factor-kappaB
+T18	Gene 1287 1308	heat shock protein-90
+T23	MiRNA 1155 1170	microRNA-491_5p
+T24	Gene 107 135	tumour necrosis factor-alpha
+*	Equiv T3 T4
+*	Equiv T18 T5
+*	Equiv T22 T6

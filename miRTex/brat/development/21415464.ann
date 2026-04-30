@@ -1,0 +1,16 @@
+T1	Gene 462 467	Bcl-2
+T2	Gene 744 749	Bcl-2
+T3	Gene 807 810	Bax
+T4	Family 827 835	Caspases
+T5	Gene 898 903	Bcl-2
+T6	Complex 1021 1031	apoptosome
+T7	Gene 1144 1149	Bcl-2
+T8	Gene 1319 1324	Bcl-2
+T9	Gene 1434 1437	Bax
+T10	Family 1453 1460	Caspase
+T11	MiRNA 669 684	mmu-miR-181a-1*
+T12	MiRNA 686 697	mmu-miR-30e
+T13	MiRNA 702 713	mmu-miR-34a
+T14	MiRNA 1249 1256	miR-34a
+T15	MiRNA 1258 1262	-30e
+T16	MiRNA 1268 1273	-181a

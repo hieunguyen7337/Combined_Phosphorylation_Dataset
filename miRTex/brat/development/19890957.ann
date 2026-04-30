@@ -1,0 +1,22 @@
+T4	Gene 1389 1459	Epidermal growth factor receptor-coamplified and overexpressed protein
+T5	Gene 1461 1465	ECOP
+T6	Complex 1508 1517	NF-kappaB
+T7	Complex 1661 1670	NF-kappaB
+T8	Gene 1719 1736	cyclooxygenase -2
+T9	Complex 1772 1781	NF-kappaB
+T10	Complex 2040 2049	NF-kappaB
+T11	MiRNA 8 20	microRNA-218
+T12	MiRNA 309 316	miR-218
+T13	MiRNA 336 343	miR-218
+T14	MiRNA 649 656	miR-218
+T16	MiRNA 936 943	miR-218
+T17	MiRNA 991 998	miR-218
+T18	MiRNA 1153 1160	miR-218
+T19	MiRNA 1318 1325	miR-218
+T20	MiRNA 1610 1617	miR-218
+T21	MiRNA 1638 1645	miR-218
+T22	MiRNA 1843 1850	miR-218
+T23	MiRNA 1886 1893	miR-218
+T1	Complex 1484 1506	nuclear factor kappa B
+T2	MiRNA 919 926	miR-218
+*	Equiv T5 T4

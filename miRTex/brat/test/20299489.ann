@@ -1,0 +1,26 @@
+T1	Gene 55 96	mitogen-activated protein kinase kinase 1
+T2	Gene 693 738	extracellular signal-regulated protein kinase
+T3	Gene 740 743	ERK
+T4	Gene 827 846	activator protein-1
+T5	Gene 936 977	mitogen-activated protein kinase kinase 1
+T6	Gene 979 983	MEK1
+T7	Gene 1262 1274	MEK1 protein
+T8	Family 1467 1470	MEK
+T9	Gene 1471 1474	ERK
+T10	Gene 1600 1604	MEK1
+T11	MiRNA 0 12	MicroRNA-34a
+T12	MiRNA 515 522	miR-34a
+T13	MiRNA 524 531	miR-221
+T14	MiRNA 537 544	miR-222
+T15	MiRNA 781 788	miR-34a
+T16	MiRNA 890 897	miR-34a
+T17	MiRNA 1007 1014	miR-34a
+T18	MiRNA 1047 1054	miR-221
+T19	MiRNA 1166 1173	miR-34a
+T20	MiRNA 1335 1342	miR-34a
+T21	MiRNA 1504 1513	miRNA-34a
+T22	MiRNA 1668 1675	miR-34a
+T23	Gene 1019 1024	c-fos
+T24	MiRNA 1055 1058	222
+*	Equiv T6 T5
+*	Equiv T2 T3

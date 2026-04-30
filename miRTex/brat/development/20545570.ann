@@ -1,0 +1,23 @@
+T1	Gene 725 728	p53
+T2	Gene 1027 1030	p53
+T3	Gene 1767 1770	RAS
+T4	Gene 1904 1909	c-MYC
+T7	Gene 2266 2272	hPDCD4
+T8	Gene 2274 2304	phosphatase and tensin homolog
+T9	Gene 2306 2311	hPTEN
+T10	Gene 2337 2343	hSPRY2
+T11	MiRNA 1970 1977	miR-15a
+T12	MiRNA 1982 1988	miR-16
+T13	MiRNA 2101 2107	miR-15
+T14	MiRNA 2112 2118	miR-16
+T15	MiRNA 2162 2168	miR-21
+T16	MiRNA 2396 2402	miR-21
+T5	Gene 706 723	tumour protein 53
+T6	MiRNA 1692 1700	lethal-7
+T17	MiRNA 1702 1707	let-7
+T18	Gene 2234 2264	programmed cell death factor 4
+T19	Gene 2318 2335	sprouty homolog 2
+*	Equiv T17 T6
+*	Equiv T18 T7
+*	Equiv T8 T9
+*	Equiv T19 T10

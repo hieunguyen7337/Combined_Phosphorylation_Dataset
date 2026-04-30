@@ -1,0 +1,25 @@
+T1	Gene 8 24	stem cell factor
+T2	Gene 29 66	granulocyte colony-stimulating factor
+T4	Gene 1000 1003	SCF
+T5	Gene 1008 1014	GM-CSF
+T6	Gene 1136 1167	S100 calcium-binding protein A4
+T7	Gene 1169 1175	S100A4
+T8	Gene 1197 1200	SCF
+T9	Gene 1206 1212	GM-CSF
+T10	Gene 1420 1423	SCF
+T11	Gene 1480 1486	S100A4
+T12	Gene 1536 1539	SCF
+T13	Gene 1599 1604	MMP-2
+T14	Gene 1609 1614	MMP-9
+T15	Gene 1688 1717	metalloproteinase inhibitor 3
+T16	Gene 1730 1735	MMP-2
+T17	Gene 1737 1742	MMP-9
+T19	Gene 1887 1890	SCF
+T20	MiRNA 1181 1189	miR-181b
+T21	MiRNA 1641 1649	miR-181b
+T22	MiRNA 1748 1756	miR-181b
+T3	Gene 1326 1357	transforming growth factor-beta
+T18	Gene 1359 1367	TGF-beta
+T23	Gene 1425 1431	GM-CSF
+T24	Gene 1541 1547	GM-CSF
+T25	Gene 1892 1898	GM-CSF

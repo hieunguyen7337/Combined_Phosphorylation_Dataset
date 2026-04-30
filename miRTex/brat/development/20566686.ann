@@ -1,0 +1,26 @@
+T1	Gene 0 29	Mammalian target of rapamycin
+T2	Gene 52 63	follistatin
+T3	Gene 88 117	Mammalian target of rapamycin
+T4	Gene 119 123	mTOR
+T5	Gene 272 276	mTOR
+T7	Gene 407 411	mTOR
+T8	Gene 508 512	mTOR
+T9	Gene 522 526	MyoD
+T11	Gene 617 621	MyoD
+T12	Gene 686 690	mTOR
+T15	Gene 746 767	histone deacetylase 4
+T16	Gene 769 774	HDAC4
+T17	Gene 801 812	follistatin
+T18	Gene 887 898	follistatin
+T19	Gene 918 922	mTOR
+T20	Gene 1015 1019	mTOR
+T21	Gene 1057 1061	mTOR
+T23	Gene 1068 1073	HDAC4
+T24	Gene 1074 1085	follistatin
+T25	MiRNA 40 47	miRNA-1
+T26	MiRNA 385 390	miR-1
+T27	MiRNA 554 559	miR-1
+T28	MiRNA 695 700	miR-1
+T29	MiRNA 725 730	miR-1
+T30	MiRNA 1062 1067	miR-1
+*	Equiv T15 T16

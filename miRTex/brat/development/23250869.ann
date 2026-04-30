@@ -1,0 +1,32 @@
+T1	Gene 21 25	TP63
+T2	Gene 75 79	ERK2
+T3	Gene 176 183	ERalpha
+T4	Gene 267 306	extracellular signal-regulated kinase 2
+T5	Gene 308 312	ERK2
+T6	Gene 522 529	ERalpha
+T7	Gene 534 538	ERK2
+T8	Gene 690 697	ERalpha
+T9	Gene 702 705	ERK
+T10	Gene 733 740	ERalpha
+T11	Gene 773 780	ERalpha
+T12	Gene 785 789	ERK2
+T14	Gene 989 993	TP63
+T15	Gene 1027 1034	ERalpha
+T16	Gene 1048 1055	ERalpha
+T19	Gene 1218 1222	TP63
+T21	Gene 1277 1281	TP63
+T23	Gene 1496 1500	TP63
+T24	Gene 1504 1511	ERalpha
+T25	Gene 1519 1523	ERK2
+T27	Gene 1567 1571	TP63
+T28	Gene 1694 1701	ERalpha
+T29	Gene 1727 1734	ERalpha
+T30	MiRNA 885 899	Hsa-miR-196a2*
+T31	MiRNA 1147 1161	hsa-miR-196a2*
+T32	MiRNA 1189 1203	hsa-miR-196a2*
+T33	MiRNA 1258 1272	Hsa-miR-196a2*
+T34	MiRNA 1552 1566	hsa-miR-196a2*
+T13	MiRNA 2 16	MicroRNA196a2*
+T17	Gene 47 70	estrogen receptor-alpha
+T18	Gene 970 987	tumor protein p63
+*	Equiv T18 T14

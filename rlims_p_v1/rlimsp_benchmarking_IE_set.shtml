@@ -1,0 +1,2361 @@
+<table width=65% bgcolor=eeeeee><tr><td>
+<br> <font size=4 color=navy>RLIMS-P Benchmarking Data Set for Extracting Phosphorylation Features from Abstracts</font> 
+<br> (59 tagged abstracts) 
+<br>                                                                            
+<br> FT - PIR feature line                                                     
+<br> TI - Title of the abstract                                               
+<br> AB - Abstract                                                                  
+<br> Each abstract (PMID) could be tagged for more than one feature line. 
+<br> Tagged evidences are highlighted in <font color=red>red</font>.    
+<br>                                                                              
+<br> January 24, 2005    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  https://proteininformationresource.org/iprolink/         
+<br> </td></tr></table>
+<br>
+<br><b>1. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1377674&dopt=Abstract">1377674</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=DVHUCF">DVHUCF</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase C) | 686,790  (all)
+<br>TI  - Phosphorylation of the cystic fibrosis transmembrane conductance
+<br>      regulator.
+<br>AB  - Regulation of epithelial chloride flux, which is defective in patients
+<br>      with cystic fibrosis, may be mediated by phosphorylation of the cystic
+<br>      fibrosis transmembrane conductance regulator (CFTR) by cyclic
+<br>      AMP-dependent protein kinase (PKA) or protein kinase C (PKC). Part of the
+<br>      R-domain of CFTR (termed CF-2) was expressed in and purified from
+<br>      Escherichia coli. CF-2 was phosphorylated on seryl residues by PKA, PKC,
+<br>      cyclic GMP-dependent protein kinase (PKG), and
+<br>      calcium/calmodulin-dependent protein kinase I (CaM kinase I). <font color=red>Direct amino
+<br>      acid sequencing and peptide mapping of CF-2 revealed that</font> serines 660,
+<br>      700, 737, and 813 as well as serine 768, serine 795, or both were
+<br>      phosphorylated by PKA and PKG, and <font color=red>serines 686 and 790 were phosphorylated
+<br>      by PKC.</font> CFTR was phosphorylated in vitro by PKA, PKC, or PKG on the same
+<br>      sites that were phosphorylated in CF-2. Kinetic analysis of
+<br>      phosphorylation of CF-2 and of synthetic peptides confirmed that these
+<br>      sites were excellent substrates for PKA, PKC, or PKG. CFTR was
+<br>      immunoprecipitated from T84 cells labeled with 32Pi. Its phosphorylation
+<br>      was stimulated in response to agents that activated either PKA or PKC.
+<br>      Peptide mapping confirmed that CFTR was phosphorylated at several sites
+<br>      identified in vitro. Thus, regulation of CFTR is likely to occur through
+<br>      direct phosphorylation of the R-domain by protein kinases stimulated by
+<br>      different second messenger pathways.
+<br>SO  - J Biol Chem 1992 Jun 25;267(18):12742-52.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=DVHUCF">DVHUCF</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP- and cGMP-dependent kinases) | 660,700,737,813  (all)
+<br>TI  - Phosphorylation of the cystic fibrosis transmembrane conductance
+<br>      regulator.
+<br>AB  - Regulation of epithelial chloride flux, which is defective in patients
+<br>      with cystic fibrosis, may be mediated by phosphorylation of the cystic
+<br>      fibrosis transmembrane conductance regulator (CFTR) by cyclic
+<br>      AMP-dependent protein kinase (PKA) or protein kinase C (PKC). Part of the
+<br>      R-domain of CFTR (termed CF-2) was expressed in and purified from
+<br>      Escherichia coli. CF-2 was phosphorylated on seryl residues by PKA, PKC,
+<br>      cyclic GMP-dependent protein kinase (PKG), and
+<br>      calcium/calmodulin-dependent protein kinase I (CaM kinase I). <font color=red>Direct amino
+<br>      acid sequencing and peptide mapping of CF-2 revealed that serines 660,
+<br>      700, 737, and 813</font> as well as serine 768, serine 795, or both <font color=red>were
+<br>      phosphorylated by PKA and PKG</font>, and serines 686 and 790 were phosphorylated
+<br>      by PKC. CFTR was phosphorylated in vitro by PKA, PKC, or PKG on the same
+<br>      sites that were phosphorylated in CF-2. Kinetic analysis of
+<br>      phosphorylation of CF-2 and of synthetic peptides confirmed that these
+<br>      sites were excellent substrates for PKA, PKC, or PKG. CFTR was
+<br>      immunoprecipitated from T84 cells labeled with 32Pi. Its phosphorylation
+<br>      was stimulated in response to agents that activated either PKA or PKC.
+<br>      Peptide mapping confirmed that CFTR was phosphorylated at several sites
+<br>      identified in vitro. Thus, regulation of CFTR is likely to occur through
+<br>      direct phosphorylation of the R-domain by protein kinases stimulated by
+<br>      different second messenger pathways.
+<br>SO  - J Biol Chem 1992 Jun 25;267(18):12742-52.
+<br>
+<br><b>2. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=164350&dopt=Abstract">164350</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A31334">A31334</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 1018  (all)
+<br>TI  - The hormonal control of activity of skeletal muscle phosphorylase kinase.
+<br>      Amino-acid sequences at the two sites of action of
+<br>      adenosine-3':5'-monophosphate-dependent protein kinase.
+<br>AB  - Two tryptic phosphopeptides containing the sites on the alpha and beta
+<br>      subunits of phosphorylase kinase which are phosphorylated by protein
+<br>      kinase, dependent on adenosine 3':5'-monophosphate (cyclic AMP), have been
+<br>      isolated and their amino acid sequences have been determined. 32P-labelled
+<br>      phosphorylase kinase, containing 1.9 mol phosphate per mol enzyme, was
+<br>      digested with an equimolar quantity of trypsin for 2.5 min at pH 7.0, 20
+<br>      degrees C. This treatment released nearly all the 32P radioactivity
+<br>      associated with the beta subunit as trichloroacetic-acid-soluble material.
+<br>      Only a small proportion of the 32P radioactivity associated with the alpha
+<br>      subunit was solubilised, the remainder being removed in the
+<br>      trichloroacetic acid pellet. The beta-subunit tryptic phosphopeptide was
+<br>      completely resolved from traces of the alpha-subunit phosphopeptide by gel
+<br>      filtration on Sephadex G-25. Further purification by peptide mapping
+<br>      separated the phosphopeptide into four components, each derived from the
+<br>      same nine-amino-acid segment of the betachain, which was found to possess
+<br>      the sequence: Gln-Ser-Gly-Ser(P)-Val-Ile-Tyr-Pro-Leu-Lys. The four
+<br>      components were produced by the partial cyclisation of the N-terminal
+<br>      glutaminyl residue, and by the presence of two alleles for the beta
+<br>      subunit in the rabbit population, which led to a valine-isoleucine
+<br>      ambiguity. The alpha-subunit phosphopeptide was liberated from the
+<br>      trichloroacetic acid pellet by redigestion with trypsin. It was the
+<br>      largest component in the digest which remained soluble in 5%
+<br>      trichloroacetic acid, and obtained in a highly purified form by a single
+<br>      filtration on Sephadex G-50. The peptide comprised 39 amino acids of which
+<br>      nine were serine and three were threonine residues. <font color=red>Only one residue, the
+<br>      serine at position three from the amino terminus, was phosphorylated. The
+<br>      amino-terminal sequence of the peptide was shown to be:
+<br>      Arg-Leu-Ser(P)-Ile-Ser-Thr-Glu-Ser-Glx-Pro-Asx-Gly.</font> The sequences confirm
+<br>      the stoichiometry of the reaction and the absolute specificity of
+<br>      cyclic-AMP-dependent protein kinase for just two of the 200 serine
+<br>      residues in the enzyme. These results and an inspection of the rate of
+<br>      phosphorylation of a number of skeletal muscle proteins, including each
+<br>      enzyme of the glycolytic pathway, lead to the conclusion that
+<br>      cyclic-AMP-dependent protein kinase is an extremely specific enzyme. The
+<br>      molecular basis of this specificity is discussed.
+<br>SO  - Eur J Biochem 1975 Feb 3;51(1):79-92.
+<br>
+<br><b>3. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1696913&dopt=Abstract">1696913</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=SGHU1V">SGHU1V</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 397  (all)
+<br>TI  - The phosphorylation of the two-chain form of vitronectin by protein kinase
+<br>      A is heparin dependent.
+<br>AB  - In circulating blood, vitronectin occurs in two forms: a single-chain (75
+<br>      kDa) and an endogenously clipped two-chain form (65 kDa and 10 kDa) held
+<br>      together by a disulfide bridge. <font color=red>The 75 kDa form was previously shown to be
+<br>      phosphorylated at Ser378 by protein kinase A, released by physiologically
+<br>      stimulated platelets.</font> By contrast, at pH 7.5 the two-chain form is not
+<br>      phosphorylated at all. Heparin or heparan sulfate are shown here to
+<br>      modulate the conformation of clipped vitronectin at physiological pH,
+<br>      exposing Ser378 and allowing its stoichiometric phosphorylation by the
+<br>      kinase. At this pH the two-chain form of vitronectin in plasma exhibits a
+<br>      higher affinity for heparin, and behaves as a flexible molecule, which can
+<br>      conformationally respond to heparin and heparan sulfate, effectors
+<br>      involved in vitronectin function.
+<br>SO  - FEBS Lett 1990 Aug 20;269(1):221-5.
+<br>
+<br><b>4. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1737801&dopt=Abstract">1737801</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A40936">A40936</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by MAP and cdc2 kinases) | 25  (all)
+<br>TI  - Analysis of phosphoprotein p19 by liquid chromatography/mass spectrometry.
+<br>      Identification of two proline-directed serine phosphorylation sites and a
+<br>      blocked amino terminus.
+<br>AB  - p19 is a highly conserved 19-kDa cytosolic protein that undergoes
+<br>      phosphorylation in mammalian cells upon activation of several distinct
+<br>      signal transduction pathways. Its expression is widespread but
+<br>      developmentally regulated. To determine the in vivo phosphorylation
+<br>      site(s) of p19, the protein was purified from bovine brain and resolved
+<br>      into the unphosphorylated form (p19) and a mixture of the two predominant
+<br>      phospho-forms (pp19). Proteolytic fragments of p19 and pp19 were examined
+<br>      by liquid chromatography/mass spectrometry (LC/MS). We detected ion masses
+<br>      corresponding to fragments spanning the entire amino acid sequence as
+<br>      deduced from the cDNA except for those predicted to contain an unmodified
+<br>      amino terminus. Instead, the digests revealed ions corresponding to
+<br>      peptides lacking the initiator methionine and containing an N-acetylated
+<br>      alanine at the amino terminus. The analysis of pp19, but not that of p19,
+<br>      revealed two sets of ions representing peptides whose m/z values differed
+<br>      by 80 atomic mass units, the incremental mass of a phosphate residue.
+<br>      These putative phosphate-bearing peptides were sensitive to alkaline
+<br>      phosphatase treatment. <font color=red>Using combined trypsin and V8 protease digestions,
+<br>      the phosphorylation sites were mapped to Ser-25 and Ser-38, in the
+<br>      peptides Leu-Ile-Leu-Ser*-Pro-Arg and Phe-Pro-Leu-Ser*-Pro-Pro-Lys,
+<br>      respectively.</font> Interestingly, both phosphoserines are in a very similar
+<br>      sequence context, suggesting that a single proline-directed serine protein
+<br>      kinase, possibly p34cdc2, is responsible for phosphorylation of both sites
+<br>      in vivo.
+<br>SO  - J Biol Chem 1992 Feb 15;267(5):3506-13.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A40936">A40936</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cdc2 kinase) | 38  (all)
+<br>TI  - Analysis of phosphoprotein p19 by liquid chromatography/mass spectrometry.
+<br>      Identification of two proline-directed serine phosphorylation sites and a
+<br>      blocked amino terminus.
+<br>AB  - p19 is a highly conserved 19-kDa cytosolic protein that undergoes
+<br>      phosphorylation in mammalian cells upon activation of several distinct
+<br>      signal transduction pathways. Its expression is widespread but
+<br>      developmentally regulated. To determine the in vivo phosphorylation
+<br>      site(s) of p19, the protein was purified from bovine brain and resolved
+<br>      into the unphosphorylated form (p19) and a mixture of the two predominant
+<br>      phospho-forms (pp19). Proteolytic fragments of p19 and pp19 were examined
+<br>      by liquid chromatography/mass spectrometry (LC/MS). We detected ion masses
+<br>      corresponding to fragments spanning the entire amino acid sequence as
+<br>      deduced from the cDNA except for those predicted to contain an unmodified
+<br>      amino terminus. Instead, the digests revealed ions corresponding to
+<br>      peptides lacking the initiator methionine and containing an N-acetylated
+<br>      alanine at the amino terminus. The analysis of pp19, but not that of p19,
+<br>      revealed two sets of ions representing peptides whose m/z values differed
+<br>      by 80 atomic mass units, the incremental mass of a phosphate residue.
+<br>      These putative phosphate-bearing peptides were sensitive to alkaline
+<br>      phosphatase treatment. <font color=red>Using combined trypsin and V8 protease digestions,
+<br>      the phosphorylation sites were mapped to Ser-25 and Ser-38, in the
+<br>      peptides Leu-Ile-Leu-Ser*-Pro-Arg and Phe-Pro-Leu-Ser*-Pro-Pro-Lys,
+<br>      respectively.</font> Interestingly, both phosphoserines are in a very similar
+<br>      sequence context, suggesting that a single proline-directed serine protein
+<br>      kinase, possibly p34cdc2, is responsible for phosphorylation of both sites
+<br>      in vivo.
+<br>SO  - J Biol Chem 1992 Feb 15;267(5):3506-13.
+<br>
+<br><b>5. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1778990&dopt=Abstract">1778990</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=KIRTC2">KIRTC2</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by casein kinase II) (partial) | 11  (all)
+<br>TI  - Phosphorylation of type II (beta) protein kinase C by casein kinase II.
+<br>AB  - Rat brain type II (beta) protein kinase C (PKC) was phosphorylated by rat
+<br>      lung casein kinase II (CK-II). Neither type I (gamma) nor type III (alpha)
+<br>      PKC was significantly phosphorylated by CK-II. <font color=red>CK-II incorporated 0.2-0.3
+<br>      mol of phosphate into 1 mol of type II PKC. This phosphate was located at
+<br>      the single seryl residue (Ser-11) in the V1-variable region of the
+<br>      regulatory domain of the PKC molecule.</font> A glutamic acid cluster was located
+<br>      at the carboxyl-terminal side of Ser-11, showing the consensus sequence
+<br>      for phosphorylation by CK-II. The velocity of this phosphorylation was
+<br>      enhanced by the addition of Ca2+, diolein, and phosphatidylserine, which
+<br>      are all required for the activation of PKC. Phosphorylation of casein or
+<br>      synthetic oligopeptides by CK-II was not affected by Ca2+, diolein, or
+<br>      phosphatidylserine. Available evidence suggests that CK-II phosphorylates
+<br>      preferentially the activated form of type II PKC. It remains unknown,
+<br>      however, whether this reaction has a physiological significance.
+<br>SO  - J Biochem (Tokyo) 1991 Oct;110(4):655-60.
+<br>
+<br><b>6. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1835085&dopt=Abstract">1835085</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=IQECDK">IQECDK</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by autophosphorylation) (partial) | 199  (all)
+<br>TI  - DnaK as a thermometer: threonine-199 is site of autophosphorylation and is
+<br>      critical for ATPase activity.
+<br>AB  - DnaK, the sole Escherichia coli member of the highly conserved 70-kDa heat
+<br>      shock protein (HSP70) family of proteins, autophosphorylates when
+<br>      incubated with ATP in vitro. We show that <font color=red>threonine-199 is the amino acid
+<br>      that becomes phosphorylated and we demonstrate that threonine-199 is
+<br>      critical for the ATPase activity of DnaK.</font> We also report that both the
+<br>      ATPase and autophosphorylating activities of DnaK increase very strongly
+<br>      over the range of temperatures that is physiologically relevant for E.
+<br>      coli growth. The temperature dependence of either or both of these
+<br>      activities could be of significance with respect to the postulated role of
+<br>      DnaK as a molecular chaperone in helping cells ameliorate the deleterious
+<br>      consequences of elevated temperature. Furthermore, we postulate that DnaK
+<br>      plays a key role in regulation of the heat shock response by serving as a
+<br>      cellular thermometer that directly senses the environmental temperature.
+<br>SO  - Proc Natl Acad Sci U S A 1991 Nov 1;88(21):9513-7.
+<br>
+<br><b>7. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1869568&dopt=Abstract">1869568</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=QRECCY">QRECCY</a>
+<br>FT  - binding site | phosphate (Asp) (covalent) | 57  (all)
+<br>TI  - Crystal structure of Escherichia coli CheY refined at 1.7-A resolution.
+<br>AB  - The three-dimensional structure of wild-type CheY from Escherichia coli
+<br>      has been refined by stereochemically restrained least squares minimization
+<br>      to a crystallographic R-factor of 15.1% at 1.7-A resolution. The structure
+<br>      contains 1165 atoms, including all atoms of the protein, 147 water
+<br>      molecules, and three sulfate ions. The final model has root mean square
+<br>      deviations of 0.018 and 0.049 A from idealized bond lengths and angle
+<br>      distances, respectively. Seven amino acid side chains have been modeled in
+<br>      dual conformations. CheY folds as a compact (beta/alpha)5 globular
+<br>      protein, with the phosphorylation region contained in a cavity on one face
+<br>      of the molecule. This active site area is bordered by the carboxyl termini
+<br>      of the three central beta-strands, by alpha 1, and by the loop connecting
+<br>      beta 5 to alpha 5. The Lys-109 side chain of this loop extends into the
+<br>      active site by virtue of its cis peptide bond conformation preceding
+<br>      Pro-110. The epsilon-amino group of Lys-109 is in close bonding contact
+<br>      with the carboxyl group of <font color=red>Asp-57, the residue that is phosphorylated in
+<br>      the activation process of CheY</font>. The details of the hydrogen bonding
+<br>      network in the phosphorylation region indicate that structural
+<br>      rearrangements must accompany the phosphorylation of Asp-57.
+<br>SO  - J Biol Chem 1991 Aug 15;266(23):15511-9.
+<br>
+<br><b>8. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1939059&dopt=Abstract">1939059</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A33430">A33430</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cdc2 kinase) | 597,682,717  (all)
+<br>TI  - Phosphorylation of caldesmon by p34cdc2 kinase. Identification of
+<br>      phosphorylation sites.
+<br>AB  - It has recently been shown that caldesmon from non-muscle (Yamashiro, S.,
+<br>      Yamakita, Y., Hosoya, H., and Matsumura, F. (1991) Nature 349, 169-172)
+<br>      and smooth muscle cells (Mak, A. S., Watson, M. H., Litwin, C. M. E., and
+<br>      Wang, J. H. (1991) J. Biol. Chem. 266, 6678-6681) can be phosphorylated in
+<br>      vitro by p34cdc2 kinase resulting in the inhibition of caldesmon binding
+<br>      to F-actin and Ca(2+)-calmodulin. <font color=red>In this study, we have identified five
+<br>      phosphorylation sites in smooth muscle caldesmon at Ser582, Ser667,
+<br>      Thr673, Thr696, and Ser702.</font> All the sites bear some resemblance to the
+<br>      S(T)-P-X-X motif recognized by p34cdc2. The preferred site of
+<br>      phosphorylation at Thr673 accounts for about 40% of the total
+<br>      phosphorylation. Four of the sites occur in two pairs of closely spaced
+<br>      sites, Ser667/Thr673 and Thr696/Ser702; phosphorylation of one site in
+<br>      each pair inhibits strongly the phosphorylation of the second site in the
+<br>      same pair, presumably due to the close proximity of the two sites. Similar
+<br>      negative cooperativity in phosphorylation of Ser667 and Thr673 was
+<br>      observed using a 22-residue synthetic peptide containing the two sites.
+<br>      Phosphorylation of Ser667/Thr673 and Thr696/Ser702 account for about 90%
+<br>      of the total level of phosphorylation and these sites are located within
+<br>      the 10-kDa CNBr fragment at the COOH-terminal end of caldesmon known to
+<br>      bind actin and Ca(2+)-calmodulin.
+<br>SO  - J Biol Chem 1991 Oct 25;266(30):19971-5.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A33430">A33430</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by cdc2 kinase) | 688,711  (all)
+<br>TI  - Phosphorylation of caldesmon by p34cdc2 kinase. Identification of
+<br>      phosphorylation sites.
+<br>AB  - It has recently been shown that caldesmon from non-muscle (Yamashiro, S.,
+<br>      Yamakita, Y., Hosoya, H., and Matsumura, F. (1991) Nature 349, 169-172)
+<br>      and smooth muscle cells (Mak, A. S., Watson, M. H., Litwin, C. M. E., and
+<br>      Wang, J. H. (1991) J. Biol. Chem. 266, 6678-6681) can be phosphorylated in
+<br>      vitro by p34cdc2 kinase resulting in the inhibition of caldesmon binding
+<br>      to F-actin and Ca(2+)-calmodulin. <font color=red>In this study, we have identified five
+<br>      phosphorylation sites in smooth muscle caldesmon at Ser582, Ser667,
+<br>      Thr673, Thr696, and Ser702.</font> All the sites bear some resemblance to the
+<br>      S(T)-P-X-X motif recognized by p34cdc2. The preferred site of
+<br>      phosphorylation at Thr673 accounts for about 40% of the total
+<br>      phosphorylation. Four of the sites occur in two pairs of closely spaced
+<br>      sites, Ser667/Thr673 and Thr696/Ser702; phosphorylation of one site in
+<br>      each pair inhibits strongly the phosphorylation of the second site in the
+<br>      same pair, presumably due to the close proximity of the two sites. Similar
+<br>      negative cooperativity in phosphorylation of Ser667 and Thr673 was
+<br>      observed using a 22-residue synthetic peptide containing the two sites.
+<br>      Phosphorylation of Ser667/Thr673 and Thr696/Ser702 account for about 90%
+<br>      of the total level of phosphorylation and these sites are located within
+<br>      the 10-kDa CNBr fragment at the COOH-terminal end of caldesmon known to
+<br>      bind actin and Ca(2+)-calmodulin.
+<br>SO  - J Biol Chem 1991 Oct 25;266(30):19971-5.
+<br>
+<br><b>9. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2040274&dopt=Abstract">2040274</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=BGSH">BGSH</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (partial) | 8,35,36,39  (all)
+<br>TI  - Nuclear transition protein 1 from ram elongating spermatids. Mass
+<br>      spectrometric characterization, primary structure and phosphorylation
+<br>      sites of two variants.
+<br>AB  - The ram transition protein 1 (TP1) is present in spermatid cell nuclei in
+<br>      the nonphosphorylated, monophosphorylated and diphosphorylated forms. Its
+<br>      primary structure was determined by automated Edman degradation of
+<br>      S-carboxamidomethylated protein and of peptides generated by cleavage with
+<br>      thermolysin and endoproteinase Lys-C. The ram TP1 is a small basic protein
+<br>      of 54 residues and structurally very close to other mammalian TP1. The
+<br>      mass spectrometric data obtained from the protein and its fragments reveal
+<br>      that ram TP1 is indeed a mixture (approximately 5:1) of two structural
+<br>      variants (Mr 6346 and 6300). These variants differ only by the nature of
+<br>      the residue at position 27 (Cys in the major variant and Gly in the minor
+<br>      variant). <font color=red>The study of phosphorylation sites has shown that four different
+<br>      serine residues could be phosphorylated in the monophosphorylated TP1, at
+<br>      positions 8, 35, 36 or 39.</font> From previous physical studies, it has been
+<br>      postulated that the Tyr32 surrounded by two highly conserved basic
+<br>      clusters was responsible for the destabilization of chromatin by
+<br>      intercalation of its phenol ring between the bases of double-stranded DNA.
+<br>      The presence of three phosphorylatable serine residues in the very
+<br>      conserved sequence 29-42 is another argument for the involvement of this
+<br>      region in the interaction with DNA.
+<br>SO  - Eur J Biochem 1991 May 23;198(1):13-20.
+<br>
+<br><b>10. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2108025&dopt=Abstract">2108025</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A31334">A31334</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by autophosphorylation) | 972,985,1007  (all)
+<br>TI  - Localization of phosphoserine residues in the alpha subunit of rabbit
+<br>      skeletal muscle phosphorylase kinase.
+<br>AB  - The alpha subunit of skeletal muscle phosphorylase kinase, as isolated,
+<br>      carries phosphate at the serine residues 1018, 1020 and 1023. Employing
+<br>      the S-ethyl-cysteine method, these residues are found to be phosphorylated
+<br>      partially, i.e. differently phosphorylated species exist in muscle. Serine
+<br>      1018 is a site which can be phosphorylated by the cyclic-AMP-dependent
+<br>      protein kinase. <font color=red>The serine residues 972, 985 and 1007 are phosphorylated
+<br>      by phosphorylase kinase itself when its activity is stimulated by
+<br>      micromolar concentrations of Ca2+.</font> These phosphorylation sites are not
+<br>      identical to those found to be phosphorylated already in the enzyme as
+<br>      prepared from freshly excised muscle. A 'multiphosphorylation loop'
+<br>      uniquely present in this but not in the homologous beta subunit contains
+<br>      all the phosphoserine residues so far identified in the alpha subunit.
+<br>SO  - Eur J Biochem 1990 Mar 10;188(2):367-76.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A31334">A31334</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 1018  (all)
+<br>TI  - Localization of phosphoserine residues in the alpha subunit of rabbit
+<br>      skeletal muscle phosphorylase kinase.
+<br>AB  - The alpha subunit of skeletal muscle phosphorylase kinase, as isolated,
+<br>      carries phosphate at the serine residues 1018, 1020 and 1023. Employing
+<br>      the S-ethyl-cysteine method, these residues are found to be phosphorylated
+<br>      partially, i.e. differently phosphorylated species exist in muscle. <font color=red>Serine
+<br>      1018 is a site which can be phosphorylated by the cyclic-AMP-dependent
+<br>      protein kinase.</font> The serine residues 972, 985 and 1007 are phosphorylated
+<br>      by phosphorylase kinase itself when its activity is stimulated by
+<br>      micromolar concentrations of Ca2+. These phosphorylation sites are not
+<br>      identical to those found to be phosphorylated already in the enzyme as
+<br>      prepared from freshly excised muscle. A 'multiphosphorylation loop'
+<br>      uniquely present in this but not in the homologous beta subunit contains
+<br>      all the phosphoserine residues so far identified in the alpha subunit.
+<br>SO  - Eur J Biochem 1990 Mar 10;188(2):367-76.
+<br>
+<br><b>11. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2109669&dopt=Abstract">2109669</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A60521">A60521</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by phosphorylase b kinase) | 3  (all)
+<br>TI  - Purification and characterization of glycogen phosphorylase B from
+<br>      skeletal muscle of the mullet Liza ramada: amino acid sequence of the
+<br>      phosphorylation site.
+<br>AB  - 1. Skeletal muscle glycogen phosphorylase b has been purified from Liza
+<br>      ramada (mullet). 2. The Mr of the purified enzyme subunit was found to be
+<br>      97,000. By gel filtration a relative Mr of 190,000 was found. 3.
+<br>      <font color=red>Proteolytic digestion of 32P-phosphorylated mullet phosphorylase gave a
+<br>      [32P]-labelled peptide which is observed to contain Ser, its sequence
+<br>      being -Gln-Ile-Ser-Val-Pro-.</font> 4. During 'in vitro' phosphorylation of
+<br>      mullet phosphorylase, 32P was incorporated in different protein bands
+<br>      resolved by isoelectric focusing. The degree of radioactivity associated
+<br>      with each one changed with the incubation time.
+<br>SO  - Comp Biochem Physiol B 1990;95(2):295-301.
+<br>
+<br><b>12. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2122883&dopt=Abstract">2122883</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=TIHUGK">TIHUGK</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 30  (all)
+<br>TI  - Endogenous phosphorylation of the lipoprotein-associated coagulation
+<br>      inhibitor at serine-2.
+<br>AB  - Lipoprotein-associated coagulation inhibitor (LACI) inhibits activated
+<br>      Factor X (Xa) directly and, in an Xa-dependent fashion, inhibits Factor
+<br>      VIIa-tissue factor (TF), presumably by forming a quaternary
+<br>      Xa-LACI-VIIa-TF complex. LACI isolated from the conditioned media of HepG2
+<br>      cells grown in the presence of [32P]orthophosphate was observed to be
+<br>      covalently phosphorylated. Dephosphorylation of 32P-LACI with phosphatase
+<br>      resulted in an almost complete removal of the radiolabel. Phosphoamino
+<br>      acid analysis of the purified 32P-LACI established that the
+<br>      phosphorylation occurred on (a) serine residue(s). At its N-terminus, LACI
+<br>      contains a cluster of acidic residues C-terminal to the serine-2 residue.
+<br>      Such a site is characteristic of the sites phosphorylated by casein kinase
+<br>      II (CKII) in protein substrates. Edman degradation of endogenously
+<br>      labelled 32P-LACI revealed that the <font color=red>serine-2 residue was a major site of
+<br>      phosphorylation</font>. Phosphorylation of purified LACI by bovine CKII was
+<br>      observed to occur in vitro; amino acid sequence analysis demonstrated that
+<br>      CKII phosphorylated LACI at the serine-2 residue. Recombinant LACI
+<br>      expressed from mouse C127 fibroblasts transfected using a
+<br>      bovine-papilloma-virus expression vector was found to be endogenously
+<br>      phosphorylated. By using site-directed mutagenesis, an altered form of
+<br>      LACI was produced in which the serine-2 residue had been changed to
+<br>      alanine. This altered LACI, although expressed in similar quantity to the
+<br>      wild-type LACI, was not detectably phosphorylated. Using the altered LACI
+<br>      in functional studies demonstrated that a serine residue at position 2,
+<br>      and thus the phosphorylation of this site, was not essential for LACI's
+<br>      inhibition of Xa and VIIa-TF activities.
+<br>SO  - Biochem J 1990 Sep 15;270(3):621-5.
+<br>
+<br><b>13. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2171679&dopt=Abstract">2171679</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=MMHUE4">MMHUE4</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 540,695  (all)
+<br>TI  - Identification of two cAMP-dependent phosphorylation sites on erythrocyte
+<br>      protein 4.1.
+<br>AB  - In human erythrocytes, dibutyryl cyclic AMP induces the phosphorylation of
+<br>      protein 4.1 on sites within the adjacent 16 kDa and 10 kDa chymotryptic
+<br>      domains (Horne, W.C., Leto, T.L. and Marchesi, V.T. (1985) J. Biol. Chem.
+<br>      260, 9073-9076). The 10 kDa domain also contains the
+<br>      spectrin/actin-binding site (Correas, I., Leto, T.L., Speicher, D.W. and
+<br>      Marchesi, V.T. (1986) J. Biol. Chem. 261, 3310-3315) and it has been shown
+<br>      that phosphorylation of protein 4.1 by cyclic AMP-dependent protein kinase
+<br>      inhibits the binding of protein 4.1 to spectrin and actin (Ling, E.,
+<br>      Danilov, Y.N. and Cohen, C.M. (1988) J. Biol. Chem. 263, 2209-2216). In
+<br>      this study, we have identified two sites on protein 4.1 which account for
+<br>      80% of the phosphate incorporated into protein 4.1 during metabolic
+<br>      labelling of erythrocytes in the presence of dibutyryl cyclic AMP. More
+<br>      than 95% of the 32P incorporated into protein 4.1 was in the form of
+<br>      phosphoserine. Reverse-phase HPLC of the peptides generated by digestion
+<br>      of the isolated protein with trypsin or endoproteinase lysine C produced
+<br>      two major radioactive peaks. <font color=red>The phosphorylation sites, identified by gas
+<br>      phase sequencing of the purified phosphopeptides and confirmed by
+<br>      determining the residues converted to S-ethylcysteine by reacting the
+<br>      phosphopeptides with ethanethiol under alkaline conditions, were Ser-331,
+<br>      in the 16 kDa domain and Ser-467, in the 10 kDa domain.</font>
+<br>SO  - Biochim Biophys Acta 1990 Oct 15;1055(1):87-92.
+<br>
+<br><b>14. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2210381&dopt=Abstract">2210381</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=JH0216">JH0216</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase A) | 73  (all)
+<br>TI  - Analysis of the human, bovine and rat 33-kDa proteins and cDNA in retina
+<br>      and pineal gland.
+<br>AB  - A monoclonal antibody (mAb) was produced against a bovine retinal 33-kDa
+<br>      protein. Several clones of 33-kDa protein were isolated from each library
+<br>      of cDNA from human, bovine and rat retinas and rat pineal gland by mAb
+<br>      screening and by hybridization with cDNA probes. Each of the four cDNA
+<br>      sequences was determined and amino acid (aa) sequences were deduced from
+<br>      the nucleotide sequences. The latter were nearly identical in rat retina
+<br>      and rat pineal gland (99.6%) and were similar in human, bovine and rat
+<br>      retina (more than 87%). Each of these cDNAs had one long ORF and encoded
+<br>      245 or 246 aa. The deduced aa sequences in rat retina and rat pineal gland
+<br>      were virtually identical and the sequences in human, bovine and rat retina
+<br>      were highly homologous (more than 88%). The predicted Mr for each of these
+<br>      proteins was 28,246 in the human, 28,176 in bovine, 28,143 in rat retina,
+<br>      and 28,129 in rat pineal gland. <font color=red>Each of the sequences has a putative site
+<br>      for phosphorylation by A kinase; we have confirmed that the putative site
+<br>      is Ser73.</font> These results show that the 33-kDa proteins in the retina and
+<br>      pineal gland have the same sequences and the same phosphorylation site and
+<br>      suggest that the functional role of this protein is the same in the retina
+<br>      and pineal gland.
+<br>SO  - Gene 1990 Jul 16;91(2):209-15.
+<br>
+<br><b>15. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2211670&dopt=Abstract">2211670</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A28822">A28822</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase C) | 887  (all)
+<br>TI  - Feedback regulation of phospholipase C-beta by protein kinase C.
+<br>AB  - Treatment of a variety of cells and tissues with
+<br>      12-O-tetradecanoylphorbol-13-acetate (TPA), an activator of protein kinase
+<br>      C (PKC) results in the inhibition of receptor-coupled inositol
+<br>      phospholipid-specific phospholipase C (PLC) activity. To determine whether
+<br>      or not the targets of TPA-activated PKC include one or more isozymes of
+<br>      PLC, studies were carried out with PC12, C6Bu1, and NIH 3T3 cells, which
+<br>      contain at least three PLC isozymes, PLC-beta, PLC-gamma, and PLC-delta.
+<br>      Treatment of the cells with TPA stimulated the phosphorylation of serine
+<br>      residues in PLC-beta, but the phosphorylation state of PLC-gamma and
+<br>      PLC-delta was not changed significantly. <font color=red>Phosphorylation of bovine brain
+<br>      PLC-beta by PKC in vitro resulted in a stoichiometric incorporation of
+<br>      phosphate at serine 887, without any concomitant effect on PLC-beta
+<br>      activity.</font> We propose, therefore, that rather than having a direct effect
+<br>      on enzyme activity, the phosphorylation of PLC-beta by PKC may alter its
+<br>      interaction with a putative guanine nucleotide-binding regulatory protein
+<br>      and thereby prevent its activation.
+<br>SO  - J Biol Chem 1990 Oct 15;265(29):17941-5.
+<br>
+<br><b>16. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2226863&dopt=Abstract">2226863</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=TPRBIC">TPRBIC</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 22,23  (all)
+<br>TI  - A common motif of two adjacent phosphoserines in bovine, rabbit and human
+<br>      cardiac troponin I.
+<br>AB  - From rabbit and human cardiac troponin I N-terminal mono and
+<br>      bisphosphorylated peptides were isolated which were obtained from Lys-C
+<br>      proteinase digests. <font color=red>Two adjacent phosphoserine residues could be localized</font>
+<br>      in each phosphopeptide following further tryptic digestion. The previously
+<br>      published sequence of rabbit cardiac troponin I had to be corrected. Two
+<br>      adjacent phosphoserine residues are a common motif in the very similar
+<br>      sequences of bovine, rabbit and human cardiac troponin I. The N-terminal
+<br>      sequences are: AcADRSGGSTAG DTVPAPPPVR RRS(P)S(P)ANYRAY ATEPHAK (bovine),
+<br>      AcADESTDAAG EARPAPAPVR RR<font color=red>S(P)S(P)</font>ANYRAY ATEPHAK <font color=red>(rabbit)</font>,
+<br>      (Ac,A,D/N,G,S,S,D/N,A,A,R) EPRPAPAPIR RRS(P)S(P)-NYRAY ATEPHAK (human).
+<br>SO  - FEBS Lett 1990 Oct 29;273(1-2):41-5.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=TPHUIC">TPHUIC</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 23,24  (all)
+<br>TI  - A common motif of two adjacent phosphoserines in bovine, rabbit and human
+<br>      cardiac troponin I.
+<br>AB  - From rabbit and human cardiac troponin I N-terminal mono and
+<br>      bisphosphorylated peptides were isolated which were obtained from Lys-C
+<br>      proteinase digests. Two adjacent phosphoserine residues could be localized
+<br>      in each phosphopeptide following further tryptic digestion. The previously
+<br>      published sequence of rabbit cardiac troponin I had to be corrected. <font color=red>Two
+<br>      adjacent phosphoserine residues are a common motif in the very similar
+<br>      sequences of bovine, rabbit and human cardiac troponin I. The N-terminal
+<br>      sequences are</font>: AcADRSGGSTAG DTVPAPPPVR RRS(P)S(P)ANYRAY ATEPHAK (bovine),
+<br>      AcADESTDA-AG EARPAPAPVR RRS(P)S(P)ANYRAY ATEPHAK (rabbit),
+<br>      <font color=red>(Ac,A,D/N,G,S,S,D/N,A,A,R) EPRPAPAPIR RRS(P)S(P)-NYRAY ATEPHAK (human).</font>
+<br>SO  - FEBS Lett 1990 Oct 29;273(1-2):41-5.
+<br>
+<br><b>17. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2261989&dopt=Abstract">2261989</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=S15815">S15815</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by elongation factor 2 kinase) | 8,10  (all)
+<br>TI  - Three phosphorylation sites in elongation factor 2.
+<br>AB  - Elongation factor 2 (EF-2) of rabbit reticulocytes was phosphorylated in
+<br>      vitro by incubation with partially purified EF-2 kinase and
+<br>      [gamma-32P]ATP. After exhaustive tryptic hydrolysis 4 phosphopeptides were
+<br>      revealed by two-dimensional peptide mapping. The phosphopeptides were
+<br>      isolated by high performance liquid chromatography and sequenced. <font color=red>A
+<br>      comparison of the primary structure of the phosphopeptides with that of
+<br>      EF-2 showed that all 4 phosphopeptides originated from one region of EF-2
+<br>      located near the N-terminus that contains 3 threonine residues: Thr-53,
+<br>      Thr-56, Thr-58. A direct estimation of localization of radioactive
+<br>      phosphate in the phosphopeptides demonstrated that all the enumerated
+<br>      threonine residues in EF-2 can be phosphorylated in vitro.</font>
+<br>SO  - FEBS Lett 1990 Nov 26;275(1-2):209-12.
+<br>
+<br><b>18. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2346743&dopt=Abstract">2346743</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A34594">A34594</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase C) | 1  (all)
+<br>TI  - Phosphorylation of bovine platelet myosin by protein kinase C.
+<br>AB  - Bovine platelet myosin is phosphorylated by protein kinase C at multiple
+<br>      sites. Most of the phosphate is incorporated in the 20,000-dalton light
+<br>      chain although some phosphate is incorporated in the heavy chain.
+<br>      Phosphorylation of the 20,000-dalton light chain of platelet myosin is 10
+<br>      times faster than the phosphorylation of smooth muscle myosin. Platelet
+<br>      myosin light chain is first phosphorylated at a threonine residue followed
+<br>      by a serine residue. <font color=red>Dominant phosphorylation sites of the 20,000-dalton
+<br>      light chain are estimated as serine-1, serine-2, and threonine-9.</font>
+<br>      Prolonged phosphorylation by protein kinase C resulted in an additional
+<br>      phosphorylation site which, on the basis of limited proteolysis, appears
+<br>      to be either serine-19 or threonine-18. Phosphorylation by protein kinase
+<br>      C causes an inhibition of actin-activated ATPase activity of platelet
+<br>      myosin prephosphorylated by myosin light chain kinase. Inhibition of
+<br>      ATPase activity is due to a decreased affinity of myosin for actin, and no
+<br>      change in Vmax is observed. It is shown that platelet myosin also exhibits
+<br>      the 6S to 10S conformation transition as judged by viscosity and gel
+<br>      filtration methods. Mg2(+)-ATPase activity of platelet myosin is
+<br>      paralleled with the 10S-6S transition. Phosphorylation by protein kinase C
+<br>      affects neither the 10S-6S transition nor the myosin filament formation.
+<br>      Therefore, the inhibition of actin-activated ATPase activity of platelet
+<br>      myosin is not due to the change in the myosin conformation.
+<br>SO  - Biochemistry 1990 Mar 20;29(11):2713-20.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A34594">A34594</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase C) | 2  (all)
+<br>TI  - Phosphorylation of bovine platelet myosin by protein kinase C.
+<br>AB  - Bovine platelet myosin is phosphorylated by protein kinase C at multiple
+<br>      sites. Most of the phosphate is incorporated in the 20,000-dalton light
+<br>      chain although some phosphate is incorporated in the heavy chain.
+<br>      Phosphorylation of the 20,000-dalton light chain of platelet myosin is 10
+<br>      times faster than the phosphorylation of smooth muscle myosin. Platelet
+<br>      myosin light chain is first phosphorylated at a threonine residue followed
+<br>      by a serine residue. <font color=red>Dominant phosphorylation sites of the 20,000-dalton
+<br>      light chain are estimated as serine-1, serine-2, and threonine-9.</font>
+<br>      Prolonged phosphorylation by protein kinase C resulted in an additional
+<br>      phosphorylation site which, on the basis of limited proteolysis, appears
+<br>      to be either serine-19 or threonine-18. Phosphorylation by protein kinase
+<br>      C causes an inhibition of actin-activated ATPase activity of platelet
+<br>      myosin prephosphorylated by myosin light chain kinase. Inhibition of
+<br>      ATPase activity is due to a decreased affinity of myosin for actin, and no
+<br>      change in Vmax is observed. It is shown that platelet myosin also exhibits
+<br>      the 6S to 10S conformation transition as judged by viscosity and gel
+<br>      filtration methods. Mg2(+)-ATPase activity of platelet myosin is
+<br>      paralleled with the 10S-6S transition. Phosphorylation by protein kinase C
+<br>      affects neither the 10S-6S transition nor the myosin filament formation.
+<br>      Therefore, the inhibition of actin-activated ATPase activity of platelet
+<br>      myosin is not due to the change in the myosin conformation.
+<br>SO  - Biochemistry 1990 Mar 20;29(11):2713-20.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A34594">A34594</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by protein kinase C) | 9  (all)
+<br>TI  - Phosphorylation of bovine platelet myosin by protein kinase C.
+<br>AB  - Bovine platelet myosin is phosphorylated by protein kinase C at multiple
+<br>      sites. Most of the phosphate is incorporated in the 20,000-dalton light
+<br>      chain although some phosphate is incorporated in the heavy chain.
+<br>      Phosphorylation of the 20,000-dalton light chain of platelet myosin is 10
+<br>      times faster than the phosphorylation of smooth muscle myosin. Platelet
+<br>      myosin light chain is first phosphorylated at a threonine residue followed
+<br>      by a serine residue. <font color=red>Dominant phosphorylation sites of the 20,000-dalton
+<br>      light chain are estimated as serine-1, serine-2, and threonine-9.</font>
+<br>      Prolonged phosphorylation by protein kinase C resulted in an additional
+<br>      phosphorylation site which, on the basis of limited proteolysis, appears
+<br>      to be either serine-19 or threonine-18. Phosphorylation by protein kinase
+<br>      C causes an inhibition of actin-activated ATPase activity of platelet
+<br>      myosin prephosphorylated by myosin light chain kinase. Inhibition of
+<br>      ATPase activity is due to a decreased affinity of myosin for actin, and no
+<br>      change in Vmax is observed. It is shown that platelet myosin also exhibits
+<br>      the 6S to 10S conformation transition as judged by viscosity and gel
+<br>      filtration methods. Mg2(+)-ATPase activity of platelet myosin is
+<br>      paralleled with the 10S-6S transition. Phosphorylation by protein kinase C
+<br>      affects neither the 10S-6S transition nor the myosin filament formation.
+<br>      Therefore, the inhibition of actin-activated ATPase activity of platelet
+<br>      myosin is not due to the change in the myosin conformation.
+<br>SO  - Biochemistry 1990 Mar 20;29(11):2713-20.
+<br>
+<br><b>19. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2394752&dopt=Abstract">2394752</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A38379">A38379</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase A) | 73  (all)
+<br>TI  - Protein kinase A phosphorylates retinal phosducin on serine 73 in situ.
+<br>AB  - Photoreceptors of vertebrate retinas contain a 33,000-dalton
+<br>      phosphoprotein, phosducin, which complexes with the beta, gamma subunits
+<br>      of the photoreceptor G-protein (guanine nucleotide-binding protein),
+<br>      transducin. In situ, the retinal content of phosphorylated phosducin is
+<br>      modulated by light in conjunction with light-triggered changes in
+<br>      intracellular cyclic nucleotide concentration. In vitro, phosducin is
+<br>      phosphorylated by either exogenous or endogenous protein kinase A.
+<br>      32P-Labeled rat retina phosducin was isolated by immunoprecipitation
+<br>      either after phosphorylation by protein kinase A in the presence of
+<br>      [gamma-32P]ATP or after incubation of retinas in darkness with 32Pi. In
+<br>      either case, phosphoamino acid analysis showed that greater than 98% of
+<br>      32P was linked to serine, with less than 2% to threonine. Two-dimensional
+<br>      peptide mapping showed that [32P]phosphoserine was associated with the
+<br>      same characteristic set of tryptic peptides. Furthermore, Cleveland
+<br>      peptide analysis using four different proteases showed that either sample
+<br>      exhibited identical patterns of phosphopeptides which were characteristic
+<br>      of the protease used. Identical phosphopeptide maps were also obtained
+<br>      from 32P-labeled bovine retina phosducin, indicating that the serine
+<br>      phosphorylation site for protein kinase A is conserved between rat and
+<br>      bovine. <font color=red>Edman degradation of phosphopeptides derived from 32P-labeled
+<br>      bovine phosducin showed that radioactive phosphate was incorporated into
+<br>      serine residue 73 which is located within a consensus phosphorylation
+<br>      sequence for protein kinase A (-R-K-M-S73(P)-).</font> These observations are
+<br>      uniformly in agreement with protein kinase A being the endogenous kinase
+<br>      that phosphorylates phosducin in vivo.
+<br>SO  - J Biol Chem 1990 Sep 15;265(26):15860-6.
+<br>
+<br><b>20. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2492519&dopt=Abstract">2492519</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=HHHU84">HHHU84</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 226,255  (all)
+<br>TI  - Two human 90-kDa heat shock proteins are phosphorylated in vivo at
+<br>      conserved serines that are phosphorylated in vitro by casein kinase II.
+<br>AB  - Amino-terminal protein sequence analysis revealed that exponentially
+<br>      growing human HeLa cells at 37 degrees C express two closely related
+<br>      90-kDa "heat shock" proteins (hsp 90) in nearly equal amounts. Both hsp
+<br>      90s begin with proline; the initial methionine residue is removed. The
+<br>      alpha protein contains a 9-amino acid segment, TQTQDQPME, from residues 4
+<br>      to 12, that is replaced by a 4-amino acid segment, VHHG, in the beta form.
+<br>      The purified hsp 90 mixture contains 2 mol of phosphate/mol of
+<br>      polypeptide. Both hsp 90 proteins are phosphorylated at two homologous
+<br>      sites. For the alpha protein, these sites correspond to serine 231 and
+<br>      serine 263. A 5-amino acid segment, ESEDK, between the two phosphorylation
+<br>      sites is absent from the beta protein. The sequence between
+<br>      phosphorylation sites of both hsp 90s is predicted to have alpha helical
+<br>      structure. Dephosphorylated hsp 90 is phosphorylated at both sites by
+<br>      casein kinase II from HeLa cells, calf thymus, or rabbit reticulocytes; no
+<br>      other hsp 90 residues were phosphorylated by casein kinase II in vitro.
+<br>SO  - J Biol Chem 1989 Feb 15;264(5):2431-7.
+<br><font color=red>full paper-page: 2433 Both serine 226 and 255, of beta hsp 90 are phosphorylated (Fig. 4, F and C), while serine 261 is not (Fig. 4D).</font>
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=HHHU86">HHHU86</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 231,263  (all)
+<br>TI  - Two human 90-kDa heat shock proteins are phosphorylated in vivo at
+<br>      conserved serines that are phosphorylated in vitro by casein kinase II.
+<br>AB  - Amino-terminal protein sequence analysis revealed that exponentially
+<br>      growing human HeLa cells at 37 degrees C express two closely related
+<br>      90-kDa "heat shock" proteins (hsp 90) in nearly equal amounts. Both hsp
+<br>      90s begin with proline; the initial methionine residue is removed. The
+<br>      alpha protein contains a 9-amino acid segment, TQTQDQPME, from residues 4
+<br>      to 12, that is replaced by a 4-amino acid segment, VHHG, in the beta form.
+<br>      The purified hsp 90 mixture contains 2 mol of phosphate/mol of
+<br>      polypeptide. <font color=red>Both hsp 90 proteins are phosphorylated at two homologous
+<br>      sites. For the alpha protein, these sites correspond to serine 231 and
+<br>      serine 263.</font> A 5-amino acid segment, ESEDK, between the two phosphorylation
+<br>      sites is absent from the beta protein. The sequence between
+<br>      phosphorylation sites of both hsp 90s is predicted to have alpha helical
+<br>      structure. Dephosphorylated hsp 90 is phosphorylated at both sites by
+<br>      casein kinase II from HeLa cells, calf thymus, or rabbit reticulocytes; no
+<br>      other hsp 90 residues were phosphorylated by casein kinase II in vitro.
+<br>SO  - J Biol Chem 1989 Feb 15;264(5):2431-7.
+<br>
+<br><b>21. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2500966&dopt=Abstract">2500966</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A43803">A43803</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase and protein kinase C) | 7,25,39,51,66  (all)
+<br>TI  - Domain- and sequence-specific phosphorylation of vimentin induces
+<br>      disassembly of the filament structure.
+<br>AB  - We reported that stoichiometric phosphorylation by either cAMP-dependent
+<br>      protein kinase or protein kinase C induces disassembly of vimentin
+<br>      filaments [Inagaki, M., Nishi, Y., Nishizawa, K., Matsuyama, M., & Sato,
+<br>      C. (1987) Nature 328, 649-652; Inagaki, M., Gonda, Y., Matsuyama, M.,
+<br>      Nishizawa, K., Nishi, Y., & Sato, C. (1988) J. Biol. Chem. 263,
+<br>      5970-5978]. In the present work, we attempted to identify the sites of
+<br>      vimentin phosphorylated by each protein kinase. Sequential analysis of the
+<br>      purified phosphopeptides, together with the known primary sequence,
+<br>      revealed that Ser-8, Ser-9, Ser-20, Ser-25, Ser-33, and Ser-41 were
+<br>      specifically phosphorylated by protein kinase C, whereas Ser-46 was
+<br>      phosphorylated preferentially by cAMP-dependent protein kinase. <font color=red>Both
+<br>      kinases reacted with Ser-6, Ser-24, Ser-38, Ser-50, and Ser-65.</font> Specific
+<br>      phosphorylation sites for protein kinase C are mostly located close to the
+<br>      amino-terminal side of arginine while those for cAMP-dependent protein
+<br>      kinase are located close to the carboxyl-terminal side of arginine. The
+<br>      phosphorylation sites exclusively occur in the amino-terminal
+<br>      non-alpha-helical head domain, particularly at the beta-turn region. These
+<br>      results provide clues to the molecular mechanisms of
+<br>      phosphorylation-dependent disassembly of vimentin filaments.
+<br>SO  - Biochemistry 1989 Apr 4;28(7):2974-9.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A43803">A43803</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase C) | 9,10,21,26,34,42  (all)
+<br>TI  - Domain- and sequence-specific phosphorylation of vimentin induces
+<br>      disassembly of the filament structure.
+<br>AB  - We reported that stoichiometric phosphorylation by either cAMP-dependent
+<br>      protein kinase or protein kinase C induces disassembly of vimentin
+<br>      filaments [Inagaki, M., Nishi, Y., Nishizawa, K., Matsuyama, M., & Sato,
+<br>      C. (1987) Nature 328, 649-652; Inagaki, M., Gonda, Y., Matsuyama, M.,
+<br>      Nishizawa, K., Nishi, Y., & Sato, C. (1988) J. Biol. Chem. 263,
+<br>      5970-5978]. In the present work, we attempted to identify the sites of
+<br>      vimentin phosphorylated by each protein kinase. Sequential analysis of the
+<br>      purified phosphopeptides, together with the known primary sequence,
+<br>      revealed that <font color=red>Ser-8, Ser-9, Ser-20, Ser-25, Ser-33, and Ser-41 were
+<br>      specifically phosphorylated by protein kinase C,</font> whereas Ser-46 was
+<br>      phosphorylated preferentially by cAMP-dependent protein kinase. Both
+<br>      kinases reacted with Ser-6, Ser-24, Ser-38, Ser-50, and Ser-65. Specific
+<br>      phosphorylation sites for protein kinase C are mostly located close to the
+<br>      amino-terminal side of arginine while those for cAMP-dependent protein
+<br>      kinase are located close to the carboxyl-terminal side of arginine. The
+<br>      phosphorylation sites exclusively occur in the amino-terminal
+<br>      non-alpha-helical head domain, particularly at the beta-turn region. These
+<br>      results provide clues to the molecular mechanisms of
+<br>      phosphorylation-dependent disassembly of vimentin filaments.
+<br>SO  - Biochemistry 1989 Apr 4;28(7):2974-9.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A43803">A43803</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 47  (all)
+<br>TI  - Domain- and sequence-specific phosphorylation of vimentin induces
+<br>      disassembly of the filament structure.
+<br>AB  - We reported that stoichiometric phosphorylation by either cAMP-dependent
+<br>      protein kinase or protein kinase C induces disassembly of vimentin
+<br>      filaments [Inagaki, M., Nishi, Y., Nishizawa, K., Matsuyama, M., & Sato,
+<br>      C. (1987) Nature 328, 649-652; Inagaki, M., Gonda, Y., Matsuyama, M.,
+<br>      Nishizawa, K., Nishi, Y., & Sato, C. (1988) J. Biol. Chem. 263,
+<br>      5970-5978]. In the present work, we attempted to identify the sites of
+<br>      vimentin phosphorylated by each protein kinase. Sequential analysis of the
+<br>      purified phosphopeptides, together with the known primary sequence,
+<br>      revealed that Ser-8, Ser-9, Ser-20, Ser-25, Ser-33, and Ser-41 were
+<br>      specifically phosphorylated by protein kinase C, whereas <font color=red>Ser-46 was
+<br>      phosphorylated preferentially by cAMP-dependent protein kinase.</font> Both
+<br>      kinases reacted with Ser-6, Ser-24, Ser-38, Ser-50, and Ser-65. Specific
+<br>      phosphorylation sites for protein kinase C are mostly located close to the
+<br>      amino-terminal side of arginine while those for cAMP-dependent protein
+<br>      kinase are located close to the carboxyl-terminal side of arginine. The
+<br>      phosphorylation sites exclusively occur in the amino-terminal
+<br>      non-alpha-helical head domain, particularly at the beta-turn region. These
+<br>      results provide clues to the molecular mechanisms of
+<br>      phosphorylation-dependent disassembly of vimentin filaments.
+<br>SO  - Biochemistry 1989 Apr 4;28(7):2974-9.
+<br>
+<br><b>22. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2530230&dopt=Abstract">2530230</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=MWAXIC">MWAXIC</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 311  (all)
+<br>TI  - The localization and sequence of the phosphorylation sites of Acanthamoeba
+<br>      myosins I. An improved method for locating the phosphorylated amino acid.
+<br>AB  - The actin-activated Mg2+-ATPase activities of Acanthamoeba myosins IA, IB,
+<br>      and IC are expressed only when a single site in their heavy chains is
+<br>      phosphorylated by a myosin I heavy chain-specific kinase. <font color=red>We show that
+<br>      phosphorylation occurs at</font> Ser-315 in the myosin IB heavy chain, <font color=red>Ser-311 in
+<br>      myosin IC</font>, and a threonine residue at a corresponding position in myosin
+<br>      IA whose amino acid sequence is as yet unknown. The most obvious feature
+<br>      common to the three substrates is a basic amino acid(s) 2 or 3 residues
+<br>      before the site of phosphorylation. The phosphorylation site is located
+<br>      between the ATP- and actin-binding sites, which corresponds to the middle
+<br>      of the 50-kDa domain of skeletal muscle myosin subfragment 1. The sequence
+<br>      similarity between the region surrounding the phosphorylation site of
+<br>      myosin I and subfragment 1 is much lower than the average sequence
+<br>      similarity between myosin I and subfragment 1. This is consistent with the
+<br>      hypothesis that the conformation of this region of myosin I differs from
+<br>      that of the corresponding region in skeletal muscle myosin and that
+<br>      phosphorylation converts the conformation of the actomyosin I complex into
+<br>      a conformation comparable to that present in actosubfragment 1 without
+<br>      phosphorylation. The protein sequences obtained in the course of this work
+<br>      led to the conclusion that the myosin I genes previously identified as
+<br>      myosin IB and IL (myosin-like) heavy chains actually are the myosin IC and
+<br>      IB heavy chains, respectively. Finally, we report a modification of the
+<br>      method for monitoring the appearance of 32Pi during sequencing of
+<br>      32P-labeled peptides that results in almost complete recovery of the
+<br>      radioactivity, thus allowing unequivocal assignment of the position of the
+<br>      phosphorylated residue.
+<br>SO  - J Biol Chem 1989 Nov 15;264(32):19340-8.
+<br>
+<br><b>23. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2552036&dopt=Abstract">2552036</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A34957">A34957</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 56  (all)
+<br>TI  - ARPP-21, a cyclic AMP-regulated phosphoprotein enriched in
+<br>      dopamine-innervated brain regions. I. Amino acid sequence of ARPP-21B from
+<br>      bovine caudate nucleus.
+<br>AB  - ARPP-21 (cAMP-regulated phosphoprotein, Mr = 21,000 as determined by
+<br>      SDS-PAGE) is a major cytosolic substrate for cAMP-stimulated protein
+<br>      phosphorylation in dopamine-innervated regions of the rat CNS. It has
+<br>      recently been purified to homogeneity from bovine caudate nucleus and
+<br>      characterized (Hemmings and Greengard, 1989). ARPP-21 is isolated as 2
+<br>      isoforms, ARPP-21A and ARPP-21B. The amino acid sequence of purified
+<br>      bovine ARPP-21B has now been determined by gas-phase sequencing. The
+<br>      S-14C-carboxymethylated protein was subjected to enzymatic cleavage with
+<br>      trypsin, chymotrypsin, subtilisin, and endoproteinase Lys-C. The resulting
+<br>      peptides were purified by high-performance liquid chromatography, and
+<br>      selected peptides were subjected to amino acid analysis and/or amino acid
+<br>      sequencing by automated Edman degradation. ARPP-21B consists of a single
+<br>      NH2-terminal blocked polypeptide chain of 88 residues, with a calculated
+<br>      molecular mass of 9561 Da, including an NH2-terminal acetyl group inferred
+<br>      by deblocking with an acylaminopeptidase. This molecular mass is
+<br>      significantly lower than earlier estimates based on SDS-PAGE or
+<br>      hydrodynamic measurements. <font color=red>The seryl residue phosphorylated by
+<br>      cAMP-dependent protein kinase (Hemmings et al., 1989) is located at
+<br>      position 55.</font> The molecule contains 1 cysteinyl residue, at position 71,
+<br>      and contains no methionyl, tyrosyl, phenylalanyl, tryptophanyl, or
+<br>      histidinyl residues. Determination of the primary structure of ARPP-21,
+<br>      one of several phosphoproteins localized to dopaminoceptive neurons in the
+<br>      basal ganglia, provides a framework for further investigations into the
+<br>      molecular mechanisms involved in dopaminergic neurotransmission.
+<br>SO  - J Neurosci 1989 Oct;9(10):3631-7.
+<br>
+<br><b>24. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2558715&dopt=Abstract">2558715</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A56968">A56968</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by calmodulin-dependent kinase II) | 411  (all)
+<br>TI  - Identification of the site on calcineurin phosphorylated by
+<br>      Ca2+/CaM-dependent kinase II: modification of the CaM-binding domain.
+<br>AB  - The catalytic subunit of the Ca2+/calmodulin- (CaM) dependent
+<br>      phosphoprotein phosphatase calcineurin (CN) was phosphorylated by an
+<br>      activated form of Ca2+/CaM-dependent protein kinase II (CaM-kinase II)
+<br>      incorporating approximately 1 mol of phosphoryl group/mol of catalytic
+<br>      subunit, in agreement with a value previously reported (Hashimoto et al.,
+<br>      1988). Cyanogen bromide cleavage of radiolabeled CN followed by peptide
+<br>      fractionation using reverse-phase high-performance liquid chromatography
+<br>      yielded a single labeled peptide that contained a phosphoserine residue.
+<br>      Microsequencing of the peptide allowed both the determination of the
+<br>      cleavage cycle that released [32P]phosphoserine and the identity of amino
+<br>      acids adjacent to it. Comparison of this sequence with the sequences of
+<br>      methionyl peptides deduced from the cDNA structure of CN (Kincaid et al.,
+<br>      1988) allowed the phosphorylated serine to be uniquely identified.
+<br>      Interestingly, the <font color=red>phosphoserine exists in the sequence
+<br>      Met-Ala-Arg-Val-Phe-Ser(P)-Val-Leu-Arg-Glu</font>, part of which lies within the
+<br>      putative CaM-binding site. The phosphorylated serine residue was resistant
+<br>      to autocatalytic dephosphorylation, yet the slow rate of hydrolysis could
+<br>      be powerfully stimulated by effectors of CN phosphatase activity. The
+<br>      mechanism of dephosphorylation may be intramolecular since the initial
+<br>      rate was the same at phosphoCN concentrations of 2.5-250 nM.
+<br>SO  - Biochemistry 1989 Nov 28;28(24):9243-7.
+<br>
+<br><b>25. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2721673&dopt=Abstract">2721673</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=UDCH">UDCH</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (partial) | 103  (all)
+<br>TI  - The cysteine proteinase inhibitor chicken cystatin is a phosphoprotein.
+<br>AB  - Peptide maps obtained by reversed-phase HPLC of tryptic digests of
+<br>      isoelectric form 1 (pI = 6.5) and 2 (pI = 5.6) of chicken egg white
+<br>      cystatin revealed that the difference was located only in a single peptide
+<br>      (residues Ser-74-Lys-91). <font color=red>Ser-80 of cystatin 2 was subsequently identified
+<br>      as being modified by phosphorylation.</font> Moreover, alkaline phosphatase
+<br>      treatment of a mixture of native cystatin forms 1 and 2 was shown by
+<br>      ion-exchange chromatography to cause the disappearance of isoelectric form
+<br>      2 with a concomitant increase in form 1. Thus, the existence of two
+<br>      isoelectric forms of chicken cystatin is due to the phosphorylated form 2
+<br>      and non-phosphorylated form 1.
+<br>SO  - FEBS Lett 1989 May 8;248(1-2):162-8.
+<br>
+<br><b>26. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=278975&dopt=Abstract">278975</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=TMRBA">TMRBA</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (partial) | 283  (all)
+<br>TI  - Specific phosphorylation at serine-283 of alpha tropomyosin from frog
+<br>      skeletal and rabbit skeletal and cardiac muscle.
+<br>AB  - Tropomyosin, extracted from the leg muscle of frogs that had been injected
+<br>      with [32P]orthophosphate, was fractionated into two components, alpha and
+<br>      beta, on a CM-cellulose column. Radioactivity was associated only with the
+<br>      alpha component. <font color=red>A single phosphorylation site was located at serine-283
+<br>      (pentultimate at the COOH-terminal end) of the frog alpha tropomyosin.</font> The
+<br>      same phosphorylated peptide was recovered in low yields from both rabbit
+<br>      skeletal alpha and cardiac tropomyosin. The presence of covalently bound
+<br>      phosphate in alpha tropomyosin and its absence in the beta component of
+<br>      rabbit skeletal muscle was suggested by 31P NMR spectroscopy. The amino
+<br>      acid sequences around the phosphorylation sites of frog and rabbit
+<br>      tropomyosin are identical. Because this sequence is not similar to any
+<br>      other known phosphorylation site in proteins, this indicates the existence
+<br>      of either specific kinase or phosphatase that can distinguish between
+<br>      alpha and beta tropomyosins. In a model proposed for the head-to-tail
+<br>      overlap of alpha tropomyosin molecules, one O-phosphoserine-283 residue
+<br>      could form a salt linkage with lysine-6 on one side of the overlap region
+<br>      and another with lysine-12 on the other side. This would predict a
+<br>      difference in the stability of polymers of phosphorylated and
+<br>      nonphosphorylated alphaalpha and alphabeta dimers of tropomyosin.
+<br>SO  - Proc Natl Acad Sci U S A 1978 Aug;75(8):3588-92.
+<br>
+<br><b>27. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2834385&dopt=Abstract">2834385</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=KIZMPO">KIZMPO</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by bifunctional regulatory protein) | 527  (all)
+<br>TI  - Sequence of the phosphothreonyl regulatory site peptide from inactive
+<br>      maize leaf pyruvate, orthophosphate dikinase.
+<br>AB  - The regulatory site peptide sequence of phosphorylated inactive pyruvate,
+<br>      orthophosphate dikinase from maize leaf tissue was determined by automated
+<br>      Edman degradation analysis of 32P-labeled peptides purified by
+<br>      reversed-phase high performance liquid chromatography. The overlapping
+<br>      phosphopeptides were products of a digestion of the
+<br>      [beta-32P]ADP-inactivated dikinase with either trypsin or Pronase E. The
+<br>      sequence is
+<br>      Thr-Glu-Arg-Gly-Gly-Met-<font color=red>Thr(P)</font>-Ser-His-Ala-Ala-Val-Val-Ala-Arg. The
+<br>      phosphothreonine residue, which appeared as either an anomalous proline or
+<br>      an unidentifiable phenylthiohydantoin derivative during sequencing, was
+<br>      verified by two-dimensional phosphoamino acid analysis of the
+<br>      phosphopeptides and by resequencing the tryptic peptide after
+<br>      dephosphorylation with exogenous alkaline phosphatase. This sequence,
+<br>      starting at position 4, is completely homologous to the previously
+<br>      published sequence of the tryptic dodecapeptide harboring the
+<br>      catalytically essential (phospho)histidyl residue in the active-site
+<br>      domain of the dikinase from the nonphotosynthetic bacterium, Bacteroides
+<br>      symbiosus (Goss, N.H., Evans, C.T., and Wood, H.G. (1980) Biochemistry 19,
+<br>      5805-5809). These comparative results indicate that the regulatory
+<br>      phosphothreonine causing complete inactivation of maize leaf dikinase is
+<br>      separated from the critical active-site (phospho)histidine by just one
+<br>      intervening residue in the primary sequence.
+<br>SO  - J Biol Chem 1988 May 15;263(14):6683-7.
+<br>
+<br><b>28. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2846551&dopt=Abstract">2846551</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A31780">A31780</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 467  (all)
+<br>TI  - Phosphorylation of myocardial fructose-6-phosphate,2-kinase:
+<br>      fructose-2,6-bisphosphatase by cAMP-dependent protein kinase and protein
+<br>      kinase C. Activation by phosphorylation and amino acid sequences of the
+<br>      phosphorylation sites.
+<br>AB  - Phosphorylation of pure
+<br>      fructose-6-phosphate,2-kinase:fructose-2,6-bisphosphatase from bovine
+<br>      heart by cAMP-dependent protein kinase and protein kinase C was
+<br>      investigated. The major enzyme form (subunit Mr of 58,000) was rapidly
+<br>      phosphorylated by both cAMP-dependent protein kinase and protein kinase C,
+<br>      incorporating 0.8 and 1.0 mol/mol of subunit, respectively. The rate of
+<br>      phosphorylation of the heart enzyme by cAMP-dependent protein kinase was
+<br>      10 times faster than that of the rat liver enzyme. The minor enzyme
+<br>      (subunit Mr of 54,000), however, was phosphorylated only by protein kinase
+<br>      C and was phosphorylated much more slowly with a phosphate incorporation
+<br>      of less than 0.1 mol/mol of subunit. Phosphorylation by either
+<br>      cAMP-dependent protein kinase or protein kinase C activated the enzyme,
+<br>      but each phosphorylation affected different kinetic parameters.
+<br>      Phosphorylation by cAMP-dependent protein kinase lowered the Km value for
+<br>      fructose 6-phosphate from 87 to 42 microM without affecting the Vmax,
+<br>      whereas the phosphorylation by protein kinase C increased the Vmax value
+<br>      from 55 to 85 milliunits/mg without altering the Km value. The
+<br>      phosphorylated peptides were isolated, and their amino acid sequences were
+<br>      determined. <font color=red>The phosphorylation sites for both cAMP-dependent protein
+<br>      kinase and protein kinase C were located in a single peptide whose
+<br>      sequence was Arg-Arg-Asn-Ser-(P)-Phe-Thr-Pro-Leu-Ser-Ser-Ser-Asn-Thr(P)-Ile-
+<br>      Arg-Arg-Pro.
+<br>      The seryl residue nearest the N terminus was the residue specifically
+<br>      phosphorylated by cAMP-dependent protein kinase</font>, whereas the threonine
+<br>      residue nearest the C terminus was phosphorylated by protein kinase C.
+<br>SO  - J Biol Chem 1988 Nov 15;263(32):16796-801.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A31780">A31780</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by protein kinase C) | 476  (all)
+<br>TI  - Phosphorylation of myocardial fructose-6-phosphate,2-kinase:
+<br>      fructose-2,6-bisphosphatase by cAMP-dependent protein kinase and protein
+<br>      kinase C. Activation by phosphorylation and amino acid sequences of the
+<br>      phosphorylation sites.
+<br>AB  - Phosphorylation of pure
+<br>      fructose-6-phosphate,2-kinase:fructose-2,6-bisphosphatase from bovine
+<br>      heart by cAMP-dependent protein kinase and protein kinase C was
+<br>      investigated. The major enzyme form (subunit Mr of 58,000) was rapidly
+<br>      phosphorylated by both cAMP-dependent protein kinase and protein kinase C,
+<br>      incorporating 0.8 and 1.0 mol/mol of subunit, respectively. The rate of
+<br>      phosphorylation of the heart enzyme by cAMP-dependent protein kinase was
+<br>      10 times faster than that of the rat liver enzyme. The minor enzyme
+<br>      (subunit Mr of 54,000), however, was phosphorylated only by protein kinase
+<br>      C and was phosphorylated much more slowly with a phosphate incorporation
+<br>      of less than 0.1 mol/mol of subunit. Phosphorylation by either
+<br>      cAMP-dependent protein kinase or protein kinase C activated the enzyme,
+<br>      but each phosphorylation affected different kinetic parameters.
+<br>      Phosphorylation by cAMP-dependent protein kinase lowered the Km value for
+<br>      fructose 6-phosphate from 87 to 42 microM without affecting the Vmax,
+<br>      whereas the phosphorylation by protein kinase C increased the Vmax value
+<br>      from 55 to 85 milliunits/mg without altering the Km value. The
+<br>      phosphorylated peptides were isolated, and their amino acid sequences were
+<br>      determined. <font color=red>The phosphorylation sites for both cAMP-dependent protein
+<br>      kinase and protein kinase C were located in a single peptide whose
+<br>      sequence was Arg-Arg-Asn-Ser-(P)-Phe-Thr-Pro-Leu-Ser-Ser-Ser-Asn-Thr(P)-Ile
+<br>      Arg-Arg-Pro.</font>
+<br>      The seryl residue nearest the N terminus was the residue specifically
+<br>      phosphorylated by cAMP-dependent protein kinase, whereas <font color=red>the threonine
+<br>      residue nearest the C terminus was phosphorylated by protein kinase C.</font>
+<br>SO  - J Biol Chem 1988 Nov 15;263(32):16796-801.
+<br>
+<br><b>29. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2874140&dopt=Abstract">2874140</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=WHRTY">WHRTY</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by unidentified kinase) | 8  (all)
+<br>TI  - Identification of four phosphorylation sites in the N-terminal region of
+<br>      tyrosine hydroxylase.
+<br>AB  - As reported previously [Vulliet et al. (1985) FEBS Lett. 182 335-339],
+<br>      tyrosine hydroxylase purified from rat pheochromocytoma is phosphorylated
+<br>      at an identical site (site A) by cyclic AMP-dependent protein kinase, the
+<br>      calmodulin-dependent multiprotein kinase and protein kinase C, while the
+<br>      calmodulin-dependent multiprotein kinase also phosphorylates another
+<br>      unique site (site C). Preparations of tyrosine hydroxylase purified from
+<br>      this source are also contaminated with traces of <font color=red>a fourth protein kinase
+<br>      which phosphorylates another unique site (site E)</font>. We have isolated
+<br>      tryptic peptides containing each of these sites and determined their amino
+<br>      acid sequences. By comparison of these data with the known cDNA sequence
+<br>      for rat tyrosine hydroxylase, we have been able to identify these sites as
+<br>      <font color=red>Ser-8 (site E)</font>, Ser-19 (site C), and Ser-40 (site A). In some preparations
+<br>      of tyrosine hydroxlyase, cyclic AMP-dependent protein kinase also
+<br>      phosphorylated a secondary site which was identified as ser-153. All of
+<br>      these phosphorylation sites are in the amino-terminal region, where there
+<br>      is no significant homology with the closely related enzyme, phenylalanine
+<br>      hydroxylase. Our data also establish that the initiator methionine is
+<br>      removed by post-translational processing to leave pro-2 as the
+<br>      amino-terminus of the mature protein. The significance of these results
+<br>      for the mechanism of action of extracellular signals on catecholamine
+<br>      biosynthesis is discussed.
+<br>SO  - J Biol Chem 1986 Aug 15;261(23):10489-92.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=WHRTY">WHRTY</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by calmodulin-dependent kinase) | 19  (all)
+<br>TI  - Identification of four phosphorylation sites in the N-terminal region of
+<br>      tyrosine hydroxylase.
+<br>AB  - As reported previously [Vulliet et al. (1985) FEBS Lett. 182 335-339],
+<br>      tyrosine hydroxylase purified from rat pheochromocytoma is phosphorylated
+<br>      at an identical site (site A) by cyclic AMP-dependent protein kinase, the
+<br>      calmodulin-dependent multiprotein kinase and protein kinase C, while the
+<br>      <font color=red>calmodulin-dependent multiprotein kinase also phosphorylates another
+<br>      unique site (site C)</font>. Preparations of tyrosine hydroxylase purified from
+<br>      this source are also contaminated with traces of a fourth protein kinase
+<br>      which phosphorylates another unique site (site E). We have isolated
+<br>      tryptic peptides containing each of these sites and determined their amino
+<br>      acid sequences. By comparison of these data with the known cDNA sequence
+<br>      for rat tyrosine hydroxylase, we have been able to identify these sites as
+<br>      Ser-8 (site E), <font color=red>Ser-19 (site C)</font>, and Ser-40 (site A). In some preparations
+<br>      of tyrosine hydroxlyase, cyclic AMP-dependent protein kinase also
+<br>      phosphorylated a secondary site which was identified as ser-153. All of
+<br>      these phosphorylation sites are in the amino-terminal region, where there
+<br>      is no significant homology with the closely related enzyme, phenylalanine
+<br>      hydroxylase. Our data also establish that the initiator methionine is
+<br>      removed by post-translational processing to leave pro-2 as the
+<br>      amino-terminus of the mature protein. The significance of these results
+<br>      for the mechanism of action of extracellular signals on catecholamine
+<br>      biosynthesis is discussed.
+<br>SO  - J Biol Chem 1986 Aug 15;261(23):10489-92.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=WHRTY">WHRTY</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 40,153  (all)
+<br>TI  - Identification of four phosphorylation sites in the N-terminal region of
+<br>      tyrosine hydroxylase.
+<br>AB  - As reported previously [Vulliet et al. (1985) FEBS Lett. 182 335-339],
+<br>      tyrosine hydroxylase purified from rat pheochromocytoma is <font color=red>phosphorylated
+<br>      at an identical site (site A) by cyclic AMP-dependent protein kinase</font>, the
+<br>      calmodulin-dependent multiprotein kinase and protein kinase C, while the
+<br>      calmodulin-dependent multiprotein kinase also phosphorylates another
+<br>      unique site (site C). Preparations of tyrosine hydroxylase purified from
+<br>      this source are also contaminated with traces of a fourth protein kinase
+<br>      which phosphorylates another unique site (site E). We have isolated
+<br>      tryptic peptides containing each of these sites and determined their amino
+<br>      acid sequences. By comparison of these data with the known cDNA sequence
+<br>      for rat tyrosine hydroxylase, we have been able to identify these sites as
+<br>      Ser-8 (site E), Ser-19 (site C), and <font color=red>Ser-40 (site A)</font>. In some preparations
+<br>      of tyrosine hydroxlyase, <font color=red>cyclic AMP-dependent protein kinase also
+<br>      phosphorylated a secondary site which was identified as ser-153</font>. All of
+<br>      these phosphorylation sites are in the amino-terminal region, where there
+<br>      is no significant homology with the closely related enzyme, phenylalanine
+<br>      hydroxylase. Our data also establish that the initiator methionine is
+<br>      removed by post-translational processing to leave pro-2 as the
+<br>      amino-terminus of the mature protein. The significance of these results
+<br>      for the mechanism of action of extracellular signals on catecholamine
+<br>      biosynthesis is discussed.
+<br>SO  - J Biol Chem 1986 Aug 15;261(23):10489-92.
+<br>
+<br><b>30. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2914943&dopt=Abstract">2914943</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=EQBOA">EQBOA</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (partial) | 239,245,247  (all)
+<br>TI  - The isolation and chemical characterization of phosphorylated
+<br>      enkephalin-containing peptides from bovine adrenal medulla.
+<br>AB  - There is increasing evidence that the opioid peptide precursor,
+<br>      proenkephalin A, and its products undergo extensive post-translational
+<br>      modification, in addition to the cleavage at dibasic amino acid sites. We
+<br>      have used an antiserum directed toward the C terminus of Met-enkephalin
+<br>      Arg6-Phe7 in a radioimmunoassay to monitor the purification to homogeneity
+<br>      of four peptide B variants from bovine adrenal medulla, using gel
+<br>      filtration, anion exchange chromatography, and reverse phase high
+<br>      performance liquid chromatography. Amino acid sequence analysis, together
+<br>      with immunochemical data, confirmed that each comprised the primary
+<br>      sequence, proenkephalin A-(209-239). In addition, three of the four
+<br>      variants were shown to be phosphorylated by alkaline phosphatase
+<br>      digestion, microphosphate analysis, and ethanethiol derivatization coupled
+<br>      with amino acid sequence analysis; these variants were shown to have 1, 2,
+<br>      or 3 phosphate groups per peptide chain, which corresponded to their
+<br>      increasing acidic nature. <font color=red>The phosphorylation sites were clustered
+<br>      together at positions Ser7, Ser13, and Ser15 and were in close association
+<br>      with acidic residues.</font> The clustering of phosphorylated residues is unique
+<br>      among regulatory peptide precursors. This region of proenkephalin A is
+<br>      well conserved, which suggests that it constitutes an important novel
+<br>      functional domain.
+<br>SO  - J Biol Chem 1989 Feb 25;264(6):3061-5.
+<br>
+<br><b>31. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3121625&dopt=Abstract">3121625</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=FMSP32">FMSP32</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) | 2  (all)
+<br>TI  - Tandem mass spectrometry reveals that three photosystem II proteins of
+<br>      spinach chloroplasts contain N-acetyl-O-phosphothreonine at their NH2
+<br>      termini.
+<br>AB  - Photosystem II cores of spinach contain four phosphoproteins (8.3, 32, 34,
+<br>      and 44 kDa). Tryptic digestion of core particles released four
+<br>      phosphopeptides which were purified by affinity chromatography on
+<br>      Fe3+-chelating Sepharose and reverse-phase high pressure liquid
+<br>      chromatography. One peptide, derived from the 8.3-kDa protein, has been
+<br>      found to be the NH2 terminus of the psbH gene product (Michel, H. P., and
+<br>      Bennett, J. (1987) FEBS Lett. 212, 103-108). The other three peptides were
+<br>      found to be blocked at the NH2 terminus. We now report the use of tandem
+<br>      mass spectrometry to obtain the sequence of the three other peptides, to
+<br>      locate the phosphorylated residue, and to identify the blocking group. <font color=red>The
+<br>      three peptides correspond to the NH2 termini of D1, D2, and CPa-2; and
+<br>      each begins with N-acetyl-O-phosphothreonine.</font> Comparison with sequences
+<br>      deduced from cloned genes indicates that D1 and D2 have lost their
+<br>      initiating N-formylmethionyl residues. The result for D1 contradicts the
+<br>      view that translation of D1 begins at the second AUG of the mRNA (Bloom,
+<br>      M., Brot, N., Cohen, B. N., and Weissbach, H. (1986) Methods Enzymol. 118,
+<br>      309-315) and supports the view that processing of pre-D1 to its mature
+<br>      form involves loss of amino acids from the COOH terminus (Marder, J. B.,
+<br>      Goloubinoff, P., and Edelman, M. (1984) J. Biol. Chem. 259, 3900-3908). In
+<br>      contrast, CPa-2 is processed at the NH2 terminus by cleaving off the first
+<br>      14 amino acids. These results also establish that the NH2 termini of D1,
+<br>      D2, and CPa-2 are exposed to the stromal side of the thylakoids.
+<br>SO  - J Biol Chem 1988 Jan 25;263(3):1123-30.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=F2SPD2">F2SPD2</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) | 2  (all)
+<br>TI  - Tandem mass spectrometry reveals that three photosystem II proteins of
+<br>      spinach chloroplasts contain N-acetyl-O-phosphothreonine at their NH2
+<br>      termini.
+<br>AB  - Photosystem II cores of spinach contain four phosphoproteins (8.3, 32, 34,
+<br>      and 44 kDa). Tryptic digestion of core particles released four
+<br>      phosphopeptides which were purified by affinity chromatography on
+<br>      Fe3+-chelating Sepharose and reverse-phase high pressure liquid
+<br>      chromatography. One peptide, derived from the 8.3-kDa protein, has been
+<br>      found to be the NH2 terminus of the psbH gene product (Michel, H. P., and
+<br>      Bennett, J. (1987) FEBS Lett. 212, 103-108). The other three peptides were
+<br>      found to be blocked at the NH2 terminus. We now report the use of tandem
+<br>      mass spectrometry to obtain the sequence of the three other peptides, to
+<br>      locate the phosphorylated residue, and to identify the blocking group. <font color=red>The
+<br>      three peptides correspond to the NH2 termini of D1, D2, and CPa-2; and
+<br>      each begins with N-acetyl-O-phosphothreonine.</font> Comparison with sequences
+<br>      deduced from cloned genes indicates that D1 and D2 have lost their
+<br>      initiating N-formylmethionyl residues. The result for D1 contradicts the
+<br>      view that translation of D1 begins at the second AUG of the mRNA (Bloom,
+<br>      M., Brot, N., Cohen, B. N., and Weissbach, H. (1986) Methods Enzymol. 118,
+<br>      309-315) and supports the view that processing of pre-D1 to its mature
+<br>      form involves loss of amino acids from the COOH terminus (Marder, J. B.,
+<br>      Goloubinoff, P., and Edelman, M. (1984) J. Biol. Chem. 259, 3900-3908). In
+<br>      contrast, CPa-2 is processed at the NH2 terminus by cleaving off the first
+<br>      14 amino acids. These results also establish that the NH2 termini of D1,
+<br>      D2, and CPa-2 are exposed to the stromal side of the thylakoids.
+<br>SO  - J Biol Chem 1988 Jan 25;263(3):1123-30.
+<br>
+<br><b>32. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3185734&dopt=Abstract">3185734</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=QRECCS">QRECCS</a>
+<br>FT  - binding site | phosphate (His) (covalent) (by autophosphorylation) | 48  (all)
+<br>TI  - Histidine phosphorylation and phosphoryl group transfer in bacterial
+<br>      chemotaxis.
+<br>AB  - A cascade of protein phosphorylation, initiated by autophosphorylation of
+<br>      the CheA protein, may be important in the signal transduction pathway of
+<br>      bacterial chemotaxis. A proteolytic fragment of CheA cannot
+<br>      autophosphorylate, but can still transfer phosphate to proteins that
+<br>      generate excitation and adaptation signals. <font color=red>The site of CheA
+<br>      phosphorylation is His 48</font>; mutants altered at this position are
+<br>      non-chemotactic. Similar mechanisms of transient protein phosphorylation
+<br>      and phosphoryl group transfer seem to be involved in processing sensory
+<br>      data and in activating specific gene expression.
+<br>SO  - Nature 1988 Nov 10;336(6195):139-43.
+<br>
+<br><b>33. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3198618&dopt=Abstract">3198618</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A34594">A34594</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by myosin-light-chain kinase) | 19  (all)
+<br>TI  - Sites phosphorylated in myosin light chain in contracting smooth muscle.
+<br>AB  - Purified smooth muscle myosin light chain can be phosphorylated at
+<br>      multiple sites by myosin light chain kinase and protein kinase C. We have
+<br>      determined the sites phosphorylated on myosin light chain in intact bovine
+<br>      tracheal smooth muscle. Stimulation with 10 microM carbachol resulted in
+<br>      66 +/- 5% monophosphorylated and 11 +/- 2% diphosphorylated myosin light
+<br>      chain after 1 min, and 47 +/- 4% monophosphorylated and 5 +/- 2%
+<br>      diphosphorylated myosin light chain after 30 min. Myosin heavy chain
+<br>      contained 0.06 +/- 0.01 mol of phosphate/mol of protein which did not
+<br>      change with carbachol. At both 1 and 30 min the monophosphorylated myosin
+<br>      light chain contained only phosphoserine whereas the diphosphorylated
+<br>      myosin light chain contained both phosphoserine and phosphothreonine.
+<br>      Two-dimensional peptide mapping of tryptic digests of monophosphorylated
+<br>      and diphosphorylated myosin light chain obtained from carbachol-stimulated
+<br>      tissue was similar to the peptide maps of purified light chain
+<br>      monophosphorylated and diphosphorylated, respectively, by myosin light
+<br>      chain kinase; these maps were distinct from the map obtained with tracheal
+<br>      light chain phosphorylated by protein kinase C. <font color=red>Phosphorylation of
+<br>      tracheal smooth muscle myosin light chain by myosin light chain kinase
+<br>      yields the tryptic phosphopeptide AT(P)S(P)NVFAMFDQSQIQEFK with S(P) the
+<br>      phosphoserine in the monophosphorylated myosin light chain and T(P)S(P) the
+<br>      phosphotreonine and phosphoserine in the diphosphorylated myosin light
+<br>      chain.</font> Thus, stimulation of tracheal smooth muscle with a high
+<br>      concentration of carbachol results in formation of both monophosphorylated
+<br>      and diphosphorylated myosin light chain although the amount of
+<br>      diphosphorylated light chain is substantially less than monophosphorylated
+<br>      light chain. In the intact muscle, myosin light chain is phosphorylated at
+<br>      sites corresponding to myosin light chain kinase phosphorylation.
+<br>SO  - J Biol Chem 1988 Dec 15;263(35):19166-73.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A34594">A34594</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by myosin-light-chain kinase) (partial) | 18  (all)
+<br>TI  - Sites phosphorylated in myosin light chain in contracting smooth muscle.
+<br>AB  - Purified smooth muscle myosin light chain can be phosphorylated at
+<br>      multiple sites by myosin light chain kinase and protein kinase C. We have
+<br>      determined the sites phosphorylated on myosin light chain in intact bovine
+<br>      tracheal smooth muscle. Stimulation with 10 microM carbachol resulted in
+<br>      66 +/- 5% monophosphorylated and 11 +/- 2% diphosphorylated myosin light
+<br>      chain after 1 min, and 47 +/- 4% monophosphorylated and 5 +/- 2%
+<br>      diphosphorylated myosin light chain after 30 min. Myosin heavy chain
+<br>      contained 0.06 +/- 0.01 mol of phosphate/mol of protein which did not
+<br>      change with carbachol. At both 1 and 30 min the monophosphorylated myosin
+<br>      light chain contained only phosphoserine whereas the diphosphorylated
+<br>      myosin light chain contained both phosphoserine and phosphothreonine.
+<br>      Two-dimensional peptide mapping of tryptic digests of monophosphorylated
+<br>      and diphosphorylated myosin light chain obtained from carbachol-stimulated
+<br>      tissue was similar to the peptide maps of purified light chain
+<br>      monophosphorylated and diphosphorylated, respectively, by myosin light
+<br>      chain kinase; these maps were distinct from the map obtained with tracheal
+<br>      light chain phosphorylated by protein kinase C. <font color=red>Phosphorylation of
+<br>      tracheal smooth muscle myosin light chain by myosin light chain kinase
+<br>      yields the tryptic phosphopeptide AT(P)S(P)NVFAMFDQSQIQEFK with S(P) the
+<br>      phosphoserine in the monophosphorylated myosin light chain and T(P)S(P) the
+<br>      phosphotreonine and phosphoserine in the diphosphorylated myosin light
+<br>      chain.</font> Thus, stimulation of tracheal smooth muscle with a high
+<br>      concentration of carbachol results in formation of both monophosphorylated
+<br>      and diphosphorylated myosin light chain although the amount of
+<br>      diphosphorylated light chain is substantially less than monophosphorylated
+<br>      light chain. In the intact muscle, myosin light chain is phosphorylated at
+<br>      sites corresponding to myosin light chain kinase phosphorylation.
+<br>SO  - J Biol Chem 1988 Dec 15;263(35):19166-73.
+<br>
+<br><b>34. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3224509&dopt=Abstract">3224509</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=PL0040">PL0040</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 10  (all)
+<br>TI  - The sequence around the phosphorylation site of the porcine heart type
+<br>      phosphorylase isoenzyme.
+<br>AB  - 1. A tetradecapeptide containing the phosphorylation site was obtained
+<br>      from 32P-labelled pig heart phosphorylase a isoenzyme by
+<br>      alpha-chymotryptic digestion. 2. The peptide was purified by Mono S
+<br>      cation-exchange chromatography and reversed-phase HPLC. 3. <font color=red>The
+<br>      phosphorylated residue was identified as Ser and the sequence was
+<br>      determined: T D G E R R K Q I S V R G L.</font> 4. The sequence was compared to
+<br>      the known sequences of muscle and liver type isophosphorylases and the
+<br>      structural consequences of the amino acid residue exchanges were
+<br>      predicted.
+<br>SO  - Comp Biochem Physiol B 1988;91(4):717-21.
+<br>
+<br><b>35. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3345839&dopt=Abstract">3345839</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=S00347">S00347</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 8  (all)
+<br>TI  - Primary structure of the site on bovine hormone-sensitive lipase
+<br>      phosphorylated by cyclic AMP-dependent protein kinase.
+<br>AB  - The primary structure of a region on hormone-sensitive lipase was
+<br>      determined to be: Lys-Thr-Glu-Pro-Met-Arg-Arg-Ser-
+<br>      Val-Ser-Glu-Ala-Ala-Leu-Thr-Gln-Pro-Glu-Gly-Pro-Leu-Gly-Thr-Asp-Ser-Leu-Ly
+<br>      s. <font color=red>Ser-8 was the only residue in the intact protein phosphorylated by
+<br>      cyclic AMP-dependent protein kinase.</font> However, Ser-10 also appeared to be
+<br>      present in a phosphorylated form, suggesting that it is a target for a
+<br>      distinct protein kinase in vivo.
+<br>SO  - FEBS Lett 1988 Feb 29;229(1):68-72.
+<br>
+<br><b>36. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3680273&dopt=Abstract">3680273</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=ACRYD1">ACRYD1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 382  (all)
+<br>TI  - Determination of the sites of cAMP-dependent phosphorylation on the
+<br>      nicotinic acetylcholine receptor.
+<br>AB  - The nicotinic acetylcholine receptor is a substrate for cAMP-dependent
+<br>      protein kinase both in vitro and in vivo. Recently, it has been
+<br>      demonstrated that phosphorylation of the nicotinic receptor by this kinase
+<br>      increases its rate of rapid desensitization. We now report the
+<br>      identification of the cAMP-dependent phosphorylation sites on the gamma
+<br>      and delta subunits. Two-dimensional phosphopeptide mapping of the
+<br>      phosphorylated gamma and delta subunits, after limit proteolysis with
+<br>      thermolysin, indicated that each subunit is phosphorylated on a single
+<br>      site. Phosphoamino acid analysis of the 32P-labeled subunits demonstrates
+<br>      that phosphorylation had occurred exclusively on serine residues. Purified
+<br>      phosphorylated subunits were cleaved with cyanogen bromide and the
+<br>      resultant phosphopeptides were purified by reverse-phase high performance
+<br>      liquid chromatography. Shorter phosphopeptides, obtained by secondary
+<br>      digestion with trypsin, were purified and subjected to both automated
+<br>      gas-phase sequencing and manual Edman degradation. <font color=red>The results demonstrate
+<br>      that the gamma subunit was phosphorylated at Ser-353, contained within the
+<br>      sequence Arg-Arg-Ser(P)-Ser-Phe-Ile and that the delta subunit was
+<br>      phosphorylated at Ser-361, contained within the sequence
+<br>      Arg-Ser-Ser(P)-Ser-Val-Gay-Tyr-Ser-Lys.</font> Determination of the sites
+<br>      phosphorylated within the structure of the gamma and delta subunits should
+<br>      contribute to the molecular characterization of the regulation of
+<br>      desensitization of the nicotinic acetylcholine receptor by protein
+<br>      phosphorylation.
+<br>SO  - J Biol Chem 1987 Dec 5;262(34):16748-53.
+<br>
+<br><b>37. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3928373&dopt=Abstract">3928373</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A33369">A33369</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) | 6  (all)
+<br>TI  - Multisite phosphorylation of glycogen synthase from rabbit skeletal
+<br>      muscle. Identification of the sites phosphorylated by casein kinase-I.
+<br>AB  - A casein kinase was highly purified from rabbit skeletal muscle whose
+<br>      substrate specificity and enzymatic properties were virtually identical to
+<br>      those of casein kinase-I from rabbit reticulocytes. Prolonged incubation
+<br>      of glycogen synthase with high concentrations of skeletal muscle casein
+<br>      kinase-I and Mg-ATP resulted in the incorporation of greater than 6 mol
+<br>      phosphate/mol subunit and decreased the activity ratio (+/- glucose-6P)
+<br>      from 0.8 to less than 0.02. The sites phosphorylated by casein kinase-I
+<br>      were all located in the N and C-terminal cyanogen bromide peptides, termed
+<br>      CB-1 and CB-2. At an incorporation of 6 mol phosphate/mol subunit,
+<br>      approximately equal to 2 mol/mol was present in CB-1 and approximately
+<br>      equal to 4 mol/mol in CB-2. <font color=red>Within CB-1, casein kinase-I phosphorylated
+<br>      the serines that were 3, 7 and 10 residues from the N-terminus of glycogen
+<br>      synthase, with minor phosphorylation at threonine-5.</font> Within CB-2,
+<br>      approximately equal to 90% of the phosphate incorporated was located
+<br>      between residues 28 and 53, and at least five of the seven serine residues
+<br>      in this region were phosphorylated. The remaining 10% of phosphate
+<br>      incorporated into CB-2 was located between residues 98 and 123, mainly at
+<br>      a serine residue(s). Two of the major sites labelled by casein kinase-I
+<br>      (serine-3 and serine-10 of CB-1) are not phosphorylated by any other
+<br>      protein kinase. This will enable the role of casein kinase-I as a glycogen
+<br>      synthase kinase in vivo to be evaluated.
+<br>SO  - Eur J Biochem 1985 Aug 15;151(1):39-48.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A33369">A33369</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 4,8,11,645,649,653,657,698,711  (4,8,11
+<br>TI  - Multisite phosphorylation of glycogen synthase from rabbit skeletal
+<br>      muscle. Identification of the sites phosphorylated by casein kinase-I.
+<br>AB  - A casein kinase was highly purified from rabbit skeletal muscle whose
+<br>      substrate specificity and enzymatic properties were virtually identical to
+<br>      those of casein kinase-I from rabbit reticulocytes. Prolonged incubation
+<br>      of glycogen synthase with high concentrations of skeletal muscle casein
+<br>      kinase-I and Mg-ATP resulted in the incorporation of greater than 6 mol
+<br>      phosphate/mol subunit and decreased the activity ratio (+/- glucose-6P)
+<br>      from 0.8 to less than 0.02. The sites phosphorylated by casein kinase-I
+<br>      were all located in the N and C-terminal cyanogen bromide peptides, termed
+<br>      CB-1 and CB-2. At an incorporation of 6 mol phosphate/mol subunit,
+<br>      approximately equal to 2 mol/mol was present in CB-1 and approximately
+<br>      equal to 4 mol/mol in CB-2. <font color=red>Within CB-1, casein kinase-I phosphorylated
+<br>      the serines that were 3, 7 and 10 residues from the N-terminus of glycogen
+<br>      synthase</font>, with minor phosphorylation at threonine-5. Within CB-2,
+<br>      approximately equal to 90% of the phosphate incorporated was located
+<br>      between residues 28 and 53, and at least five of the seven serine residues
+<br>      in this region were phosphorylated. The remaining 10% of phosphate
+<br>      incorporated into CB-2 was located between residues 98 and 123, mainly at
+<br>      a serine residue(s). Two of the major sites labelled by casein kinase-I
+<br>      (serine-3 and serine-10 of CB-1) are not phosphorylated by any other
+<br>      protein kinase. This will enable the role of casein kinase-I as a glycogen
+<br>      synthase kinase in vivo to be evaluated.
+<br>SO  - Eur J Biochem 1985 Aug 15;151(1):39-48.
+<br>
+<br><b>38. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=3944083&dopt=Abstract">3944083</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A32541">A32541</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 21  (all)
+<br>TI  - The primary structure and functional characterization of the neutral
+<br>      histidine-rich polypeptide from human parotid secretion.
+<br>AB  - The neutral histidine-rich polypeptide (HRP) from human parotid secretion
+<br>      was isolated by ion-exchange and gel-filtration chromatography. <font color=red>The
+<br>      complete amino acid sequence determined by automated Edman degradation of
+<br>      the protein, tryptic and Staphylococcus aureus V8 protease peptides, and
+<br>      digestion with carboxypeptidase A is: NH2-Asp-Pse-His-Glu-Lys-Arg-His-His-Gly-Tyr-Arg-Arg-Lys-Phe-His-Glu-Lys-His-His-Ser-His-Arg-Glu-Phe-Pro-Phe-Tyr-Gly-Asp-Tyr-Gly-Ser-Asn-Tyr-Leu-Tyr-Asp-Asn-COOH, where Pse
+<br>      represents phosphoserine.</font> The polypeptide contains 38 residues and has Mr
+<br>      4929. The charged amino acids predominate with 7 histidine, 4 arginine, 3
+<br>      lysine, 3 aspartic acid, 3 glutamic acid residues, and 1 phosphoserine.
+<br>      Assuming minimal charge contributions from histidine and one negative
+<br>      charge from phosphoserine at pH 7, the net charge of HRP is balanced by an
+<br>      equal contribution of basic and acidic residues. Furthermore, the
+<br>      distribution of hydrophilic and hydrophobic residues along the polypeptide
+<br>      chain indicates that there is no structural polarity. The polypeptide
+<br>      lacks threonine, alanine, valine, cysteine, methionine, and isoleucine.
+<br>      HRP did not display sequence similarity with any protein sequence in the
+<br>      National Biomedical Research Foundation Data Bank. HRP is an active
+<br>      inhibitor of hydroxyapatite crystal growth from solutions supersaturated
+<br>      with respect to calcium phosphate salts and therefore must play a role in
+<br>      the stabilization of mineral-solute interactions in oral fluid. In
+<br>      addition, HRP is a potent inhibitor of Candida albicans germination and
+<br>      therefore may be a significant component of the antimicrobial host defense
+<br>      system in the oral cavity.
+<br>SO  - J Biol Chem 1986 Jan 25;261(3):1177-82.
+<br>
+<br><b>39. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6290217&dopt=Abstract">6290217</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=PZRB1">PZRB1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) (partial) | 67  (all)
+<br>TI  - Complete primary structure of protein phosphatase inhibitor-1 from rabbit
+<br>      skeletal muscle.
+<br>AB  - The complete primary structure of protein phosphatase inhibitor-1 has been
+<br>      determined. The protein consists of a single polypeptide chain of 165
+<br>      residues, molecular weight 18640. The threonine residue that must be
+<br>      phosphorylated for activation is at position 35 and the active cyanogen
+<br>      bromide peptide, CB-1, comprises residues 2-66. The N-terminal methionine
+<br>      is acetylated and 40% of the inhibitor-1 molecules lack the C-terminal
+<br>      dipeptide Ala-Val. <font color=red>Serine-67 is substantially phosphorylated in vivo</font>, but
+<br>      this phosphoserine residue does not appear to influence the activity of
+<br>      inhibitor-1.
+<br>SO  - Eur J Biochem 1982 Aug;126(2):235-46.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=PZRB1">PZRB1</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by cAMP-dependent kinase) | 35  (all)
+<br>TI  - Complete primary structure of protein phosphatase inhibitor-1 from rabbit
+<br>      skeletal muscle.
+<br>AB  - The complete primary structure of protein phosphatase inhibitor-1 has been
+<br>      determined. The protein consists of a single polypeptide chain of 165
+<br>      residues, molecular weight 18640. <font color=red>The threonine residue that must be
+<br>      phosphorylated for activation is at position 35</font> and the active cyanogen
+<br>      bromide peptide, CB-1, comprises residues 2-66. The N-terminal methionine
+<br>      is acetylated and 40% of the inhibitor-1 molecules lack the C-terminal
+<br>      dipeptide Ala-Val. Serine-67 is substantially phosphorylated in vivo, but
+<br>      this phosphoserine residue does not appear to influence the activity of
+<br>      inhibitor-1.
+<br>SO  - Eur J Biochem 1982 Aug;126(2):235-46.
+<br>
+<br><b>40. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6304091&dopt=Abstract">6304091</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=OKBOG">OKBOG</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by autophosphorylation) | 59  (all)
+<br>TI  - Amino acid sequence around a "hinge" region and its "autophosphorylation"
+<br>      site in bovine Lung cGMP-dependent protein kinase.
+<br>AB  - An exposed "hinge" region of cGMP-dependent protein kinase is known to be
+<br>      susceptible to both limited proteolysis and autophosphorylation. A
+<br>      91-residue fragment has been isolated from this region and its amino acid
+<br>      sequence has been compared with the analogous regions of the
+<br>      cAMP-dependent protein kinases. Although a resemblance among these
+<br>      sequences is not striking, the phosphorylation sites are in corresponding
+<br>      regions toward the NH2 termini, and there are indications of homology in
+<br>      the vicinity of their autophosphorylation sites. As in the cAMP-dependent
+<br>      protein kinase, the site of autophosphorylation and the site of
+<br>      susceptibility to limited proteolysis are very near each other in the
+<br>      primary structure. <font color=red>The actual site of autophosphorylation (the underlined
+<br>      threonine residue in Pro-Arg-Thr-Thr-Arg)</font> is quite different from those in
+<br>      the regulatory subunit of Type II cAMP-dependent kinase or the site in
+<br>      Type I regulatory subunit that can be phosphorylated by the cGMP-dependent
+<br>      protein kinase.
+<br>SO  - J Biol Chem 1983 May 10;258(9):5531-6.
+<br>
+<br><b>41. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6311252&dopt=Abstract">6311252</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=OKBO2C">OKBO2C</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) | 198  (all)
+<br>TI  - Amino acid sequence of the catalytic subunit of bovine type II adenosine
+<br>      cyclic 3',5'-phosphate dependent protein kinase.
+<br>AB  - The 350-residue amino acid sequence of the catalytic subunit of bovine
+<br>      cardiac muscle adenosine cyclic 3',5'-phosphate dependent protein kinase
+<br>      is described. The protein has a molecular weight of 40 862, which includes
+<br>      an N-tetradecanoyl (myristyl) group blocking the NH2 terminus and
+<br>      <font color=red>phosphate groups at threonine-197</font> and serine-338. Seven methionyl bonds in
+<br>      the S-carboxymethylated protein were cleaved with cyanogen bromide to
+<br>      yield eight primary peptides. These fragments, and subpeptides generated
+<br>      by cleavage with trypsin, pepsin, chymotrypsin, thermolysin, and
+<br>      Myxobacter AL-1 protease II, were purified and analyzed to yield the
+<br>      majority of the sequence. The primary peptides were aligned by analyses of
+<br>      overlapping peptides, particularly of methione-containing tryptic peptides
+<br>      generated after in vitro [14C]methyl exchange labeling of methionyl
+<br>      residues in the intact protein.
+<br>SO  - Biochemistry 1983 Jul 19;22(15):3702-9.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=OKBO2C">OKBO2C</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 339  (all)
+<br>TI  - Amino acid sequence of the catalytic subunit of bovine type II adenosine
+<br>      cyclic 3',5'-phosphate dependent protein kinase.
+<br>AB  - The 350-residue amino acid sequence of the catalytic subunit of bovine
+<br>      cardiac muscle adenosine cyclic 3',5'-phosphate dependent protein kinase
+<br>      is described. The protein has a molecular weight of 40 862, which includes
+<br>      an N-tetradecanoyl (myristyl) group blocking the NH2 terminus and
+<br>      <font color=red>phosphate groups at</font> threonine-197 and <font color=red>serine-338</font>. Seven methionyl bonds in
+<br>      the S-carboxymethylated protein were cleaved with cyanogen bromide to
+<br>      yield eight primary peptides. These fragments, and subpeptides generated
+<br>      by cleavage with trypsin, pepsin, chymotrypsin, thermolysin, and
+<br>      Myxobacter AL-1 protease II, were purified and analyzed to yield the
+<br>      majority of the sequence. The primary peptides were aligned by analyses of
+<br>      overlapping peptides, particularly of methione-containing tryptic peptides
+<br>      generated after in vitro [14C]methyl exchange labeling of methionyl
+<br>      residues in the intact protein.
+<br>SO  - Biochemistry 1983 Jul 19;22(15):3702-9.
+<br>
+<br><b>42. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6349995&dopt=Abstract">6349995</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=HSIN21">HSIN21</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (partial) | 1  (all)
+<br>TI  - Primary structure of histone H2A from nucleated erythrocyte of the marine
+<br>      worm Sipunculus nudus. Presence of two forms of H2A in the sipunculid
+<br>      chromatin.
+<br>AB  - The complete amino acid sequence (123 residues) of histone H2A from
+<br>      erythrocytes of the marine worm Sipunculus nudus, has been established
+<br>      from data provided by automated sequence analysis of large fragments
+<br>      generated by V8 staphylococcal protease digestion of histone H2A and by
+<br>      limited hydrolysis of the protein with alpha-chymotrypsin and from
+<br>      structural studies of tryptic peptides of the protein. By comparison with
+<br>      calf homologous histone, the sipunculid histone H2A shows 6 deletions and
+<br>      13 substitutions. Six of the substitutions are non-conservative. Most of
+<br>      the evolutionary changes are mainly observed in the basic amino-terminal
+<br>      and carboxy-terminal regions of the molecule, which are the primary
+<br>      DNA-binding sites. Few conservative point changes are observed in the
+<br>      central region (residues 18-118) which interacts strongly with histone H2B
+<br>      to form the dimer H2A-H2B. <font color=red>60% of the H2A molecules were found
+<br>      phosphorylated on the amino-terminal residue, N-acetyl-serine</font>. The high
+<br>      content of phosphorylated histone H2A in the sipunculid erythrocyte
+<br>      chromatin could probably be related to smaller repeat length (177 +/- 5
+<br>      base pairs) of nucleosomal DNA and to nuclear inactivation and chromatin
+<br>      condensation.
+<br>SO  - Eur J Biochem 1983 Sep 1;135(1):113-21.
+<br>
+<br><b>43. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6698958&dopt=Abstract">6698958</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=R3RTS6">R3RTS6</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by ribosomal protein S6 kinase) | 235,236  (all)
+<br>TI  - Phosphorylation of hepatic ribosomal protein S6 on 80 and 40 S ribosomes.
+<br>      Primary structure of S6 in the region of the major phosphorylation sites
+<br>      for cAMP-dependent protein kinases.
+<br>AB  - Rat liver ribosomes and 40 S ribosomal subunits were phosphorylated with
+<br>      the purified catalytic subunit of cAMP-dependent protein kinase.
+<br>      Phosphorylation of ribosomal protein S6 plateaued at around 2 mol of
+<br>      phosphate/mol of protein with both substrates. Peptide map analyses showed
+<br>      that the <font color=red>most prominent phosphorylation sites associated with 40 S
+<br>      substrates were the adjacent serines in the Arg-Leu-Ser-Ser-Leu-Arg
+<br>      segment of S6</font>. The first serine residue appeared to be the preferred site
+<br>      as has been established previously for 80 S ribosomes (Wettenhall, R.E.H.,
+<br>      and Cohen, P. (1982) FEBS Lett. 140, 263-269). Additional phosphorylation
+<br>      sites were apparent from the peptide maps. One of these was associated
+<br>      with the triphosphopeptide (termed T1a) having the sequence
+<br>      Arg-Leu-Ser-Ser-Leu-Arg-Ala-Ser-Thr-Ser-Lys. A larger fragment of S6
+<br>      (termed Tlc) isolated from mild tryptic digests of whole ribosomes,
+<br>      consisted of the T1a sequence extended by the sequence
+<br>      Ser-Glu-Glu-Ser-Gln-(Lys) at the COOH terminus. A comparison of the size
+<br>      and chromatographic and isoelectric focusing properties of the T1a/T1c
+<br>      peptides and prominent tryptic peptides of S6 from insulin-stimulated
+<br>      hepatocytes indicated a relationship between these peptides. Thus, it
+<br>      appeared that some of the potential phosphorylation sites in the T1a/T1c
+<br>      region of S6 are phosphorylated by an insulin-regulated kinase in
+<br>      hepatocytes.
+<br>SO  - J Biol Chem 1984 Feb 25;259(4):2084-91.
+<br>
+<br><b>44. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=697844&dopt=Abstract">697844</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=SYRTPP">SYRTPP</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 66  (all)
+<br>TI  - Phosphorylation, a factor controlling the synthesis of
+<br>      L-erythrodihydrobiopterin (BH2).
+<br>AB  - <font color=red>Isolation of brain enzyme in presence of 0.8 M NaF allowed recovery of the enzyme phosphorylated at residue 67 (serine) as determined by a new assay for phosphate.</font>
+<br>SO  - Biochem Biophys Res Commun 1978 Jul 28;83(2):593-8.
+<br>
+<br><b>45. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7107568&dopt=Abstract">7107568</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=SBMQPI">SBMQPI</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 21,22  (all)
+<br>TI  - Phosphoproteins in the parotid saliva from the subhuman primate Macaca
+<br>      fascicularis. Isolation and characterization of a proline-rich
+<br>      phosphoglycoprotein and the complete covalent structure of a proline-rich
+<br>      phosphopeptide.
+<br>AB  - Parotid saliva from the cynomolgus monkey (Macaca fascicularis) and from
+<br>      pooled human collections displayed the same groups of proteins when
+<br>      fractionated by anion exchange and gel filtration chromatography. We have
+<br>      isolated and characterized a proline-rich phosphoglycoprotein (MPRP) and a
+<br>      proline-rich phosphopeptide (M-statherin) from macaque parotid saliva.
+<br>      MPRP has an apparent molecular weight of 16,900 and displays an unusual
+<br>      chemical composition. It is enriched in proline, glycine, and acidic amino
+<br>      acids, but lacks cysteine, methionine, and tyrosine. MPRP contains 25%
+<br>      (w/w) carbohydrate with 7.0 mol of neutral hexoses, 5.3 mol of
+<br>      galactosamine, 5.9 mol of sialic acid, and 3 mol of phosphorus/mol of
+<br>      protein. M-statherin is a 42-residue phosphopeptide with a high proline,
+<br>      glutamic acid, and tyrosine content, but which lacks threonine, valine,
+<br>      cysteine, methionine, isoleucine, and histidine. The complete covalent
+<br>      structure of M-statherin (Mr = 5,368) is:
+<br>      NH2-Asp-Pse-Pse-Glu-Glu-Lys-Phe-Leu-Arg-Arg-Leu-Arg-Arg-Phe-Asp-Glu-Gly-Ar
+<br>      g-Tyr-
+<br>      -Gly-Pro-Tyr-Gln-Pro-Phe-Ala-Pro-Gln-Pro-Leu-Tyr-Pro-Gln-Pro-Tyr-Gln-Pro-T
+<br>      yr-Gln-Pro-Gln-Tyr-COOH This is the first complete amino acid sequence of
+<br>      a component in the salivary secretion of a subhuman primate. <font color=red>Phosphoserine
+<br>      occurs at residues 2 and 3.</font> All 13 acidic and basic amino acids are
+<br>      located in the NH2-terminal half of the molecule. The carboxyl-terminal
+<br>      half of the molecule is hydrophobic where the tripeptide Tyr-Gln-Pro is
+<br>      repeated three times, the dipeptide Gln-Pro occurs twice, and the
+<br>      tripeptides Tyr-Gly-Pro, Phe-Ala-Pro, and Leu-Tyr-Pro occur once.
+<br>      Evaluation of secondary structure by the Chou-Fasman method predicts an
+<br>      alpha helix in the NH2-terminal half (residue 4-16) and a beta pleated
+<br>      sheet in the carboxyl-terminal half (residues 22-26; 38-42) of the
+<br>      molecule. Both MPRP and M-statherin inhibit spontaneous and seeded
+<br>      precipitation from solutions supersaturated with respect to calcium
+<br>      phosphate salts. This suggests that these macaque compounds may function
+<br>      by maintaining saliva supersaturated with respect to calcium phosphate
+<br>      salts, a necessary requirement for stabilization of hydroxyapatite in the
+<br>      surface layers of teeth.U
+<br>SO  - J Biol Chem 1982 Aug 25;257(16):9271-82.
+<br>
+<br><b>46. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7615564&dopt=Abstract">7615564</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A35702">A35702</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 3  (all)
+<br>TI  - Reactivation of phosphorylated actin depolymerizing factor and
+<br>      identification of the regulatory site.
+<br>AB  - Actin depolymerizing factor (ADF) occurs naturally in two forms, one of
+<br>      which contains a phosphorylated Ser and does not bind G-actin or
+<br>      depolymerize F-actin. Removal of this phosphate in vitro by alkaline
+<br>      phosphatase restores full F-actin depolymerizing activity. To identify the
+<br>      phosphorylation site, [32P]pADF was purified and digested with
+<br>      endoproteinase Lys-C. The digest contained only one 32P-labeled peptide.
+<br>      Further digestion with endoproteinase Asp-N and mass spectrometric
+<br>      analysis showed that this peptide came from the N terminus of ADF.
+<br>      Alkaline phosphatase treatment of one Asp-N peptide (mass 753) converted
+<br>      it to a peptide of mass 673, demonstrating that this peptide contains the
+<br>      phosphate group. <font color=red>Tandem mass spectrometric sequence analysis of this
+<br>      peptide identified the phosphorylated Ser as the encoded Ser3</font> (Ser2 in the
+<br>      processed protein). HeLa cells, transfected with either chick wild-type
+<br>      ADF cDNA or a cDNA mutated to code for Ala in place of Ser24 or Thr25,
+<br>      express and phosphorylate the exogenous ADF. Cells also expressed high
+<br>      levels of mutant ADF when Ser3 was deleted or converted to either Ala or
+<br>      Glu. However, none of these mutants was phosphorylated, confirming that
+<br>      Ser3 in the encoded ADF is the single in vivo regulatory site.
+<br>SO  - J Biol Chem 1995 Jul 21;270(29):17582-7.
+<br>
+<br><b>47. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7822248&dopt=Abstract">7822248</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A45100">A45100</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by raf-1 kinase) | 292,386  (all)
+<br>TI  - Mitogen-activated protein (MAP) kinase phosphorylation of MAP kinase
+<br>      kinase: determination of phosphorylation sites by mass spectrometry and
+<br>      site-directed mutagenesis.
+<br>AB  - Mitogen-activated protein kinase kinase (MKK) phosphorylates and activates
+<br>      mitogen-activated protein kinase (MAPK) in response to stimulation of
+<br>      various eukaryotic signaling pathways. Conversely, a recent report showed
+<br>      that MAPK phosphorylates MKK in vitro [Matsuda, S., Gotoh, Y., and
+<br>      Nishida, E. (1993) J. Biol. Chem. 268, 3277-3281]. To gain insight into
+<br>      the function of this feedback phosphorylation, we identified the major
+<br>      sites targeted for phosphorylation by MAPK and examined whether such a
+<br>      modification plays a role in regulating the basal and stimulated MKK
+<br>      activities. Two phosphopeptides generated by tryptic digestion of
+<br>      MAPK-phosphorylated MKK were identified by electrospray ionization mass
+<br>      spectrometry. Cyanogen bromide cleavage also yielded two phosphopeptides
+<br>      whose sequence overlapped with the tryptic phosphopeptides. Both sets of
+<br>      <font color=red>phosphopeptides contained candidate MAPK target sites at Thr292 and Thr386</font>
+<br>      that fit the consensus sequence ProXThr*Pro. Replacement of either Thr292
+<br>      or Thr386 with alanine by site-directed mutagenesis reduced the phosphate
+<br>      incorporation respectively to 32 or 75% that of wild type MKK. Replacement
+<br>      of both threonine residues with alanine reduced phosphate incorporation to
+<br>      2.5% that of wild type enzyme. Comparison of MAPK-phosphorylated vs.
+<br>      unphosphorylated MKK showed no significant differences in basal or
+<br>      Raf-1-stimulated MKK activity. We conclude that the phosphorylation of MKK
+<br>      at Thr292 and Thr386 does not interfere with catalysis in vitro.
+<br>SO  - J Biochem (Tokyo) 1994 Aug;116(2):304-14.
+<br>
+<br><b>48. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7909431&dopt=Abstract">7909431</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=DVHU1">DVHU1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase C) | 661,667,671  (all)
+<br>TI  - Phosphorylation by protein kinase C and cyclic AMP-dependent protein
+<br>      kinase of synthetic peptides derived from the linker region of human
+<br>      P-glycoprotein.
+<br>AB  - Specific sites in the linker region of human P-glycoprotein phosphorylated
+<br>      by protein kinase C (PKC) were identified by means of a synthetic peptide
+<br>      substrate, PG-2, corresponding to residues 656-689 from this region of the
+<br>      molecule. As PG-2 has several sequences of the type recognized by the
+<br>      cyclic AMP-dependent protein kinase (PKA), PG-2 was also tested as a
+<br>      substrate for PKA. PG-2 was phosphorylated by purified PKC in a
+<br>      Ca2+/phospholipid-dependent manner, with a Km of 1.3 microM, and to a
+<br>      maximum stoichiometry of 2.9 +/- 0.1 mol of phosphate/mol of peptide.
+<br>      <font color=red>Sequence analysis of tryptic fragments of PG-2 phosphorylated by PKC
+<br>      identified Ser-661, Ser-667 and Ser-671 as the three sites of
+<br>      phosphorylation.</font> PG-2 was also found to be phosphorylated by purified PKA
+<br>      in a cyclic AMP-dependent manner, with a Km of 21 microM, and to a maximum
+<br>      stoichiometry of 2.6 +/- 0.2 mol of phosphate/mol of peptide. Ser-667,
+<br>      Ser-671 and Ser-683 were phosphorylated by PKA. Truncated peptides of PG-2
+<br>      were utilized to confirm that Ser-661 was PKC-specific and Ser-683 was
+<br>      PKA-specific. Further studies showed that PG-2 acted as a competitive
+<br>      substrate for the P-glycoprotein kinase present in membranes from
+<br>      multidrug-resistant human KB cells. The membrane kinase phosphorylated
+<br>      PG-2 mainly on Ser-661, Ser-667 and Ser-671. These results show that human
+<br>      P-glycoprotein can be phosphorylated by at least two protein kinases,
+<br>      stimulated by different second-messenger systems, which exhibit both
+<br>      overlapping and unique specificities for phosphorylation of multiple sites
+<br>      in the linker region of the molecule.
+<br>SO  - Biochem J 1994 Apr 1;299 ( Pt 1):309-15.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=DVHU1">DVHU1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cAMP-dependent kinase) | 667,671,683  (all)
+<br>TI  - Phosphorylation by protein kinase C and cyclic AMP-dependent protein
+<br>      kinase of synthetic peptides derived from the linker region of human
+<br>      P-glycoprotein.
+<br>AB  - Specific sites in the linker region of human P-glycoprotein phosphorylated
+<br>      by protein kinase C (PKC) were identified by means of a synthetic peptide
+<br>      substrate, PG-2, corresponding to residues 656-689 from this region of the
+<br>      molecule. As PG-2 has several sequences of the type recognized by the
+<br>      cyclic AMP-dependent protein kinase (PKA), PG-2 was also tested as a
+<br>      substrate for PKA. PG-2 was phosphorylated by purified PKC in a
+<br>      Ca2+/phospholipid-dependent manner, with a Km of 1.3 microM, and to a
+<br>      maximum stoichiometry of 2.9 +/- 0.1 mol of phosphate/mol of peptide.
+<br>      Sequence analysis of tryptic fragments of PG-2 phosphorylated by PKC
+<br>      identified Ser-661, Ser-667 and Ser-671 as the three sites of
+<br>      phosphorylation. <font color=red>PG-2 was also found to be phosphorylated by purified PKA
+<br>      in a cyclic AMP-dependent manner</font>, with a Km of 21 microM, and to a maximum
+<br>      stoichiometry of 2.6 +/- 0.2 mol of phosphate/mol of peptide. <font color=red>Ser-667,
+<br>      Ser-671 and Ser-683 were phosphorylated by PKA.</font> Truncated peptides of PG-2
+<br>      were utilized to confirm that Ser-661 was PKC-specific and Ser-683 was
+<br>      PKA-specific. Further studies showed that PG-2 acted as a competitive
+<br>      substrate for the P-glycoprotein kinase present in membranes from
+<br>      multidrug-resistant human KB cells. The membrane kinase phosphorylated
+<br>      PG-2 mainly on Ser-661, Ser-667 and Ser-671. These results show that human
+<br>      P-glycoprotein can be phosphorylated by at least two protein kinases,
+<br>      stimulated by different second-messenger systems, which exhibit both
+<br>      overlapping and unique specificities for phosphorylation of multiple sites
+<br>      in the linker region of the molecule.
+<br>SO  - Biochem J 1994 Apr 1;299 ( Pt 1):309-15.
+<br>
+<br><b>49. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8061611&dopt=Abstract">8061611</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=GERTM1">GERTM1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by casein kinase II) | 22,25,28  (all)
+<br>TI  - Conserved phosphorylation of serines in the Ser-X-Glu/Ser(P) sequences of
+<br>      the vitamin K-dependent matrix Gla protein from shark, lamb, rat, cow, and
+<br>      human.
+<br>AB  - The present studies demonstrate that matrix Gla protein (MGP), a 10-kDa
+<br>      vitamin K-dependent protein, is phosphorylated at 3 serine residues near
+<br>      its N-terminus. <font color=red>Phosphoserine was identified at residues 3, 6, and 9 of
+<br>      bovine, human, rat, and lamb MGP by N-terminal protein sequencing.</font> All 3
+<br>      modified serines are in tandemly repeated Ser-X-Glu sequences. Two of the
+<br>      serines phosphorylated in shark MGP, residues 2 and 5, also have glutamate
+<br>      residues in the n + 2 position in tandemly repeated Ser-X-Glu sequences,
+<br>      whereas the third, shark residue 3, would acquire an acidic phosphoserine
+<br>      in the n + 2 position upon phosphorylation of serine 5. The recognition
+<br>      motif found for MGP phosphorylation, Ser-X-Glu/Ser(P), has been seen
+<br>      previously in milk caseins, salivary proteins, and a number of regulatory
+<br>      peptides. A review of the literature has revealed an intriguing dichotomy
+<br>      in the extent of serine phosphorylation among secreted proteins that are
+<br>      phosphorylated at Ser-X-Glu/Ser(P) sequences. Those phosphoproteins
+<br>      secreted into milk or saliva are fully phosphorylated at each target
+<br>      serine, whereas phosphoproteins secreted into the extracellular
+<br>      environment of cells are partially phosphorylated at target serine
+<br>      residues, as we show here for MGP and others have shown for regulatory
+<br>      peptides and the insulin-like growth factor binding protein 1. We propose
+<br>      that the extent of serine phosphorylation regulates the activity of
+<br>      proteins secreted into the extracellular environment of cells, and that
+<br>      partial phosphorylation can therefore be explained by the need to ensure
+<br>      that the phosphoprotein be poised to gain or lose activity with regulated
+<br>      changes in phosphorylation status.(ABSTRACT TRUNCATED AT 250 WORDS)
+<br>SO  - Protein Sci 1994 May;3(5):822-30.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=GEBOM">GEBOM</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by casein kinase II) | 22,25,28  (all)
+<br>TI  - Conserved phosphorylation of serines in the Ser-X-Glu/Ser(P) sequences of
+<br>      the vitamin K-dependent matrix Gla protein from shark, lamb, rat, cow, and
+<br>      human.
+<br>AB  - The present studies demonstrate that matrix Gla protein (MGP), a 10-kDa
+<br>      vitamin K-dependent protein, is phosphorylated at 3 serine residues near
+<br>      its N-terminus. <font color=red>Phosphoserine was identified at residues 3, 6, and 9 of
+<br>      bovine, human, rat, and lamb MGP by N-terminal protein sequencing.</font> All 3
+<br>      modified serines are in tandemly repeated Ser-X-Glu sequences. Two of the
+<br>      serines phosphorylated in shark MGP, residues 2 and 5, also have glutamate
+<br>      residues in the n + 2 position in tandemly repeated Ser-X-Glu sequences,
+<br>      whereas the third, shark residue 3, would acquire an acidic phosphoserine
+<br>      in the n + 2 position upon phosphorylation of serine 5. The recognition
+<br>      motif found for MGP phosphorylation, Ser-X-Glu/Ser(P), has been seen
+<br>      previously in milk caseins, salivary proteins, and a number of regulatory
+<br>      peptides. A review of the literature has revealed an intriguing dichotomy
+<br>      in the extent of serine phosphorylation among secreted proteins that are
+<br>      phosphorylated at Ser-X-Glu/Ser(P) sequences. Those phosphoproteins
+<br>      secreted into milk or saliva are fully phosphorylated at each target
+<br>      serine, whereas phosphoproteins secreted into the extracellular
+<br>      environment of cells are partially phosphorylated at target serine
+<br>      residues, as we show here for MGP and others have shown for regulatory
+<br>      peptides and the insulin-like growth factor binding protein 1. We propose
+<br>      that the extent of serine phosphorylation regulates the activity of
+<br>      proteins secreted into the extracellular environment of cells, and that
+<br>      partial phosphorylation can therefore be explained by the need to ensure
+<br>      that the phosphoprotein be poised to gain or lose activity with regulated
+<br>      changes in phosphorylation status.(ABSTRACT TRUNCATED AT 250 WORDS)
+<br>SO  - Protein Sci 1994 May;3(5):822-30.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=GEHUM">GEHUM</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by casein kinase II) | 22,25,28  (all)
+<br>TI  - Conserved phosphorylation of serines in the Ser-X-Glu/Ser(P) sequences of
+<br>      the vitamin K-dependent matrix Gla protein from shark, lamb, rat, cow, and
+<br>      human.
+<br>AB  - The present studies demonstrate that matrix Gla protein (MGP), a 10-kDa
+<br>      vitamin K-dependent protein, is phosphorylated at 3 serine residues near
+<br>      its N-terminus. <font color=red>Phosphoserine was identified at residues 3, 6, and 9 of
+<br>      bovine, human, rat, and lamb MGP by N-terminal protein sequencing.</font> All 3
+<br>      modified serines are in tandemly repeated Ser-X-Glu sequences. Two of the
+<br>      serines phosphorylated in shark MGP, residues 2 and 5, also have glutamate
+<br>      residues in the n + 2 position in tandemly repeated Ser-X-Glu sequences,
+<br>      whereas the third, shark residue 3, would acquire an acidic phosphoserine
+<br>      in the n + 2 position upon phosphorylation of serine 5. The recognition
+<br>      motif found for MGP phosphorylation, Ser-X-Glu/Ser(P), has been seen
+<br>      previously in milk caseins, salivary proteins, and a number of regulatory
+<br>      peptides. A review of the literature has revealed an intriguing dichotomy
+<br>      in the extent of serine phosphorylation among secreted proteins that are
+<br>      phosphorylated at Ser-X-Glu/Ser(P) sequences. Those phosphoproteins
+<br>      secreted into milk or saliva are fully phosphorylated at each target
+<br>      serine, whereas phosphoproteins secreted into the extracellular
+<br>      environment of cells are partially phosphorylated at target serine
+<br>      residues, as we show here for MGP and others have shown for regulatory
+<br>      peptides and the insulin-like growth factor binding protein 1. We propose
+<br>      that the extent of serine phosphorylation regulates the activity of
+<br>      proteins secreted into the extracellular environment of cells, and that
+<br>      partial phosphorylation can therefore be explained by the need to ensure
+<br>      that the phosphoprotein be poised to gain or lose activity with regulated
+<br>      changes in phosphorylation status.(ABSTRACT TRUNCATED AT 250 WORDS)
+<br>SO  - Protein Sci 1994 May;3(5):822-30.
+<br>
+<br><b>50. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8125092&dopt=Abstract">8125092</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A40936">A40936</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by MAP and cdc2 kinases) | 25  (all)
+<br>TI  - Cell-cycle-regulated phosphorylation of oncoprotein 18 on Ser16, Ser25 and
+<br>      Ser38.
+<br>AB  - Oncoprotein 18 (Op18) has been independently identified due to its
+<br>      increased phosphorylation in response to external signals and its
+<br>      up-regulated expression in acute leukemia. <font color=red>We have identified two serine
+<br>      residues of Op18 that are phosphorylated after triggering by the T cell
+<br>      antigen receptor. One of these residues, Ser25, was shown to be a likely
+<br>      substrate for the mitogen-activated protein (MAP) kinase</font>, while the other
+<br>      residue, Ser16, was shown to be phosphorylated in response to increased
+<br>      intracellular calcium. Our previous site-mapping studies of Op18 also
+<br>      revealed that basal phosphorylation of Op18 is mainly located on Ser38,
+<br>      which was found to be the primary in vitro phosphorylation site of
+<br>      p13suc1-precipitated cdc2 kinase activities. These findings raised the
+<br>      possibility that Op18 may be a substrate for both receptor-regulated
+<br>      calcium-induced protein kinases and the MAP kinase family, as well as
+<br>      being a substrate for the cell-cycle-regulated cdc2 kinase family. In the
+<br>      present report we have performed site-mapping studies of
+<br>      cell-cycle-regulated fluctuations of Op18 phosphorylation. The results
+<br>      reveal that S-phase progression of a synchronised leukemic T cell line is
+<br>      associated with increased phosphorylation of both the Ser25 and Ser38
+<br>      residues. Moreover, during mitosis, a burst of phosphorylation was
+<br>      observed and at this stage of the cell cycle a major fraction of Op18 was
+<br>      phosphorylated at multiple sites. Phosphorylation of Op18 during mitosis
+<br>      was located primarily on Ser38 and to lesser extent on Ser25, Ser16 and at
+<br>      an unidentified C-terminal residue. In vitro phosphorylation experiments,
+<br>      employing two distinct members of the cdc2 kinase family, were consistent
+<br>      with involvement of both p34-cdc2 and p33-cdk2 in cell-cycle-regulated
+<br>      phosphorylation of Ser25 and Ser38 of Op18. Most importantly, the ratio of
+<br>      Ser25/Ser38 phosphorylation observed in vitro, using either p34-cdc2 or
+<br>      p33-cdk2, was found to be the same as the ratio observed in intact cells
+<br>      during all phases of the cell cycle. These findings suggest that Op18 may
+<br>      be a physiological substrate for several members of the cdc2 kinase family
+<br>      during both the S-phase and the mitotic phase of the cell cycle.
+<br>SO  - Eur J Biochem 1994 Mar 1;220(2):359-68.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A40936">A40936</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cdc2 kinase) | 38  (all)
+<br>TI  - Cell-cycle-regulated phosphorylation of oncoprotein 18 on Ser16, Ser25 and
+<br>      Ser38.
+<br>AB  - Oncoprotein 18 (Op18) has been independently identified due to its
+<br>      increased phosphorylation in response to external signals and its
+<br>      up-regulated expression in acute leukemia. We have identified two serine
+<br>      residues of Op18 that are phosphorylated after triggering by the T cell
+<br>      antigen receptor. One of these residues, Ser25, was shown to be a likely
+<br>      substrate for the mitogen-activated protein (MAP) kinase, while the other
+<br>      residue, Ser16, was shown to be phosphorylated in response to increased
+<br>      intracellular calcium. <font color=red>Our previous site-mapping studies of Op18 also
+<br>      revealed that basal phosphorylation of Op18 is mainly located on Ser38,
+<br>      which was found to be the primary in vitro phosphorylation site of
+<br>      p13suc1-precipitated cdc2 kinase activities.</font> These findings raised the
+<br>      possibility that Op18 may be a substrate for both receptor-regulated
+<br>      calcium-induced protein kinases and the MAP kinase family, as well as
+<br>      being a substrate for the cell-cycle-regulated cdc2 kinase family. In the
+<br>      present report we have performed site-mapping studies of
+<br>      cell-cycle-regulated fluctuations of Op18 phosphorylation. The results
+<br>      reveal that S-phase progression of a synchronised leukemic T cell line is
+<br>      associated with increased phosphorylation of both the Ser25 and Ser38
+<br>      residues. Moreover, during mitosis, a burst of phosphorylation was
+<br>      observed and at this stage of the cell cycle a major fraction of Op18 was
+<br>      phosphorylated at multiple sites. Phosphorylation of Op18 during mitosis
+<br>      was located primarily on Ser38 and to lesser extent on Ser25, Ser16 and at
+<br>      an unidentified C-terminal residue. In vitro phosphorylation experiments,
+<br>      employing two distinct members of the cdc2 kinase family, were consistent
+<br>      with involvement of both p34-cdc2 and p33-cdk2 in cell-cycle-regulated
+<br>      phosphorylation of Ser25 and Ser38 of Op18. Most importantly, the ratio of
+<br>      Ser25/Ser38 phosphorylation observed in vitro, using either p34-cdc2 or
+<br>      p33-cdk2, was found to be the same as the ratio observed in intact cells
+<br>      during all phases of the cell cycle. These findings suggest that Op18 may
+<br>      be a physiological substrate for several members of the cdc2 kinase family
+<br>      during both the S-phase and the mitotic phase of the cell cycle.
+<br>SO  - Eur J Biochem 1994 Mar 1;220(2):359-68.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A40936">A40936</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase A and calmodulin-dependent kinase) | 16  (all)
+<br>TI  - Cell-cycle-regulated phosphorylation of oncoprotein 18 on Ser16, Ser25 and
+<br>      Ser38.
+<br>AB  - Oncoprotein 18 (Op18) has been independently identified due to its
+<br>      increased phosphorylation in response to external signals and its
+<br>      up-regulated expression in acute leukemia. We have identified two serine
+<br>      residues of Op18 that are phosphorylated after triggering by the T cell
+<br>      antigen receptor. One of these residues, Ser25, was shown to be a likely
+<br>      substrate for the mitogen-activated protein (MAP) kinase, while the other
+<br>      residue, <font color=red>Ser16, was shown to be phosphorylated in response to increased
+<br>      intracellular calcium.</font> Our previous site-mapping studies of Op18 also
+<br>      revealed that basal phosphorylation of Op18 is mainly located on Ser38,
+<br>      which was found to be the primary in vitro phosphorylation site of
+<br>      p13suc1-precipitated cdc2 kinase activities. These findings raised the
+<br>      possibility that Op18 may be a substrate for both receptor-regulated
+<br>      calcium-induced protein kinases and the MAP kinase family, as well as
+<br>      being a substrate for the cell-cycle-regulated cdc2 kinase family. In the
+<br>      present report we have performed site-mapping studies of
+<br>      cell-cycle-regulated fluctuations of Op18 phosphorylation. The results
+<br>      reveal that S-phase progression of a synchronised leukemic T cell line is
+<br>      associated with increased phosphorylation of both the Ser25 and Ser38
+<br>      residues. Moreover, during mitosis, a burst of phosphorylation was
+<br>      observed and at this stage of the cell cycle a major fraction of Op18 was
+<br>      phosphorylated at multiple sites. <font color=red>Phosphorylation of Op18 during mitosis
+<br>      was located primarily on Ser38 and to lesser extent on Ser25, Ser16 and at
+<br>      an unidentified C-terminal residue.</font> In vitro phosphorylation experiments,
+<br>      employing two distinct members of the cdc2 kinase family, were consistent
+<br>      with involvement of both p34-cdc2 and p33-cdk2 in cell-cycle-regulated
+<br>      phosphorylation of Ser25 and Ser38 of Op18. Most importantly, the ratio of
+<br>      Ser25/Ser38 phosphorylation observed in vitro, using either p34-cdc2 or
+<br>      p33-cdk2, was found to be the same as the ratio observed in intact cells
+<br>      during all phases of the cell cycle. These findings suggest that Op18 may
+<br>      be a physiological substrate for several members of the cdc2 kinase family
+<br>      during both the S-phase and the mitotic phase of the cell cycle.
+<br>SO  - Eur J Biochem 1994 Mar 1;220(2):359-68.
+<br>
+<br><b>51. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8132603&dopt=Abstract">8132603</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=MMECZB">MMECZB</a>
+<br>FT  - binding site | phosphate (His) (covalent) (by autophosphorylation) | 243  (all)
+<br>TI  - Identification of the site of phosphorylation on the osmosensor, EnvZ, of
+<br>      Escherichia coli.
+<br>AB  - EnvZ is a membrane-bound histidine kinase that functions as an osmotic
+<br>      sensor capable of phosphorylating the regulator protein OmpR in
+<br>      Escherichia coli. To characterize the site of phosphorylation
+<br>      biochemically, we overexpressed a 36-kDa truncated EnvZ protein (Glu-106
+<br>      to Gly-450) that formed inclusion bodies in the cell. After
+<br>      solubilization, the inclusion body form of EnvZ was cleaved into two major
+<br>      fragments with molecular weights of 25,000 and 10,000. The 25-kDa
+<br>      fragment, EnvZc, was purified and found to exist as a dimer. N-terminal
+<br>      sequence analysis established that cleavage had occurred at Arg-214,
+<br>      indicating that EnvZc contained most of the cytoplasmic domain of EnvZ.
+<br>      After labeling EnvZc with [gamma-32P]ATP, the protein was proteolytically
+<br>      digested, and the resulting peptides were separated by reverse phase
+<br>      chromatography using high performance liquid chromatography. One major
+<br>      radioactive peptide containing greater than 90% of the recovered
+<br>      peptide-associated radioactivity was isolated. Amino acid analysis of this
+<br>      purified peptide indicated that the composition was consistent with a
+<br>      peptide that contained His-243. The amino acid sequence of this peptide
+<br>      was determined to be MAGVSHDLRTP (residues 238-248). <font color=red>These results
+<br>      indicate that His-243 is the major site of phosphorylation on EnvZ</font> and
+<br>      represents the first biochemical characterization of the site of
+<br>      phosphorylation of a membrane histidine kinase of the two-component
+<br>      regulatory family of molecules in bacteria.
+<br>SO  - J Biol Chem 1994 Mar 25;269(12):8728-33.
+<br>
+<br><b>52. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8218377&dopt=Abstract">8218377</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=HSHUP2">HSHUP2</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (partial) | 59  (all)
+<br>TI  - Phosphorylation of human sperm protamines HP1 and HP2: identification of
+<br>      phosphorylation sites.
+<br>AB  - Human sperm is characterized by a high heterogeneity of its basic nuclear
+<br>      protein complement of pro-protamines, protamines and histones. This
+<br>      heterogeneity is increased by the persistence of phosphorylated protamines
+<br>      in mature spermatozoa. Alkaline phosphatase treatment of whole protein
+<br>      indicated that protamines HP1 and HP2 were phosphorylated to various
+<br>      degrees. Presence of non-phosphorylated and phosphorylated protamines HP1
+<br>      and HP2 was further demonstrated by electrospray mass spectrometry.
+<br>      Phosphorylation sites of mono- and di-phosphorylated protamine HP1 were
+<br>      identified by automatic Edman degradation of the protein after
+<br>      phosphoserine derivatization to S-ethylcysteine. In both phosphorylated
+<br>      forms, Ser-10 was found phosphorylated; in the di-phosphorylated form,
+<br>      Ser-8 was identified as the second site of phosphorylation. <font color=red>In protamine
+<br>      HP2, the unique site of phosphorylation (Ser-14) was located</font> after limited
+<br>      acid hydrolysis of enzymic peptides and thin-layer electrophoresis.
+<br>SO  - Biochim Biophys Acta 1993 Nov 10;1203(1):109-14.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=HSHUP1">HSHUP1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (partial) | 9,11  (all)
+<br>TI  - Phosphorylation of human sperm protamines HP1 and HP2: identification of
+<br>      phosphorylation sites.
+<br>AB  - Human sperm is characterized by a high heterogeneity of its basic nuclear
+<br>      protein complement of pro-protamines, protamines and histones. This
+<br>      heterogeneity is increased by the persistence of phosphorylated protamines
+<br>      in mature spermatozoa. Alkaline phosphatase treatment of whole protein
+<br>      indicated that protamines HP1 and HP2 were phosphorylated to various
+<br>      degrees. Presence of non-phosphorylated and phosphorylated protamines HP1
+<br>      and HP2 was further demonstrated by electrospray mass spectrometry.
+<br>      Phosphorylation sites of mono- and di-phosphorylated protamine HP1 were
+<br>      identified by automatic Edman degradation of the protein after
+<br>      phosphoserine derivatization to S-ethylcysteine. <font color=red>In both phosphorylated
+<br>      forms, Ser-10 was found phosphorylated; in the di-phosphorylated form,
+<br>      Ser-8 was identified as the second site of phosphorylation.</font> In protamine
+<br>      HP2, the unique site of phosphorylation (Ser-14) was located after limited
+<br>      acid hydrolysis of enzymic peptides and thin-layer electrophoresis.
+<br>SO  - Biochim Biophys Acta 1993 Nov 10;1203(1):109-14.
+<br>
+<br><b>53. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8226879&dopt=Abstract">8226879</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=QRBOT1">QRBOT1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by proline-directed kinase) | 202,209,242,248,411  (
+<br>TI  - Brain proline-directed protein kinase phosphorylates tau on sites that are
+<br>      abnormally phosphorylated in tau associated with Alzheimer's paired
+<br>      helical filaments.
+<br>AB  - Brain proline-directed protein kinase (BPDK), which contains a catalytic
+<br>      subunit homologous to and displaying site-specific phosphorylation similar
+<br>      to p34cdc2 kinase (Lew, J., Winkfein, R. J., Paudel, H. K., and Wang, J.
+<br>      H. (1992) J. Biol. Chem. 267, 25922-25926), has been examined for possible
+<br>      involvement in tau phosphorylation. Immunoblot analyses using peptide
+<br>      antibodies specific for BPDK have revealed the presence of the kinase in
+<br>      bovine brain microtubules purified extensively by repeated polymerization
+<br>      and depolymerization cycles. When the microtubule proteins are separated
+<br>      into the tubulin and microtubule-associated protein fractions, BPDK is
+<br>      found exclusively in the latter fraction. BPDK phosphorylates both tau and
+<br>      MAP2, the former protein being phosphorylated to a stoichiometry of 3.8
+<br>      mol of phosphate/mol of tau. <font color=red>Analysis of the phosphopeptides isolated from
+<br>      the tryptic digest of the phosphorylated bovine tau has revealed seven
+<br>      phosphorylation sites.</font> Based on the sequence alignment between bovine and
+<br>      human tau proteins, these sites correspond to Ser-195, <font color=red>Ser-202</font>, Thr-205,
+<br>      Thr-231, Ser-235, Ser-396, and Ser-404 of human tau. Mass spectrometric
+<br>      analysis of the tau protein isolated from Alzheimer's paired helical
+<br>      filaments (PHFs) has determined three abnormal phosphorylation sites and
+<br>      two phosphopeptides containing a total of five abnormal phosphates
+<br>      (Hasegawa, M., Morishima-Kawashima, M., Takio, K., Suzuki, M., Titani, K.,
+<br>      and Ihara, Y. (1992) J. Biol. Chem. 267, 17047-17054). Two of the sites in
+<br>      tau phosphorylated by BPDK, Thr-231 and Ser-235, are among the abnormal
+<br>      phosphorylation sites, and the other sites phosphorylated by BPDK are
+<br>      within phosphopeptides from PHF-tau. These results suggest that BPDK may
+<br>      be one of the kinases responsible for the abnormal
+<br>      phosphorylation-associated PHF-tau.
+<br>SO  - J Biol Chem 1993 Nov 5;268(31):23512-8.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=QRBOT1">QRBOT1</a>
+<br>FT  - binding site | phosphate (Thr) (covalent) (by proline-directed kinase) | 212  (all)
+<br>TI  - Brain proline-directed protein kinase phosphorylates tau on sites that are
+<br>      abnormally phosphorylated in tau associated with Alzheimer's paired
+<br>      helical filaments.
+<br>AB  - Brain proline-directed protein kinase (BPDK), which contains a catalytic
+<br>      subunit homologous to and displaying site-specific phosphorylation similar
+<br>      to p34cdc2 kinase (Lew, J., Winkfein, R. J., Paudel, H. K., and Wang, J.
+<br>      H. (1992) J. Biol. Chem. 267, 25922-25926), has been examined for possible
+<br>      involvement in tau phosphorylation. Immunoblot analyses using peptide
+<br>      antibodies specific for BPDK have revealed the presence of the kinase in
+<br>      bovine brain microtubules purified extensively by repeated polymerization
+<br>      and depolymerization cycles. When the microtubule proteins are separated
+<br>      into the tubulin and microtubule-associated protein fractions, BPDK is
+<br>      found exclusively in the latter fraction. BPDK phosphorylates both tau and
+<br>      MAP2, the former protein being phosphorylated to a stoichiometry of 3.8
+<br>      mol of phosphate/mol of tau. Analysis of the phosphopeptides isolated from
+<br>      the tryptic digest of the phosphorylated bovine tau has revealed seven
+<br>      phosphorylation sites. Based on the sequence alignment between bovine and
+<br>      human tau proteins, these sites correspond to Ser-195, Ser-202, Thr-205,
+<br>      Thr-231, Ser-235, Ser-396, and Ser-404 of human tau. Mass spectrometric
+<br>      analysis of the tau protein isolated from Alzheimer's paired helical
+<br>      filaments (PHFs) has determined three abnormal phosphorylation sites and
+<br>      two phosphopeptides containing a total of five abnormal phosphates
+<br>      (Hasegawa, M., Morishima-Kawashima, M., Takio, K., Suzuki, M., Titani, K.,
+<br>      and Ihara, Y. (1992) J. Biol. Chem. 267, 17047-17054). Two of the sites in
+<br>      tau phosphorylated by BPDK, Thr-231 and Ser-235, are among the abnormal
+<br>      phosphorylation sites, and the other sites phosphorylated by BPDK are
+<br>      within phosphopeptides from PHF-tau. These results suggest that BPDK may
+<br>      be one of the kinases responsible for the abnormal
+<br>      phosphorylation-associated PHF-tau.
+<br>SO  - J Biol Chem 1993 Nov 5;268(31):23512-8.
+<br><font color=red>full paper-page: 23516 The amino acid sequence of phosphopeptide 3 determined is shown in Table I and contains 3 phosphorylated residues.  This peptide extends from residues 202 to 216 in the bovine tau sequence (46), and the phosphorylation sites are Ser-202, Ser-209, and Thr-212.</font>
+<br>
+<br><b>54. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8300603&dopt=Abstract">8300603</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=HSBO3">HSBO3</a>
+<br>FT  - binding site | phosphate (Arg) (covalent) | 2,128,129,131  (all)
+<br>TI  - Ca(2+)-calmodulin-dependent phosphorylation of arginine in histone 3 by a
+<br>      nuclear kinase from mouse leukemia cells.
+<br>AB  - A Ca(2+)-calmodulin dependent histone 3 kinase was partially purified from
+<br>      a low salt (150 mM NaCl) nuclear extract of mouse leukemia cells by
+<br>      calmodulin-Sepharose affinity chromatography. In vitro, the kinase
+<br>      activity transferred gamma-phosphate from ATP to histone 3 to form an
+<br>      acid-labile and alkaline-stable linkage. Under the assay conditions 1.8
+<br>      mol of phosphate are incorporated per mol of histone 3. Upon modification
+<br>      of arginine residues with phenylglyoxal prior to phosphorylation, a
+<br>      considerable decrease in the amount of phosphate transferred to histone 3
+<br>      was observed. Amino acid analysis revealed that H3 was phosphorylated on
+<br>      arginine residues. To identify the phosphorylated peptide(s), histone 3
+<br>      was cleaved with cyanogen bromide prior to phosphorylation. The
+<br>      phosphorylated mixture was then separated by gel filtration
+<br>      high-performance liquid chromatography under denaturing conditions.
+<br>      Fragments I (N-terminal 10.3-kDa peptide) and III (C-terminal 1.7-kDa
+<br>      peptide) were both phosphorylated. Amino acid sequencing further revealed
+<br>      that the molar yields of 3 of the 4 arginines present in the
+<br>      phosphorylated cyanogen bromide fragment III were reduced by a factor of
+<br>      about 10 compared with the corresponding arginines from the
+<br>      unphosphorylated fragment. In the case of fragment I, 25 cycles of Edman
+<br>      degradation revealed that the recovery of only arginine 2 was reduced by a
+<br>      factor of 20. <font color=red>The putative phosphorylation sites are arginines 2, 128,
+<br>      129, and 131. The sequence information offered an indirect evidence that
+<br>      these arginines were the sites of phosphorylation.</font> The kinase described in
+<br>      this report represents a first member of a potentially important new class
+<br>      of kinases which are Ca(2+)-calmodulin dependent and which phosphorylate
+<br>      arginine.
+<br>SO  - J Biol Chem 1994 Jan 28;269(4):2722-7.
+<br>
+<br><b>55. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8376365&dopt=Abstract">8376365</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A40936">A40936</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase A and calmodulin-dependent kinase) | 16  (all)
+<br>TI  - Multiple phosphorylation of stathmin. Identification of four sites
+<br>      phosphorylated in intact cells and in vitro by cyclic AMP-dependent
+<br>      protein kinase and p34cdc2.
+<br>AB  - Stathmin is a ubiquitous, highly conserved phosphoprotein which most
+<br>      likely acts as a relay integrating various intracellular pathways
+<br>      regulating cell proliferation, differentiation, and functions. At least 14
+<br>      molecular forms of stathmin have been identified so far, which migrate as
+<br>      2 unphosphorylated and 12 increasingly phosphorylated spots (M(r) =
+<br>      19,000-23,000; pI = 6.2-5.6) on two-dimensional electrophoretic gels, and
+<br>      whose pattern may reflect the state of activation of cells. We found that
+<br>      stathmin could be phosphorylated in vitro by at least three different
+<br>      protein kinases: cAMP-dependent protein kinase, p34cdc2, and casein kinase
+<br>      II, <font color=red>cAMP-dependent protein kinase catalyzed the phosphorylation of
+<br>      stathmin on serines 16 (K-R-A-S) and 63 (R-R-K-S),</font> whereas p34cdc2 induced
+<br>      phosphorylation on serines 25 (I-L-S-P-R) and 38 (P-L-S-P-P-K-K-K).
+<br>      Interestingly, phosphorylation by both kinases together yielded all of the
+<br>      phosphoforms of stathmin identified so far. Two-dimensional phosphopeptide
+<br>      analysis allowed us to demonstrate that the same four sites were
+<br>      exclusively found to be phosphorylated in vivo, in brain tissue as well as
+<br>      in control or nerve growth factor-stimulated PC12 cells. In this latter
+<br>      case, the major site phosphorylated in response to nerve growth factor
+<br>      being serine 25, it is likely that a kinase such as a mitogen-activated
+<br>      protein kinase, known to be activated by growth factors, might directly
+<br>      phosphorylate stathmin. The phosphopeptide map analysis allowed further
+<br>      identification of the specific combinations among the four sites whose
+<br>      phosphorylation is responsible for the characteristic two-dimensional
+<br>      polyacrylamide gel electrophoresis migration of the resulting stathmin
+<br>      forms both in vitro and in vivo and revealed the existence of likely
+<br>      structural interactions between the sites phosphorylated. In conclusion,
+<br>      our results show that phosphorylation of serines 16, 25, 38, and 63
+<br>      accounts for all of the major functional stathmin forms observed in vivo.
+<br>      The present identification of these sites will foster a better
+<br>      understanding of some intracellular mechanisms involved in the diverse
+<br>      physiological regulation of the proliferation, differentiation, and
+<br>      functions of cells, including the role of stathmin in these processes as a
+<br>      relay integrating diverse signaling pathways.
+<br>SO  - J Biol Chem 1993 Sep 25;268(27):20076-84.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A40936">A40936</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase A) | 63  (all)
+<br>TI  - Multiple phosphorylation of stathmin. Identification of four sites
+<br>      phosphorylated in intact cells and in vitro by cyclic AMP-dependent
+<br>      protein kinase and p34cdc2.
+<br>AB  - Stathmin is a ubiquitous, highly conserved phosphoprotein which most
+<br>      likely acts as a relay integrating various intracellular pathways
+<br>      regulating cell proliferation, differentiation, and functions. At least 14
+<br>      molecular forms of stathmin have been identified so far, which migrate as
+<br>      2 unphosphorylated and 12 increasingly phosphorylated spots (M(r) =
+<br>      19,000-23,000; pI = 6.2-5.6) on two-dimensional electrophoretic gels, and
+<br>      whose pattern may reflect the state of activation of cells. We found that
+<br>      stathmin could be phosphorylated in vitro by at least three different
+<br>      protein kinases: cAMP-dependent protein kinase, p34cdc2, and casein kinase
+<br>      II, <font color=red>cAMP-dependent protein kinase catalyzed the phosphorylation of
+<br>      stathmin on serines 16 (K-R-A-S) and 63 (R-R-K-S)</font>, whereas p34cdc2 induced
+<br>      phosphorylation on serines 25 (I-L-S-P-R) and 38 (P-L-S-P-P-K-K-K).
+<br>      Interestingly, phosphorylation by both kinases together yielded all of the
+<br>      phosphoforms of stathmin identified so far. Two-dimensional phosphopeptide
+<br>      analysis allowed us to demonstrate that the same four sites were
+<br>      exclusively found to be phosphorylated in vivo, in brain tissue as well as
+<br>      in control or nerve growth factor-stimulated PC12 cells. In this latter
+<br>      case, the major site phosphorylated in response to nerve growth factor
+<br>      being serine 25, it is likely that a kinase such as a mitogen-activated
+<br>      protein kinase, known to be activated by growth factors, might directly
+<br>      phosphorylate stathmin. The phosphopeptide map analysis allowed further
+<br>      identification of the specific combinations among the four sites whose
+<br>      phosphorylation is responsible for the characteristic two-dimensional
+<br>      polyacrylamide gel electrophoresis migration of the resulting stathmin
+<br>      forms both in vitro and in vivo and revealed the existence of likely
+<br>      structural interactions between the sites phosphorylated. In conclusion,
+<br>      our results show that phosphorylation of serines 16, 25, 38, and 63
+<br>      accounts for all of the major functional stathmin forms observed in vivo.
+<br>      The present identification of these sites will foster a better
+<br>      understanding of some intracellular mechanisms involved in the diverse
+<br>      physiological regulation of the proliferation, differentiation, and
+<br>      functions of cells, including the role of stathmin in these processes as a
+<br>      relay integrating diverse signaling pathways.
+<br>SO  - J Biol Chem 1993 Sep 25;268(27):20076-84.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A40936">A40936</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by MAP and cdc2 kinases) | 25  (all)
+<br>TI  - Multiple phosphorylation of stathmin. Identification of four sites
+<br>      phosphorylated in intact cells and in vitro by cyclic AMP-dependent
+<br>      protein kinase and p34cdc2.
+<br>AB  - Stathmin is a ubiquitous, highly conserved phosphoprotein which most
+<br>      likely acts as a relay integrating various intracellular pathways
+<br>      regulating cell proliferation, differentiation, and functions. At least 14
+<br>      molecular forms of stathmin have been identified so far, which migrate as
+<br>      2 unphosphorylated and 12 increasingly phosphorylated spots (M(r) =
+<br>      19,000-23,000; pI = 6.2-5.6) on two-dimensional electrophoretic gels, and
+<br>      whose pattern may reflect the state of activation of cells. We found that
+<br>      stathmin could be phosphorylated in vitro by at least three different
+<br>      protein kinases: cAMP-dependent protein kinase, p34cdc2, and casein kinase
+<br>      II, cAMP-dependent protein kinase catalyzed the phosphorylation of
+<br>      stathmin on serines 16 (K-R-A-S) and 63 (R-R-K-S), whereas <font color=red>p34cdc2 induced
+<br>      phosphorylation on serines 25 (I-L-S-P-R) and 38 (P-L-S-P-P-K-K-K)</font>.
+<br>      Interestingly, phosphorylation by both kinases together yielded all of the
+<br>      phosphoforms of stathmin identified so far. Two-dimensional phosphopeptide
+<br>      analysis allowed us to demonstrate that the same four sites were
+<br>      exclusively found to be phosphorylated in vivo, in brain tissue as well as
+<br>      in control or nerve growth factor-stimulated PC12 cells. In this latter
+<br>      case, the major site phosphorylated in response to nerve growth factor
+<br>      being serine 25, it is likely that a kinase such as a mitogen-activated
+<br>      protein kinase, known to be activated by growth factors, might directly
+<br>      phosphorylate stathmin. The phosphopeptide map analysis allowed further
+<br>      identification of the specific combinations among the four sites whose
+<br>      phosphorylation is responsible for the characteristic two-dimensional
+<br>      polyacrylamide gel electrophoresis migration of the resulting stathmin
+<br>      forms both in vitro and in vivo and revealed the existence of likely
+<br>      structural interactions between the sites phosphorylated. In conclusion,
+<br>      our results show that phosphorylation of serines 16, 25, 38, and 63
+<br>      accounts for all of the major functional stathmin forms observed in vivo.
+<br>      The present identification of these sites will foster a better
+<br>      understanding of some intracellular mechanisms involved in the diverse
+<br>      physiological regulation of the proliferation, differentiation, and
+<br>      functions of cells, including the role of stathmin in these processes as a
+<br>      relay integrating diverse signaling pathways.
+<br>SO  - J Biol Chem 1993 Sep 25;268(27):20076-84.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=A40936">A40936</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cdc2 kinase) | 38  (all)
+<br>TI  - Multiple phosphorylation of stathmin. Identification of four sites
+<br>      phosphorylated in intact cells and in vitro by cyclic AMP-dependent
+<br>      protein kinase and p34cdc2.
+<br>AB  - Stathmin is a ubiquitous, highly conserved phosphoprotein which most
+<br>      likely acts as a relay integrating various intracellular pathways
+<br>      regulating cell proliferation, differentiation, and functions. At least 14
+<br>      molecular forms of stathmin have been identified so far, which migrate as
+<br>      2 unphosphorylated and 12 increasingly phosphorylated spots (M(r) =
+<br>      19,000-23,000; pI = 6.2-5.6) on two-dimensional electrophoretic gels, and
+<br>      whose pattern may reflect the state of activation of cells. We found that
+<br>      stathmin could be phosphorylated in vitro by at least three different
+<br>      protein kinases: cAMP-dependent protein kinase, p34cdc2, and casein kinase
+<br>      II, cAMP-dependent protein kinase catalyzed the phosphorylation of
+<br>      stathmin on serines 16 (K-R-A-S) and 63 (R-R-K-S), whereas <font color=red>p34cdc2 induced
+<br>      phosphorylation on serines 25 (I-L-S-P-R) and 38 (P-L-S-P-P-K-K-K)</font>.
+<br>      Interestingly, phosphorylation by both kinases together yielded all of the
+<br>      phosphoforms of stathmin identified so far. Two-dimensional phosphopeptide
+<br>      analysis allowed us to demonstrate that the same four sites were
+<br>      exclusively found to be phosphorylated in vivo, in brain tissue as well as
+<br>      in control or nerve growth factor-stimulated PC12 cells. In this latter
+<br>      case, the major site phosphorylated in response to nerve growth factor
+<br>      being serine 25, it is likely that a kinase such as a mitogen-activated
+<br>      protein kinase, known to be activated by growth factors, might directly
+<br>      phosphorylate stathmin. The phosphopeptide map analysis allowed further
+<br>      identification of the specific combinations among the four sites whose
+<br>      phosphorylation is responsible for the characteristic two-dimensional
+<br>      polyacrylamide gel electrophoresis migration of the resulting stathmin
+<br>      forms both in vitro and in vivo and revealed the existence of likely
+<br>      structural interactions between the sites phosphorylated. In conclusion,
+<br>      our results show that phosphorylation of serines 16, 25, 38, and 63
+<br>      accounts for all of the major functional stathmin forms observed in vivo.
+<br>      The present identification of these sites will foster a better
+<br>      understanding of some intracellular mechanisms involved in the diverse
+<br>      physiological regulation of the proliferation, differentiation, and
+<br>      functions of cells, including the role of stathmin in these processes as a
+<br>      relay integrating diverse signaling pathways.
+<br>SO  - J Biol Chem 1993 Sep 25;268(27):20076-84.
+<br>
+<br><b>56. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=838735&dopt=Abstract">838735</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=SBHUP">SBHUP</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 21,22  (all)
+<br>TI  - Complete covalent structure of statherin, a tyrosine-rich acidic peptide
+<br>      which inhibits calcium phosphate precipitation from human parotid saliva.
+<br>AB  - The complete amino acid sequence of human salivary statherin, a peptide
+<br>      which strongly inhibits precipitation from supersaturated calcium
+<br>      phosphate solutions, and therefore stabilizes supersaturated saliva, has
+<br>      been determined. The NH2-terminal half of this Mr=5380 (43 amino acids)
+<br>      polypeptide was determined by automated Edman degradations (liquid phase)
+<br>      on native statherin. The peptide was digested separately with trypsin,
+<br>      chymotrypsin, and Staphylococcus aureus protease, and the resulting
+<br>      peptides were purified by gel filtration. Manual Edman degradations on
+<br>      purified peptide fragments yielded peptides that completed the amino acid
+<br>      sequence through the penultimate COOH-terminal residue. These analyses,
+<br>      together with carboxypeptidase digestion of native statherin and of
+<br>      peptide fragments of statherin, established the complete sequence of the
+<br>      molecule. <font color=red>The 2 serine residues (positions 2 and 3) in statherin were
+<br>      identified as phosphoserine.</font> The amino acid sequence of human salivary
+<br>      statherin is striking in a number of ways. The NH2-terminal one-third is
+<br>      highly polar and includes three polar dipeptides:
+<br>      H2PO3-Ser-Ser-H2PO3-Arg-Arg-, and Glu-Glu-. The COOH-terminal two-thirds
+<br>      of the molecule is hydrophobic, containing several repeating dipeptides:
+<br>      four of -Gn-Pro-, three of -Tyr-Gln-, two of -Gly-Tyr-, two of-Gln-Tyr-,
+<br>      and two of the tetrapeptide sequence -Pro-Tyr-Gln-Pro-. Unusual cleavage
+<br>      sites in the statherin sequence obtained with chymotrypsin and S. aureus
+<br>      protease were also noted.
+<br>SO  - J Biol Chem 1977 Mar 10;252(5):1689-95.
+<br>
+<br><b>57. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8491187&dopt=Abstract">8491187</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=TPHUN1">TPHUN1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by protein kinase C) | 378  (all)
+<br>TI  - Multi-site phosphorylation of the protein tyrosine phosphatase, PTP1B:
+<br>      identification of cell cycle regulated and phorbol ester stimulated sites
+<br>      of phosphorylation.
+<br>AB  - The non-transmembrane protein tyrosine phosphatase, PTP1B, comprises 435
+<br>      amino acids, of which the C-terminal 114 residues have been implicated in
+<br>      controlling both localization and function of this enzyme. Inspection of
+<br>      the sequence of the C-terminal segment reveals a number of potential sites
+<br>      of phosphorylation. We show that PTP1B is phosphorylated on seryl residues
+<br>      in vivo. Increased phosphorylation of PTP1B is seen to accompany the
+<br>      transition from G2 to M phase of the cell cycle. Two major tryptic
+<br>      phosphopeptides appear in two-dimensional maps of PTP1B from mitotic
+<br>      cells. One of these comigrates with the peptide generated following
+<br>      phosphorylation of PTP1B in vitro at Ser386 by the mitotic protein Ser/Thr
+<br>      kinase p34cdc2:cyclin B. The site of phosphorylation that is responsible
+<br>      for the pronounced retardation in the electrophoretic mobility of PTP1B
+<br>      from mitotic cells has been identified by site directed mutagenesis as
+<br>      Ser352. The identify of the kinase responsible for this modification is
+<br>      presently unknown. We also show that stimulation of HeLa cells with the
+<br>      phorbol ester TPA enhances phosphorylation of PTP1B. Two dimensional
+<br>      phosphopeptide mapping reveals that the bulk of the phosphate is in a
+<br>      single tryptic peptide. The site, identified as <font color=red>Ser378, is also the site
+<br>      of phosphorylation by protein kinase C (PKC)</font> in vitro. Thus the
+<br>      TPA-stimulated phosphorylation of PTP1B in vivo appears to result directly
+<br>      from phosphorylation by PKC. The effect of phosphorylation on the activity
+<br>      of PTP1B has been examined in immunoprecipitates from TPA-treated and
+<br>      nocodazole-arrested cells. TPA treatment does not appear to affect
+<br>      activity directly, whereas the activity of PTP1B from nocodazole-arrested
+<br>      cells is only 70% of that from asynchronous populations.
+<br>SO  - EMBO J 1993 May;12(5):1937-46.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=TPHUN1">TPHUN1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by cdc2 kinase) | 386  (all)
+<br>TI  - Multi-site phosphorylation of the protein tyrosine phosphatase, PTP1B:
+<br>      identification of cell cycle regulated and phorbol ester stimulated sites
+<br>      of phosphorylation.
+<br>AB  - The non-transmembrane protein tyrosine phosphatase, PTP1B, comprises 435
+<br>      amino acids, of which the C-terminal 114 residues have been implicated in
+<br>      controlling both localization and function of this enzyme. Inspection of
+<br>      the sequence of the C-terminal segment reveals a number of potential sites
+<br>      of phosphorylation. We show that PTP1B is phosphorylated on seryl residues
+<br>      in vivo. Increased phosphorylation of PTP1B is seen to accompany the
+<br>      transition from G2 to M phase of the cell cycle. Two major tryptic
+<br>      phosphopeptides appear in two-dimensional maps of PTP1B from mitotic
+<br>      cells. One of these comigrates with the peptide generated following
+<br>      <font color=red>phosphorylation of PTP1B in vitro at Ser386 by the mitotic protein Ser/Thr
+<br>      kinase p34cdc2:cyclin B</font>. The site of phosphorylation that is responsible
+<br>      for the pronounced retardation in the electrophoretic mobility of PTP1B
+<br>      from mitotic cells has been identified by site directed mutagenesis as
+<br>      Ser352. The identify of the kinase responsible for this modification is
+<br>      presently unknown. We also show that stimulation of HeLa cells with the
+<br>      phorbol ester TPA enhances phosphorylation of PTP1B. Two dimensional
+<br>      phosphopeptide mapping reveals that the bulk of the phosphate is in a
+<br>      single tryptic peptide. The site, identified as Ser378, is also the site
+<br>      of phosphorylation by protein kinase C (PKC) in vitro. Thus the
+<br>      TPA-stimulated phosphorylation of PTP1B in vivo appears to result directly
+<br>      from phosphorylation by PKC. The effect of phosphorylation on the activity
+<br>      of PTP1B has been examined in immunoprecipitates from TPA-treated and
+<br>      nocodazole-arrested cells. TPA treatment does not appear to affect
+<br>      activity directly, whereas the activity of PTP1B from nocodazole-arrested
+<br>      cells is only 70% of that from asynchronous populations.
+<br>SO  - EMBO J 1993 May;12(5):1937-46.
+<br>
+<br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=TPHUN1">TPHUN1</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by unidentified kinase) | 352  (all)
+<br>TI  - Multi-site phosphorylation of the protein tyrosine phosphatase, PTP1B:
+<br>      identification of cell cycle regulated and phorbol ester stimulated sites
+<br>      of phosphorylation.
+<br>AB  - The non-transmembrane protein tyrosine phosphatase, PTP1B, comprises 435
+<br>      amino acids, of which the C-terminal 114 residues have been implicated in
+<br>      controlling both localization and function of this enzyme. Inspection of
+<br>      the sequence of the C-terminal segment reveals a number of potential sites
+<br>      of phosphorylation. We show that PTP1B is phosphorylated on seryl residues
+<br>      in vivo. Increased phosphorylation of PTP1B is seen to accompany the
+<br>      transition from G2 to M phase of the cell cycle. Two major tryptic
+<br>      phosphopeptides appear in two-dimensional maps of PTP1B from mitotic
+<br>      cells. One of these comigrates with the peptide generated following
+<br>      phosphorylation of PTP1B in vitro at Ser386 by the mitotic protein Ser/Thr
+<br>      kinase p34cdc2:cyclin B. The <font color=red>site of phosphorylation</font> that is responsible
+<br>      for the pronounced retardation in the electrophoretic mobility of PTP1B
+<br>      from mitotic cells has been <font color=red>identified by site directed mutagenesis as
+<br>      Ser352. The identify of the kinase responsible for this modification is
+<br>      presently unknown</font>. We also show that stimulation of HeLa cells with the
+<br>      phorbol ester TPA enhances phosphorylation of PTP1B. Two dimensional
+<br>      phosphopeptide mapping reveals that the bulk of the phosphate is in a
+<br>      single tryptic peptide. The site, identified as Ser378, is also the site
+<br>      of phosphorylation by protein kinase C (PKC) in vitro. Thus the
+<br>      TPA-stimulated phosphorylation of PTP1B in vivo appears to result directly
+<br>      from phosphorylation by PKC. The effect of phosphorylation on the activity
+<br>      of PTP1B has been examined in immunoprecipitates from TPA-treated and
+<br>      nocodazole-arrested cells. TPA treatment does not appear to affect
+<br>      activity directly, whereas the activity of PTP1B from nocodazole-arrested
+<br>      cells is only 70% of that from asynchronous populations.
+<br>SO  - EMBO J 1993 May;12(5):1937-46.
+<br>
+<br><b>58. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8524294&dopt=Abstract">8524294</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=T45138">T45138</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) | 335  (all)
+<br>TI  - Schizosaccharomyces pombe skp1+ encodes a protein kinase related to
+<br>      mammalian glycogen synthase kinase 3 and complements a cdc14 cytokinesis
+<br>      mutant.
+<br>AB  - We report the cloning of the skp1+ gene, a Schizosaccharomyces pombe
+<br>      homolog of the glycogen synthase kinase 3 (GSK-3) family whose members in
+<br>      higher eukaryotes are involved in cell fate determination, nuclear
+<br>      signalling, and hormonal regulation. skp1 is 67% identical to mammalian
+<br>      GSK-3 beta and displays similar biochemical properties in vitro. Like
+<br>      GSK-3 beta, skp1 is phosphorylated on a conserved tyrosine residue, and
+<br>      this phosphorylation is required for efficient activity. <font color=red>skp1 is also
+<br>      phosphorylated at a serine which has been identified as S-335.</font>
+<br>      Phosphorylation at this site is likely to inhibit its function. Unlike the
+<br>      mammalian enzyme, skp1 both tyrosine autophosphorylates in yeast cells and
+<br>      can phosphorylate other proteins on tyrosine in bacteria. The skp1+ gene
+<br>      is not essential. However, cells with deletions in skp1+ are sensitive to
+<br>      heat shock and exhibit defects in sporulation. Overexpression of wild-type
+<br>      skp1+ specifically complements cdc14-118, one of several mutations causing
+<br>      a defect in cytokinesis. In addition, certain phosphorylation site mutants
+<br>      induce a delay or block in cytokinesis when overexpressed. Together, these
+<br>      data identify novel interactions of a fission yeast GSK-3 homolog with
+<br>      elements of the cytokinesis machinery.
+<br>SO  - Mol Cell Biol 1996 Jan;16(1):179-91.
+<br>
+<br><b>59. PMID</b>:<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8635594&dopt=Abstract">8635594</a><br>PIR:<a href="https://proteininformationresource.org/cgi-bin/ipkLitFt.pl?id=C1HURB">C1HURB</a>
+<br>FT  - binding site | phosphate (Ser) (covalent) (by casein kinase II) | 206  (all)
+<br>TI  - Identification of a cryptic protein kinase CK2 phosphorylation site in
+<br>      human complement protease Clr, and its use to probe intramolecular
+<br>      interaction.
+<br>AB  - Treatment of human (activated)C1r by CK2 resulted in the incorporation of
+<br>      [32P]phosphate into the N-terminal alpha region of its non-catalytic A
+<br>      chain. Fragmentation of 32P-labelled (activated)C1r followed by N-terminal
+<br>      sequence and mass spectrometry analyses allowed <font color=red>identification of Ser189
+<br>      as the phosphorylation site</font>. Accessibility of Ser189 was low in intact
+<br>      C1r, due in part to the presence of one of the oligosaccharides borne by
+<br>      the alpha region, further reduced in the presence of calcium, and
+<br>      abolished when C1r was incorporated into the C1s-C1r-C1r-C1s tetramer or
+<br>      the C1 complex. In contrast, phosphorylation was enhanced in the isolated
+<br>      alpha fragment and insensitive to calcium. Taken together, these data
+<br>      provide support for the occurrence of a (Ca2+)-dependent interaction
+<br>      between the alpha region and the remainder of the C1r molecule.
+<br>SO  - FEBS Lett 1996 May 13;386(1):15-20.
+<br>
+<br>

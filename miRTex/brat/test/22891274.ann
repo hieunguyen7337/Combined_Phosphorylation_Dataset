@@ -1,0 +1,18 @@
+T1	Complex 203 212	NF-kappaB
+T2	Complex 260 275	T cell receptor
+T3	Complex 277 280	TCR
+T4	Complex 312 321	NF-kappaB
+T5	Complex 457 460	TCR
+T6	Complex 469 478	NF-kappaB
+T7	Complex 647 650	TCR
+T8	Complex 658 667	NF-kappaB
+T9	Complex 749 758	NF-kappaB
+T10	Complex 808 817	NF-kappaB
+T11	Gene 840 845	TRAF6
+T12	Gene 850 855	IRAK1
+T13	Complex 965 968	TCR
+T14	Complex 982 991	NF-kappaB
+T15	MiRNA 0 8	miR-146a
+T16	MiRNA 541 549	miR-146a
+T17	MiRNA 710 718	miR-146a
+T18	MiRNA 885 893	miR-146a

@@ -1,0 +1,37 @@
+T10	Entity 561 568	Thr-171
+T11	Entity 570 577	Thr-172
+T12	Entity 579 586	Ser-179
+T13	Entity 588 595	Ser-181
+T14	Entity 601 608	Ser-183
+T15	Glycosylation 614 632	fully glycosylated
+T16	Entity 642 649	Ser-169
+T17	Glycosylation 654 676	partially glycosylated
+T18	Glycosylation 689 711	complete glycosylation
+T19	Entity 725 732	Ser-167
+T20	Entity 734 741	Thr-168
+T21	Entity 743 750	Thr-172
+T22	Entity 752 759	Thr-175
+T23	Entity 761 768	Thr-176
+T24	Entity 770 777	Thr-182
+T25	Entity 783 790	Thr-183
+T26	Glycosylation 796 817	partial glycosylation
+T27	Entity 821 828	Ser-179
+T28	Entity 833 840	Thr-181
+T29	Entity 863 870	Thr-185
+E1	Glycosylation:T15 Theme:T7 Site:T10
+E2	Glycosylation:T15 Theme:T7 Site:T13
+E3	Glycosylation:T15 Theme:T7 Site:T12
+E4	Glycosylation:T15 Theme:T7 Site:T11
+E5	Glycosylation:T15 Theme:T7 Site:T14
+E6	Glycosylation:T17 Theme:T7 Site:T16
+E7	Glycosylation:T18 Theme:T8 Site:T24
+E8	Glycosylation:T18 Theme:T8 Site:T25
+E9	Glycosylation:T18 Theme:T8 Site:T20
+E10	Glycosylation:T18 Theme:T8 Site:T21
+E11	Glycosylation:T18 Theme:T8 Site:T23
+E12	Glycosylation:T18 Theme:T8 Site:T19
+E13	Glycosylation:T18 Theme:T8 Site:T22
+E14	Glycosylation:T26 Theme:T8 Site:T28
+E15	Glycosylation:T26 Theme:T8 Site:T27
+E16	Glycosylation:T26 Theme:T8 Site:T29
+M1	Speculation E16

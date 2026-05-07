@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This repository contains phosphorylation text-mining datasets and conversion tooling for building a unified phosphorylation/PPI corpus. The current active work is converting `rlims_p_v1` into auditable candidate relations compatible with the format used by `Unified_Phosphorylation_Dataset`.
+This repository contains phosphorylation text-mining datasets and conversion tooling for building a unified phosphorylation/PPI corpus. The current active relation corpus is built from eFIP and RLIMS-P v2. RLIMS-P v1 and BioNLP are treated as separate manual-audit sources until expert-approved.
 
 ## Current Repository Context
 
@@ -13,6 +13,7 @@ F:\document\QUT_research_assistant_file\Dr_Bashar_file\Phos_dataset
 Important directories:
 
 - `Unified_Phosphorylation_Dataset/` - main conversion code, processed outputs, audit tooling, reports.
+- `BioNLP_ST_2011_EPI/`, `BioNLP_ST_2011_GE/`, `BioNLP_ST_2013_GE/` - BioNLP standoff corpora prepared as manual-audit sources.
 - `rlims_p_v1/` - downloaded RLIMS-P v1 benchmarking files.
 - `rlims_p_v2/` - existing RLIMS-P v2 source data.
 - `eFIP/` - existing dataset folder, excluded from the new folder exploration requirement.
@@ -29,9 +30,9 @@ The virtual environment has the NER/conversion dependencies installed, including
 
 ## User Goal
 
-The user wants `rlims_p_v1` converted into an auditable phosphorylation relation dataset. The important requirement is exact `[E1]` and `[E2]` relation markers with direct offsets in the source biomedical paper abstract text.
+The user wants phosphorylation sources kept cleanly separated by readiness. eFIP/RLIMS-P v2 form the current unified relation dataset. RLIMS-P v1 and BioNLP should be converted into auditable records and must not be merged into the final relation corpus until expert review.
 
-The user clarified that they want the actual NER pipeline run, not only the Streamlit audit app.
+For RLIMS-P v1, the important requirement is exact `[E1]` and `[E2]` relation markers with direct offsets in the source biomedical paper abstract text. For BioNLP, the requirement is now audit preparation only because BioNLP mostly provides event evidence, not complete kinase-substrate/PPI relation labels.
 
 ## Implemented Files
 
@@ -39,6 +40,8 @@ Core NER conversion:
 
 - `Unified_Phosphorylation_Dataset/convert_rlims_p_v1_to_json.py`
 - `Unified_Phosphorylation_Dataset/src/phosphorylation_dataset/rlims_v1_conversion.py`
+- `Unified_Phosphorylation_Dataset/convert_bionlp_to_audit.py`
+- `Unified_Phosphorylation_Dataset/src/phosphorylation_dataset/bionlp_conversion.py`
 
 Audit and export tooling:
 
@@ -63,6 +66,12 @@ Generated output files:
 - `Unified_Phosphorylation_Dataset/reports/rlims_p_v1_conversion_report.md`
 - `Unified_Phosphorylation_Dataset/audit/brat/rlims_p_v1/*.ann`
 - `Unified_Phosphorylation_Dataset/audit/brat/rlims_p_v1/*.txt`
+- `Unified_Phosphorylation_Dataset/data/processed/bionlp_raw_phosphorylation_events.json`
+- `Unified_Phosphorylation_Dataset/data/processed/bionlp_annotation_candidates.json`
+- `Unified_Phosphorylation_Dataset/data/processed/bionlp_rejected_events.json`
+- `Unified_Phosphorylation_Dataset/reports/bionlp_audit_conversion_report.md`
+- `Unified_Phosphorylation_Dataset/audit/brat/bionlp/*.ann`
+- `Unified_Phosphorylation_Dataset/audit/brat/bionlp/*.txt`
 
 Git ignore added:
 

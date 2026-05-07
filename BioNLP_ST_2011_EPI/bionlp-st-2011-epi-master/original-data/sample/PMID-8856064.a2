@@ -1,0 +1,21 @@
+T18	Entity 719 728	galactose
+T19	Entity 730 751	N-acetylgalactosamine
+T20	Entity 756 762	fucose
+T21	Glycosylation 778 786	O-linked
+T22	Entity 790 794	Ser9
+T23	Entity 811 816	Thr16
+T24	Glycosylation 861 875	N-glycosylated
+T25	Entity 879 884	Asn41
+T26	Entity 892 916	hybrid-type-carbohydrate
+T27	Entity 930 949	high-mannose glycan
+T28	Glycosylation 954 962	N-linked
+T29	Entity 966 972	Asn209
+E1	Glycosylation:T21 Theme:T9 Site:T22 Sidechain:T18
+E2	Glycosylation:T21 Theme:T10 Site:T23 Sidechain:T18
+E3	Glycosylation:T21 Theme:T9 Site:T22 Sidechain:T20
+E4	Glycosylation:T21 Theme:T10 Site:T23 Sidechain:T20
+E5	Glycosylation:T21 Theme:T9 Site:T22 Sidechain:T19
+E6	Glycosylation:T21 Theme:T10 Site:T23 Sidechain:T19
+E7	Glycosylation:T24 Theme:T12 Site:T25 Sidechain:T26
+E8	Glycosylation:T24 Theme:T11 Site:T25 Sidechain:T26
+E9	Glycosylation:T28 Theme:T13 Site:T29 Sidechain:T27

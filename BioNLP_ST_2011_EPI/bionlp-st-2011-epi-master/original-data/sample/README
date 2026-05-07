@@ -1,0 +1,37 @@
+Sample Data for BioNLP Shared Task 2011 Main Task - Epigenetics and Post-translational Modifications (EpiPTM)
+
+- Contains 12 PubMed abstracts and their annotations.
+
+- For format details, please refer to the shared task homepage.
+  http://sites.google.com/site/bionlpst/
+
+
+File Descriptions:
+
+*.txt	files contain the target text.
+	Each of these files consists of two lines, one for the title and 
+	one for the abstract.
+
+*.a1	files contain standoff annotations for Proteins entities.
+
+*.a2	files contain standoff annotations for other entities and events.
+        For training, the participants will be provided with these files.
+        For test, the participants have to create this annotation.
+
+
+History:
+
+14 Sep 2010: third revision released.
+
+27 Aug 2010: second revision released.
+
+25 Aug 2010: first revision released.
+
+23 Aug 2010: initial version released.
+
+
+Authors:
+
+BioNLP Shared Task 2011 organizers,
+bionlp-st@googlegroups.com
+http://sites.google.com/site/bionlpst/

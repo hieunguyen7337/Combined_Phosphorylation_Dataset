@@ -1,0 +1,4 @@
+T1	Trigger 1026 1041	phosphorylation
+T2	Substrate 1067 1071	AMPK
+T3	Site 1072 1078	Thr172
+T4	AnnotatedCause 964 968	LKB1

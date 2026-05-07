@@ -36,8 +36,9 @@ The code in this directory does three things:
 
 1. Converts the `rlims_p_v2` BRAT annotations into a JSONL format that matches the eFIP-derived files.
 2. Converts the raw eFIP spreadsheets into normalized JSONL files.
-3. Combines the normalized source files into one deduplicated dataset.
+3. Combines the normalized eFIP and RLIMS-P source files into one deduplicated dataset.
 4. Verifies the final dataset and writes human-readable reports for quality checks.
+5. Prepares separate manual-audit candidate sources, including RLIMS-P v1 and BioNLP, without merging them into training data.
 
 The goal is to produce one training- or analysis-ready corpus where each record contains:
 
@@ -57,15 +58,50 @@ What the code does today:
 - merges those normalized sources into one combined dataset
 - generates markdown reports describing the merged output
 - generates auditable NER-based candidate relations from `../rlims_p_v1/`
+- generates auditable BioNLP phosphorylation/dephosphorylation candidates from `../BioNLP_ST_2011_EPI/`, `../BioNLP_ST_2013_GE/`, and `../BioNLP_ST_2011_GE/`
 - provides a local Streamlit app for inspecting all `rlims_p_v1` NER records and labeling strict candidate relations
 
 What the code does not do today:
 
 - convert `BioCreative_4/`
 - convert `Text_mining_UDel/`
+- automatically merge BioNLP audit candidates into the final eFIP/RLIMS-P combined corpus
 - automatically merge unaudited `rlims_p_v1` candidates into the final combined corpus
 
 So this folder should be understood as a pipeline for the current unified phosphorylation dataset build, not as a universal converter for every dataset archive in the repository.
+
+## BioNLP Manual Audit Source
+
+The BioNLP corpora intentionally stay separate from the final eFIP/RLIMS-P relation dataset. They add annotated phosphorylation/dephosphorylation event evidence from:
+
+- `../BioNLP_ST_2011_EPI/`: epigenetics and post-translational modifications, the preferred add-on source.
+- `../BioNLP_ST_2013_GE/`: GENIA event extraction data with phosphorylation events.
+- `../BioNLP_ST_2011_GE/`: GENIA 2011 train/development data with phosphorylation events.
+
+Run the audit-source converter from this folder:
+
+```powershell
+..\.venv\Scripts\python.exe .\convert_bionlp_to_audit.py
+```
+
+Current output:
+
+```text
+Raw phosphorylation/dephosphorylation events: 507
+Audit candidates: 507
+Candidates with explicit BioNLP Cause/Catalysis evidence: 8
+Rejected events: 0
+```
+
+The converter writes:
+
+- [data/processed/bionlp_raw_phosphorylation_events.json](./data/processed/bionlp_raw_phosphorylation_events.json)
+- [data/processed/bionlp_annotation_candidates.json](./data/processed/bionlp_annotation_candidates.json)
+- [data/processed/bionlp_rejected_events.json](./data/processed/bionlp_rejected_events.json)
+- [reports/bionlp_audit_conversion_report.md](./reports/bionlp_audit_conversion_report.md)
+- [audit/brat/bionlp/](./audit/brat/bionlp/)
+
+These records are not a ready PPI training dataset. BioNLP usually annotates phosphorylation triggers, substrates, and sites, but not kinase-substrate relations. Treat it like `rlims_p_v1`: every candidate requires manual audit before export into the unified relation corpus.
 
 ### Why `rlims_p_v1` Requires Audit Before Merging
 
@@ -368,6 +404,27 @@ Important limitation:
 - this script only converts `rlims_p_v2`
 - it does not convert any other corpora stored elsewhere in the repository
 
+### `convert_bionlp_to_audit.py`
+
+Prepares BioNLP phosphorylation/dephosphorylation event records for manual annotation.
+
+Key behaviors:
+
+- reads BioNLP `.txt`, `.a1`, and `.a2` standoff files from the three BioNLP source folders
+- keeps only `Phosphorylation` and `Dephosphorylation` events
+- preserves trigger, substrate, site, and optional Cause/Catalysis evidence
+- writes audit candidates with trigger/substrate markers, not PPI relation labels
+- writes BRAT files for visual inspection
+- writes [data/processed/bionlp_raw_phosphorylation_events.json](./data/processed/bionlp_raw_phosphorylation_events.json)
+- writes [data/processed/bionlp_annotation_candidates.json](./data/processed/bionlp_annotation_candidates.json)
+- writes [data/processed/bionlp_rejected_events.json](./data/processed/bionlp_rejected_events.json)
+- writes [reports/bionlp_audit_conversion_report.md](./reports/bionlp_audit_conversion_report.md)
+
+Important limitation:
+
+- BioNLP output is audit-ready, not training-ready
+- candidates must not be used as positive or negative PPI examples until an expert annotates kinase-substrate/PPI labels
+
 ### `combine_and_analyze_datasets.py`
 
 Builds the final unified dataset from the normalized source files.
@@ -399,6 +456,7 @@ You can also pass custom paths:
 ```powershell
 python .\convert_efip_to_json.py --corpus-annotations ..\eFIP\Corpus\Annotations.xlsx --corpus-subsections ..\eFIP\Corpus\Subsections --full-input ..\eFIP\eFIP.xlsx
 python .\convert_rlims_to_efip.py --root ..\rlims_p_v2 --output .\data\processed\rlims_p_v2_converted.json
+python .\convert_bionlp_to_audit.py --candidate-output .\data\processed\bionlp_annotation_candidates.json --report .\reports\bionlp_audit_conversion_report.md
 python .\combine_and_analyze_datasets.py --output .\data\processed\combined_phosphorylation_corpus.json --report .\reports\analysis_report.md
 python .\verify_combined_dataset.py --input .\data\processed\combined_phosphorylation_corpus.json --report .\reports\verification_report.md
 ```
@@ -412,6 +470,7 @@ python .\verify_combined_dataset.py --input .\data\processed\combined_phosphoryl
 - [../eFIP/Corpus/Subsections/](../eFIP/Corpus/Subsections/)
 - [../eFIP/eFIP.xlsx](../eFIP/eFIP.xlsx)
 - Raw RLIMS-P annotation files from [../rlims_p_v2/](../rlims_p_v2/)
+- BioNLP standoff files from [../BioNLP_ST_2011_EPI/](../BioNLP_ST_2011_EPI/), [../BioNLP_ST_2013_GE/](../BioNLP_ST_2013_GE/), and [../BioNLP_ST_2011_GE/](../BioNLP_ST_2011_GE/)
 
 ### Outputs
 
@@ -420,8 +479,12 @@ python .\verify_combined_dataset.py --input .\data\processed\combined_phosphoryl
 - [data/processed/eFIP_full_converted.json](./data/processed/eFIP_full_converted.json)
 - [data/processed/eFIP_multi_sent_sample.json](./data/processed/eFIP_multi_sent_sample.json)
 - [data/processed/combined_phosphorylation_corpus.json](./data/processed/combined_phosphorylation_corpus.json)
+- [data/processed/bionlp_raw_phosphorylation_events.json](./data/processed/bionlp_raw_phosphorylation_events.json)
+- [data/processed/bionlp_annotation_candidates.json](./data/processed/bionlp_annotation_candidates.json)
+- [data/processed/bionlp_rejected_events.json](./data/processed/bionlp_rejected_events.json)
 - [reports/analysis_report.md](./reports/analysis_report.md)
 - [reports/verification_report.md](./reports/verification_report.md)
+- [reports/bionlp_audit_conversion_report.md](./reports/bionlp_audit_conversion_report.md)
 
 ## Notes
 
@@ -429,4 +492,5 @@ python .\verify_combined_dataset.py --input .\data\processed\combined_phosphoryl
 - The eFIP conversion depends on `openpyxl` for reading the raw Excel files.
 - Deduplication is strict and is based on the full `text_with_entity_marker` string.
 - The scripts are entrypoints; most of the logic now lives under `src/phosphorylation_dataset/` to keep the code easier to maintain.
-- The current repository still does not convert every dataset archive in the parent workspace. `BioCreative_4/` and `Text_mining_UDel/` remain out of scope for the implemented pipeline.
+- The final combined relation corpus still uses eFIP and RLIMS-P v2 only. RLIMS-P v1 and BioNLP outputs require manual audit before any export into training data.
+- The current repository still does not convert every dataset archive in the parent workspace. `BioCreative_4/` and `Text_mining_UDel/` remain out of scope for the implemented conversion pipeline.

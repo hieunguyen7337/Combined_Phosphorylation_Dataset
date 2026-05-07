@@ -1,0 +1,17 @@
+*	Equiv T3 T2
+T10	Acetylation 14 24	acetylated
+T11	Acetylation 364 374	acetylated
+T12	Acetylation 558 568	acetylated
+T13	Acetylation 653 663	acetylated
+T14	Acetylation 766 776	acetylated
+T15	Acetylation 839 849	acetylated
+T16	Acetylation 1082 1092	acetylated
+T17	Acetylation 1191 1201	acetylated
+E1	Acetylation:T10 Theme:T1
+E2	Acetylation:T11 Theme:T3
+E3	Acetylation:T12 Theme:T4
+E4	Acetylation:T13 Theme:T5
+E5	Acetylation:T14 Theme:T6
+E6	Acetylation:T15 Theme:T7
+E7	Acetylation:T16 Theme:T8
+E8	Acetylation:T17 Theme:T9

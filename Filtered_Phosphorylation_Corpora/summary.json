@@ -1,0 +1,28 @@
+{
+  "BioNLP_ST_2009_GE": {
+    "rows": 216,
+    "kind": "annotated_phosphorylation_events"
+  },
+  "PPI_Corpora_metalrt": {
+    "rows": 321,
+    "kind": "ppi_sentences_with_phosphorylation_terms",
+    "with_interactions": 205
+  },
+  "BioRED": {
+    "rows": 46,
+    "kind": "biored_documents_with_phosphorylation_terms",
+    "with_relations": 46
+  },
+  "GENIA_MetaKnowledge": {
+    "rows": 146,
+    "kind": "xml_files_with_phosphorylation_terms"
+  },
+  "ProteinResidueRelations": {
+    "rows": 140,
+    "kind": "protein_residue_annotation_files_with_phosphorylation_terms"
+  },
+  "PubMed_Phosphorylation_Raw": {
+    "rows": 1000,
+    "kind": "raw_unannotated_phosphorylation_abstracts"
+  }
+}

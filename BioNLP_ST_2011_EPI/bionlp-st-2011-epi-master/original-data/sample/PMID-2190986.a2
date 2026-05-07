@@ -1,0 +1,6 @@
+T9	Entity 983 986	Thr
+T10	Acetylation 999 1025	blocked with an acyl group
+T11	Acetylation 1051 1055	free
+E1	Acetylation:T10 Theme:T3 Site:T9
+E2	Acetylation:T11 Theme:T4 Site:T9
+M1	Negation E2

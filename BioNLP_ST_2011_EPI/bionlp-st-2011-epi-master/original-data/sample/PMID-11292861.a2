@@ -1,0 +1,7 @@
+*	Equiv T4 T3
+T10	Entity 87 93	prolyl
+T11	Hydroxylation 94 107	hydroxylation
+T12	Hydroxylation 652 665	hydroxylation
+T13	Entity 699 703	P564
+E1	Hydroxylation:T11 Theme:T1 Site:T10
+E2	Hydroxylation:T12 Theme:T8 Site:T13

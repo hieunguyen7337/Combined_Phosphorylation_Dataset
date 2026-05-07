@@ -1,0 +1,1 @@
+(("protein phosphorylation"[MeSH Terms] OR phosphorylation[Title/Abstract]) AND ("protein interaction"[Title/Abstract] OR "kinase substrate"[Title/Abstract] OR "signal transduction"[MeSH Terms]) AND hasabstract[text])

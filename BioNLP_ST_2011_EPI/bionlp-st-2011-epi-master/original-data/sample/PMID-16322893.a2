@@ -1,0 +1,21 @@
+*	Equiv T2 T1
+T19	Entity 0 8	Promoter
+T20	DNA_methylation 9 20	methylation
+T21	Entity 863 871	promoter
+T22	DNA_methylation 872 888	hypermethylation
+T23	DNA_methylation 918 933	hypermethylated
+T24	Entity 959 967	promoter
+T25	Acetylation 1005 1015	acetylated
+T26	Entity 1360 1363	CpG
+T27	DNA_methylation 1364 1375	methylation
+T28	Entity 1459 1462	CpG
+T29	DNA_methylation 1463 1474	methylation
+T30	Entity 1831 1839	promoter
+T31	DNA_methylation 1840 1876	hyper- and site specific-methylation
+E1	DNA_methylation:T20 Theme:T2 Site:T19
+E2	DNA_methylation:T22 Theme:T7 Site:T21
+E3	DNA_methylation:T23 Theme:T8 Site:T24
+E4	Acetylation:T25 Theme:T9
+E5	DNA_methylation:T27 Theme:T12 Site:T26
+E6	DNA_methylation:T29 Theme:T13 Site:T28
+E7	DNA_methylation:T31 Theme:T17 Site:T30

@@ -1,0 +1,36 @@
+*	Equiv T2 T1
+*	Equiv T4 T3
+T15	Ubiquitination 0 14	Ubiquitination
+T16	Ubiquitination 419 424	mono-
+T17	Ubiquitination 428 445	polyubiquitinated
+T18	Phosphorylation 543 558	phosphorylation
+T19	Entity 586 592	serine
+T20	Entity 597 606	threonine
+T21	Ubiquitination 668 686	polyubiquitination
+T22	Ubiquitination 853 867	ubiquitination
+T23	Phosphorylation 877 892	phosphorylation
+T24	Ubiquitination 937 951	ubiquitination
+T25	Entity 977 987	C-terminal
+T26	Phosphorylation 988 1003	phosphorylation
+T27	Ubiquitination 1025 1039	ubiquitination
+T28	Ubiquitination 1103 1108	mono-
+T29	Ubiquitination 1112 1130	polyubiquitination
+T30	Ubiquitination 1245 1259	ubiquitination
+T31	Ubiquitination 1361 1375	ubiquitination
+T32	Ubiquitination 1499 1513	ubiquitination
+E1	Ubiquitination:T15 Theme:T2
+E2	Ubiquitination:T16 Theme:T5
+E3	Ubiquitination:T17 Theme:T5
+E4	Phosphorylation:T18 Theme:T6 Site:T19
+E5	Phosphorylation:T18 Theme:T6 Site:T20
+E6	Ubiquitination:T21 Theme:T6
+E7	Ubiquitination:T22 Theme:T8
+E8	Phosphorylation:T23 Theme:T9
+E9	Ubiquitination:T24 Theme:T9
+E10	Phosphorylation:T26 Theme:T9 Site:T25
+E11	Ubiquitination:T27 Theme:T9
+E12	Ubiquitination:T28 Theme:T10
+E13	Ubiquitination:T29 Theme:T10
+E14	Ubiquitination:T30 Theme:T11
+E15	Ubiquitination:T31 Theme:T13
+E16	Ubiquitination:T32 Theme:T14

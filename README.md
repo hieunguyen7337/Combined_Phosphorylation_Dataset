@@ -14,12 +14,21 @@ That pipeline:
 2. combines them with eFIP-derived normalized files
 3. deduplicates and analyzes the merged dataset
 4. verifies the final output
-5. generates auditable NER-assisted RLIMS-P v1 candidate relations for expert review
+5. generates separate manual-audit sources for RLIMS-P v1 and BioNLP before any expert-approved export
 
 ## Repository Overview
 
 - `BioCreative_4/`: archived corpus files
+- `BioNLP_ST_2011_EPI/`: BioNLP-ST 2011 EPI standoff corpus, prepared as a manual-audit source
+- `BioNLP_ST_2011_GE/`: BioNLP-ST 2011 GE standoff corpus, prepared as a manual-audit source
+- `BioNLP_ST_2009_GE/`: BioNLP-ST 2009 GE standoff corpus, downloaded as an additional phosphorylation event source
+- `BioNLP_ST_2013_GE/`: BioNLP-ST 2013 GE standoff corpus, prepared as a manual-audit source
+- `BioRED/`: broad biomedical relation corpus with gene/protein entities
 - `eFIP/`: eFIP corpus source material and spreadsheets
+- `GENIA_MetaKnowledge/`: GENIA event corpus XML enriched with meta-knowledge annotation
+- `PPI_Corpora_metalrt/`: AIMed, BioInfer, HPRD50, IEPA, and LLL PPI corpus bundle
+- `ProteinResidueRelations/`: protein-residue relation corpus, useful for site/residue annotation support
+- `PubMed_Phosphorylation_Raw/`: unannotated phosphorylation-focused PubMed abstract sample
 - `rlims_p_v1/`: RLIMS-P v1 benchmarking files and older rule/pattern resource
 - `rlims_p_v2/`: RLIMS-P v2 annotations used by the converter
 - `Text_mining_UDel/`: archived IPTMNet-related data
@@ -30,8 +39,10 @@ That pipeline:
 Open the detailed pipeline guide here:
 
 - [Unified_Phosphorylation_Dataset/README.md](./Unified_Phosphorylation_Dataset/README.md)
+- [ADDITIONAL_CORPUS_SOURCES.md](./ADDITIONAL_CORPUS_SOURCES.md)
+- [SESSION_REPORT_2026-05-07.md](./SESSION_REPORT_2026-05-07.md)
 
-That README also documents the RLIMS-P v1 NER workflow, installation commands, Streamlit inspection/labeling app, current 89-record run result, and why only strict expert-auditable candidates are kept out of the final corpus until reviewed.
+That README also documents the RLIMS-P v1 NER workflow, the BioNLP manual-audit workflow, installation commands, Streamlit inspection/labeling app, current run results, and why unaudited candidates are kept out of the final corpus.
 
 ## Source Dataset Download Links
 
@@ -80,8 +91,28 @@ The repository contains a mix of active inputs, archived corpora, and reference 
     - BioCreative IV Task 4 corpus ZIP:
       - [https://ftp.ncbi.nlm.nih.gov/pub/lu/BC4GO/bc4go_test_v090313_.zip](https://ftp.ncbi.nlm.nih.gov/pub/lu/BC4GO/bc4go_test_v090313_.zip)
 
+- `BioNLP_ST_2011_EPI/`
+  - Upstream task page:
+    - [https://2011.bionlp-st.org/bionlp-shared-task-2011/epigenetics-and-post-translational-modifications-task-epi](https://2011.bionlp-st.org/bionlp-shared-task-2011/epigenetics-and-post-translational-modifications-task-epi)
+  - Downloaded mirror:
+    - [https://github.com/openbiocorpora/bionlp-st-2011-epi/archive/refs/heads/master.zip](https://github.com/openbiocorpora/bionlp-st-2011-epi/archive/refs/heads/master.zip)
+
+- `BioNLP_ST_2013_GE/`
+  - Reference dataset page:
+    - [https://huggingface.co/datasets/bigbio/bionlp_st_2013_ge](https://huggingface.co/datasets/bigbio/bionlp_st_2013_ge)
+  - Downloaded mirror:
+    - [https://github.com/openbiocorpora/bionlp-st-2013-ge/archive/refs/heads/master.zip](https://github.com/openbiocorpora/bionlp-st-2013-ge/archive/refs/heads/master.zip)
+
+- `BioNLP_ST_2011_GE/`
+  - Upstream downloads:
+    - [https://bionlp-st.dbcls.jp/GE/2011/downloads/](https://bionlp-st.dbcls.jp/GE/2011/downloads/)
+  - Direct downloads used:
+    - [https://bionlp-st.dbcls.jp/GE/2011/downloads/BioNLP-ST_2011_genia_train_data_rev1.tar.gz](https://bionlp-st.dbcls.jp/GE/2011/downloads/BioNLP-ST_2011_genia_train_data_rev1.tar.gz)
+    - [https://bionlp-st.dbcls.jp/GE/2011/downloads/BioNLP-ST_2011_genia_devel_data_rev1.tar.gz](https://bionlp-st.dbcls.jp/GE/2011/downloads/BioNLP-ST_2011_genia_devel_data_rev1.tar.gz)
+
 ## Notes on Provenance
 
 - The `eFIP/` and `rlims_p_v2/` folders correspond to corpora listed on the iProLINK corpora page.
 - The `Text_mining_UDel/` folder appears to correspond more closely to files exposed from the UDel text-mining export index, especially IPTMNet and RLIMS JSON exports.
 - `BioCreative_4/` is an archived corpus is not part of the current conversion pipeline.
+- The BioNLP folders are not merged into the final relation corpus. They are converted into raw event records and manual-audit candidates because BioNLP event annotations usually do not provide complete kinase-substrate/PPI labels.
